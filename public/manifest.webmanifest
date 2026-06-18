@@ -1,0 +1,27 @@
+{
+  "name": "Shangshad",
+  "short_name": "Shangshad",
+  "description": "A Bangladeshi political-survival game. Balance six pillars of power, outlast the Jatiya Sangsad, and try not to be devoured by your own family.",
+  "lang": "en",
+  "start_url": "/",
+  "scope": "/",
+  "display": "standalone",
+  "orientation": "portrait",
+  "background_color": "#06100b",
+  "theme_color": "#06100b",
+  "categories": ["games", "strategy"],
+  "icons": [
+    {
+      "src": "/logo.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "any"
+    },
+    {
+      "src": "/favicon.svg",
+      "sizes": "any",
+      "type": "image/svg+xml",
+      "purpose": "any maskable"
+    }
+  ]
+}

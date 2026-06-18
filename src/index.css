@@ -1,0 +1,100 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+:root {
+  color-scheme: dark;
+}
+
+html,
+body,
+#root {
+  height: 100%;
+}
+
+body {
+  margin: 0;
+  font-family: 'Rajdhani', system-ui, sans-serif;
+  color: #dfe7ee;
+  -webkit-tap-highlight-color: transparent;
+  user-select: none;
+  /* App-like touch: no double-tap zoom delay, no overscroll bounce/pull. */
+  touch-action: manipulation;
+  overscroll-behavior: none;
+  /* Layered backdrop: vignette + faint grid + Bangladesh-green radial glow. */
+  background-color: #06100b;
+  background-image:
+    radial-gradient(1100px 760px at 50% -8%, rgba(0, 106, 78, 0.45) 0%, rgba(6, 16, 11, 0) 60%),
+    radial-gradient(900px 700px at 110% 110%, rgba(22, 199, 154, 0.07) 0%, rgba(6, 16, 11, 0) 55%),
+    linear-gradient(rgba(33, 58, 48, 0.18) 1px, transparent 1px),
+    linear-gradient(90deg, rgba(33, 58, 48, 0.18) 1px, transparent 1px);
+  background-size: 100% 100%, 100% 100%, 34px 34px, 34px 34px;
+  background-attachment: fixed;
+}
+
+@layer base {
+  h1,
+  h2,
+  h3 {
+    letter-spacing: 0.02em;
+  }
+}
+
+@layer components {
+  /* Glassy console panel */
+  .panel {
+    @apply rounded-xl border border-white/10 bg-panel/80 backdrop-blur-sm;
+    box-shadow:
+      inset 0 1px 0 rgba(255, 255, 255, 0.05),
+      0 18px 40px -24px rgba(0, 0, 0, 0.9);
+  }
+
+  .btn {
+    @apply rounded-md px-4 py-2 font-tech font-semibold uppercase tracking-wider transition active:scale-95 disabled:opacity-40 disabled:active:scale-100;
+  }
+  .btn-primary {
+    @apply btn text-ink;
+    background: linear-gradient(180deg, #2fe6b0, #0f9e78);
+    box-shadow: 0 0 0 1px rgba(22, 199, 154, 0.5), 0 0 22px -6px #16c79a;
+  }
+  .btn-primary:hover {
+    filter: brightness(1.06);
+  }
+  .btn-ghost {
+    @apply btn border border-line/70 bg-white/[0.03] text-parchment/90;
+  }
+  .btn-ghost:hover {
+    @apply bg-white/[0.07] border-accent/40;
+  }
+
+  /* Circular console button (used in the side rails) */
+  .rail-btn {
+    @apply grid h-11 w-11 place-items-center rounded-full border border-line/70 bg-steel/70 text-parchment/80 transition;
+    box-shadow: inset 0 0 0 1px rgba(255, 255, 255, 0.04);
+  }
+  .rail-btn:hover:not(:disabled) {
+    @apply border-accent/60 text-accent;
+    box-shadow: 0 0 16px -4px #5fe3c9;
+  }
+  .rail-btn:disabled {
+    @apply opacity-40;
+  }
+
+  /* Angular status ribbon (clip-cut corners, command-console look) */
+  .ribbon {
+    clip-path: polygon(6px 0, 100% 0, calc(100% - 6px) 100%, 0 100%);
+  }
+  .hud-label {
+    @apply font-tech text-[10px] font-semibold uppercase tracking-[0.18em] text-parchment/45;
+  }
+}
+
+/* Thin scrollbars to match the chrome */
+*::-webkit-scrollbar {
+  width: 8px;
+  height: 8px;
+}
+*::-webkit-scrollbar-thumb {
+  background: #2a3a4d;
+  border-radius: 8px;
+}
