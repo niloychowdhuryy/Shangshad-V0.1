@@ -187,7 +187,7 @@ export default function GameScreen({ user, startMode = 'continue', gameMode, onE
       </div>
 
       <div ref={hudRef}>
-        <MetricsHud metrics={state.metrics} glow={glow} />
+        <MetricsHud metrics={state.metrics} glow={glow} deltas={state.lastDelta} />
       </div>
 
       {/* ── Action toolbar: one horizontal row under the pillars ── */}

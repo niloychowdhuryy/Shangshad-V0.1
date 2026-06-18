@@ -427,3 +427,20 @@ describe('fatal detection ordering', () => {
     expect(findFatalMetric({ FI: 50, GL: 100, MI: 50, RE: 50, EN: 50, FA: 50 })).toBeNull(); // 100 overflows, not fatal
   });
 });
+
+describe('per-answer pillar deltas (lastDelta)', () => {
+  it('records the net change of each affected pillar, and nothing for the rest', () => {
+    let s = createInitialState();
+    s = answerAt(s, 'home', { FI: 5, EN: -10 });
+    expect(s.lastDelta.FI).toBe(5);
+    expect(s.lastDelta.EN).toBe(-10);
+    expect(s.lastDelta.GL).toBeUndefined(); // unaffected -> no badge
+  });
+
+  it('is cleared by Sleep (not an answer)', () => {
+    let s = answerAt(createInitialState(), 'home', { FI: 5 });
+    expect(s.lastDelta.FI).toBe(5);
+    s = sleep(s, [1, 1, 1, 1, 1, 1]);
+    expect(s.lastDelta).toEqual({});
+  });
+});

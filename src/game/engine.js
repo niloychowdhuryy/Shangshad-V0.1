@@ -87,6 +87,7 @@ export function createInitialState(mode = DEFAULT_MODE, seed = 0) {
     endgameCursor: 0, // index into the endgame deck once phase === ENDGAME
 
     deaths: [], // day-number of every removal; drives the rate-limit restart
+    lastDelta: {}, // metricId -> net change from the last answer (HUD +/- badges)
     unlockedFavors, // favor ids available to apply (by ad) right now
     activeFavors: {}, // favorId -> decisions remaining on the active buff
     unSupportFrozen: {}, // metricId -> value, pillars frozen by UN Stabilisation
@@ -180,6 +181,16 @@ export function effectiveDelta(delta, totalAnswered = 0) {
   return delta < 0 ? Math.round(delta * difficultyFactor(totalAnswered)) : delta;
 }
 
+/** { id: change } for every pillar that moved between two metric snapshots. */
+export function metricDiff(pre, post) {
+  const out = {};
+  for (const id of METRIC_IDS) {
+    const d = (post[id] ?? 0) - (pre[id] ?? 0);
+    if (d !== 0) out[id] = d;
+  }
+  return out;
+}
+
 export function metricAverage(metrics) {
   const vals = METRIC_IDS.map((id) => metrics[id]);
   return vals.reduce((a, b) => a + b, 0) / vals.length;
@@ -267,6 +278,10 @@ export function applyChoice(state, card, choice) {
   }
   metrics = applySustainedFavors(state.metrics, metrics, state.activeFavors, state.unSupportFrozen);
 
+  // The net change to each pillar from THIS answer (shown in the HUD until the
+  // next answer). Only pillars that actually moved get an entry.
+  const lastDelta = metricDiff(state.metrics, metrics);
+
   // 3–4. clocks & counters
   const day = state.day + 1;
   const totalAnswered = state.totalAnswered + 1;
@@ -275,6 +290,7 @@ export function applyChoice(state, card, choice) {
   let next = {
     ...state,
     metrics,
+    lastDelta,
     day,
     totalAnswered,
     insightRemaining: Math.max(0, state.insightRemaining - 1),
@@ -364,7 +380,7 @@ export function sleep(state, rolls = []) {
     metrics[id] = clampMetric(metrics[id] + sign * SLEEP_DELTA);
   });
   const locations = Object.fromEntries(LOCATION_IDS.map((id) => [id, { answered: 0, lockedAtTotal: null }]));
-  return resolveFatal({ ...state, metrics, locations });
+  return resolveFatal({ ...state, metrics, locations, lastDelta: {} });
 }
 
 // ── Lobby & Trade: spend TRADE_COST of Finance/Military for TRADE_GAIN anywhere ─
@@ -387,7 +403,7 @@ export function trade(state, fromId, toId) {
   metrics[fromId] = clampMetric(metrics[fromId] - TRADE_COST);
   // Never let a free trade detonate an overflow; stop just below the fatal edge.
   metrics[toId] = Math.min(OVERFLOW_FATAL - 1, metrics[toId] + TRADE_GAIN);
-  return { ...state, metrics };
+  return { ...state, metrics, lastDelta: {} };
 }
 
 function enterEndgame(state) {
@@ -474,6 +490,7 @@ export function applyRevive(state) {
   return {
     ...state,
     metrics: { ...state.metrics, [metric]: REVIVE_RESET_VALUE },
+    lastDelta: {},
     pendingDeath: null,
     pendingRevival: { metric, edge },
     status: STATUS.PLAYING,
@@ -555,7 +572,7 @@ export function canApplyFavor(state, favorId) {
 export function applyFavor(state, favorId) {
   if (!canApplyFavor(state, favorId)) return state;
   const consumed = state.unlockedFavors.filter((id) => id !== favorId);
-  let next = { ...state, unlockedFavors: consumed, favorNotice: null };
+  let next = { ...state, unlockedFavors: consumed, favorNotice: null, lastDelta: {} };
 
   if (favorId === 'un_support') {
     next.activeFavors = { ...state.activeFavors, un_support: UN_SUPPORT_DURATION };
@@ -627,6 +644,7 @@ export function migrateState(raw) {
   s.unlockedFavors = s.unlockedFavors.filter((id) => FAVOR_IDS.includes(id));
   if (!s.activeFavors || typeof s.activeFavors !== 'object') s.activeFavors = {};
   if (!s.unSupportFrozen || typeof s.unSupportFrozen !== 'object') s.unSupportFrozen = {};
+  if (!s.lastDelta || typeof s.lastDelta !== 'object') s.lastDelta = {};
   if (s.favorNotice != null && !FAVOR_IDS.includes(s.favorNotice)) s.favorNotice = null;
   delete s.pendingPowerUp;
   delete s.powerUpQueue;

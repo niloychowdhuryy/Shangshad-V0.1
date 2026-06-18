@@ -23,7 +23,10 @@ function ChoiceButton({ choice, side, insightActive, difficultyFactor = 1, onHov
       onPointerDown={() => onHover(ids)}
       onFocus={() => onHover(ids)}
       onBlur={onLeave}
-      onClick={() => onPick(side)}
+      onClick={(e) => {
+        e.currentTarget.blur(); // drop focus/active state so it can't linger on touch
+        onPick(side);
+      }}
     >
       {/* hover sweep */}
       <span className="pointer-events-none absolute inset-0 -translate-x-full bg-gradient-to-r from-transparent via-white/[0.06] to-transparent transition-transform duration-500 group-hover:translate-x-full" />
@@ -76,7 +79,9 @@ export default function CardView({ card, insightActive, difficultyFactor = 1, on
   const initial = (card.speaker || '?').trim().charAt(0).toUpperCase();
 
   return (
-    <div className="panel animate-card-in flex w-full max-w-md flex-col gap-4 p-5">
+    // key on card.id remounts the card each question, so no hover/press state can
+    // linger from the previous answer (and the entrance animation replays).
+    <div key={card.id} className="panel animate-card-in flex w-full max-w-md flex-col gap-4 p-5">
       {/* speaker header */}
       <div className="flex items-center gap-3 border-b border-line/50 pb-3">
         <div className="relative grid h-12 w-12 place-items-center">

@@ -1,6 +1,9 @@
 /** @type {import('tailwindcss').Config} */
 export default {
   content: ['./index.html', './src/**/*.{js,jsx}'],
+  // hover: styles only apply on devices that actually support hover, so a tap on
+  // a phone never leaves a button "stuck" highlighted into the next question.
+  future: { hoverOnlyWhenSupported: true },
   theme: {
     extend: {
       colors: {

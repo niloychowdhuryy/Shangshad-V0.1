@@ -4,9 +4,13 @@
 import {
   GoogleAuthProvider,
   FacebookAuthProvider,
+  EmailAuthProvider,
   signInWithPopup,
   signInWithEmailAndPassword,
   createUserWithEmailAndPassword,
+  signInAnonymously,
+  linkWithPopup,
+  linkWithCredential,
   signOut as fbSignOut,
   onAuthStateChanged as fbOnAuthStateChanged,
 } from 'firebase/auth';
@@ -28,10 +32,13 @@ export async function signInWithGoogle() {
   return res.user;
 }
 
-// Guest play. Offline this is the local guest; online it would use anonymous
-// auth (wired when Firebase is configured).
+// Guest play. Offline this is the local guest; online it uses Firebase anonymous
+// auth so the guest has a real uid that can later be UPGRADED by linking a
+// Google / Facebook / email account (keeping their saves & rank).
 export async function signInAsGuest() {
-  return GUEST;
+  if (OFFLINE_MODE) return GUEST;
+  const res = await signInAnonymously(auth);
+  return res.user;
 }
 
 export async function signInWithFacebook() {
@@ -55,4 +62,32 @@ export async function registerWithEmail(email, password) {
 export async function signOut() {
   if (OFFLINE_MODE) return;
   await fbSignOut(auth);
+}
+
+// ── Account linking (online only) ────────────────────────────────────────────
+// Attach a new provider to the CURRENT user — e.g. upgrade an anonymous guest,
+// or add Facebook to a Google account — without losing their uid, saves or rank.
+export async function linkGoogle() {
+  if (OFFLINE_MODE || !auth.currentUser) return null;
+  const res = await linkWithPopup(auth.currentUser, new GoogleAuthProvider());
+  return res.user;
+}
+
+export async function linkFacebook() {
+  if (OFFLINE_MODE || !auth.currentUser) return null;
+  const res = await linkWithPopup(auth.currentUser, new FacebookAuthProvider());
+  return res.user;
+}
+
+export async function linkEmail(email, password) {
+  if (OFFLINE_MODE || !auth.currentUser) return null;
+  const cred = EmailAuthProvider.credential(email, password);
+  const res = await linkWithCredential(auth.currentUser, cred);
+  return res.user;
+}
+
+/** Provider ids already linked to the current user (online), e.g. ['google.com']. */
+export function linkedProviderIds() {
+  if (OFFLINE_MODE || !auth?.currentUser) return [];
+  return (auth.currentUser.providerData || []).map((p) => p.providerId);
 }

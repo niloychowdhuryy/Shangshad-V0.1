@@ -1,5 +1,5 @@
 import { useState } from 'react';
-import { signOut } from '../firebase/auth.js';
+import { signOut, linkGoogle, linkFacebook, linkedProviderIds } from '../firebase/auth.js';
 import { OFFLINE_MODE } from '../firebase/config.js';
 import Avatar from './Avatar.jsx';
 import { IconClose, IconUser, IconLink, IconPower } from './icons/Icons.jsx';
@@ -11,8 +11,25 @@ export default function SettingsPanel({ open, onClose, user, profile, onSave }) 
   const [pub, setPub] = useState(!!profile.publicProfile);
   const [tut, setTut] = useState(profile.tutorialEnabled !== false);
   const [saved, setSaved] = useState(false);
+  const [linkErr, setLinkErr] = useState(null);
+  const [, setTick] = useState(0); // bump to re-read linked providers after a link
 
   if (!open) return null;
+
+  const linked = OFFLINE_MODE ? [] : linkedProviderIds();
+  const LINK_PROVIDERS = [
+    ['google.com', 'Google', linkGoogle],
+    ['facebook.com', 'Facebook', linkFacebook],
+  ];
+  const doLink = (fn) => async () => {
+    setLinkErr(null);
+    try {
+      await fn();
+      setTick((t) => t + 1);
+    } catch (e) {
+      setLinkErr(e.message || 'Linking failed');
+    }
+  };
 
   const canShowReal = !!profile.photoURL || !!profile.displayName; // only meaningful with a real account
   const save = () => {
@@ -97,26 +114,38 @@ export default function SettingsPanel({ open, onClose, user, profile, onSave }) 
         {/* Linked accounts */}
         <div className="mb-4">
           <div className="hud-label mb-1.5">Linked accounts</div>
-          <div className="flex flex-col gap-1.5">
-            {(profile.linkedAccounts || []).map((a, i) => (
-              <div key={i} className="flex items-center gap-2 rounded border border-line/40 bg-white/[0.02] px-3 py-1.5">
-                <span className="text-accent"><IconLink size={14} /></span>
-                <span className="font-tech text-xs text-parchment/80">{a.label}</span>
-              </div>
-            ))}
-            <button
-              className="btn-ghost flex items-center justify-center gap-2 text-xs"
-              title={OFFLINE_MODE ? 'Available once the game is online' : 'Link another account'}
-              disabled={OFFLINE_MODE}
-            >
-              <IconLink size={13} /> Link another account
-            </button>
-            {OFFLINE_MODE && (
+          {OFFLINE_MODE ? (
+            <div className="flex flex-col gap-1.5">
+              {(profile.linkedAccounts || []).map((a, i) => (
+                <div key={i} className="flex items-center gap-2 rounded border border-line/40 bg-white/[0.02] px-3 py-1.5">
+                  <span className="text-accent"><IconLink size={14} /></span>
+                  <span className="font-tech text-xs text-parchment/80">{a.label}</span>
+                </div>
+              ))}
               <p className="font-mono text-[9px] uppercase tracking-wider text-parchment/35">
                 Account linking activates in the online build.
               </p>
-            )}
-          </div>
+            </div>
+          ) : (
+            <div className="flex flex-col gap-1.5">
+              {LINK_PROVIDERS.map(([id, name, fn]) => {
+                const has = linked.includes(id);
+                return (
+                  <div key={id} className="flex items-center justify-between gap-2 rounded border border-line/40 bg-white/[0.02] px-3 py-1.5">
+                    <span className="flex items-center gap-2 font-tech text-xs text-parchment/80">
+                      <IconLink size={14} /> {name}
+                    </span>
+                    {has ? (
+                      <span className="font-mono text-[10px] uppercase tracking-wider text-accent">Linked ✓</span>
+                    ) : (
+                      <button className="btn-ghost px-2 py-1 text-[11px]" onClick={doLink(fn)}>Link</button>
+                    )}
+                  </div>
+                );
+              })}
+              {linkErr && <p className="text-center text-[10px] text-red-400">{linkErr}</p>}
+            </div>
+          )}
         </div>
 
         <div className="grid grid-cols-2 gap-2">
