@@ -1,4 +1,3 @@
-import { useState } from 'react';
 import { affectedMetricIds, formatDelta, metricMeta } from '../game/selectors.js';
 import { MetricIcon } from './icons/Icons.jsx';
 
@@ -7,30 +6,35 @@ import { MetricIcon } from './icons/Icons.jsx';
 // Props:
 //   card           the card to render
 //   insightActive  when true, reveal exact signed deltas on each choice
+//   selectedSide   'left' | 'right' once chosen — highlights it, dims the other,
+//                  and locks the card during the brief "what happened" beat
 //   onHoverSide(metricIds[])  bubble which metrics to glow in the HUD
 //   onAnswer('left' | 'right')
 
-function ChoiceButton({ choice, side, insightActive, difficultyFactor = 1, onHover, onLeave, onPick }) {
+function ChoiceButton({ choice, side, insightActive, difficultyFactor = 1, selected, locked, onHover, onLeave, onPick }) {
   const ids = affectedMetricIds(choice);
-  // Insight reveals the *actually-applied* delta, including the progressive
-  // difficulty penalty on negatives — so the number never lies.
   const shown = (delta) => (delta < 0 ? Math.round(delta * difficultyFactor) : delta);
   return (
     <button
-      className="group relative flex flex-1 touch-manipulation flex-col gap-2 overflow-hidden rounded-lg border border-line/70 bg-white/[0.02] p-4 text-left transition hover:border-accent/50 hover:bg-white/[0.05] active:scale-[0.99]"
+      disabled={locked}
+      className={`group relative flex flex-1 touch-manipulation flex-col gap-2 overflow-hidden rounded-lg border p-4 text-left transition ${
+        selected
+          ? 'border-accent bg-accent/[0.12] scale-[1.02]'
+          : locked
+            ? 'border-line/40 bg-white/[0.01] opacity-40'
+            : 'border-line/70 bg-white/[0.02] hover:border-accent/50 hover:bg-white/[0.05] active:scale-[0.99]'
+      }`}
+      style={selected ? { boxShadow: '0 0 20px -4px rgba(22,199,154,0.6)' } : undefined}
       onMouseEnter={() => onHover(ids)}
       onMouseLeave={onLeave}
       onPointerDown={() => onHover(ids)}
       onFocus={() => onHover(ids)}
       onBlur={onLeave}
       onClick={(e) => {
-        e.currentTarget.blur(); // drop focus/active state so it can't linger on touch
+        e.currentTarget.blur();
         onPick(side);
       }}
     >
-      {/* hover sweep */}
-      <span className="pointer-events-none absolute inset-0 -translate-x-full bg-gradient-to-r from-transparent via-white/[0.06] to-transparent transition-transform duration-500 group-hover:translate-x-full" />
-
       <span className="font-tech text-base font-semibold text-parchment">{choice.label}</span>
       {choice.tooltip && (
         <span className="font-serif text-xs italic text-parchment/40">“{choice.tooltip}”</span>
@@ -51,7 +55,7 @@ function ChoiceButton({ choice, side, insightActive, difficultyFactor = 1, onHov
               }}
             >
               <MetricIcon id={id} size={12} stroke={2} />
-              {insightActive ? (
+              {insightActive || selected ? (
                 <span className="tabular-nums">{formatDelta(id, shown(delta))}</span>
               ) : (
                 <span className="opacity-60">··</span>
@@ -64,16 +68,9 @@ function ChoiceButton({ choice, side, insightActive, difficultyFactor = 1, onHov
   );
 }
 
-export default function CardView({ card, insightActive, difficultyFactor = 1, onHoverSide, onAnswer }) {
-  const [, setHovered] = useState(null);
-  const clear = () => {
-    setHovered(null);
-    onHoverSide?.([]);
-  };
-  const hover = (ids) => {
-    setHovered(ids);
-    onHoverSide?.(ids);
-  };
+export default function CardView({ card, insightActive, difficultyFactor = 1, selectedSide = null, onHoverSide, onAnswer, decisionLabel = 'Your decision matters' }) {
+  const clear = () => onHoverSide?.([]);
+  const hover = (ids) => onHoverSide?.(ids);
 
   if (!card) return null;
   const initial = (card.speaker || '?').trim().charAt(0).toUpperCase();
@@ -81,7 +78,7 @@ export default function CardView({ card, insightActive, difficultyFactor = 1, on
   return (
     // key on card.id remounts the card each question, so no hover/press state can
     // linger from the previous answer (and the entrance animation replays).
-    <div key={card.id} className="panel animate-card-in flex w-full max-w-md flex-col gap-4 p-5">
+    <div key={card.id} className="panel animate-card-in flex w-full max-w-md flex-col gap-3 p-5">
       {/* speaker header */}
       <div className="flex items-center gap-3 border-b border-line/50 pb-3">
         <div className="relative grid h-12 w-12 place-items-center">
@@ -96,11 +93,16 @@ export default function CardView({ card, insightActive, difficultyFactor = 1, on
         </div>
       </div>
 
+      {/* small framing line above the question */}
+      <div className="text-center font-mono text-[9px] uppercase tracking-[0.3em] text-accent/70">
+        {decisionLabel}
+      </div>
+
       <p className="font-serif text-[15px] leading-relaxed text-parchment/90">{card.prompt}</p>
 
       <div className="flex flex-col gap-2 sm:flex-row">
-        <ChoiceButton choice={card.left} side="left" insightActive={insightActive} difficultyFactor={difficultyFactor} onHover={hover} onLeave={clear} onPick={onAnswer} />
-        <ChoiceButton choice={card.right} side="right" insightActive={insightActive} difficultyFactor={difficultyFactor} onHover={hover} onLeave={clear} onPick={onAnswer} />
+        <ChoiceButton choice={card.left} side="left" insightActive={insightActive} difficultyFactor={difficultyFactor} selected={selectedSide === 'left'} locked={!!selectedSide} onHover={hover} onLeave={clear} onPick={onAnswer} />
+        <ChoiceButton choice={card.right} side="right" insightActive={insightActive} difficultyFactor={difficultyFactor} selected={selectedSide === 'right'} locked={!!selectedSide} onHover={hover} onLeave={clear} onPick={onAnswer} />
       </div>
     </div>
   );

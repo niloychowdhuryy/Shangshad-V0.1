@@ -11,7 +11,7 @@
       "students",
       "quota"
     ],
-    "prompt": "Students have filled the streets over the civil-service quota system — peaceful, enormous, and growing by the hour. The IGP wants permission to clear the intersections before they become permanent. \"Give it a week,\" he warns, \"and a road-block becomes a movement.\"",
+    "prompt": "Students have filled the streets over the civil-service quota system — peaceful, enormous, growing by the hour. The IGP wants to clear the intersections now. \"Give it a week,\" he warns, \"and a road-block becomes a movement.\"",
     "left": {
       "id": "a",
       "label": "Authorise a forceful clearance now.",
@@ -47,7 +47,7 @@
       "students",
       "quota"
     ],
-    "prompt": "Despite restraint, a video of a single unarmed student shot dead has become the symbol of the movement. The protest is no longer about quotas — it is about you. Your hardliners demand a curfew and an internet blackout.",
+    "prompt": "A video of a single unarmed student shot dead has become the symbol of the movement. The protest is no longer about quotas — it is about you. Your hardliners demand a curfew and an internet blackout.",
     "left": {
       "id": "a",
       "label": "Impose curfew and cut the internet.",
@@ -84,7 +84,7 @@
       "students",
       "quota"
     ],
-    "prompt": "The movement now demands the resignation of the ministers who ordered the violence — and the cantonment chief privately signals he will not order troops to fire on students again. The ground is shifting under your chair.",
+    "prompt": "The movement now demands the resignation of the ministers who ordered the violence — and the cantonment chief privately signals he won't order troops to fire on students again. The ground is shifting under your chair.",
     "left": {
       "id": "a",
       "label": "Sacrifice the hardline ministers.",
@@ -122,7 +122,7 @@
       "rab",
       "torture"
     ],
-    "prompt": "The Commission hands you a dossier: dozens vanished into the custody of your elite battalion, families turned away at every gate. \"Some are alive in secret cells,\" the Chair says quietly. \"You could bring them home. Or you could let the file gather dust like the last one.\"",
+    "prompt": "The Commission hands you a dossier: dozens vanished into your elite battalion's custody, families turned away at every gate. \"Some are alive in secret cells,\" the Chair says quietly. \"You could bring them home — or let the file gather dust like the last one.\"",
     "left": {
       "id": "a",
       "label": "Bury the dossier.",
@@ -158,7 +158,7 @@
       "rab",
       "torture"
     ],
-    "prompt": "With the cells emptying, a faction of officers — afraid of prosecution — floats a quiet warning through intermediaries: 'protect us with amnesty, or the force cannot guarantee its loyalty.' It is a polite mutiny.",
+    "prompt": "With the cells emptying, a faction of officers afraid of prosecution floats a quiet warning: 'protect us with amnesty, or the force cannot guarantee its loyalty.' It is a polite mutiny.",
     "left": {
       "id": "a",
       "label": "Grant a quiet amnesty for past acts.",
@@ -195,7 +195,7 @@
       "press",
       "speech"
     ],
-    "prompt": "Under the cyber law, a cartoonist and two reporters sit in jail for posts mocking the first family. The Director offers more arrests under the same statute — \"a few examples and the rest fall quiet\" — or you could let the three out and blunt the law's teeth.",
+    "prompt": "Under the cyber law, a cartoonist and two reporters sit in jail for posts mocking the first family. The Director offers more arrests — \"a few examples and the rest fall quiet\" — or you could free the three and blunt the law's teeth.",
     "left": {
       "id": "a",
       "label": "Make more examples under the Act.",
@@ -271,7 +271,7 @@
       "spyware",
       "rights"
     ],
-    "prompt": "A foreign vendor offers a phone-hacking suite that can crack any device in the country — opposition, press, your own ministers. \"Every modern state has one,\" the salesman murmurs. The price is steep and the oversight is whatever you decide it is.",
+    "prompt": "A foreign vendor offers a phone-hacking suite that can crack any device in the country — opposition, press, your own ministers. \"Every modern state has one,\" the salesman murmurs. The oversight is whatever you decide it is.",
     "left": {
       "id": "a",
       "label": "Buy it and use it freely.",
@@ -308,7 +308,7 @@
       "torture",
       "reform"
     ],
-    "prompt": "A young SP requests an audience after a hawker dies in his thana's lock-up. \"My OC tortured him over forty taka and wrote it as a heart attack. I can sign the false report and rise, or report my own station and be buried. I came to you to decide which.\"",
+    "prompt": "A young SP requests an audience after a hawker dies in his thana's lock-up. \"My OC tortured him over forty taka and wrote it as a heart attack. I can sign the false report and rise, or report my own station and be buried. You decide which.\"",
     "left": {
       "id": "a",
       "label": "Tell him to sign and let it lie.",
@@ -1305,7 +1305,7 @@
       "siege",
       "militants"
     ],
-    "prompt": "Militants have stormed an upscale café full of foreigners and taken hostages, executing those who cannot recite scripture. The world is watching live. The commander can storm it now with heavy force, or negotiate and wait, each hour risking more throats.",
+    "prompt": "Militants have stormed an upscale café full of foreigners, executing those who cannot recite scripture. The world is watching live. Storm it now with heavy force, or negotiate and wait — each hour risking more throats?",
     "left": {
       "id": "a",
       "label": "Storm the café immediately.",
@@ -1341,7 +1341,7 @@
       "siege",
       "militants"
     ],
-    "prompt": "The siege is over, and the attackers turn out to be not impoverished fanatics but privileged, educated young men from good families — a fact that terrifies the elite. The commander wants a sweeping crackdown on suspect youth; the alternative is a quieter de-radicalisation drive.",
+    "prompt": "The siege is over, and the attackers turn out to be not impoverished fanatics but privileged, educated young men from good families — a fact that terrifies the elite. Launch a sweeping crackdown on suspect youth, or a quieter de-radicalisation drive?",
     "left": {
       "id": "a",
       "label": "Launch a sweeping crackdown on suspect youth.",
@@ -1377,7 +1377,7 @@
       "rumour",
       "mob"
     ],
-    "prompt": "A rumour on social media that strangers were kidnapping children for a bridge's 'human sacrifice' has triggered a wave of mob lynchings — innocent people beaten to death on suspicion. The IGP wants a hard order to fire on lynch mobs; the alternative is a rumour-control and arrest drive.",
+    "prompt": "A rumour that strangers are snatching children for a bridge's 'human sacrifice' has triggered a wave of mob lynchings — innocents beaten to death on suspicion. Order police to fire on lynch mobs, or run a rumour-control and arrest drive?",
     "left": {
       "id": "a",
       "label": "Authorise firing on lynch mobs.",
@@ -1413,7 +1413,7 @@
       "protest",
       "blasphemy"
     ],
-    "prompt": "A vast Islamist movement has occupied the heart of the capital, demanding a blasphemy law and the removal of a 'pagan' sculpture, refusing to leave. The secretary offers a midnight clearance by force, or patient negotiation that concedes some symbolic ground.",
+    "prompt": "A vast Islamist movement has occupied the heart of the capital, demanding a blasphemy law and the removal of a 'pagan' sculpture, refusing to leave. Clear the square by force at midnight, or negotiate and concede some symbolic ground?",
     "left": {
       "id": "a",
       "label": "Clear the square by force at night.",
@@ -1450,7 +1450,7 @@
       "surveillance",
       "dissent"
     ],
-    "prompt": "A foreign vendor offers military-grade phone spyware that cracks any device — a tool to read every plot, journalist, and judge in the country. The chief is desperate for it; the catch is the inevitable leak that you bought a weapon to spy on your own people.",
+    "prompt": "A foreign vendor offers military-grade phone spyware that cracks any device — a tool to read every plot, journalist, and judge in the country. The chief is desperate for it; the catch is the inevitable leak that you bought it to spy on your own people.",
     "left": {
       "id": "a",
       "label": "Buy the spyware.",
@@ -1486,7 +1486,7 @@
       "political",
       "overcrowding"
     ],
-    "prompt": "The jails hold three times their capacity, swollen with opposition activists swept up in mass cases. Disease and deaths in custody mount. The IG can release the low-level political detainees to ease the crush, or hold them all and build more cells.",
+    "prompt": "The jails hold three times their capacity, swollen with opposition activists swept up in mass cases, and deaths in custody mount. Release the low-level political detainees to ease the crush, or hold them all and build more cells?",
     "left": {
       "id": "a",
       "label": "Hold them all, build more cells.",
@@ -1523,7 +1523,7 @@
       "campus",
       "torture"
     ],
-    "prompt": "Members of your party's student wing have tortured a student to death in a dorm 'guest room' for a Facebook post criticising the government. The campus and the nation are erupting. The officer asks whether to shield the cadres or hand them to justice.",
+    "prompt": "Your party's student-wing cadres have tortured a student to death in a dorm 'guest room' for a Facebook post criticising the government. The campus and the nation are erupting. Shield the cadres, or hand them to justice?",
     "left": {
       "id": "a",
       "label": "Shield the student-wing cadres.",
@@ -1561,7 +1561,7 @@
       "facial-recognition",
       "privacy"
     ],
-    "prompt": "A 'safe city' project would blanket the capital in cameras with live facial recognition — a genuine boon against crime and terror, and a perfect tool for tracking every protester and dissident. The director wants the full system; civil society is alarmed.",
+    "prompt": "A 'safe city' project would blanket the capital in cameras with live facial recognition — a genuine boon against crime, and a perfect tool for tracking every protester and dissident. The director wants the full system; civil society is alarmed.",
     "left": {
       "id": "a",
       "label": "Deploy the full facial-recognition net.",
@@ -1598,7 +1598,7 @@
       "sanctions",
       "reform"
     ],
-    "prompt": "Your elite battalion is under foreign sanctions for extrajudicial killings, and the crossfire deaths have all but stopped under scrutiny — but crime is creeping back and hardliners want the gloves off again. The adviser asks whether to entrench the reform or quietly revert.",
+    "prompt": "Your elite battalion is under foreign sanctions for extrajudicial killings, and the crossfire deaths have all but stopped under scrutiny — but crime is creeping back and hardliners want the gloves off again. Entrench the reform, or quietly revert?",
     "left": {
       "id": "a",
       "label": "Quietly let the crossfire killings resume.",
@@ -1634,7 +1634,7 @@
       "corruption",
       "bribery"
     ],
-    "prompt": "At the local police stations, nothing moves without a bribe — filing a case, getting bail, even reporting a crime. The commissioner wants a transparency overhaul with citizen oversight and digital records; the rank-and-file, who live on the bribes, will resist fiercely.",
+    "prompt": "At the local police stations, nothing moves without a bribe — filing a case, getting bail, even reporting a crime. The commissioner wants a transparency overhaul with citizen oversight; the rank-and-file, who live on the bribes, will resist fiercely.",
     "left": {
       "id": "a",
       "label": "Force the transparency overhaul.",
@@ -1670,7 +1670,7 @@
       "boats",
       "syndicate"
     ],
-    "prompt": "A trafficking syndicate is loading desperate young men onto death-trap boats for the sea route to Malaysia, where many drown or end in jungle camps — and the network has police and border-guard protection. The chief wants it smashed, names and all.",
+    "prompt": "A trafficking syndicate is loading desperate young men onto death-trap boats to Malaysia, where many drown or end in jungle camps — and the network has police and border-guard protection. The chief wants it smashed, names and all.",
     "left": {
       "id": "a",
       "label": "Smash the network, protectors and all.",
@@ -1708,7 +1708,7 @@
       "sect",
       "violence"
     ],
-    "prompt": "A hardline movement is whipping up mobs against a small heterodox Muslim sect, attacking their mosques and demanding they be declared non-Muslim. The officer asks whether to protect the sect with force, or appease the majority by quietly conceding the demand.",
+    "prompt": "A hardline movement is whipping up mobs against a small heterodox Muslim sect, attacking their mosques and demanding they be declared non-Muslim. Protect the sect with force, or appease the majority by quietly conceding?",
     "left": {
       "id": "a",
       "label": "Protect the sect with force.",
@@ -1746,7 +1746,7 @@
       "festival",
       "extremism"
     ],
-    "prompt": "The great secular new-year festival — music, masks, processions — faces a credible militant bomb threat, and hardliners are also denouncing it as 'un-Islamic'. The officer can lock it down behind a security wall, or cancel it 'for safety' and quietly please the zealots.",
+    "prompt": "The great secular new-year festival — music, masks, processions — faces a credible militant bomb threat, and hardliners denounce it as 'un-Islamic'. Lock it down behind a security wall, or cancel it 'for safety' and quietly please the zealots?",
     "left": {
       "id": "a",
       "label": "Hold the festival behind heavy security.",
@@ -1784,7 +1784,7 @@
       "police",
       "accountability"
     ],
-    "prompt": "A serving officer has leaked documents proving a senior commander ordered a string of fake 'crossfire' killings. The director can prosecute the whistleblower for breaching secrecy and bury the revelation, or protect him and pursue the commander.",
+    "prompt": "A serving officer has leaked documents proving a senior commander ordered a string of fake 'crossfire' killings. Prosecute the whistleblower for breaching secrecy and bury it, or protect him and pursue the commander?",
     "left": {
       "id": "a",
       "label": "Prosecute the whistleblower, bury it.",
@@ -1821,7 +1821,7 @@
       "ban",
       "assembly"
     ],
-    "prompt": "The opposition has called a massive rally in the capital, and you can pre-emptively ban all gatherings under the old colonial assembly law, choking it before it starts. The magistrate warns that the ban itself may provoke exactly the confrontation you fear.",
+    "prompt": "The opposition has called a massive rally in the capital, and you can pre-emptively ban all gatherings under the old colonial assembly law. The magistrate warns the ban itself may provoke exactly the confrontation you fear.",
     "left": {
       "id": "a",
       "label": "Ban the rally under Section 144.",
@@ -1857,7 +1857,7 @@
       "party",
       "patronage"
     ],
-    "prompt": "Local party leaders are pressing for a wave of private firearms licences — ostensibly for self-defence, in truth to arm the local muscle that wins elections. The officer can approve the lot as a loyalty reward, or tighten licensing and disarm the cadres.",
+    "prompt": "Local party leaders are pressing for a wave of private firearms licences — ostensibly for self-defence, in truth to arm the local muscle that wins elections. Approve the lot as a loyalty reward, or tighten licensing and disarm the cadres?",
     "left": {
       "id": "a",
       "label": "Approve the firearms licences.",
@@ -1895,7 +1895,7 @@
       "foreign-fighters",
       "deradicalisation"
     ],
-    "prompt": "A handful of citizens who went abroad to fight for a terror group want to return, some with wives and children born in the war zone. The commander can bar or jail them all as a danger, or repatriate and rehabilitate under close watch.",
+    "prompt": "A handful of citizens who went abroad to fight for a terror group want to return, some with wives and children born in the war zone. Bar or jail them all as a danger, or repatriate and rehabilitate under close watch?",
     "left": {
       "id": "a",
       "label": "Bar or jail the returnees outright.",
@@ -1931,7 +1931,7 @@
       "accreditation",
       "surveillance"
     ],
-    "prompt": "You can quietly strip parliamentary and secretariat press accreditation from the most critical journalists — cutting their access without an arrest. The officer calls it clean and deniable; it is also an unmistakable signal that coverage is now conditional on loyalty.",
+    "prompt": "You can quietly strip press accreditation from the most critical journalists — cutting their access without an arrest. The officer calls it clean and deniable; it is also an unmistakable signal that coverage is now conditional on loyalty.",
     "left": {
       "id": "a",
       "label": "Strip the critics' accreditation.",
@@ -1968,7 +1968,7 @@
       "militants",
       "security"
     ],
-    "prompt": "Convicted militants have broken out of a high-security prison with apparent inside help, and are loose in the country. The IG wants a massive, disruptive nationwide manhunt with checkpoints and detentions; the alternative is a targeted, intelligence-led pursuit.",
+    "prompt": "Convicted militants have broken out of a high-security prison with apparent inside help, and are loose in the country. Launch a massive, disruptive nationwide manhunt, or a targeted, intelligence-led pursuit?",
     "left": {
       "id": "a",
       "label": "Launch a massive nationwide dragnet.",
@@ -2004,7 +2004,7 @@
       "garments",
       "protest"
     ],
-    "prompt": "Tens of thousands of garment workers have walked out over unpaid wages and blocked the industrial highways. The factory owners — your donors — demand the protest crushed; the chief can send the industrial police in hard, or broker a wage settlement instead.",
+    "prompt": "Tens of thousands of garment workers have walked out over unpaid wages and blocked the industrial highways. The factory owners — your donors — demand the protest crushed. Send the industrial police in hard, or broker a wage settlement?",
     "left": {
       "id": "a",
       "label": "Crush the worker protest.",
@@ -2042,7 +2042,7 @@
       "land",
       "grabbing"
     ],
-    "prompt": "Under a notorious old law, minority Hindu families' land has been seized as 'enemy property' and grabbed by the locally powerful — often your own people. A restitution drive could return it; the grabbers, with party ties, will fight to keep their spoils.",
+    "prompt": "Under a notorious old law, minority Hindu families' land has been seized as 'enemy property' and grabbed by the locally powerful — often your own people. A restitution drive could return it; the grabbers, with party ties, will fight to keep it.",
     "left": {
       "id": "a",
       "label": "Drive the land restitution.",
@@ -2080,7 +2080,7 @@
       "database",
       "surveillance"
     ],
-    "prompt": "The national ID system can be linked to phones, banks, travel, and biometrics into a single all-seeing profile of every citizen — efficient government, and a surveillance dossier on the entire population. The director wants full integration; privacy advocates are aghast.",
+    "prompt": "The national ID system can be fused with phones, banks, travel, and biometrics into a single all-seeing profile of every citizen — efficient government, and a surveillance dossier on the whole population. The director wants full integration; privacy advocates are aghast.",
     "left": {
       "id": "a",
       "label": "Build the fully integrated profile.",
@@ -2118,7 +2118,7 @@
       "curriculum",
       "extremism"
     ],
-    "prompt": "Tens of thousands of unregistered religious schools teach a curriculum the state cannot see, some shading into extremism. The liaison wants them registered and made to teach maths, science, and citizenship; the clerical establishment calls it an assault on faith.",
+    "prompt": "Tens of thousands of unregistered religious schools teach a curriculum the state cannot see, some shading into extremism. The liaison wants them registered and teaching maths, science, and citizenship; the clergy calls it an assault on faith.",
     "left": {
       "id": "a",
       "label": "Force registration and a modern curriculum.",
@@ -2156,7 +2156,7 @@
       "extortion",
       "corruption"
     ],
-    "prompt": "The traffic police live off a daily tax on every bus, truck, and rickshaw, waving through the dangerous and fining the compliant. The chief can launch a clean-up with cashless fines and oversight, or leave the lucrative racket that keeps the force quietly content.",
+    "prompt": "The traffic police live off a daily tax on every bus, truck, and rickshaw, waving through the dangerous and fining the compliant. Launch a clean-up with cashless fines and oversight, or leave the racket that keeps the force quietly content?",
     "left": {
       "id": "a",
       "label": "Clean up the traffic racket.",
@@ -2192,7 +2192,7 @@
       "sufi",
       "militants"
     ],
-    "prompt": "Militants are bombing and hacking to death the keepers of Sufi shrines — the gentle, syncretic Islam the hardliners despise. The commander wants visible armed protection at hundreds of shrines and a crackdown on the preachers who incite it; the latter means confronting powerful clerics.",
+    "prompt": "Militants are bombing and hacking to death the keepers of Sufi shrines — the gentle, syncretic Islam the hardliners despise. The commander wants armed protection at the shrines and a crackdown on the inciting preachers — which means confronting powerful clerics.",
     "left": {
       "id": "a",
       "label": "Protect the shrines and confront the inciters.",
@@ -2230,7 +2230,7 @@
       "rape",
       "justice"
     ],
-    "prompt": "A horrific gang-rape, filmed and shared by the attackers — politically connected young men — has ignited nationwide protests demanding justice and the death penalty. The IGP asks whether to let the case take its full course against the connected, or let it quietly stall.",
+    "prompt": "A horrific gang-rape, filmed and shared by the attackers — politically connected young men — has ignited nationwide protests demanding justice. Let the case take its full course against the connected, or let it quietly stall?",
     "left": {
       "id": "a",
       "label": "Pursue the connected attackers fully.",
@@ -2268,7 +2268,7 @@
       "smuggling",
       "corruption"
     ],
-    "prompt": "Your own border guards run a thriving smuggling trade — cattle, drugs, gold, phensedyl — in collusion with their counterparts across the wire. The director can purge the corrupt battalions, risking morale and a guarded border, or keep the lucrative status quo.",
+    "prompt": "Your own border guards run a thriving smuggling trade — cattle, drugs, gold, phensedyl — in collusion with their counterparts across the wire. Purge the corrupt battalions, risking morale and a guarded border, or keep the lucrative status quo?",
     "left": {
       "id": "a",
       "label": "Purge the smuggling battalions.",
@@ -2305,7 +2305,7 @@
       "unrest",
       "order"
     ],
-    "prompt": "Unrest is spreading city to city and the secretary urges a nationwide curfew with shoot-on-sight authority to 'restore order overnight'. It would clear the streets — and any death under it becomes a death you ordered.",
+    "prompt": "Unrest is spreading city to city, and the secretary urges a nationwide curfew with shoot-on-sight authority to 'restore order overnight'. It would clear the streets — and any death under it becomes a death you ordered.",
     "left": {
       "id": "a",
       "label": "Impose curfew with shoot-on-sight.",
@@ -2341,7 +2341,7 @@
       "blackout",
       "unrest"
     ],
-    "prompt": "With protests organising by phone, the officer can order a total internet and mobile blackout to blind and scatter them. It would choke the coordination — and the economy, the hospitals, and the country's last window onto what your forces are doing in the dark.",
+    "prompt": "With protests organising by phone, the officer can order a total internet and mobile blackout to blind and scatter them. It would choke the coordination — and the economy, the hospitals, and the last window onto what your forces do in the dark.",
     "left": {
       "id": "a",
       "label": "Order a total communications blackout.",
@@ -2379,7 +2379,7 @@
       "accountability",
       "body-cameras"
     ],
-    "prompt": "A reform drive proposes body cameras and a real complaints commission for the police — a check on the brutality that fuels public hatred of the force. The rank-and-file and their commanders see it as a leash and a humiliation, and resist hard.",
+    "prompt": "A reform drive proposes body cameras and a real complaints commission for the police — a check on the brutality that fuels public hatred of the force. The rank-and-file and their commanders see a leash and a humiliation, and resist hard.",
     "left": {
       "id": "a",
       "label": "Mandate body cameras and oversight.",
@@ -2415,7 +2415,7 @@
       "vigilantes",
       "youth"
     ],
-    "prompt": "Self-appointed morality squads are harassing couples in parks, attacking 'immodest' women, and beating young people for un-Islamic dress. The hardliners call them guardians of virtue. The magistrate asks whether to arrest the squads or quietly tolerate them.",
+    "prompt": "Self-appointed morality squads are harassing couples in parks, attacking 'immodest' women, and beating young people for un-Islamic dress. The hardliners call them guardians of virtue. Arrest the squads, or quietly tolerate them?",
     "left": {
       "id": "a",
       "label": "Arrest the morality squads.",
@@ -2453,7 +2453,7 @@
       "detention",
       "exposure"
     ],
-    "prompt": "Investigators have located a secret detention site — an 'Aynaghar' of mirrored cells where the disappeared are held off the books. The story is about to break. The chief asks whether to deny everything and bury the site, or acknowledge it and free the captives.",
+    "prompt": "Investigators have located a secret detention site — an 'Aynaghar' of mirrored cells where the disappeared are held off the books. The story is about to break. Deny everything and bury the site, or acknowledge it and free the captives?",
     "left": {
       "id": "a",
       "label": "Deny it and bury the site.",
@@ -2489,7 +2489,7 @@
       "insurgency",
       "checkpoints"
     ],
-    "prompt": "In the hill tracts, the army's web of checkpoints and camps controls indigenous life and feeds a low-grade insurgency, while settlers and soldiers want the grip kept tight. The officer asks whether to draw down the military presence per the peace accord, or hold it.",
+    "prompt": "In the hill tracts, the army's web of checkpoints and camps controls indigenous life and feeds a low-grade insurgency, while settlers and soldiers want the grip kept tight. Draw down the military presence per the peace accord, or hold it?",
     "left": {
       "id": "a",
       "label": "Hold the heavy military grip.",
@@ -2526,7 +2526,7 @@
       "blasphemy",
       "rumour"
     ],
-    "prompt": "A doctored screenshot alleging a Hindu youth insulted the Prophet has set mobs torching a minority village. The youth may well be innocent and framed. The magistrate asks whether to protect the village and investigate the framing, or appease the mob by arresting the accused.",
+    "prompt": "A doctored screenshot alleging a Hindu youth insulted the Prophet has set mobs torching a minority village. The youth may well be framed. Protect the village and investigate the framing, or appease the mob by arresting the accused?",
     "left": {
       "id": "a",
       "label": "Protect the village, investigate the framing.",
@@ -2564,7 +2564,7 @@
       "security",
       "resources"
     ],
-    "prompt": "A huge share of the police is tied up guarding ministers, MPs, and their families, stripping protection from ordinary neighbourhoods. The chief can slash the VIP details and redeploy to the public, or keep the entourages your elite has come to expect.",
+    "prompt": "A huge share of the police is tied up guarding ministers, MPs, and their families, stripping protection from ordinary neighbourhoods. Slash the VIP details and redeploy to the public, or keep the entourages your elite expects?",
     "left": {
       "id": "a",
       "label": "Slash VIP security, redeploy to the public.",
@@ -2601,7 +2601,7 @@
       "dissent",
       "speech"
     ],
-    "prompt": "A new cyber-patrol unit can monitor social media around the clock and arrest citizens for 'anti-state' posts — memes, jokes, criticism. The commander wants a wide mandate; it would chill all online speech and fill the jails with teenagers over Facebook posts.",
+    "prompt": "A new cyber-patrol unit can monitor social media around the clock and arrest citizens for 'anti-state' posts — memes, jokes, criticism. A wide mandate would chill all online speech and fill the jails with teenagers over Facebook posts.",
     "left": {
       "id": "a",
       "label": "Give the cyber patrol a wide mandate.",
@@ -2637,7 +2637,7 @@
       "slums",
       "force"
     ],
-    "prompt": "A court has ordered a vast slum cleared from contested land, and the police must execute it. The IGP can carry out a brutal dawn eviction with bulldozers, or slow-walk it and push for relocation and resettlement first.",
+    "prompt": "A court has ordered a vast slum cleared from contested land, and the police must execute it. Carry out a brutal dawn eviction with bulldozers, or slow-walk it and push for resettlement first?",
     "left": {
       "id": "a",
       "label": "Carry out the dawn eviction by force.",
@@ -2675,7 +2675,7 @@
       "village",
       "militia"
     ],
-    "prompt": "The vast village auxiliary force could be armed and empowered as a rural security backbone — cheap manpower loyal to the state — or it risks becoming a politicised village militia settling local scores under colour of authority. The director awaits your call.",
+    "prompt": "The vast village auxiliary force could be armed as a rural security backbone — cheap manpower loyal to the state — or become a politicised village militia settling local scores under colour of authority. The director awaits your call.",
     "left": {
       "id": "a",
       "label": "Arm and empower the village auxiliaries.",
@@ -2711,7 +2711,7 @@
       "currency",
       "crime"
     ],
-    "prompt": "A sophisticated counterfeit-currency ring, run from across the border, is flooding the markets with fake notes and eroding trust in the cash economy. The chief can mount a costly crackdown and currency-upgrade, or let it run and quietly manage the damage.",
+    "prompt": "A sophisticated counterfeit-currency ring, run from across the border, is flooding the markets with fake notes and eroding trust in cash. Mount a costly crackdown and currency-upgrade, or let it run and quietly manage the damage?",
     "left": {
       "id": "a",
       "label": "Crack down and upgrade the currency.",
@@ -2748,7 +2748,7 @@
       "harassment",
       "safety"
     ],
-    "prompt": "Street harassment of girls and women — 'eve-teasing' that has driven some to suicide — is endemic and unpunished. The officer wants dedicated rapid-response units, mobile courts, and harassment made a real, enforced offence; the cultural pushback frames it as policing male nature.",
+    "prompt": "Street harassment of girls and women — 'eve-teasing' that has driven some to suicide — is endemic and unpunished. The officer wants rapid-response units, mobile courts, and harassment made a real, enforced offence; the cultural pushback calls it policing male nature.",
     "left": {
       "id": "a",
       "label": "Enforce harassment as a real crime.",
@@ -2785,7 +2785,7 @@
       "extremism",
       "secularism"
     ],
-    "prompt": "Machete-wielding militants are hacking secular bloggers and publishers to death in the streets, and a hit-list circulates online. The commander wants the targets given protection and the cells hunted; hardliners hint the victims 'insulted faith' and deserve no sympathy.",
+    "prompt": "Machete-wielding militants are hacking secular bloggers and publishers to death in the streets, and a hit-list circulates online. The commander wants the targets protected and the cells hunted; hardliners hint the victims 'insulted faith'.",
     "left": {
       "id": "a",
       "label": "Protect the targets and hunt the cells.",
@@ -2823,7 +2823,7 @@
       "torture",
       "confession"
     ],
-    "prompt": "Investigations here lean on confessions beaten out of suspects on remand, sending innocents to the gallows and letting real culprits walk. The commissioner wants forensic, evidence-based policing and an end to torture-remand; the old guard says it ties their hands.",
+    "prompt": "Investigations here lean on confessions beaten out of suspects on remand, sending innocents to the gallows and letting real culprits walk. The commissioner wants forensic, evidence-based policing and an end to torture-remand; the old guard says it ties them.",
     "left": {
       "id": "a",
       "label": "End torture-remand, build forensic policing.",
@@ -2859,7 +2859,7 @@
       "immigration",
       "corruption"
     ],
-    "prompt": "The passport and immigration offices run on bribes — fast-tracking the payers, stalling the honest, and quietly issuing genuine documents to criminals and traffickers. The director can digitise and clean the system or keep the lucrative counters humming.",
+    "prompt": "The passport and immigration offices run on bribes — fast-tracking the payers, stalling the honest, and quietly issuing genuine documents to criminals. Digitise and clean the system, or keep the lucrative counters humming?",
     "left": {
       "id": "a",
       "label": "Digitise and clean the passport system.",
@@ -2934,7 +2934,7 @@
       "safety",
       "capacity"
     ],
-    "prompt": "The capital's fire service cannot reach half its high-rises, its hydrants are dry, and its ladders are too short for the towers that keep burning with people trapped inside. The director needs a costly modernisation; the money is wanted elsewhere until the next blaze.",
+    "prompt": "The capital's fire service cannot reach half its high-rises — dry hydrants, ladders too short for the towers that keep burning with people trapped inside. The director needs a costly modernisation; the money is wanted elsewhere until the next blaze.",
     "left": {
       "id": "a",
       "label": "Fund the fire-service modernisation.",
@@ -2968,7 +2968,7 @@
       "haats",
       "smuggling"
     ],
-    "prompt": "Along the border, official 'haat' markets could legalise the petty cross-border trade that locals depend on and that smugglers now run. The director can expand the legal haats, undercutting the smuggling mafias, or keep the border sealed and the black trade thriving.",
+    "prompt": "Along the border, official 'haat' markets could legalise the petty cross-border trade that locals depend on and smugglers now run. Expand the legal haats to undercut the smuggling mafias, or keep the border sealed and the black trade thriving?",
     "left": {
       "id": "a",
       "label": "Expand the legal border markets.",
@@ -3005,7 +3005,7 @@
       "ransom",
       "crime"
     ],
-    "prompt": "A wave of kidnappings-for-ransom is terrifying the business class, and some cases trace to off-duty police and political cadres. The chief can mount a real crackdown that reaches into your own ranks, or focus on the freelance gangs and spare the connected.",
+    "prompt": "A wave of kidnappings-for-ransom is terrifying the business class, and some cases trace to off-duty police and political cadres. Mount a real crackdown that reaches into your own ranks, or focus on the freelance gangs and spare the connected?",
     "left": {
       "id": "a",
       "label": "Crack down, your own ranks included.",
@@ -3043,7 +3043,7 @@
       "fatwa",
       "women"
     ],
-    "prompt": "In the villages, informal arbitration councils — shalish — increasingly issue cruel, illegal punishments: lashings, hilla marriages, and worse, mostly against women, under the colour of religion. The officer wants them reined in by the formal courts; the rural clergy resist.",
+    "prompt": "In the villages, informal arbitration councils — shalish — increasingly issue cruel, illegal punishments: lashings, hilla marriages, mostly against women, under the colour of religion. The officer wants them reined in by the formal courts; the rural clergy resist.",
     "left": {
       "id": "a",
       "label": "Rein in the shalish, enforce the law.",
@@ -3081,7 +3081,7 @@
       "wiretap",
       "oversight"
     ],
-    "prompt": "A new law would let your agencies intercept any call or message — with, or without, a judge's warrant. The director wants the warrantless version for speed; civil society demands judicial oversight to stop the inevitable abuse against critics and rivals.",
+    "prompt": "A new law would let your agencies intercept any call or message — with, or without, a judge's warrant. The director wants the warrantless version for speed; civil society demands judicial oversight to stop the inevitable abuse against critics.",
     "left": {
       "id": "a",
       "label": "Pass warrantless interception powers.",
@@ -3117,7 +3117,7 @@
       "highways",
       "safety"
     ],
-    "prompt": "Armed gangs are robbing night buses and trucks on the highways, sometimes killing, and the long-haul transport that moves the economy is gripped by fear. The chief wants costly highway patrols and checkpoints; others say it is a local nuisance not worth the budget.",
+    "prompt": "Armed gangs are robbing night buses and trucks on the highways, sometimes killing, and the long-haul transport that moves the economy is gripped by fear. The chief wants costly highway patrols; others call it a local nuisance not worth the budget.",
     "left": {
       "id": "a",
       "label": "Fund highway patrols and checkpoints.",
@@ -3153,7 +3153,7 @@
       "begging",
       "children"
     ],
-    "prompt": "Organised syndicates maim children and traffic the disabled into forced begging rings on the city streets. The officer wants the rings smashed and the victims rehabilitated — a costly, complex rescue — or you can keep clearing beggars off the streets for the optics.",
+    "prompt": "Organised syndicates maim children and traffic the disabled into forced begging rings on the city streets. Smash the rings and rehabilitate the victims — a costly, complex rescue — or keep clearing beggars off the streets for the optics?",
     "left": {
       "id": "a",
       "label": "Smash the rings, rehabilitate the victims.",
@@ -3191,7 +3191,7 @@
       "traffic",
       "public"
     ],
-    "prompt": "Every ministerial movement shuts down the capital's arteries for VIP motorcades, trapping ambulances and commuters for hours in the world's worst gridlock. The chief can curb the closures and the convoys, or keep the elite gliding through a paralysed city.",
+    "prompt": "Every ministerial movement shuts down the capital's arteries for VIP motorcades, trapping ambulances and commuters for hours. Curb the closures and convoys, or keep the elite gliding through a paralysed city?",
     "left": {
       "id": "a",
       "label": "Curb the VIP road closures.",
@@ -3227,7 +3227,7 @@
       "liability",
       "developers"
     ],
-    "prompt": "A shoddily-built tower has collapsed, killing scores, and the trail leads to a developer who bribed the building inspectors — a developer who funds the party. The chief asks whether to prosecute him fully or let the inspectors take the fall alone.",
+    "prompt": "A shoddily-built tower has collapsed, killing scores, and the trail leads to a developer who bribed the inspectors — and who funds the party. Prosecute him fully, or let the inspectors take the fall alone?",
     "left": {
       "id": "a",
       "label": "Prosecute the developer fully.",
@@ -3265,7 +3265,7 @@
       "scams",
       "online"
     ],
-    "prompt": "Scam operations are draining citizens' mobile wallets and bank accounts through phishing and fake-prize calls, some run from organised centres with insider help from telecom and bank staff. The chief wants a real cyber-fraud taskforce; standing it up is costly and technical.",
+    "prompt": "Scam operations are draining citizens' mobile wallets and bank accounts through phishing and fake-prize calls, some run from organised centres with insider help from telecom and bank staff. The chief wants a real cyber-fraud taskforce; standing it up is costly.",
     "left": {
       "id": "a",
       "label": "Build a real cyber-fraud taskforce.",
@@ -3301,7 +3301,7 @@
       "security",
       "communal"
     ],
-    "prompt": "Competing religious processions are due to cross the same route on the same day, a flashpoint that has sparked riots before. The officer can impose strict separate routes and timings — heavy-handed and resented by both — or trust the organisers and keep policing light.",
+    "prompt": "Competing religious processions are due to cross the same route on the same day, a flashpoint that has sparked riots before. Impose strict separate routes and timings — heavy-handed and resented by both — or trust the organisers and police lightly?",
     "left": {
       "id": "a",
       "label": "Impose strict separate routes.",
@@ -3337,7 +3337,7 @@
       "travel",
       "safety"
     ],
-    "prompt": "Before Eid, millions cram onto overloaded buses, trains, and ferries to reach their villages, and every year the holiday rush kills hundreds in crashes and capsizes. The coordinator wants strict overloading and safety enforcement; the public wants cheap passage home at any cost.",
+    "prompt": "Before Eid, millions cram onto overloaded buses, trains, and ferries to reach their villages, and every year the rush kills hundreds in crashes and capsizes. The coordinator wants strict safety enforcement; the public wants cheap passage home at any cost.",
     "left": {
       "id": "a",
       "label": "Enforce holiday travel safety hard.",
@@ -3372,7 +3372,7 @@
       "amnesty",
       "recovery"
     ],
-    "prompt": "Illegal firearms are awash in the country, fuelling political violence and crime. The chief proposes a no-questions surrender amnesty to mop them up — which also lets the guilty erase the weapons tying them to past crimes. The alternative is a hard, raid-based recovery drive.",
+    "prompt": "Illegal firearms are awash in the country, fuelling political violence and crime. A no-questions surrender amnesty would mop them up — but let the guilty erase the weapons tying them to past crimes. The alternative is a hard, raid-based recovery drive.",
     "left": {
       "id": "a",
       "label": "Offer a no-questions arms amnesty.",
@@ -3408,7 +3408,7 @@
       "security",
       "aid-workers"
     ],
-    "prompt": "After threats against foreigners, aid agencies and embassies demand heavy protection for their staff or they will pull out, taking their programmes and goodwill with them. The chief can lock the foreign community in a security bubble, or reassure with lighter, smarter measures.",
+    "prompt": "After threats against foreigners, aid agencies and embassies demand heavy protection for their staff or they will pull out, taking their programmes with them. Lock the foreign community in a security bubble, or reassure with lighter, smarter measures?",
     "left": {
       "id": "a",
       "label": "Wrap foreigners in a heavy security bubble.",
@@ -3445,7 +3445,7 @@
       "justice",
       "children"
     ],
-    "prompt": "Children in conflict with the law are thrown into adult jails and 'correction' centres rife with abuse, emerging hardened criminals. The magistrate wants a real juvenile-justice system of diversion and rehabilitation; the law-and-order voices want them treated as the threats they'll become.",
+    "prompt": "Children in conflict with the law are thrown into adult jails and abusive 'correction' centres, emerging hardened criminals. The magistrate wants a real juvenile-justice system of diversion and rehabilitation; the law-and-order voices want them treated as threats.",
     "left": {
       "id": "a",
       "label": "Build a rehabilitative juvenile system.",
@@ -3481,7 +3481,7 @@
       "surveillance",
       "protest"
     ],
-    "prompt": "A fleet of surveillance drones could watch borders and crime hotspots — and hover over every protest and gathering, mapping the crowd. The director wants the full fleet with crowd-monitoring; civil society warns it is an eye in the sky over every dissenter.",
+    "prompt": "A fleet of surveillance drones could watch borders and crime hotspots — and hover over every protest, mapping the crowd. The director wants the full fleet with crowd-monitoring; civil society warns it is an eye in the sky over every dissenter.",
     "left": {
       "id": "a",
       "label": "Deploy the full surveillance drone fleet.",
@@ -3517,7 +3517,7 @@
       "poverty",
       "crime"
     ],
-    "prompt": "A ring is buying kidneys from desperate villagers — coerced and cheated — for wealthy transplant tourists, with crooked doctors and brokers in the chain. The officer wants the whole network smashed; some of the clinics involved are powerful and well-connected.",
+    "prompt": "A ring is buying kidneys from desperate villagers — coerced and cheated — for wealthy transplant tourists, with crooked doctors and brokers in the chain. The officer wants the whole network smashed; some of the clinics are powerful and well-connected.",
     "left": {
       "id": "a",
       "label": "Smash the organ-trafficking network.",
@@ -3555,7 +3555,7 @@
       "biometric",
       "privacy"
     ],
-    "prompt": "Biometric SIM registration would tie every phone to a fingerprint and ID — curbing the anonymous numbers used in crime and terror, and building a perfect map of who holds every phone in the country. The officer wants it mandatory; privacy advocates are alarmed.",
+    "prompt": "Biometric SIM registration would tie every phone to a fingerprint and ID — curbing the anonymous numbers used in crime, and building a perfect map of who holds every phone. The officer wants it mandatory; privacy advocates are alarmed.",
     "left": {
       "id": "a",
       "label": "Mandate biometric SIM registration.",
@@ -3591,7 +3591,7 @@
       "inquiry",
       "accountability"
     ],
-    "prompt": "Deaths in police custody, always ruled 'heart attacks' or 'suicides', are mounting and the families are organising. The director can establish a genuinely independent inquiry mechanism, exposing the torture behind the deaths, or keep the in-house whitewash that protects the force.",
+    "prompt": "Deaths in police custody, always ruled 'heart attacks' or 'suicides', are mounting and the families are organising. Establish a genuinely independent inquiry mechanism, or keep the in-house whitewash that protects the force?",
     "left": {
       "id": "a",
       "label": "Establish independent custodial-death inquiries.",
@@ -3628,7 +3628,7 @@
       "rivers",
       "fishermen"
     ],
-    "prompt": "Armed pirates rule stretches of the great rivers and the bay, robbing and ransoming fishermen and cargo boats, sometimes with bribed police looking on. The chief wants a real river-police push; it means costly boats and confronting the officers on the take.",
+    "prompt": "Armed pirates rule stretches of the great rivers and the bay, robbing and ransoming fishermen and cargo boats, sometimes with bribed police looking on. The chief wants a real river-police push — costly boats, and confronting the officers on the take.",
     "left": {
       "id": "a",
       "label": "Fund a real anti-piracy river force.",
@@ -3701,7 +3701,7 @@
       "leaks",
       "fraud"
     ],
-    "prompt": "National exam papers leak online before every sitting, sold by a ring reaching into the printing presses and the boards. The chairman wants a hard crackdown and a digital question system; the leak ring is lucrative and protected, and a botched reform could throw the whole exam into chaos.",
+    "prompt": "National exam papers leak online before every sitting, sold by a ring reaching into the printing presses and the boards. The chairman wants a digital question system; the ring is lucrative and protected, and a botched reform could throw the exam into chaos.",
     "left": {
       "id": "a",
       "label": "Crack down and digitise the exams.",
@@ -3738,7 +3738,7 @@
       "exam",
       "corruption"
     ],
-    "prompt": "Government job exams — the holy grail for millions of youth — are riddled with leaked papers, impersonators, and posts sold to the highest bidder. The liaison can mount a real anti-fraud overhaul, exposing connected beneficiaries, or keep the lucrative status quo.",
+    "prompt": "Government job exams — the holy grail for millions of youth — are riddled with leaked papers, impersonators, and posts sold to the highest bidder. Mount a real anti-fraud overhaul exposing connected beneficiaries, or keep the lucrative status quo?",
     "left": {
       "id": "a",
       "label": "Overhaul the recruitment exams.",
@@ -3776,7 +3776,7 @@
       "poison",
       "poverty"
     ],
-    "prompt": "Bootleg toxic liquor has killed dozens of the poor in a single district, and the trade — banned, so unregulated — is run by syndicates with police protection. The officer can crack down hard on the bootleggers, or push the harder path of regulating and taxing safe alcohol.",
+    "prompt": "Bootleg toxic liquor has killed dozens of the poor in a single district, and the trade — banned, so unregulated — is run by syndicates with police protection. Crack down hard on the bootleggers, or push the harder path of regulating and taxing safe alcohol?",
     "left": {
       "id": "a",
       "label": "Crack down hard on the bootleggers.",
@@ -3813,7 +3813,7 @@
       "prison",
       "rights"
     ],
-    "prompt": "The women's wings of the jails are overcrowded and abusive, holding women on petty or fabricated charges, some with their children, in degrading conditions. The IG wants reform — separate facilities, legal aid, release of the wrongly held — at real cost and effort.",
+    "prompt": "The women's wings of the jails are overcrowded and abusive, holding women on petty or fabricated charges, some with their children, in degrading conditions. The IG wants reform — separate facilities, legal aid, release of the wrongly held.",
     "left": {
       "id": "a",
       "label": "Reform the women's prisons.",
@@ -3849,7 +3849,7 @@
       "online",
       "addiction"
     ],
-    "prompt": "Foreign-run online betting and casino apps are hooking the young and draining money abroad through illegal channels, with local agents and some officials taking a cut. The chief can block and prosecute hard, or quietly tolerate a trade that greases many palms.",
+    "prompt": "Foreign-run online betting and casino apps are hooking the young and draining money abroad, with local agents and some officials taking a cut. Block and prosecute hard, or quietly tolerate a trade that greases many palms?",
     "left": {
       "id": "a",
       "label": "Block and prosecute the gambling networks.",
@@ -3886,7 +3886,7 @@
       "backlog",
       "justice"
     ],
-    "prompt": "The country's one overwhelmed forensic lab has a years-long backlog, so DNA and ballistic evidence arrives long after trials end, and justice runs on confessions instead of science. The director needs heavy investment in labs and trained scientists; the payoff is slow and invisible.",
+    "prompt": "The country's one overwhelmed forensic lab has a years-long backlog, so DNA and ballistic evidence arrives long after trials end, and justice runs on confessions instead of science. The director needs heavy investment in labs and scientists; the payoff is slow.",
     "left": {
       "id": "a",
       "label": "Invest heavily in forensic capacity.",
@@ -3922,7 +3922,7 @@
       "less-lethal",
       "force"
     ],
-    "prompt": "A foreign vendor offers a large package of riot-control gear — water cannon, rubber bullets, tear gas, sound cannons. The chief wants the full arsenal for crowd control; critics note that 'less-lethal' tools, in untrained hands, still blind and kill protesters.",
+    "prompt": "A foreign vendor offers a large package of riot-control gear — water cannon, rubber bullets, tear gas, sound cannons. The chief wants the full arsenal; critics note 'less-lethal' tools, in untrained hands, still blind and kill protesters.",
     "left": {
       "id": "a",
       "label": "Buy the full riot-control arsenal.",
@@ -3960,7 +3960,7 @@
       "murder",
       "justice"
     ],
-    "prompt": "A young bride has been killed over an unpaid dowry, and the in-laws — locally powerful — are buying off the police and the witnesses as such cases routinely vanish. The officer asks whether to drive the prosecution hard or let it fade like the others.",
+    "prompt": "A young bride has been killed over an unpaid dowry, and the locally powerful in-laws are buying off the police and the witnesses, as such cases routinely vanish. Drive the prosecution hard, or let it fade like the others?",
     "left": {
       "id": "a",
       "label": "Drive the dowry-murder prosecution.",
@@ -3998,7 +3998,7 @@
       "censorship",
       "control"
     ],
-    "prompt": "Citizens are using VPNs to slip past your website blocks and reach banned news and platforms. The director wants VPNs themselves blocked and their users tracked, sealing the information bubble; the alternative is to accept that the net cannot be fully walled.",
+    "prompt": "Citizens are using VPNs to slip past your website blocks and reach banned news. The director wants VPNs themselves blocked and their users tracked, sealing the information bubble; the alternative is to accept that the net cannot be fully walled.",
     "left": {
       "id": "a",
       "label": "Block VPNs and track their users.",
@@ -4034,7 +4034,7 @@
       "shelter",
       "poverty"
     ],
-    "prompt": "Tens of thousands of children live on the city streets — sniffing glue, prey to gangs, traffickers, and abusive police. The director wants a real network of shelters, schooling, and family reunification; the cheaper option is the periodic round-up that just moves them on.",
+    "prompt": "Tens of thousands of children live on the city streets — sniffing glue, prey to gangs, traffickers, and abusive police. The director wants a real network of shelters and family reunification; the cheaper option is the periodic round-up that just moves them on.",
     "left": {
       "id": "a",
       "label": "Build shelters and reunification programmes.",
@@ -4069,7 +4069,7 @@
       "women",
       "online"
     ],
-    "prompt": "Intimate images — real and faked — are being weaponised to blackmail and shame women and girls, driving some to suicide, while victims who report are themselves blamed and exposed. The chief wants a dedicated, confidential unit; building it means resources and a cultural fight.",
+    "prompt": "Intimate images — real and faked — are being weaponised to blackmail and shame women and girls, driving some to suicide, while victims who report are themselves blamed. The chief wants a dedicated, confidential unit; building it means resources and a cultural fight.",
     "left": {
       "id": "a",
       "label": "Build a confidential image-abuse unit.",
@@ -4106,7 +4106,7 @@
       "concert",
       "safety"
     ],
-    "prompt": "A massive open-air concert and several large public events are planned for the same weekend, with crowd-safety planning that is, as ever, an afterthought. The officer wants proper crowd management and caps imposed; the organisers and the public resent the fences and limits.",
+    "prompt": "A massive open-air concert and several large public events are planned for the same weekend, with crowd-safety planning that is, as ever, an afterthought. The officer wants proper crowd management and caps; the organisers and public resent the fences.",
     "left": {
       "id": "a",
       "label": "Impose proper crowd-safety management.",
@@ -4143,7 +4143,7 @@
       "violence",
       "minorities"
     ],
-    "prompt": "In remote areas, people — usually poor women — are branded witches or sorcerers and beaten, exiled, or killed by mobs, often at a 'healer's' word. The officer wants awareness drives and hard prosecution; the local power structure shrugs it off as backward custom.",
+    "prompt": "In remote areas, people — usually poor women — are branded witches and beaten, exiled, or killed by mobs, often at a 'healer's' word. The officer wants awareness drives and hard prosecution; the local power structure shrugs it off as backward custom.",
     "left": {
       "id": "a",
       "label": "Prosecute and educate against the violence.",
@@ -4180,7 +4180,7 @@
       "fraud",
       "citizenship"
     ],
-    "prompt": "Genuine national ID cards are being sold to non-citizens — including, the spies warn, to Rohingya and foreign criminals — through corrupt officials, eroding the integrity of the whole citizenship system. The director can purge and prosecute, or quietly manage the embarrassment.",
+    "prompt": "Genuine national ID cards are being sold to non-citizens — including, the spies warn, Rohingya and foreign criminals — through corrupt officials, eroding the whole citizenship system. Purge and prosecute, or quietly manage the embarrassment?",
     "left": {
       "id": "a",
       "label": "Purge the fraud and prosecute officials.",
@@ -4218,7 +4218,7 @@
       "registration",
       "child-marriage"
     ],
-    "prompt": "Marriage registrars routinely falsify brides' ages to legalise child marriages and forge documents for a fee, and the registry is a den of petty corruption. The registrar general wants digitised, age-verified registration; the registrars, a connected guild, will resist.",
+    "prompt": "Marriage registrars routinely falsify brides' ages to legalise child marriages and forge documents for a fee. The registrar general wants digitised, age-verified registration; the registrars, a connected guild, will resist.",
     "left": {
       "id": "a",
       "label": "Digitise and age-verify marriage registration.",
@@ -4256,7 +4256,7 @@
       "rehab",
       "addiction"
     ],
-    "prompt": "Hundreds of thousands are addicted, and the few rehab centres are squalid, abusive, and out of reach of the poor. The chief wants a real, humane treatment network as the backbone of drug policy; the law-and-order voices still want jails and crossfire, not clinics.",
+    "prompt": "Hundreds of thousands are addicted, and the few rehab centres are squalid, abusive, and out of reach of the poor. The chief wants a humane treatment network as the backbone of drug policy; the law-and-order voices still want jails and crossfire, not clinics.",
     "left": {
       "id": "a",
       "label": "Build a humane treatment network.",
@@ -4292,7 +4292,7 @@
       "extortion",
       "rivers"
     ],
-    "prompt": "Armed 'sand mafias' — illegally dredging riverbeds and extorting the trade — rule whole stretches of riverbank with bribed police and political cover, killing officials who interfere. The superintendent asks whether to break them or keep the uneasy, lucrative peace.",
+    "prompt": "Armed 'sand mafias' — illegally dredging riverbeds and extorting the trade — rule whole stretches of riverbank with bribed police and political cover, killing officials who interfere. Break them, or keep the uneasy, lucrative peace?",
     "left": {
       "id": "a",
       "label": "Break the sand mafias.",
@@ -4329,7 +4329,7 @@
       "land",
       "powerful"
     ],
-    "prompt": "A drive to clear illegal encroachments from canals, railways, and public land keeps bulldozing the slums of the poor while the grand illegal buildings of the powerful stand untouched. The officer asks whether to turn the drive on the big fish or keep it pointed at the small.",
+    "prompt": "A drive to clear illegal encroachments from canals, railways, and public land keeps bulldozing the slums of the poor while the grand illegal buildings of the powerful stand untouched. Turn the drive on the big fish, or keep it pointed at the small?",
     "left": {
       "id": "a",
       "label": "Turn the eviction drive on the powerful.",
@@ -4367,7 +4367,7 @@
       "protest",
       "unrest"
     ],
-    "prompt": "A brutal summer of power cuts has people pouring into the streets, smashing substations and blocking roads in the heat. The officer wants a firm dispersal of the protests; the wiser path may be to be seen sharing the pain and fixing the supply.",
+    "prompt": "A brutal summer of power cuts has people pouring into the streets, smashing substations and blocking roads. The officer wants a firm dispersal; the wiser path may be to be seen sharing the pain and fixing the supply.",
     "left": {
       "id": "a",
       "label": "Disperse the power-cut protests firmly.",
@@ -4403,7 +4403,7 @@
       "smuggling",
       "security"
     ],
-    "prompt": "The main airport leaks gold, drugs, and contraband through a web of complicit ground staff, customs, and security — and a lax screening regime that also worries foreign airlines about terror risk. The chief can mount a deep clean-up or keep the comfortable rot.",
+    "prompt": "The main airport leaks gold, drugs, and contraband through complicit ground staff, customs, and security — and lax screening that worries foreign airlines about terror risk. Mount a deep clean-up, or keep the comfortable rot?",
     "left": {
       "id": "a",
       "label": "Deep-clean airport security.",
@@ -4441,7 +4441,7 @@
       "labour",
       "reform"
     ],
-    "prompt": "The jails, packed to bursting, could ease overcrowding and idleness through a humane work-and-skills programme that prepares inmates for release — or descend into the exploitative forced labour that some officers already run for private profit.",
+    "prompt": "The jails, packed to bursting, could ease overcrowding through a humane work-and-skills programme that prepares inmates for release — or descend into the exploitative forced labour that some officers already run for private profit.",
     "left": {
       "id": "a",
       "label": "Build a humane prison work-and-skills scheme.",
@@ -4478,7 +4478,7 @@
       "return",
       "reintegration"
     ],
-    "prompt": "A Gulf downturn has sent hundreds of thousands of jobless migrant workers home, broke and traumatised, into communities with no work for them — a security and humanitarian time bomb. The officer wants a reintegration and credit programme; the cheaper path is to let them fend for themselves.",
+    "prompt": "A Gulf downturn has sent hundreds of thousands of jobless migrant workers home, broke and traumatised, into communities with no work — a security and humanitarian time bomb. Fund a reintegration and credit programme, or let them fend for themselves?",
     "left": {
       "id": "a",
       "label": "Fund returnee reintegration and credit.",
@@ -4514,7 +4514,7 @@
       "threat",
       "diplomacy"
     ],
-    "prompt": "Intelligence warns of a credible plot against a foreign embassy in the diplomatic enclave. The chief can flood the zone with a heavy, visible cordon that reassures the foreigners but screams danger, or run a quiet, intelligence-led protection that risks being caught short.",
+    "prompt": "Intelligence warns of a credible plot against a foreign embassy in the diplomatic enclave. Flood the zone with a heavy, visible cordon that reassures the foreigners but screams danger, or run quiet, intelligence-led protection that risks being caught short?",
     "left": {
       "id": "a",
       "label": "Flood the enclave with a visible cordon.",
@@ -4551,7 +4551,7 @@
       "aviation",
       "rights"
     ],
-    "prompt": "A new aviation watchlist could bar suspected militants from flying — a real security tool, and, applied loosely, a way to ground journalists and activists under a terror label. The chief asks whether to build it tight and judicial, or broad and discretionary.",
+    "prompt": "A new aviation watchlist could bar suspected militants from flying — a real security tool, and, applied loosely, a way to ground journalists and activists under a terror label. Build it tight and judicial, or broad and discretionary?",
     "left": {
       "id": "a",
       "label": "Build a broad, discretionary watchlist.",
@@ -4587,7 +4587,7 @@
       "surveillance",
       "youth"
     ],
-    "prompt": "A proposal would require every cybercafe and gaming den to log users' IDs and install monitoring software, ostensibly against online crime and radicalisation. The superintendent likes the reach; critics see another net cast over ordinary young people.",
+    "prompt": "A proposal would require every cybercafe and gaming den to log users' IDs and install monitoring software, ostensibly against online crime. The superintendent likes the reach; critics see another net cast over ordinary young people.",
     "left": {
       "id": "a",
       "label": "Mandate ID-logging and monitoring.",
@@ -4623,7 +4623,7 @@
       "survivors",
       "justice"
     ],
-    "prompt": "An acid attack has disfigured a young woman who spurned a powerful man's son, and the family is pressuring the police to lose the case as they have lost others. The officer asks whether to drive a hard prosecution and survivor support, or let it quietly die.",
+    "prompt": "An acid attack has disfigured a young woman who spurned a powerful man's son, and the family is pressuring the police to lose the case as they have lost others. Drive a hard prosecution and survivor support, or let it quietly die?",
     "left": {
       "id": "a",
       "label": "Drive the prosecution and fund survivor care.",
@@ -4661,7 +4661,7 @@
       "police",
       "families"
     ],
-    "prompt": "Families of the missing — some lost to crime, some to your own agencies — are turned away from police stations that refuse even to file a report. The chief wants a mandatory missing-persons registry and real investigation; it would also document the disappearances the state would rather forget.",
+    "prompt": "Families of the missing — some lost to crime, some to your own agencies — are turned away from stations that refuse even to file a report. The chief wants a mandatory missing-persons registry and real investigation — which also documents the disappearances the state would rather forget.",
     "left": {
       "id": "a",
       "label": "Build a real missing-persons system.",
@@ -4697,7 +4697,7 @@
       "welfare",
       "morale"
     ],
-    "prompt": "The rank-and-file police are overworked, underpaid, and crammed into squalid barracks, which feeds both their brutality and their corruption. The director wants real investment in pay, housing, and hours; the money is large and the public sees only the brutality it would soften.",
+    "prompt": "The rank-and-file police are overworked, underpaid, and crammed into squalid barracks, which feeds both their brutality and their corruption. The director wants real investment in pay, housing, and hours; the money is large and the public sees only the brutality.",
     "left": {
       "id": "a",
       "label": "Invest in police welfare and pay.",
@@ -4733,7 +4733,7 @@
       "release",
       "reckoning"
     ],
-    "prompt": "Pressure mounts — at home and from abroad — to account for the men your agencies disappeared over the years. The chief can quietly begin returning those still alive and acknowledging the dead, or keep denying that any 'enforced disappearances' ever occurred.",
+    "prompt": "Pressure mounts — at home and abroad — to account for the men your agencies disappeared over the years. Quietly begin returning those still alive and acknowledging the dead, or keep denying that any 'enforced disappearances' ever occurred?",
     "left": {
       "id": "a",
       "label": "Keep denying everything.",
@@ -4769,7 +4769,7 @@
       "checkpoints",
       "abuse"
     ],
-    "prompt": "At the hill-district checkpoints, indigenous travellers are routinely searched, shaken down, and humiliated, while settlers pass freely — a daily grind of indignity feeding the old insurgency. The officer asks whether to reform the checkpoints' conduct or keep the hard hand.",
+    "prompt": "At the hill-district checkpoints, indigenous travellers are routinely searched, shaken down, and humiliated, while settlers pass freely — a daily grind feeding the old insurgency. Reform the checkpoints' conduct, or keep the hard hand?",
     "left": {
       "id": "a",
       "label": "Reform checkpoint conduct.",
@@ -4806,7 +4806,7 @@
       "health",
       "crime"
     ],
-    "prompt": "Counterfeit and substandard medicines — chalk antibiotics, fake cancer drugs — are killing patients and flooding the pharmacies through a ring with reach into licensed distributors. The chief wants a hard crackdown and track-and-trace; the trade is lucrative and connected.",
+    "prompt": "Counterfeit and substandard medicines — chalk antibiotics, fake cancer drugs — are killing patients and flooding the pharmacies through a ring reaching into licensed distributors. The chief wants a crackdown and track-and-trace; the trade is lucrative and connected.",
     "left": {
       "id": "a",
       "label": "Crack down and mandate track-and-trace.",
@@ -4843,7 +4843,7 @@
       "due-process",
       "abuse"
     ],
-    "prompt": "Plainclothes officers in unmarked vehicles routinely 'pick up' suspects without warrants, identification, or any record, leaving families frantic and the line between arrest and abduction erased. The commissioner wants mandatory identification and logging; the agencies call it a fatal delay.",
+    "prompt": "Plainclothes officers in unmarked vehicles routinely 'pick up' suspects without warrants, ID, or any record, erasing the line between arrest and abduction. The commissioner wants mandatory identification and logging; the agencies call it a fatal delay.",
     "left": {
       "id": "a",
       "label": "Require ID, warrants, and logging for arrests.",
@@ -4879,7 +4879,7 @@
       "cadres",
       "festival"
     ],
-    "prompt": "Before every festival, your party's local cadres run a 'collection' — extorting shopkeepers and transporters under the guise of donations, with the police looking on. The superintendent asks whether to stop the racket or let the loyal foot-soldiers feed.",
+    "prompt": "Before every festival, your party's local cadres run a 'collection' — extorting shopkeepers and transporters under the guise of donations, with the police looking on. Stop the racket, or let the loyal foot-soldiers feed?",
     "left": {
       "id": "a",
       "label": "Stop the festival extortion racket.",
@@ -4916,7 +4916,7 @@
       "scope",
       "dissent"
     ],
-    "prompt": "A revised anti-terrorism law could define 'terrorism' so broadly that protest, strikes, and dissent fall within it — a flexible weapon — or narrowly, confined to actual violence. The secretary asks how wide to draw the net.",
+    "prompt": "A revised anti-terrorism law could define 'terrorism' so broadly that protest, strikes, and dissent fall within it — a flexible weapon — or narrowly, confined to actual violence. How wide do you draw the net?",
     "left": {
       "id": "a",
       "label": "Draw the terror definition broadly.",
@@ -4952,7 +4952,7 @@
       "arson",
       "land"
     ],
-    "prompt": "A massive fire has gutted a slum on land a developer covets, and the residents swear it was arson to drive them out — a pattern seen before. The officer can mount a real arson investigation reaching toward the developer, or rule it an accidental electrical fire and move on.",
+    "prompt": "A massive fire has gutted a slum on land a developer covets, and the residents swear it was arson to drive them out — a pattern seen before. Mount a real arson investigation reaching toward the developer, or rule it an accidental electrical fire?",
     "left": {
       "id": "a",
       "label": "Investigate the fire as possible arson.",
@@ -4990,7 +4990,7 @@
       "festival",
       "protection"
     ],
-    "prompt": "The Hindu, Buddhist, and Christian communities' festivals approach amid online threats and a recent temple attack. The officer can deploy visible, generous protection for the minority celebrations, or keep it minimal to avoid 'provoking' the hardliners.",
+    "prompt": "The Hindu, Buddhist, and Christian communities' festivals approach amid online threats and a recent temple attack. Deploy visible, generous protection for the minority celebrations, or keep it minimal to avoid 'provoking' the hardliners?",
     "left": {
       "id": "a",
       "label": "Protect the minority festivals generously.",
@@ -5028,7 +5028,7 @@
       "fencing",
       "confinement"
     ],
-    "prompt": "To control the sprawling refugee camps, you can ring them with barbed wire and watchtowers, sealing the refugees in — easing local security fears, and drawing the agencies' charge that you have built an open-air prison for a stateless people.",
+    "prompt": "To control the sprawling refugee camps, you can ring them with barbed wire and watchtowers, sealing the refugees in — easing local security fears, and drawing the charge that you have built an open-air prison for a stateless people.",
     "left": {
       "id": "a",
       "label": "Fence and seal the camps.",
@@ -5064,7 +5064,7 @@
       "modernisation",
       "service"
     ],
-    "prompt": "The local police stations are intimidating, corrupt, and hostile, especially to the poor and to women, who would sooner suffer than enter one. The commissioner proposes citizen-friendly stations — women's help desks, complaint tracking, clean reception — at real cost and against deep cultural inertia.",
+    "prompt": "The local police stations are intimidating, corrupt, and hostile, especially to the poor and to women, who would sooner suffer than enter one. The commissioner proposes citizen-friendly stations — women's help desks, complaint tracking, clean reception — at real cost.",
     "left": {
       "id": "a",
       "label": "Modernise the stations as citizen services.",
@@ -5101,7 +5101,7 @@
       "surveillance",
       "radicalisation"
     ],
-    "prompt": "Intelligence wants to plant informants in mosques and religious gatherings to catch radicalisation early. It is a real counter-terror tool, and a profound intrusion that, exposed, would enrage the devout and confirm every fear of a surveillance state aimed at the faith.",
+    "prompt": "Intelligence wants to plant informants in mosques and religious gatherings to catch radicalisation early. A real counter-terror tool — and a profound intrusion that, exposed, would enrage the devout and confirm every fear of a state spying on the faith.",
     "left": {
       "id": "a",
       "label": "Plant informants in religious gatherings.",
@@ -5137,7 +5137,7 @@
       "inquiry",
       "communal"
     ],
-    "prompt": "A communal riot has left a minority neighbourhood gutted and several dead, with credible claims that police stood by or joined in. The coordinator asks whether to mount an independent inquiry and full compensation, or a quiet internal review that shields the force.",
+    "prompt": "A communal riot has left a minority neighbourhood gutted and several dead, with credible claims that police stood by or joined in. Mount an independent inquiry and full compensation, or a quiet internal review that shields the force?",
     "left": {
       "id": "a",
       "label": "Hold an independent inquiry, compensate fully.",
@@ -5175,7 +5175,7 @@
       "monitoring",
       "speech"
     ],
-    "prompt": "After the quota unrest organised online, the cyber unit wants to monitor student social-media networks and flag 'instigators' for pre-emptive action. The chief calls it early warning; it is also a chilling watch over a whole generation's political speech.",
+    "prompt": "After the quota unrest organised online, the cyber unit wants to monitor student social-media networks and flag 'instigators' for pre-emptive action. The chief calls it early warning; it is also a chilling watch over a generation's political speech.",
     "left": {
       "id": "a",
       "label": "Monitor and pre-empt student networks.",
@@ -5211,7 +5211,7 @@
       "protection",
       "justice"
     ],
-    "prompt": "Cases against the powerful collapse because witnesses are bought, threatened, or killed, and there is no protection for those who dare testify. The chief wants a real witness-protection programme; it is costly, complex, and would make the untouchable suddenly prosecutable.",
+    "prompt": "Cases against the powerful collapse because witnesses are bought, threatened, or killed, and there is no protection for those who dare testify. The chief wants a real witness-protection programme — costly, complex, and a threat to the untouchable.",
     "left": {
       "id": "a",
       "label": "Build a witness-protection programme.",
@@ -5249,7 +5249,7 @@
       "killings",
       "restraint"
     ],
-    "prompt": "Your own border guards have shot dead unarmed villagers crossing for petty trade, mirroring the neighbour's notorious killings. The director asks whether to enforce strict non-lethal rules of engagement, or keep the shoot-to-deter posture that the brass prefers.",
+    "prompt": "Your own border guards have shot dead unarmed villagers crossing for petty trade, mirroring the neighbour's notorious killings. Enforce strict non-lethal rules of engagement, or keep the shoot-to-deter posture the brass prefers?",
     "left": {
       "id": "a",
       "label": "Enforce non-lethal rules of engagement.",
@@ -5285,7 +5285,7 @@
       "slums",
       "control"
     ],
-    "prompt": "A dense informant network in the slums would give you eyes on crime and dissent alike — and turn neighbour against neighbour, breeding fear and false accusations for petty grudges. The superintendent wants it built; the cost is the social fabric of the poorest places.",
+    "prompt": "A dense informant network in the slums would give you eyes on crime and dissent alike — and turn neighbour against neighbour, breeding fear and false accusations. The superintendent wants it built; the cost is the social fabric of the poorest places.",
     "left": {
       "id": "a",
       "label": "Build the slum informant network.",
@@ -5321,7 +5321,7 @@
       "gatherings",
       "dissent"
     ],
-    "prompt": "New software can scan and identify every face at a rally, prayer gathering, or protest in real time against the national ID database. The director wants it live at all major gatherings; civil society warns it ends the anonymity that makes public assembly safe.",
+    "prompt": "New software can scan and identify every face at a rally, prayer gathering, or protest in real time against the national ID database. The director wants it live at all major gatherings; civil society warns it ends the anonymity that makes assembly safe.",
     "left": {
       "id": "a",
       "label": "Scan every major gathering.",
@@ -5357,7 +5357,7 @@
       "health",
       "deaths"
     ],
-    "prompt": "Prisoners die of treatable illness for want of any real medical care in the jails, and the sick are ignored until they are corpses. The officer wants proper prison healthcare; it costs money for a constituency — convicts — that wins no votes and earns no sympathy.",
+    "prompt": "Prisoners die of treatable illness for want of any real medical care, the sick ignored until they are corpses. The officer wants proper prison healthcare; it costs money for a constituency — convicts — that wins no votes and earns no sympathy.",
     "left": {
       "id": "a",
       "label": "Fund proper prison healthcare.",
@@ -5393,7 +5393,7 @@
       "violence",
       "powerful"
     ],
-    "prompt": "A powerful local man is seizing a poor family's land by force, with hired muscle and a bought local police chief, and the family's appeals go nowhere. The chief asks whether to intervene against the powerful grabber or let the 'private dispute' run its course.",
+    "prompt": "A powerful local man is seizing a poor family's land by force, with hired muscle and a bought local police chief, and the family's appeals go nowhere. Intervene against the powerful grabber, or let the 'private dispute' run its course?",
     "left": {
       "id": "a",
       "label": "Intervene against the land-grabber.",
@@ -5431,7 +5431,7 @@
       "hospitals",
       "neutrality"
     ],
-    "prompt": "During unrest, police have been seizing injured protesters from hospital beds and pressuring doctors to deny them treatment or report them. The officer asks whether to guarantee medical neutrality — hospitals as sanctuaries — or let the security forces pursue the wounded inside.",
+    "prompt": "During unrest, police have been seizing injured protesters from hospital beds and pressuring doctors to deny treatment or report them. Guarantee medical neutrality — hospitals as sanctuaries — or let the security forces pursue the wounded inside?",
     "left": {
       "id": "a",
       "label": "Guarantee hospitals as neutral sanctuaries.",
@@ -5467,7 +5467,7 @@
       "cover-up",
       "accountability"
     ],
-    "prompt": "A businessman who fell out with a powerful minister has vanished — picked up, witnesses say, by men in plainclothes. The trail leads uncomfortably close to your own circle. The director asks whether to investigate honestly or quietly close the file.",
+    "prompt": "A businessman who fell out with a powerful minister has vanished — picked up, witnesses say, by men in plainclothes. The trail leads uncomfortably close to your own circle. Investigate honestly, or quietly close the file?",
     "left": {
       "id": "a",
       "label": "Investigate honestly, wherever it leads.",
@@ -5505,7 +5505,7 @@
       "cover-up",
       "accountability"
     ],
-    "prompt": "The case would not stay buried — a journalist has the witnesses, and the story is about to break regardless. The director asks whether to get ahead of it with a controlled admission and a scapegoat, or to crush the story and the journalist with it.",
+    "prompt": "The case would not stay buried — a journalist has the witnesses, and the story is about to break regardless. Get ahead of it with a controlled admission and a scapegoat, or crush the story and the journalist with it?",
     "left": {
       "id": "a",
       "label": "Crush the story and the journalist.",
@@ -5542,7 +5542,7 @@
       "students",
       "quota"
     ],
-    "prompt": "A term later, the same fault line tears open again. Students have filled the streets over the civil-service quota system — peaceful, enormous, and growing by the hour. The IGP wants permission to clear the intersections before they become permanent. \"Give it a week,\" he warns, \"and a road-block becomes a movement.\"",
+    "prompt": "A term later, the same fault line tears open again. Students have filled the streets over the civil-service quota system — peaceful, enormous, growing by the hour. The IGP wants to clear the intersections now. \"Give it a week,\" he warns, \"and a road-block becomes a movement.\"",
     "left": {
       "id": "a",
       "label": "Authorise a forceful clearance now.",
@@ -5578,7 +5578,7 @@
       "students",
       "quota"
     ],
-    "prompt": "Years into your rule, the matter you thought buried resurfaces — harder. Despite restraint, a video of a single unarmed student shot dead has become the symbol of the movement. The protest is no longer about quotas — it is about you. Your hardliners demand a curfew and an internet blackout.",
+    "prompt": "Years into your rule, the matter you thought buried resurfaces — harder. A video of a single unarmed student shot dead has become the symbol of the movement. The protest is no longer about quotas — it is about you. Your hardliners demand a curfew and an internet blackout.",
     "left": {
       "id": "a",
       "label": "Impose curfew and cut the internet.",
@@ -5615,7 +5615,7 @@
       "students",
       "quota"
     ],
-    "prompt": "A new season of power, an old problem with sharper teeth. The movement now demands the resignation of the ministers who ordered the violence — and the cantonment chief privately signals he will not order troops to fire on students again. The ground is shifting under your chair.",
+    "prompt": "A new season of power, an old problem with sharper teeth. The movement now demands the resignation of the ministers who ordered the violence — and the cantonment chief privately signals he won't order troops to fire on students again. The ground is shifting under your chair.",
     "left": {
       "id": "a",
       "label": "Sacrifice the hardline ministers.",
@@ -5653,7 +5653,7 @@
       "rab",
       "torture"
     ],
-    "prompt": "The crisis returns, and this time the cabinet is watching. The Commission hands you a dossier: dozens vanished into the custody of your elite battalion, families turned away at every gate. \"Some are alive in secret cells,\" the Chair says quietly. \"You could bring them home. Or you could let the file gather dust like the last one.\"",
+    "prompt": "The crisis returns, and this time the cabinet is watching. The Commission hands you a dossier: dozens vanished into your elite battalion's custody, families turned away at every gate. \"Some are alive in secret cells,\" the Chair says quietly. \"You could bring them home — or let the file gather dust like the last one.\"",
     "left": {
       "id": "a",
       "label": "Bury the dossier.",
@@ -5689,7 +5689,7 @@
       "rab",
       "torture"
     ],
-    "prompt": "Once more the issue lands on your desk, the stakes higher than before. With the cells emptying, a faction of officers — afraid of prosecution — floats a quiet warning through intermediaries: 'protect us with amnesty, or the force cannot guarantee its loyalty.' It is a polite mutiny.",
+    "prompt": "Once more the issue lands on your desk, the stakes higher than before. With the cells emptying, a faction of officers afraid of prosecution floats a quiet warning: 'protect us with amnesty, or the force cannot guarantee its loyalty.' It is a polite mutiny.",
     "left": {
       "id": "a",
       "label": "Grant a quiet amnesty for past acts.",
@@ -5726,7 +5726,7 @@
       "press",
       "speech"
     ],
-    "prompt": "Another year survived, and the reckoning circles back. Under the cyber law, a cartoonist and two reporters sit in jail for posts mocking the first family. The Director offers more arrests under the same statute — \"a few examples and the rest fall quiet\" — or you could let the three out and blunt the law's teeth.",
+    "prompt": "Another year survived, and the reckoning circles back. Under the cyber law, a cartoonist and two reporters sit in jail for posts mocking the first family. The Director offers more arrests — \"a few examples and the rest fall quiet\" — or you could free the three and blunt the law's teeth.",
     "left": {
       "id": "a",
       "label": "Make more examples under the Act.",
@@ -5802,7 +5802,7 @@
       "spyware",
       "rights"
     ],
-    "prompt": "History rhymes: the conflict reopens deeper than last time. A foreign vendor offers a phone-hacking suite that can crack any device in the country — opposition, press, your own ministers. \"Every modern state has one,\" the salesman murmurs. The price is steep and the oversight is whatever you decide it is.",
+    "prompt": "History rhymes: the conflict reopens deeper than last time. A foreign vendor offers a phone-hacking suite that can crack any device in the country — opposition, press, your own ministers. \"Every modern state has one,\" the salesman murmurs. The oversight is whatever you decide it is.",
     "left": {
       "id": "a",
       "label": "Buy it and use it freely.",
@@ -5839,7 +5839,7 @@
       "torture",
       "reform"
     ],
-    "prompt": "Mid-reign, the old wound is torn afresh. A young SP requests an audience after a hawker dies in his thana's lock-up. \"My OC tortured him over forty taka and wrote it as a heart attack. I can sign the false report and rise, or report my own station and be buried. I came to you to decide which.\"",
+    "prompt": "Mid-reign, the old wound is torn afresh. A young SP requests an audience after a hawker dies in his thana's lock-up. \"My OC tortured him over forty taka and wrote it as a heart attack. I can sign the false report and rise, or report my own station and be buried. You decide which.\"",
     "left": {
       "id": "a",
       "label": "Tell him to sign and let it lie.",
@@ -6836,7 +6836,7 @@
       "siege",
       "militants"
     ],
-    "prompt": "Years on and unhealed, the conflict returns to claim its answer. Militants have stormed an upscale café full of foreigners and taken hostages, executing those who cannot recite scripture. The world is watching live. The commander can storm it now with heavy force, or negotiate and wait, each hour risking more throats.",
+    "prompt": "Years on and unhealed, the conflict returns to claim its answer. Militants have stormed an upscale café full of foreigners, executing those who cannot recite scripture. The world is watching live. Storm it now with heavy force, or negotiate and wait — each hour risking more throats?",
     "left": {
       "id": "a",
       "label": "Storm the café immediately.",
@@ -6872,7 +6872,7 @@
       "siege",
       "militants"
     ],
-    "prompt": "The same fault line, the harder hour, the narrower path. The siege is over, and the attackers turn out to be not impoverished fanatics but privileged, educated young men from good families — a fact that terrifies the elite. The commander wants a sweeping crackdown on suspect youth; the alternative is a quieter de-radicalisation drive.",
+    "prompt": "The same fault line, the harder hour, the narrower path. The siege is over, and the attackers turn out to be not impoverished fanatics but privileged, educated young men from good families — a fact that terrifies the elite. Launch a sweeping crackdown on suspect youth, or a quieter de-radicalisation drive?",
     "left": {
       "id": "a",
       "label": "Launch a sweeping crackdown on suspect youth.",
@@ -6908,7 +6908,7 @@
       "rumour",
       "mob"
     ],
-    "prompt": "It comes back sharpened by every season you survived. A rumour on social media that strangers were kidnapping children for a bridge's 'human sacrifice' has triggered a wave of mob lynchings — innocent people beaten to death on suspicion. The IGP wants a hard order to fire on lynch mobs; the alternative is a rumour-control and arrest drive.",
+    "prompt": "It comes back sharpened by every season you survived. A rumour that strangers are snatching children for a bridge's 'human sacrifice' has triggered a wave of mob lynchings — innocents beaten to death on suspicion. Order police to fire on lynch mobs, or run a rumour-control and arrest drive?",
     "left": {
       "id": "a",
       "label": "Authorise firing on lynch mobs.",
@@ -6944,7 +6944,7 @@
       "protest",
       "blasphemy"
     ],
-    "prompt": "A later year of power, the old crisis now a true test of it. A vast Islamist movement has occupied the heart of the capital, demanding a blasphemy law and the removal of a 'pagan' sculpture, refusing to leave. The secretary offers a midnight clearance by force, or patient negotiation that concedes some symbolic ground.",
+    "prompt": "A later year of power, the old crisis now a true test of it. A vast Islamist movement has occupied the heart of the capital, demanding a blasphemy law and the removal of a 'pagan' sculpture, refusing to leave. Clear the square by force at midnight, or negotiate and concede some symbolic ground?",
     "left": {
       "id": "a",
       "label": "Clear the square by force at night.",
@@ -6981,7 +6981,7 @@
       "surveillance",
       "dissent"
     ],
-    "prompt": "The unresolved returns, and this time it will not be deferred. A foreign vendor offers military-grade phone spyware that cracks any device — a tool to read every plot, journalist, and judge in the country. The chief is desperate for it; the catch is the inevitable leak that you bought a weapon to spy on your own people.",
+    "prompt": "The unresolved returns, and this time it will not be deferred. A foreign vendor offers military-grade phone spyware that cracks any device — a tool to read every plot, journalist, and judge in the country. The chief is desperate for it; the catch is the inevitable leak that you bought it to spy on your own people.",
     "left": {
       "id": "a",
       "label": "Buy the spyware.",
@@ -7017,7 +7017,7 @@
       "political",
       "overcrowding"
     ],
-    "prompt": "A term later, the same fault line tears open again. The jails hold three times their capacity, swollen with opposition activists swept up in mass cases. Disease and deaths in custody mount. The IG can release the low-level political detainees to ease the crush, or hold them all and build more cells.",
+    "prompt": "A term later, the same fault line tears open again. The jails hold three times their capacity, swollen with opposition activists swept up in mass cases, and deaths in custody mount. Release the low-level political detainees to ease the crush, or hold them all and build more cells?",
     "left": {
       "id": "a",
       "label": "Hold them all, build more cells.",
@@ -7054,7 +7054,7 @@
       "campus",
       "torture"
     ],
-    "prompt": "Years into your rule, the matter you thought buried resurfaces — harder. Members of your party's student wing have tortured a student to death in a dorm 'guest room' for a Facebook post criticising the government. The campus and the nation are erupting. The officer asks whether to shield the cadres or hand them to justice.",
+    "prompt": "Years into your rule, the matter you thought buried resurfaces — harder. Your party's student-wing cadres have tortured a student to death in a dorm 'guest room' for a Facebook post criticising the government. The campus and the nation are erupting. Shield the cadres, or hand them to justice?",
     "left": {
       "id": "a",
       "label": "Shield the student-wing cadres.",
@@ -7092,7 +7092,7 @@
       "facial-recognition",
       "privacy"
     ],
-    "prompt": "A new season of power, an old problem with sharper teeth. A 'safe city' project would blanket the capital in cameras with live facial recognition — a genuine boon against crime and terror, and a perfect tool for tracking every protester and dissident. The director wants the full system; civil society is alarmed.",
+    "prompt": "A new season of power, an old problem with sharper teeth. A 'safe city' project would blanket the capital in cameras with live facial recognition — a genuine boon against crime, and a perfect tool for tracking every protester and dissident. The director wants the full system; civil society is alarmed.",
     "left": {
       "id": "a",
       "label": "Deploy the full facial-recognition net.",
@@ -7129,7 +7129,7 @@
       "sanctions",
       "reform"
     ],
-    "prompt": "The crisis returns, and this time the cabinet is watching. Your elite battalion is under foreign sanctions for extrajudicial killings, and the crossfire deaths have all but stopped under scrutiny — but crime is creeping back and hardliners want the gloves off again. The adviser asks whether to entrench the reform or quietly revert.",
+    "prompt": "The crisis returns, and this time the cabinet is watching. Your elite battalion is under foreign sanctions for extrajudicial killings, and the crossfire deaths have all but stopped under scrutiny — but crime is creeping back and hardliners want the gloves off again. Entrench the reform, or quietly revert?",
     "left": {
       "id": "a",
       "label": "Quietly let the crossfire killings resume.",
@@ -7165,7 +7165,7 @@
       "corruption",
       "bribery"
     ],
-    "prompt": "Once more the issue lands on your desk, the stakes higher than before. At the local police stations, nothing moves without a bribe — filing a case, getting bail, even reporting a crime. The commissioner wants a transparency overhaul with citizen oversight and digital records; the rank-and-file, who live on the bribes, will resist fiercely.",
+    "prompt": "Once more the issue lands on your desk, the stakes higher than before. At the local police stations, nothing moves without a bribe — filing a case, getting bail, even reporting a crime. The commissioner wants a transparency overhaul with citizen oversight; the rank-and-file, who live on the bribes, will resist fiercely.",
     "left": {
       "id": "a",
       "label": "Force the transparency overhaul.",
@@ -7201,7 +7201,7 @@
       "boats",
       "syndicate"
     ],
-    "prompt": "Another year survived, and the reckoning circles back. A trafficking syndicate is loading desperate young men onto death-trap boats for the sea route to Malaysia, where many drown or end in jungle camps — and the network has police and border-guard protection. The chief wants it smashed, names and all.",
+    "prompt": "Another year survived, and the reckoning circles back. A trafficking syndicate is loading desperate young men onto death-trap boats to Malaysia, where many drown or end in jungle camps — and the network has police and border-guard protection. The chief wants it smashed, names and all.",
     "left": {
       "id": "a",
       "label": "Smash the network, protectors and all.",
@@ -7239,7 +7239,7 @@
       "sect",
       "violence"
     ],
-    "prompt": "The ground has shifted; the same demand arrives with new menace. A hardline movement is whipping up mobs against a small heterodox Muslim sect, attacking their mosques and demanding they be declared non-Muslim. The officer asks whether to protect the sect with force, or appease the majority by quietly conceding the demand.",
+    "prompt": "The ground has shifted; the same demand arrives with new menace. A hardline movement is whipping up mobs against a small heterodox Muslim sect, attacking their mosques and demanding they be declared non-Muslim. Protect the sect with force, or appease the majority by quietly conceding?",
     "left": {
       "id": "a",
       "label": "Protect the sect with force.",
@@ -7277,7 +7277,7 @@
       "festival",
       "extremism"
     ],
-    "prompt": "History rhymes: the conflict reopens deeper than last time. The great secular new-year festival — music, masks, processions — faces a credible militant bomb threat, and hardliners are also denouncing it as 'un-Islamic'. The officer can lock it down behind a security wall, or cancel it 'for safety' and quietly please the zealots.",
+    "prompt": "History rhymes: the conflict reopens deeper than last time. The great secular new-year festival — music, masks, processions — faces a credible militant bomb threat, and hardliners denounce it as 'un-Islamic'. Lock it down behind a security wall, or cancel it 'for safety' and quietly please the zealots?",
     "left": {
       "id": "a",
       "label": "Hold the festival behind heavy security.",
@@ -7315,7 +7315,7 @@
       "police",
       "accountability"
     ],
-    "prompt": "Mid-reign, the old wound is torn afresh. A serving officer has leaked documents proving a senior commander ordered a string of fake 'crossfire' killings. The director can prosecute the whistleblower for breaching secrecy and bury the revelation, or protect him and pursue the commander.",
+    "prompt": "Mid-reign, the old wound is torn afresh. A serving officer has leaked documents proving a senior commander ordered a string of fake 'crossfire' killings. Prosecute the whistleblower for breaching secrecy and bury it, or protect him and pursue the commander?",
     "left": {
       "id": "a",
       "label": "Prosecute the whistleblower, bury it.",
@@ -7352,7 +7352,7 @@
       "ban",
       "assembly"
     ],
-    "prompt": "The pressure you deferred has come due, larger now. The opposition has called a massive rally in the capital, and you can pre-emptively ban all gatherings under the old colonial assembly law, choking it before it starts. The magistrate warns that the ban itself may provoke exactly the confrontation you fear.",
+    "prompt": "The pressure you deferred has come due, larger now. The opposition has called a massive rally in the capital, and you can pre-emptively ban all gatherings under the old colonial assembly law. The magistrate warns the ban itself may provoke exactly the confrontation you fear.",
     "left": {
       "id": "a",
       "label": "Ban the rally under Section 144.",
@@ -7388,7 +7388,7 @@
       "party",
       "patronage"
     ],
-    "prompt": "A later term, and the quarrel has hardened into a test. Local party leaders are pressing for a wave of private firearms licences — ostensibly for self-defence, in truth to arm the local muscle that wins elections. The officer can approve the lot as a loyalty reward, or tighten licensing and disarm the cadres.",
+    "prompt": "A later term, and the quarrel has hardened into a test. Local party leaders are pressing for a wave of private firearms licences — ostensibly for self-defence, in truth to arm the local muscle that wins elections. Approve the lot as a loyalty reward, or tighten licensing and disarm the cadres?",
     "left": {
       "id": "a",
       "label": "Approve the firearms licences.",
@@ -7426,7 +7426,7 @@
       "foreign-fighters",
       "deradicalisation"
     ],
-    "prompt": "The country has changed, but this fault line has not — only worsened. A handful of citizens who went abroad to fight for a terror group want to return, some with wives and children born in the war zone. The commander can bar or jail them all as a danger, or repatriate and rehabilitate under close watch.",
+    "prompt": "The country has changed, but this fault line has not — only worsened. A handful of citizens who went abroad to fight for a terror group want to return, some with wives and children born in the war zone. Bar or jail them all as a danger, or repatriate and rehabilitate under close watch?",
     "left": {
       "id": "a",
       "label": "Bar or jail the returnees outright.",
@@ -7462,7 +7462,7 @@
       "accreditation",
       "surveillance"
     ],
-    "prompt": "It returns, as these things do, with the patience gone. You can quietly strip parliamentary and secretariat press accreditation from the most critical journalists — cutting their access without an arrest. The officer calls it clean and deniable; it is also an unmistakable signal that coverage is now conditional on loyalty.",
+    "prompt": "It returns, as these things do, with the patience gone. You can quietly strip press accreditation from the most critical journalists — cutting their access without an arrest. The officer calls it clean and deniable; it is also an unmistakable signal that coverage is now conditional on loyalty.",
     "left": {
       "id": "a",
       "label": "Strip the critics' accreditation.",
@@ -7499,7 +7499,7 @@
       "militants",
       "security"
     ],
-    "prompt": "Years on, the matter is no longer private; the press is already circling. Convicted militants have broken out of a high-security prison with apparent inside help, and are loose in the country. The IG wants a massive, disruptive nationwide manhunt with checkpoints and detentions; the alternative is a targeted, intelligence-led pursuit.",
+    "prompt": "Years on, the matter is no longer private; the press is already circling. Convicted militants have broken out of a high-security prison with apparent inside help, and are loose in the country. Launch a massive, disruptive nationwide manhunt, or a targeted, intelligence-led pursuit?",
     "left": {
       "id": "a",
       "label": "Launch a massive nationwide dragnet.",
@@ -7535,7 +7535,7 @@
       "garments",
       "protest"
     ],
-    "prompt": "The same knot, retied tighter, lands before you once more. Tens of thousands of garment workers have walked out over unpaid wages and blocked the industrial highways. The factory owners — your donors — demand the protest crushed; the chief can send the industrial police in hard, or broker a wage settlement instead.",
+    "prompt": "The same knot, retied tighter, lands before you once more. Tens of thousands of garment workers have walked out over unpaid wages and blocked the industrial highways. The factory owners — your donors — demand the protest crushed. Send the industrial police in hard, or broker a wage settlement?",
     "left": {
       "id": "a",
       "label": "Crush the worker protest.",
@@ -7573,7 +7573,7 @@
       "land",
       "grabbing"
     ],
-    "prompt": "Another monsoon, another return of an argument you cannot end. Under a notorious old law, minority Hindu families' land has been seized as 'enemy property' and grabbed by the locally powerful — often your own people. A restitution drive could return it; the grabbers, with party ties, will fight to keep their spoils.",
+    "prompt": "Another monsoon, another return of an argument you cannot end. Under a notorious old law, minority Hindu families' land has been seized as 'enemy property' and grabbed by the locally powerful — often your own people. A restitution drive could return it; the grabbers, with party ties, will fight to keep it.",
     "left": {
       "id": "a",
       "label": "Drive the land restitution.",
@@ -7611,7 +7611,7 @@
       "database",
       "surveillance"
     ],
-    "prompt": "Deep into the reign, the issue demands a final-sounding answer. The national ID system can be linked to phones, banks, travel, and biometrics into a single all-seeing profile of every citizen — efficient government, and a surveillance dossier on the entire population. The director wants full integration; privacy advocates are aghast.",
+    "prompt": "Deep into the reign, the issue demands a final-sounding answer. The national ID system can be fused with phones, banks, travel, and biometrics into a single all-seeing profile of every citizen — efficient government, and a surveillance dossier on the whole population. The director wants full integration; privacy advocates are aghast.",
     "left": {
       "id": "a",
       "label": "Build the fully integrated profile.",
@@ -7649,7 +7649,7 @@
       "curriculum",
       "extremism"
     ],
-    "prompt": "The reckoning you postponed has matured into a crisis. Tens of thousands of unregistered religious schools teach a curriculum the state cannot see, some shading into extremism. The liaison wants them registered and made to teach maths, science, and citizenship; the clerical establishment calls it an assault on faith.",
+    "prompt": "The reckoning you postponed has matured into a crisis. Tens of thousands of unregistered religious schools teach a curriculum the state cannot see, some shading into extremism. The liaison wants them registered and teaching maths, science, and citizenship; the clergy calls it an assault on faith.",
     "left": {
       "id": "a",
       "label": "Force registration and a modern curriculum.",
@@ -7687,7 +7687,7 @@
       "extortion",
       "corruption"
     ],
-    "prompt": "A new chapter, the same antagonists, less room to manoeuvre. The traffic police live off a daily tax on every bus, truck, and rickshaw, waving through the dangerous and fining the compliant. The chief can launch a clean-up with cashless fines and oversight, or leave the lucrative racket that keeps the force quietly content.",
+    "prompt": "A new chapter, the same antagonists, less room to manoeuvre. The traffic police live off a daily tax on every bus, truck, and rickshaw, waving through the dangerous and fining the compliant. Launch a clean-up with cashless fines and oversight, or leave the racket that keeps the force quietly content?",
     "left": {
       "id": "a",
       "label": "Clean up the traffic racket.",
@@ -7723,7 +7723,7 @@
       "sufi",
       "militants"
     ],
-    "prompt": "The old fault line widens; this time there is no quiet option. Militants are bombing and hacking to death the keepers of Sufi shrines — the gentle, syncretic Islam the hardliners despise. The commander wants visible armed protection at hundreds of shrines and a crackdown on the preachers who incite it; the latter means confronting powerful clerics.",
+    "prompt": "The old fault line widens; this time there is no quiet option. Militants are bombing and hacking to death the keepers of Sufi shrines — the gentle, syncretic Islam the hardliners despise. The commander wants armed protection at the shrines and a crackdown on the inciting preachers — which means confronting powerful clerics.",
     "left": {
       "id": "a",
       "label": "Protect the shrines and confront the inciters.",
@@ -7761,7 +7761,7 @@
       "rape",
       "justice"
     ],
-    "prompt": "Time has not healed it — the conflict comes back armed. A horrific gang-rape, filmed and shared by the attackers — politically connected young men — has ignited nationwide protests demanding justice and the death penalty. The IGP asks whether to let the case take its full course against the connected, or let it quietly stall.",
+    "prompt": "Time has not healed it — the conflict comes back armed. A horrific gang-rape, filmed and shared by the attackers — politically connected young men — has ignited nationwide protests demanding justice. Let the case take its full course against the connected, or let it quietly stall?",
     "left": {
       "id": "a",
       "label": "Pursue the connected attackers fully.",
@@ -7799,7 +7799,7 @@
       "smuggling",
       "corruption"
     ],
-    "prompt": "Once again, and with the whole house holding its breath. Your own border guards run a thriving smuggling trade — cattle, drugs, gold, phensedyl — in collusion with their counterparts across the wire. The director can purge the corrupt battalions, risking morale and a guarded border, or keep the lucrative status quo.",
+    "prompt": "Once again, and with the whole house holding its breath. Your own border guards run a thriving smuggling trade — cattle, drugs, gold, phensedyl — in collusion with their counterparts across the wire. Purge the corrupt battalions, risking morale and a guarded border, or keep the lucrative status quo?",
     "left": {
       "id": "a",
       "label": "Purge the smuggling battalions.",
@@ -7836,7 +7836,7 @@
       "unrest",
       "order"
     ],
-    "prompt": "The matter resurfaces in a harder year, patience exhausted. Unrest is spreading city to city and the secretary urges a nationwide curfew with shoot-on-sight authority to 'restore order overnight'. It would clear the streets — and any death under it becomes a death you ordered.",
+    "prompt": "The matter resurfaces in a harder year, patience exhausted. Unrest is spreading city to city, and the secretary urges a nationwide curfew with shoot-on-sight authority to 'restore order overnight'. It would clear the streets — and any death under it becomes a death you ordered.",
     "left": {
       "id": "a",
       "label": "Impose curfew with shoot-on-sight.",
@@ -7872,7 +7872,7 @@
       "blackout",
       "unrest"
     ],
-    "prompt": "A later season of rule, the stakes now openly existential. With protests organising by phone, the officer can order a total internet and mobile blackout to blind and scatter them. It would choke the coordination — and the economy, the hospitals, and the country's last window onto what your forces are doing in the dark.",
+    "prompt": "A later season of rule, the stakes now openly existential. With protests organising by phone, the officer can order a total internet and mobile blackout to blind and scatter them. It would choke the coordination — and the economy, the hospitals, and the last window onto what your forces do in the dark.",
     "left": {
       "id": "a",
       "label": "Order a total communications blackout.",
@@ -7910,7 +7910,7 @@
       "accountability",
       "body-cameras"
     ],
-    "prompt": "It comes around again, and the margin for error is gone. A reform drive proposes body cameras and a real complaints commission for the police — a check on the brutality that fuels public hatred of the force. The rank-and-file and their commanders see it as a leash and a humiliation, and resist hard.",
+    "prompt": "It comes around again, and the margin for error is gone. A reform drive proposes body cameras and a real complaints commission for the police — a check on the brutality that fuels public hatred of the force. The rank-and-file and their commanders see a leash and a humiliation, and resist hard.",
     "left": {
       "id": "a",
       "label": "Mandate body cameras and oversight.",
@@ -7946,7 +7946,7 @@
       "vigilantes",
       "youth"
     ],
-    "prompt": "The same demand, but the reign is older and the knives sharper. Self-appointed morality squads are harassing couples in parks, attacking 'immodest' women, and beating young people for un-Islamic dress. The hardliners call them guardians of virtue. The magistrate asks whether to arrest the squads or quietly tolerate them.",
+    "prompt": "The same demand, but the reign is older and the knives sharper. Self-appointed morality squads are harassing couples in parks, attacking 'immodest' women, and beating young people for un-Islamic dress. The hardliners call them guardians of virtue. Arrest the squads, or quietly tolerate them?",
     "left": {
       "id": "a",
       "label": "Arrest the morality squads.",
@@ -7984,7 +7984,7 @@
       "detention",
       "exposure"
     ],
-    "prompt": "Years deep, the unresolved returns to be resolved for good. Investigators have located a secret detention site — an 'Aynaghar' of mirrored cells where the disappeared are held off the books. The story is about to break. The chief asks whether to deny everything and bury the site, or acknowledge it and free the captives.",
+    "prompt": "Years deep, the unresolved returns to be resolved for good. Investigators have located a secret detention site — an 'Aynaghar' of mirrored cells where the disappeared are held off the books. The story is about to break. Deny everything and bury the site, or acknowledge it and free the captives?",
     "left": {
       "id": "a",
       "label": "Deny it and bury the site.",
@@ -8020,7 +8020,7 @@
       "insurgency",
       "checkpoints"
     ],
-    "prompt": "The conflict reignites, and the world is watching this time. In the hill tracts, the army's web of checkpoints and camps controls indigenous life and feeds a low-grade insurgency, while settlers and soldiers want the grip kept tight. The officer asks whether to draw down the military presence per the peace accord, or hold it.",
+    "prompt": "The conflict reignites, and the world is watching this time. In the hill tracts, the army's web of checkpoints and camps controls indigenous life and feeds a low-grade insurgency, while settlers and soldiers want the grip kept tight. Draw down the military presence per the peace accord, or hold it?",
     "left": {
       "id": "a",
       "label": "Hold the heavy military grip.",
@@ -8057,7 +8057,7 @@
       "blasphemy",
       "rumour"
     ],
-    "prompt": "A familiar crisis, escalated by everything you let slide. A doctored screenshot alleging a Hindu youth insulted the Prophet has set mobs torching a minority village. The youth may well be innocent and framed. The magistrate asks whether to protect the village and investigate the framing, or appease the mob by arresting the accused.",
+    "prompt": "A familiar crisis, escalated by everything you let slide. A doctored screenshot alleging a Hindu youth insulted the Prophet has set mobs torching a minority village. The youth may well be framed. Protect the village and investigate the framing, or appease the mob by arresting the accused?",
     "left": {
       "id": "a",
       "label": "Protect the village, investigate the framing.",
@@ -8095,7 +8095,7 @@
       "security",
       "resources"
     ],
-    "prompt": "The fault line cracks wider; the decision can no longer wait. A huge share of the police is tied up guarding ministers, MPs, and their families, stripping protection from ordinary neighbourhoods. The chief can slash the VIP details and redeploy to the public, or keep the entourages your elite has come to expect.",
+    "prompt": "The fault line cracks wider; the decision can no longer wait. A huge share of the police is tied up guarding ministers, MPs, and their families, stripping protection from ordinary neighbourhoods. Slash the VIP details and redeploy to the public, or keep the entourages your elite expects?",
     "left": {
       "id": "a",
       "label": "Slash VIP security, redeploy to the public.",
@@ -8132,7 +8132,7 @@
       "dissent",
       "speech"
     ],
-    "prompt": "Late in the reign, the old question demands a heavier answer. A new cyber-patrol unit can monitor social media around the clock and arrest citizens for 'anti-state' posts — memes, jokes, criticism. The commander wants a wide mandate; it would chill all online speech and fill the jails with teenagers over Facebook posts.",
+    "prompt": "Late in the reign, the old question demands a heavier answer. A new cyber-patrol unit can monitor social media around the clock and arrest citizens for 'anti-state' posts — memes, jokes, criticism. A wide mandate would chill all online speech and fill the jails with teenagers over Facebook posts.",
     "left": {
       "id": "a",
       "label": "Give the cyber patrol a wide mandate.",
@@ -8168,7 +8168,7 @@
       "slums",
       "force"
     ],
-    "prompt": "It returns once more — and this round may be the one remembered. A court has ordered a vast slum cleared from contested land, and the police must execute it. The IGP can carry out a brutal dawn eviction with bulldozers, or slow-walk it and push for relocation and resettlement first.",
+    "prompt": "It returns once more — and this round may be the one remembered. A court has ordered a vast slum cleared from contested land, and the police must execute it. Carry out a brutal dawn eviction with bulldozers, or slow-walk it and push for resettlement first?",
     "left": {
       "id": "a",
       "label": "Carry out the dawn eviction by force.",
@@ -8206,7 +8206,7 @@
       "village",
       "militia"
     ],
-    "prompt": "The reckoning circles back, grown teeth in the waiting. The vast village auxiliary force could be armed and empowered as a rural security backbone — cheap manpower loyal to the state — or it risks becoming a politicised village militia settling local scores under colour of authority. The director awaits your call.",
+    "prompt": "The reckoning circles back, grown teeth in the waiting. The vast village auxiliary force could be armed as a rural security backbone — cheap manpower loyal to the state — or become a politicised village militia settling local scores under colour of authority. The director awaits your call.",
     "left": {
       "id": "a",
       "label": "Arm and empower the village auxiliaries.",
@@ -8242,7 +8242,7 @@
       "currency",
       "crime"
     ],
-    "prompt": "Another term, the same antagonist, the stakes raised again. A sophisticated counterfeit-currency ring, run from across the border, is flooding the markets with fake notes and eroding trust in the cash economy. The chief can mount a costly crackdown and currency-upgrade, or let it run and quietly manage the damage.",
+    "prompt": "Another term, the same antagonist, the stakes raised again. A sophisticated counterfeit-currency ring, run from across the border, is flooding the markets with fake notes and eroding trust in cash. Mount a costly crackdown and currency-upgrade, or let it run and quietly manage the damage?",
     "left": {
       "id": "a",
       "label": "Crack down and upgrade the currency.",
@@ -8279,7 +8279,7 @@
       "harassment",
       "safety"
     ],
-    "prompt": "The matter, long deferred, lands with the force of a verdict. Street harassment of girls and women — 'eve-teasing' that has driven some to suicide — is endemic and unpunished. The officer wants dedicated rapid-response units, mobile courts, and harassment made a real, enforced offence; the cultural pushback frames it as policing male nature.",
+    "prompt": "The matter, long deferred, lands with the force of a verdict. Street harassment of girls and women — 'eve-teasing' that has driven some to suicide — is endemic and unpunished. The officer wants rapid-response units, mobile courts, and harassment made a real, enforced offence; the cultural pushback calls it policing male nature.",
     "left": {
       "id": "a",
       "label": "Enforce harassment as a real crime.",
@@ -8316,7 +8316,7 @@
       "extremism",
       "secularism"
     ],
-    "prompt": "Years on and unhealed, the conflict returns to claim its answer. Machete-wielding militants are hacking secular bloggers and publishers to death in the streets, and a hit-list circulates online. The commander wants the targets given protection and the cells hunted; hardliners hint the victims 'insulted faith' and deserve no sympathy.",
+    "prompt": "Years on and unhealed, the conflict returns to claim its answer. Machete-wielding militants are hacking secular bloggers and publishers to death in the streets, and a hit-list circulates online. The commander wants the targets protected and the cells hunted; hardliners hint the victims 'insulted faith'.",
     "left": {
       "id": "a",
       "label": "Protect the targets and hunt the cells.",
@@ -8354,7 +8354,7 @@
       "torture",
       "confession"
     ],
-    "prompt": "The same fault line, the harder hour, the narrower path. Investigations here lean on confessions beaten out of suspects on remand, sending innocents to the gallows and letting real culprits walk. The commissioner wants forensic, evidence-based policing and an end to torture-remand; the old guard says it ties their hands.",
+    "prompt": "The same fault line, the harder hour, the narrower path. Investigations here lean on confessions beaten out of suspects on remand, sending innocents to the gallows and letting real culprits walk. The commissioner wants forensic, evidence-based policing and an end to torture-remand; the old guard says it ties them.",
     "left": {
       "id": "a",
       "label": "End torture-remand, build forensic policing.",
@@ -8390,7 +8390,7 @@
       "immigration",
       "corruption"
     ],
-    "prompt": "It comes back sharpened by every season you survived. The passport and immigration offices run on bribes — fast-tracking the payers, stalling the honest, and quietly issuing genuine documents to criminals and traffickers. The director can digitise and clean the system or keep the lucrative counters humming.",
+    "prompt": "It comes back sharpened by every season you survived. The passport and immigration offices run on bribes — fast-tracking the payers, stalling the honest, and quietly issuing genuine documents to criminals. Digitise and clean the system, or keep the lucrative counters humming?",
     "left": {
       "id": "a",
       "label": "Digitise and clean the passport system.",
@@ -8465,7 +8465,7 @@
       "safety",
       "capacity"
     ],
-    "prompt": "The unresolved returns, and this time it will not be deferred. The capital's fire service cannot reach half its high-rises, its hydrants are dry, and its ladders are too short for the towers that keep burning with people trapped inside. The director needs a costly modernisation; the money is wanted elsewhere until the next blaze.",
+    "prompt": "The unresolved returns, and this time it will not be deferred. The capital's fire service cannot reach half its high-rises — dry hydrants, ladders too short for the towers that keep burning with people trapped inside. The director needs a costly modernisation; the money is wanted elsewhere until the next blaze.",
     "left": {
       "id": "a",
       "label": "Fund the fire-service modernisation.",
@@ -8499,7 +8499,7 @@
       "haats",
       "smuggling"
     ],
-    "prompt": "A term later, the same fault line tears open again. Along the border, official 'haat' markets could legalise the petty cross-border trade that locals depend on and that smugglers now run. The director can expand the legal haats, undercutting the smuggling mafias, or keep the border sealed and the black trade thriving.",
+    "prompt": "A term later, the same fault line tears open again. Along the border, official 'haat' markets could legalise the petty cross-border trade that locals depend on and smugglers now run. Expand the legal haats to undercut the smuggling mafias, or keep the border sealed and the black trade thriving?",
     "left": {
       "id": "a",
       "label": "Expand the legal border markets.",
@@ -8536,7 +8536,7 @@
       "ransom",
       "crime"
     ],
-    "prompt": "Years into your rule, the matter you thought buried resurfaces — harder. A wave of kidnappings-for-ransom is terrifying the business class, and some cases trace to off-duty police and political cadres. The chief can mount a real crackdown that reaches into your own ranks, or focus on the freelance gangs and spare the connected.",
+    "prompt": "Years into your rule, the matter you thought buried resurfaces — harder. A wave of kidnappings-for-ransom is terrifying the business class, and some cases trace to off-duty police and political cadres. Mount a real crackdown that reaches into your own ranks, or focus on the freelance gangs and spare the connected?",
     "left": {
       "id": "a",
       "label": "Crack down, your own ranks included.",
@@ -8574,7 +8574,7 @@
       "fatwa",
       "women"
     ],
-    "prompt": "A new season of power, an old problem with sharper teeth. In the villages, informal arbitration councils — shalish — increasingly issue cruel, illegal punishments: lashings, hilla marriages, and worse, mostly against women, under the colour of religion. The officer wants them reined in by the formal courts; the rural clergy resist.",
+    "prompt": "A new season of power, an old problem with sharper teeth. In the villages, informal arbitration councils — shalish — increasingly issue cruel, illegal punishments: lashings, hilla marriages, mostly against women, under the colour of religion. The officer wants them reined in by the formal courts; the rural clergy resist.",
     "left": {
       "id": "a",
       "label": "Rein in the shalish, enforce the law.",
@@ -8612,7 +8612,7 @@
       "wiretap",
       "oversight"
     ],
-    "prompt": "The crisis returns, and this time the cabinet is watching. A new law would let your agencies intercept any call or message — with, or without, a judge's warrant. The director wants the warrantless version for speed; civil society demands judicial oversight to stop the inevitable abuse against critics and rivals.",
+    "prompt": "The crisis returns, and this time the cabinet is watching. A new law would let your agencies intercept any call or message — with, or without, a judge's warrant. The director wants the warrantless version for speed; civil society demands judicial oversight to stop the inevitable abuse against critics.",
     "left": {
       "id": "a",
       "label": "Pass warrantless interception powers.",
@@ -8648,7 +8648,7 @@
       "highways",
       "safety"
     ],
-    "prompt": "Once more the issue lands on your desk, the stakes higher than before. Armed gangs are robbing night buses and trucks on the highways, sometimes killing, and the long-haul transport that moves the economy is gripped by fear. The chief wants costly highway patrols and checkpoints; others say it is a local nuisance not worth the budget.",
+    "prompt": "Once more the issue lands on your desk, the stakes higher than before. Armed gangs are robbing night buses and trucks on the highways, sometimes killing, and the long-haul transport that moves the economy is gripped by fear. The chief wants costly highway patrols; others call it a local nuisance not worth the budget.",
     "left": {
       "id": "a",
       "label": "Fund highway patrols and checkpoints.",
@@ -8684,7 +8684,7 @@
       "begging",
       "children"
     ],
-    "prompt": "Another year survived, and the reckoning circles back. Organised syndicates maim children and traffic the disabled into forced begging rings on the city streets. The officer wants the rings smashed and the victims rehabilitated — a costly, complex rescue — or you can keep clearing beggars off the streets for the optics.",
+    "prompt": "Another year survived, and the reckoning circles back. Organised syndicates maim children and traffic the disabled into forced begging rings on the city streets. Smash the rings and rehabilitate the victims — a costly, complex rescue — or keep clearing beggars off the streets for the optics?",
     "left": {
       "id": "a",
       "label": "Smash the rings, rehabilitate the victims.",
@@ -8722,7 +8722,7 @@
       "traffic",
       "public"
     ],
-    "prompt": "The ground has shifted; the same demand arrives with new menace. Every ministerial movement shuts down the capital's arteries for VIP motorcades, trapping ambulances and commuters for hours in the world's worst gridlock. The chief can curb the closures and the convoys, or keep the elite gliding through a paralysed city.",
+    "prompt": "The ground has shifted; the same demand arrives with new menace. Every ministerial movement shuts down the capital's arteries for VIP motorcades, trapping ambulances and commuters for hours. Curb the closures and convoys, or keep the elite gliding through a paralysed city?",
     "left": {
       "id": "a",
       "label": "Curb the VIP road closures.",
@@ -8758,7 +8758,7 @@
       "liability",
       "developers"
     ],
-    "prompt": "History rhymes: the conflict reopens deeper than last time. A shoddily-built tower has collapsed, killing scores, and the trail leads to a developer who bribed the building inspectors — a developer who funds the party. The chief asks whether to prosecute him fully or let the inspectors take the fall alone.",
+    "prompt": "History rhymes: the conflict reopens deeper than last time. A shoddily-built tower has collapsed, killing scores, and the trail leads to a developer who bribed the inspectors — and who funds the party. Prosecute him fully, or let the inspectors take the fall alone?",
     "left": {
       "id": "a",
       "label": "Prosecute the developer fully.",
@@ -8796,7 +8796,7 @@
       "scams",
       "online"
     ],
-    "prompt": "Mid-reign, the old wound is torn afresh. Scam operations are draining citizens' mobile wallets and bank accounts through phishing and fake-prize calls, some run from organised centres with insider help from telecom and bank staff. The chief wants a real cyber-fraud taskforce; standing it up is costly and technical.",
+    "prompt": "Mid-reign, the old wound is torn afresh. Scam operations are draining citizens' mobile wallets and bank accounts through phishing and fake-prize calls, some run from organised centres with insider help from telecom and bank staff. The chief wants a real cyber-fraud taskforce; standing it up is costly.",
     "left": {
       "id": "a",
       "label": "Build a real cyber-fraud taskforce.",
@@ -8832,7 +8832,7 @@
       "security",
       "communal"
     ],
-    "prompt": "The pressure you deferred has come due, larger now. Competing religious processions are due to cross the same route on the same day, a flashpoint that has sparked riots before. The officer can impose strict separate routes and timings — heavy-handed and resented by both — or trust the organisers and keep policing light.",
+    "prompt": "The pressure you deferred has come due, larger now. Competing religious processions are due to cross the same route on the same day, a flashpoint that has sparked riots before. Impose strict separate routes and timings — heavy-handed and resented by both — or trust the organisers and police lightly?",
     "left": {
       "id": "a",
       "label": "Impose strict separate routes.",
@@ -8868,7 +8868,7 @@
       "travel",
       "safety"
     ],
-    "prompt": "A later term, and the quarrel has hardened into a test. Before Eid, millions cram onto overloaded buses, trains, and ferries to reach their villages, and every year the holiday rush kills hundreds in crashes and capsizes. The coordinator wants strict overloading and safety enforcement; the public wants cheap passage home at any cost.",
+    "prompt": "A later term, and the quarrel has hardened into a test. Before Eid, millions cram onto overloaded buses, trains, and ferries to reach their villages, and every year the rush kills hundreds in crashes and capsizes. The coordinator wants strict safety enforcement; the public wants cheap passage home at any cost.",
     "left": {
       "id": "a",
       "label": "Enforce holiday travel safety hard.",
@@ -8903,7 +8903,7 @@
       "amnesty",
       "recovery"
     ],
-    "prompt": "The country has changed, but this fault line has not — only worsened. Illegal firearms are awash in the country, fuelling political violence and crime. The chief proposes a no-questions surrender amnesty to mop them up — which also lets the guilty erase the weapons tying them to past crimes. The alternative is a hard, raid-based recovery drive.",
+    "prompt": "The country has changed, but this fault line has not — only worsened. Illegal firearms are awash in the country, fuelling political violence and crime. A no-questions surrender amnesty would mop them up — but let the guilty erase the weapons tying them to past crimes. The alternative is a hard, raid-based recovery drive.",
     "left": {
       "id": "a",
       "label": "Offer a no-questions arms amnesty.",
@@ -8939,7 +8939,7 @@
       "security",
       "aid-workers"
     ],
-    "prompt": "It returns, as these things do, with the patience gone. After threats against foreigners, aid agencies and embassies demand heavy protection for their staff or they will pull out, taking their programmes and goodwill with them. The chief can lock the foreign community in a security bubble, or reassure with lighter, smarter measures.",
+    "prompt": "It returns, as these things do, with the patience gone. After threats against foreigners, aid agencies and embassies demand heavy protection for their staff or they will pull out, taking their programmes with them. Lock the foreign community in a security bubble, or reassure with lighter, smarter measures?",
     "left": {
       "id": "a",
       "label": "Wrap foreigners in a heavy security bubble.",
@@ -8976,7 +8976,7 @@
       "justice",
       "children"
     ],
-    "prompt": "Years on, the matter is no longer private; the press is already circling. Children in conflict with the law are thrown into adult jails and 'correction' centres rife with abuse, emerging hardened criminals. The magistrate wants a real juvenile-justice system of diversion and rehabilitation; the law-and-order voices want them treated as the threats they'll become.",
+    "prompt": "Years on, the matter is no longer private; the press is already circling. Children in conflict with the law are thrown into adult jails and abusive 'correction' centres, emerging hardened criminals. The magistrate wants a real juvenile-justice system of diversion and rehabilitation; the law-and-order voices want them treated as threats.",
     "left": {
       "id": "a",
       "label": "Build a rehabilitative juvenile system.",
@@ -9012,7 +9012,7 @@
       "surveillance",
       "protest"
     ],
-    "prompt": "The same knot, retied tighter, lands before you once more. A fleet of surveillance drones could watch borders and crime hotspots — and hover over every protest and gathering, mapping the crowd. The director wants the full fleet with crowd-monitoring; civil society warns it is an eye in the sky over every dissenter.",
+    "prompt": "The same knot, retied tighter, lands before you once more. A fleet of surveillance drones could watch borders and crime hotspots — and hover over every protest, mapping the crowd. The director wants the full fleet with crowd-monitoring; civil society warns it is an eye in the sky over every dissenter.",
     "left": {
       "id": "a",
       "label": "Deploy the full surveillance drone fleet.",
@@ -9048,7 +9048,7 @@
       "poverty",
       "crime"
     ],
-    "prompt": "Another monsoon, another return of an argument you cannot end. A ring is buying kidneys from desperate villagers — coerced and cheated — for wealthy transplant tourists, with crooked doctors and brokers in the chain. The officer wants the whole network smashed; some of the clinics involved are powerful and well-connected.",
+    "prompt": "Another monsoon, another return of an argument you cannot end. A ring is buying kidneys from desperate villagers — coerced and cheated — for wealthy transplant tourists, with crooked doctors and brokers in the chain. The officer wants the whole network smashed; some of the clinics are powerful and well-connected.",
     "left": {
       "id": "a",
       "label": "Smash the organ-trafficking network.",
@@ -9086,7 +9086,7 @@
       "biometric",
       "privacy"
     ],
-    "prompt": "Deep into the reign, the issue demands a final-sounding answer. Biometric SIM registration would tie every phone to a fingerprint and ID — curbing the anonymous numbers used in crime and terror, and building a perfect map of who holds every phone in the country. The officer wants it mandatory; privacy advocates are alarmed.",
+    "prompt": "Deep into the reign, the issue demands a final-sounding answer. Biometric SIM registration would tie every phone to a fingerprint and ID — curbing the anonymous numbers used in crime, and building a perfect map of who holds every phone. The officer wants it mandatory; privacy advocates are alarmed.",
     "left": {
       "id": "a",
       "label": "Mandate biometric SIM registration.",
@@ -9122,7 +9122,7 @@
       "inquiry",
       "accountability"
     ],
-    "prompt": "The reckoning you postponed has matured into a crisis. Deaths in police custody, always ruled 'heart attacks' or 'suicides', are mounting and the families are organising. The director can establish a genuinely independent inquiry mechanism, exposing the torture behind the deaths, or keep the in-house whitewash that protects the force.",
+    "prompt": "The reckoning you postponed has matured into a crisis. Deaths in police custody, always ruled 'heart attacks' or 'suicides', are mounting and the families are organising. Establish a genuinely independent inquiry mechanism, or keep the in-house whitewash that protects the force?",
     "left": {
       "id": "a",
       "label": "Establish independent custodial-death inquiries.",
@@ -9159,7 +9159,7 @@
       "rivers",
       "fishermen"
     ],
-    "prompt": "A new chapter, the same antagonists, less room to manoeuvre. Armed pirates rule stretches of the great rivers and the bay, robbing and ransoming fishermen and cargo boats, sometimes with bribed police looking on. The chief wants a real river-police push; it means costly boats and confronting the officers on the take.",
+    "prompt": "A new chapter, the same antagonists, less room to manoeuvre. Armed pirates rule stretches of the great rivers and the bay, robbing and ransoming fishermen and cargo boats, sometimes with bribed police looking on. The chief wants a real river-police push — costly boats, and confronting the officers on the take.",
     "left": {
       "id": "a",
       "label": "Fund a real anti-piracy river force.",
@@ -9232,7 +9232,7 @@
       "leaks",
       "fraud"
     ],
-    "prompt": "Time has not healed it — the conflict comes back armed. National exam papers leak online before every sitting, sold by a ring reaching into the printing presses and the boards. The chairman wants a hard crackdown and a digital question system; the leak ring is lucrative and protected, and a botched reform could throw the whole exam into chaos.",
+    "prompt": "Time has not healed it — the conflict comes back armed. National exam papers leak online before every sitting, sold by a ring reaching into the printing presses and the boards. The chairman wants a digital question system; the ring is lucrative and protected, and a botched reform could throw the exam into chaos.",
     "left": {
       "id": "a",
       "label": "Crack down and digitise the exams.",
@@ -9269,7 +9269,7 @@
       "exam",
       "corruption"
     ],
-    "prompt": "Once again, and with the whole house holding its breath. Government job exams — the holy grail for millions of youth — are riddled with leaked papers, impersonators, and posts sold to the highest bidder. The liaison can mount a real anti-fraud overhaul, exposing connected beneficiaries, or keep the lucrative status quo.",
+    "prompt": "Once again, and with the whole house holding its breath. Government job exams — the holy grail for millions of youth — are riddled with leaked papers, impersonators, and posts sold to the highest bidder. Mount a real anti-fraud overhaul exposing connected beneficiaries, or keep the lucrative status quo?",
     "left": {
       "id": "a",
       "label": "Overhaul the recruitment exams.",
@@ -9307,7 +9307,7 @@
       "poison",
       "poverty"
     ],
-    "prompt": "The matter resurfaces in a harder year, patience exhausted. Bootleg toxic liquor has killed dozens of the poor in a single district, and the trade — banned, so unregulated — is run by syndicates with police protection. The officer can crack down hard on the bootleggers, or push the harder path of regulating and taxing safe alcohol.",
+    "prompt": "The matter resurfaces in a harder year, patience exhausted. Bootleg toxic liquor has killed dozens of the poor in a single district, and the trade — banned, so unregulated — is run by syndicates with police protection. Crack down hard on the bootleggers, or push the harder path of regulating and taxing safe alcohol?",
     "left": {
       "id": "a",
       "label": "Crack down hard on the bootleggers.",
@@ -9344,7 +9344,7 @@
       "prison",
       "rights"
     ],
-    "prompt": "A later season of rule, the stakes now openly existential. The women's wings of the jails are overcrowded and abusive, holding women on petty or fabricated charges, some with their children, in degrading conditions. The IG wants reform — separate facilities, legal aid, release of the wrongly held — at real cost and effort.",
+    "prompt": "A later season of rule, the stakes now openly existential. The women's wings of the jails are overcrowded and abusive, holding women on petty or fabricated charges, some with their children, in degrading conditions. The IG wants reform — separate facilities, legal aid, release of the wrongly held.",
     "left": {
       "id": "a",
       "label": "Reform the women's prisons.",
@@ -9380,7 +9380,7 @@
       "online",
       "addiction"
     ],
-    "prompt": "It comes around again, and the margin for error is gone. Foreign-run online betting and casino apps are hooking the young and draining money abroad through illegal channels, with local agents and some officials taking a cut. The chief can block and prosecute hard, or quietly tolerate a trade that greases many palms.",
+    "prompt": "It comes around again, and the margin for error is gone. Foreign-run online betting and casino apps are hooking the young and draining money abroad, with local agents and some officials taking a cut. Block and prosecute hard, or quietly tolerate a trade that greases many palms?",
     "left": {
       "id": "a",
       "label": "Block and prosecute the gambling networks.",
@@ -9417,7 +9417,7 @@
       "backlog",
       "justice"
     ],
-    "prompt": "The same demand, but the reign is older and the knives sharper. The country's one overwhelmed forensic lab has a years-long backlog, so DNA and ballistic evidence arrives long after trials end, and justice runs on confessions instead of science. The director needs heavy investment in labs and trained scientists; the payoff is slow and invisible.",
+    "prompt": "The same demand, but the reign is older and the knives sharper. The country's one overwhelmed forensic lab has a years-long backlog, so DNA and ballistic evidence arrives long after trials end, and justice runs on confessions instead of science. The director needs heavy investment in labs and scientists; the payoff is slow.",
     "left": {
       "id": "a",
       "label": "Invest heavily in forensic capacity.",
@@ -9453,7 +9453,7 @@
       "less-lethal",
       "force"
     ],
-    "prompt": "Years deep, the unresolved returns to be resolved for good. A foreign vendor offers a large package of riot-control gear — water cannon, rubber bullets, tear gas, sound cannons. The chief wants the full arsenal for crowd control; critics note that 'less-lethal' tools, in untrained hands, still blind and kill protesters.",
+    "prompt": "Years deep, the unresolved returns to be resolved for good. A foreign vendor offers a large package of riot-control gear — water cannon, rubber bullets, tear gas, sound cannons. The chief wants the full arsenal; critics note 'less-lethal' tools, in untrained hands, still blind and kill protesters.",
     "left": {
       "id": "a",
       "label": "Buy the full riot-control arsenal.",
@@ -9491,7 +9491,7 @@
       "murder",
       "justice"
     ],
-    "prompt": "The conflict reignites, and the world is watching this time. A young bride has been killed over an unpaid dowry, and the in-laws — locally powerful — are buying off the police and the witnesses as such cases routinely vanish. The officer asks whether to drive the prosecution hard or let it fade like the others.",
+    "prompt": "The conflict reignites, and the world is watching this time. A young bride has been killed over an unpaid dowry, and the locally powerful in-laws are buying off the police and the witnesses, as such cases routinely vanish. Drive the prosecution hard, or let it fade like the others?",
     "left": {
       "id": "a",
       "label": "Drive the dowry-murder prosecution.",
@@ -9529,7 +9529,7 @@
       "censorship",
       "control"
     ],
-    "prompt": "A familiar crisis, escalated by everything you let slide. Citizens are using VPNs to slip past your website blocks and reach banned news and platforms. The director wants VPNs themselves blocked and their users tracked, sealing the information bubble; the alternative is to accept that the net cannot be fully walled.",
+    "prompt": "A familiar crisis, escalated by everything you let slide. Citizens are using VPNs to slip past your website blocks and reach banned news. The director wants VPNs themselves blocked and their users tracked, sealing the information bubble; the alternative is to accept that the net cannot be fully walled.",
     "left": {
       "id": "a",
       "label": "Block VPNs and track their users.",
@@ -9565,7 +9565,7 @@
       "shelter",
       "poverty"
     ],
-    "prompt": "The fault line cracks wider; the decision can no longer wait. Tens of thousands of children live on the city streets — sniffing glue, prey to gangs, traffickers, and abusive police. The director wants a real network of shelters, schooling, and family reunification; the cheaper option is the periodic round-up that just moves them on.",
+    "prompt": "The fault line cracks wider; the decision can no longer wait. Tens of thousands of children live on the city streets — sniffing glue, prey to gangs, traffickers, and abusive police. The director wants a real network of shelters and family reunification; the cheaper option is the periodic round-up that just moves them on.",
     "left": {
       "id": "a",
       "label": "Build shelters and reunification programmes.",
@@ -9600,7 +9600,7 @@
       "women",
       "online"
     ],
-    "prompt": "Late in the reign, the old question demands a heavier answer. Intimate images — real and faked — are being weaponised to blackmail and shame women and girls, driving some to suicide, while victims who report are themselves blamed and exposed. The chief wants a dedicated, confidential unit; building it means resources and a cultural fight.",
+    "prompt": "Late in the reign, the old question demands a heavier answer. Intimate images — real and faked — are being weaponised to blackmail and shame women and girls, driving some to suicide, while victims who report are themselves blamed. The chief wants a dedicated, confidential unit; building it means resources and a cultural fight.",
     "left": {
       "id": "a",
       "label": "Build a confidential image-abuse unit.",
@@ -9637,7 +9637,7 @@
       "concert",
       "safety"
     ],
-    "prompt": "It returns once more — and this round may be the one remembered. A massive open-air concert and several large public events are planned for the same weekend, with crowd-safety planning that is, as ever, an afterthought. The officer wants proper crowd management and caps imposed; the organisers and the public resent the fences and limits.",
+    "prompt": "It returns once more — and this round may be the one remembered. A massive open-air concert and several large public events are planned for the same weekend, with crowd-safety planning that is, as ever, an afterthought. The officer wants proper crowd management and caps; the organisers and public resent the fences.",
     "left": {
       "id": "a",
       "label": "Impose proper crowd-safety management.",
@@ -9674,7 +9674,7 @@
       "violence",
       "minorities"
     ],
-    "prompt": "The reckoning circles back, grown teeth in the waiting. In remote areas, people — usually poor women — are branded witches or sorcerers and beaten, exiled, or killed by mobs, often at a 'healer's' word. The officer wants awareness drives and hard prosecution; the local power structure shrugs it off as backward custom.",
+    "prompt": "The reckoning circles back, grown teeth in the waiting. In remote areas, people — usually poor women — are branded witches and beaten, exiled, or killed by mobs, often at a 'healer's' word. The officer wants awareness drives and hard prosecution; the local power structure shrugs it off as backward custom.",
     "left": {
       "id": "a",
       "label": "Prosecute and educate against the violence.",
@@ -9711,7 +9711,7 @@
       "fraud",
       "citizenship"
     ],
-    "prompt": "Another term, the same antagonist, the stakes raised again. Genuine national ID cards are being sold to non-citizens — including, the spies warn, to Rohingya and foreign criminals — through corrupt officials, eroding the integrity of the whole citizenship system. The director can purge and prosecute, or quietly manage the embarrassment.",
+    "prompt": "Another term, the same antagonist, the stakes raised again. Genuine national ID cards are being sold to non-citizens — including, the spies warn, Rohingya and foreign criminals — through corrupt officials, eroding the whole citizenship system. Purge and prosecute, or quietly manage the embarrassment?",
     "left": {
       "id": "a",
       "label": "Purge the fraud and prosecute officials.",
@@ -9749,7 +9749,7 @@
       "registration",
       "child-marriage"
     ],
-    "prompt": "The matter, long deferred, lands with the force of a verdict. Marriage registrars routinely falsify brides' ages to legalise child marriages and forge documents for a fee, and the registry is a den of petty corruption. The registrar general wants digitised, age-verified registration; the registrars, a connected guild, will resist.",
+    "prompt": "The matter, long deferred, lands with the force of a verdict. Marriage registrars routinely falsify brides' ages to legalise child marriages and forge documents for a fee. The registrar general wants digitised, age-verified registration; the registrars, a connected guild, will resist.",
     "left": {
       "id": "a",
       "label": "Digitise and age-verify marriage registration.",
@@ -9787,7 +9787,7 @@
       "rehab",
       "addiction"
     ],
-    "prompt": "Years on and unhealed, the conflict returns to claim its answer. Hundreds of thousands are addicted, and the few rehab centres are squalid, abusive, and out of reach of the poor. The chief wants a real, humane treatment network as the backbone of drug policy; the law-and-order voices still want jails and crossfire, not clinics.",
+    "prompt": "Years on and unhealed, the conflict returns to claim its answer. Hundreds of thousands are addicted, and the few rehab centres are squalid, abusive, and out of reach of the poor. The chief wants a humane treatment network as the backbone of drug policy; the law-and-order voices still want jails and crossfire, not clinics.",
     "left": {
       "id": "a",
       "label": "Build a humane treatment network.",
@@ -9823,7 +9823,7 @@
       "extortion",
       "rivers"
     ],
-    "prompt": "The same fault line, the harder hour, the narrower path. Armed 'sand mafias' — illegally dredging riverbeds and extorting the trade — rule whole stretches of riverbank with bribed police and political cover, killing officials who interfere. The superintendent asks whether to break them or keep the uneasy, lucrative peace.",
+    "prompt": "The same fault line, the harder hour, the narrower path. Armed 'sand mafias' — illegally dredging riverbeds and extorting the trade — rule whole stretches of riverbank with bribed police and political cover, killing officials who interfere. Break them, or keep the uneasy, lucrative peace?",
     "left": {
       "id": "a",
       "label": "Break the sand mafias.",
@@ -9860,7 +9860,7 @@
       "land",
       "powerful"
     ],
-    "prompt": "It comes back sharpened by every season you survived. A drive to clear illegal encroachments from canals, railways, and public land keeps bulldozing the slums of the poor while the grand illegal buildings of the powerful stand untouched. The officer asks whether to turn the drive on the big fish or keep it pointed at the small.",
+    "prompt": "It comes back sharpened by every season you survived. A drive to clear illegal encroachments from canals, railways, and public land keeps bulldozing the slums of the poor while the grand illegal buildings of the powerful stand untouched. Turn the drive on the big fish, or keep it pointed at the small?",
     "left": {
       "id": "a",
       "label": "Turn the eviction drive on the powerful.",
@@ -9898,7 +9898,7 @@
       "protest",
       "unrest"
     ],
-    "prompt": "A later year of power, the old crisis now a true test of it. A brutal summer of power cuts has people pouring into the streets, smashing substations and blocking roads in the heat. The officer wants a firm dispersal of the protests; the wiser path may be to be seen sharing the pain and fixing the supply.",
+    "prompt": "A later year of power, the old crisis now a true test of it. A brutal summer of power cuts has people pouring into the streets, smashing substations and blocking roads. The officer wants a firm dispersal; the wiser path may be to be seen sharing the pain and fixing the supply.",
     "left": {
       "id": "a",
       "label": "Disperse the power-cut protests firmly.",
@@ -9934,7 +9934,7 @@
       "smuggling",
       "security"
     ],
-    "prompt": "The unresolved returns, and this time it will not be deferred. The main airport leaks gold, drugs, and contraband through a web of complicit ground staff, customs, and security — and a lax screening regime that also worries foreign airlines about terror risk. The chief can mount a deep clean-up or keep the comfortable rot.",
+    "prompt": "The unresolved returns, and this time it will not be deferred. The main airport leaks gold, drugs, and contraband through complicit ground staff, customs, and security — and lax screening that worries foreign airlines about terror risk. Mount a deep clean-up, or keep the comfortable rot?",
     "left": {
       "id": "a",
       "label": "Deep-clean airport security.",
@@ -9972,7 +9972,7 @@
       "labour",
       "reform"
     ],
-    "prompt": "A term later, the same fault line tears open again. The jails, packed to bursting, could ease overcrowding and idleness through a humane work-and-skills programme that prepares inmates for release — or descend into the exploitative forced labour that some officers already run for private profit.",
+    "prompt": "A term later, the same fault line tears open again. The jails, packed to bursting, could ease overcrowding through a humane work-and-skills programme that prepares inmates for release — or descend into the exploitative forced labour that some officers already run for private profit.",
     "left": {
       "id": "a",
       "label": "Build a humane prison work-and-skills scheme.",
@@ -10009,7 +10009,7 @@
       "return",
       "reintegration"
     ],
-    "prompt": "Years into your rule, the matter you thought buried resurfaces — harder. A Gulf downturn has sent hundreds of thousands of jobless migrant workers home, broke and traumatised, into communities with no work for them — a security and humanitarian time bomb. The officer wants a reintegration and credit programme; the cheaper path is to let them fend for themselves.",
+    "prompt": "Years into your rule, the matter you thought buried resurfaces — harder. A Gulf downturn has sent hundreds of thousands of jobless migrant workers home, broke and traumatised, into communities with no work — a security and humanitarian time bomb. Fund a reintegration and credit programme, or let them fend for themselves?",
     "left": {
       "id": "a",
       "label": "Fund returnee reintegration and credit.",
@@ -10045,7 +10045,7 @@
       "threat",
       "diplomacy"
     ],
-    "prompt": "A new season of power, an old problem with sharper teeth. Intelligence warns of a credible plot against a foreign embassy in the diplomatic enclave. The chief can flood the zone with a heavy, visible cordon that reassures the foreigners but screams danger, or run a quiet, intelligence-led protection that risks being caught short.",
+    "prompt": "A new season of power, an old problem with sharper teeth. Intelligence warns of a credible plot against a foreign embassy in the diplomatic enclave. Flood the zone with a heavy, visible cordon that reassures the foreigners but screams danger, or run quiet, intelligence-led protection that risks being caught short?",
     "left": {
       "id": "a",
       "label": "Flood the enclave with a visible cordon.",
@@ -10082,7 +10082,7 @@
       "aviation",
       "rights"
     ],
-    "prompt": "The crisis returns, and this time the cabinet is watching. A new aviation watchlist could bar suspected militants from flying — a real security tool, and, applied loosely, a way to ground journalists and activists under a terror label. The chief asks whether to build it tight and judicial, or broad and discretionary.",
+    "prompt": "The crisis returns, and this time the cabinet is watching. A new aviation watchlist could bar suspected militants from flying — a real security tool, and, applied loosely, a way to ground journalists and activists under a terror label. Build it tight and judicial, or broad and discretionary?",
     "left": {
       "id": "a",
       "label": "Build a broad, discretionary watchlist.",
@@ -10118,7 +10118,7 @@
       "surveillance",
       "youth"
     ],
-    "prompt": "Once more the issue lands on your desk, the stakes higher than before. A proposal would require every cybercafe and gaming den to log users' IDs and install monitoring software, ostensibly against online crime and radicalisation. The superintendent likes the reach; critics see another net cast over ordinary young people.",
+    "prompt": "Once more the issue lands on your desk, the stakes higher than before. A proposal would require every cybercafe and gaming den to log users' IDs and install monitoring software, ostensibly against online crime. The superintendent likes the reach; critics see another net cast over ordinary young people.",
     "left": {
       "id": "a",
       "label": "Mandate ID-logging and monitoring.",
@@ -10154,7 +10154,7 @@
       "survivors",
       "justice"
     ],
-    "prompt": "Another year survived, and the reckoning circles back. An acid attack has disfigured a young woman who spurned a powerful man's son, and the family is pressuring the police to lose the case as they have lost others. The officer asks whether to drive a hard prosecution and survivor support, or let it quietly die.",
+    "prompt": "Another year survived, and the reckoning circles back. An acid attack has disfigured a young woman who spurned a powerful man's son, and the family is pressuring the police to lose the case as they have lost others. Drive a hard prosecution and survivor support, or let it quietly die?",
     "left": {
       "id": "a",
       "label": "Drive the prosecution and fund survivor care.",
@@ -10192,7 +10192,7 @@
       "police",
       "families"
     ],
-    "prompt": "The ground has shifted; the same demand arrives with new menace. Families of the missing — some lost to crime, some to your own agencies — are turned away from police stations that refuse even to file a report. The chief wants a mandatory missing-persons registry and real investigation; it would also document the disappearances the state would rather forget.",
+    "prompt": "The ground has shifted; the same demand arrives with new menace. Families of the missing — some lost to crime, some to your own agencies — are turned away from stations that refuse even to file a report. The chief wants a mandatory missing-persons registry and real investigation — which also documents the disappearances the state would rather forget.",
     "left": {
       "id": "a",
       "label": "Build a real missing-persons system.",
@@ -10228,7 +10228,7 @@
       "welfare",
       "morale"
     ],
-    "prompt": "History rhymes: the conflict reopens deeper than last time. The rank-and-file police are overworked, underpaid, and crammed into squalid barracks, which feeds both their brutality and their corruption. The director wants real investment in pay, housing, and hours; the money is large and the public sees only the brutality it would soften.",
+    "prompt": "History rhymes: the conflict reopens deeper than last time. The rank-and-file police are overworked, underpaid, and crammed into squalid barracks, which feeds both their brutality and their corruption. The director wants real investment in pay, housing, and hours; the money is large and the public sees only the brutality.",
     "left": {
       "id": "a",
       "label": "Invest in police welfare and pay.",
@@ -10264,7 +10264,7 @@
       "release",
       "reckoning"
     ],
-    "prompt": "Mid-reign, the old wound is torn afresh. Pressure mounts — at home and from abroad — to account for the men your agencies disappeared over the years. The chief can quietly begin returning those still alive and acknowledging the dead, or keep denying that any 'enforced disappearances' ever occurred.",
+    "prompt": "Mid-reign, the old wound is torn afresh. Pressure mounts — at home and abroad — to account for the men your agencies disappeared over the years. Quietly begin returning those still alive and acknowledging the dead, or keep denying that any 'enforced disappearances' ever occurred?",
     "left": {
       "id": "a",
       "label": "Keep denying everything.",
@@ -10300,7 +10300,7 @@
       "checkpoints",
       "abuse"
     ],
-    "prompt": "The pressure you deferred has come due, larger now. At the hill-district checkpoints, indigenous travellers are routinely searched, shaken down, and humiliated, while settlers pass freely — a daily grind of indignity feeding the old insurgency. The officer asks whether to reform the checkpoints' conduct or keep the hard hand.",
+    "prompt": "The pressure you deferred has come due, larger now. At the hill-district checkpoints, indigenous travellers are routinely searched, shaken down, and humiliated, while settlers pass freely — a daily grind feeding the old insurgency. Reform the checkpoints' conduct, or keep the hard hand?",
     "left": {
       "id": "a",
       "label": "Reform checkpoint conduct.",
@@ -10337,7 +10337,7 @@
       "health",
       "crime"
     ],
-    "prompt": "A later term, and the quarrel has hardened into a test. Counterfeit and substandard medicines — chalk antibiotics, fake cancer drugs — are killing patients and flooding the pharmacies through a ring with reach into licensed distributors. The chief wants a hard crackdown and track-and-trace; the trade is lucrative and connected.",
+    "prompt": "A later term, and the quarrel has hardened into a test. Counterfeit and substandard medicines — chalk antibiotics, fake cancer drugs — are killing patients and flooding the pharmacies through a ring reaching into licensed distributors. The chief wants a crackdown and track-and-trace; the trade is lucrative and connected.",
     "left": {
       "id": "a",
       "label": "Crack down and mandate track-and-trace.",
@@ -10374,7 +10374,7 @@
       "due-process",
       "abuse"
     ],
-    "prompt": "The country has changed, but this fault line has not — only worsened. Plainclothes officers in unmarked vehicles routinely 'pick up' suspects without warrants, identification, or any record, leaving families frantic and the line between arrest and abduction erased. The commissioner wants mandatory identification and logging; the agencies call it a fatal delay.",
+    "prompt": "The country has changed, but this fault line has not — only worsened. Plainclothes officers in unmarked vehicles routinely 'pick up' suspects without warrants, ID, or any record, erasing the line between arrest and abduction. The commissioner wants mandatory identification and logging; the agencies call it a fatal delay.",
     "left": {
       "id": "a",
       "label": "Require ID, warrants, and logging for arrests.",
@@ -10410,7 +10410,7 @@
       "cadres",
       "festival"
     ],
-    "prompt": "It returns, as these things do, with the patience gone. Before every festival, your party's local cadres run a 'collection' — extorting shopkeepers and transporters under the guise of donations, with the police looking on. The superintendent asks whether to stop the racket or let the loyal foot-soldiers feed.",
+    "prompt": "It returns, as these things do, with the patience gone. Before every festival, your party's local cadres run a 'collection' — extorting shopkeepers and transporters under the guise of donations, with the police looking on. Stop the racket, or let the loyal foot-soldiers feed?",
     "left": {
       "id": "a",
       "label": "Stop the festival extortion racket.",
@@ -10447,7 +10447,7 @@
       "scope",
       "dissent"
     ],
-    "prompt": "Years on, the matter is no longer private; the press is already circling. A revised anti-terrorism law could define 'terrorism' so broadly that protest, strikes, and dissent fall within it — a flexible weapon — or narrowly, confined to actual violence. The secretary asks how wide to draw the net.",
+    "prompt": "Years on, the matter is no longer private; the press is already circling. A revised anti-terrorism law could define 'terrorism' so broadly that protest, strikes, and dissent fall within it — a flexible weapon — or narrowly, confined to actual violence. How wide do you draw the net?",
     "left": {
       "id": "a",
       "label": "Draw the terror definition broadly.",
@@ -10483,7 +10483,7 @@
       "arson",
       "land"
     ],
-    "prompt": "The same knot, retied tighter, lands before you once more. A massive fire has gutted a slum on land a developer covets, and the residents swear it was arson to drive them out — a pattern seen before. The officer can mount a real arson investigation reaching toward the developer, or rule it an accidental electrical fire and move on.",
+    "prompt": "The same knot, retied tighter, lands before you once more. A massive fire has gutted a slum on land a developer covets, and the residents swear it was arson to drive them out — a pattern seen before. Mount a real arson investigation reaching toward the developer, or rule it an accidental electrical fire?",
     "left": {
       "id": "a",
       "label": "Investigate the fire as possible arson.",
@@ -10521,7 +10521,7 @@
       "festival",
       "protection"
     ],
-    "prompt": "Another monsoon, another return of an argument you cannot end. The Hindu, Buddhist, and Christian communities' festivals approach amid online threats and a recent temple attack. The officer can deploy visible, generous protection for the minority celebrations, or keep it minimal to avoid 'provoking' the hardliners.",
+    "prompt": "Another monsoon, another return of an argument you cannot end. The Hindu, Buddhist, and Christian communities' festivals approach amid online threats and a recent temple attack. Deploy visible, generous protection for the minority celebrations, or keep it minimal to avoid 'provoking' the hardliners?",
     "left": {
       "id": "a",
       "label": "Protect the minority festivals generously.",
@@ -10559,7 +10559,7 @@
       "fencing",
       "confinement"
     ],
-    "prompt": "Deep into the reign, the issue demands a final-sounding answer. To control the sprawling refugee camps, you can ring them with barbed wire and watchtowers, sealing the refugees in — easing local security fears, and drawing the agencies' charge that you have built an open-air prison for a stateless people.",
+    "prompt": "Deep into the reign, the issue demands a final-sounding answer. To control the sprawling refugee camps, you can ring them with barbed wire and watchtowers, sealing the refugees in — easing local security fears, and drawing the charge that you have built an open-air prison for a stateless people.",
     "left": {
       "id": "a",
       "label": "Fence and seal the camps.",
@@ -10595,7 +10595,7 @@
       "modernisation",
       "service"
     ],
-    "prompt": "The reckoning you postponed has matured into a crisis. The local police stations are intimidating, corrupt, and hostile, especially to the poor and to women, who would sooner suffer than enter one. The commissioner proposes citizen-friendly stations — women's help desks, complaint tracking, clean reception — at real cost and against deep cultural inertia.",
+    "prompt": "The reckoning you postponed has matured into a crisis. The local police stations are intimidating, corrupt, and hostile, especially to the poor and to women, who would sooner suffer than enter one. The commissioner proposes citizen-friendly stations — women's help desks, complaint tracking, clean reception — at real cost.",
     "left": {
       "id": "a",
       "label": "Modernise the stations as citizen services.",
@@ -10632,7 +10632,7 @@
       "surveillance",
       "radicalisation"
     ],
-    "prompt": "A new chapter, the same antagonists, less room to manoeuvre. Intelligence wants to plant informants in mosques and religious gatherings to catch radicalisation early. It is a real counter-terror tool, and a profound intrusion that, exposed, would enrage the devout and confirm every fear of a surveillance state aimed at the faith.",
+    "prompt": "A new chapter, the same antagonists, less room to manoeuvre. Intelligence wants to plant informants in mosques and religious gatherings to catch radicalisation early. A real counter-terror tool — and a profound intrusion that, exposed, would enrage the devout and confirm every fear of a state spying on the faith.",
     "left": {
       "id": "a",
       "label": "Plant informants in religious gatherings.",
@@ -10668,7 +10668,7 @@
       "inquiry",
       "communal"
     ],
-    "prompt": "The old fault line widens; this time there is no quiet option. A communal riot has left a minority neighbourhood gutted and several dead, with credible claims that police stood by or joined in. The coordinator asks whether to mount an independent inquiry and full compensation, or a quiet internal review that shields the force.",
+    "prompt": "The old fault line widens; this time there is no quiet option. A communal riot has left a minority neighbourhood gutted and several dead, with credible claims that police stood by or joined in. Mount an independent inquiry and full compensation, or a quiet internal review that shields the force?",
     "left": {
       "id": "a",
       "label": "Hold an independent inquiry, compensate fully.",
@@ -10706,7 +10706,7 @@
       "monitoring",
       "speech"
     ],
-    "prompt": "Time has not healed it — the conflict comes back armed. After the quota unrest organised online, the cyber unit wants to monitor student social-media networks and flag 'instigators' for pre-emptive action. The chief calls it early warning; it is also a chilling watch over a whole generation's political speech.",
+    "prompt": "Time has not healed it — the conflict comes back armed. After the quota unrest organised online, the cyber unit wants to monitor student social-media networks and flag 'instigators' for pre-emptive action. The chief calls it early warning; it is also a chilling watch over a generation's political speech.",
     "left": {
       "id": "a",
       "label": "Monitor and pre-empt student networks.",
@@ -10742,7 +10742,7 @@
       "protection",
       "justice"
     ],
-    "prompt": "Once again, and with the whole house holding its breath. Cases against the powerful collapse because witnesses are bought, threatened, or killed, and there is no protection for those who dare testify. The chief wants a real witness-protection programme; it is costly, complex, and would make the untouchable suddenly prosecutable.",
+    "prompt": "Once again, and with the whole house holding its breath. Cases against the powerful collapse because witnesses are bought, threatened, or killed, and there is no protection for those who dare testify. The chief wants a real witness-protection programme — costly, complex, and a threat to the untouchable.",
     "left": {
       "id": "a",
       "label": "Build a witness-protection programme.",
@@ -10780,7 +10780,7 @@
       "killings",
       "restraint"
     ],
-    "prompt": "The matter resurfaces in a harder year, patience exhausted. Your own border guards have shot dead unarmed villagers crossing for petty trade, mirroring the neighbour's notorious killings. The director asks whether to enforce strict non-lethal rules of engagement, or keep the shoot-to-deter posture that the brass prefers.",
+    "prompt": "The matter resurfaces in a harder year, patience exhausted. Your own border guards have shot dead unarmed villagers crossing for petty trade, mirroring the neighbour's notorious killings. Enforce strict non-lethal rules of engagement, or keep the shoot-to-deter posture the brass prefers?",
     "left": {
       "id": "a",
       "label": "Enforce non-lethal rules of engagement.",
@@ -10816,7 +10816,7 @@
       "slums",
       "control"
     ],
-    "prompt": "A later season of rule, the stakes now openly existential. A dense informant network in the slums would give you eyes on crime and dissent alike — and turn neighbour against neighbour, breeding fear and false accusations for petty grudges. The superintendent wants it built; the cost is the social fabric of the poorest places.",
+    "prompt": "A later season of rule, the stakes now openly existential. A dense informant network in the slums would give you eyes on crime and dissent alike — and turn neighbour against neighbour, breeding fear and false accusations. The superintendent wants it built; the cost is the social fabric of the poorest places.",
     "left": {
       "id": "a",
       "label": "Build the slum informant network.",
@@ -10852,7 +10852,7 @@
       "gatherings",
       "dissent"
     ],
-    "prompt": "It comes around again, and the margin for error is gone. New software can scan and identify every face at a rally, prayer gathering, or protest in real time against the national ID database. The director wants it live at all major gatherings; civil society warns it ends the anonymity that makes public assembly safe.",
+    "prompt": "It comes around again, and the margin for error is gone. New software can scan and identify every face at a rally, prayer gathering, or protest in real time against the national ID database. The director wants it live at all major gatherings; civil society warns it ends the anonymity that makes assembly safe.",
     "left": {
       "id": "a",
       "label": "Scan every major gathering.",
@@ -10888,7 +10888,7 @@
       "health",
       "deaths"
     ],
-    "prompt": "The same demand, but the reign is older and the knives sharper. Prisoners die of treatable illness for want of any real medical care in the jails, and the sick are ignored until they are corpses. The officer wants proper prison healthcare; it costs money for a constituency — convicts — that wins no votes and earns no sympathy.",
+    "prompt": "The same demand, but the reign is older and the knives sharper. Prisoners die of treatable illness for want of any real medical care, the sick ignored until they are corpses. The officer wants proper prison healthcare; it costs money for a constituency — convicts — that wins no votes and earns no sympathy.",
     "left": {
       "id": "a",
       "label": "Fund proper prison healthcare.",
@@ -10924,7 +10924,7 @@
       "violence",
       "powerful"
     ],
-    "prompt": "Years deep, the unresolved returns to be resolved for good. A powerful local man is seizing a poor family's land by force, with hired muscle and a bought local police chief, and the family's appeals go nowhere. The chief asks whether to intervene against the powerful grabber or let the 'private dispute' run its course.",
+    "prompt": "Years deep, the unresolved returns to be resolved for good. A powerful local man is seizing a poor family's land by force, with hired muscle and a bought local police chief, and the family's appeals go nowhere. Intervene against the powerful grabber, or let the 'private dispute' run its course?",
     "left": {
       "id": "a",
       "label": "Intervene against the land-grabber.",
@@ -10962,7 +10962,7 @@
       "hospitals",
       "neutrality"
     ],
-    "prompt": "The conflict reignites, and the world is watching this time. During unrest, police have been seizing injured protesters from hospital beds and pressuring doctors to deny them treatment or report them. The officer asks whether to guarantee medical neutrality — hospitals as sanctuaries — or let the security forces pursue the wounded inside.",
+    "prompt": "The conflict reignites, and the world is watching this time. During unrest, police have been seizing injured protesters from hospital beds and pressuring doctors to deny treatment or report them. Guarantee medical neutrality — hospitals as sanctuaries — or let the security forces pursue the wounded inside?",
     "left": {
       "id": "a",
       "label": "Guarantee hospitals as neutral sanctuaries.",
@@ -10998,7 +10998,7 @@
       "cover-up",
       "accountability"
     ],
-    "prompt": "A familiar crisis, escalated by everything you let slide. A businessman who fell out with a powerful minister has vanished — picked up, witnesses say, by men in plainclothes. The trail leads uncomfortably close to your own circle. The director asks whether to investigate honestly or quietly close the file.",
+    "prompt": "A familiar crisis, escalated by everything you let slide. A businessman who fell out with a powerful minister has vanished — picked up, witnesses say, by men in plainclothes. The trail leads uncomfortably close to your own circle. Investigate honestly, or quietly close the file?",
     "left": {
       "id": "a",
       "label": "Investigate honestly, wherever it leads.",
@@ -11036,7 +11036,7 @@
       "cover-up",
       "accountability"
     ],
-    "prompt": "The fault line cracks wider; the decision can no longer wait. The case would not stay buried — a journalist has the witnesses, and the story is about to break regardless. The director asks whether to get ahead of it with a controlled admission and a scapegoat, or to crush the story and the journalist with it.",
+    "prompt": "The fault line cracks wider; the decision can no longer wait. The case would not stay buried — a journalist has the witnesses, and the story is about to break regardless. Get ahead of it with a controlled admission and a scapegoat, or crush the story and the journalist with it?",
     "left": {
       "id": "a",
       "label": "Crush the story and the journalist.",

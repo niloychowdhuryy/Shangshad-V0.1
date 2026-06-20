@@ -11,7 +11,7 @@
       "money",
       "leak"
     ],
-    "prompt": "Nasrin sits at the edge of the bed, phone face-down. 'A Gulshan journalist called me by my maiden name. He knew about the Singapore account before I did.' You opened it in her name so it could never touch yours.",
+    "prompt": "Nasrin holds up her phone, calm. 'A journalist knew about my Singapore account before I did — the one you opened in my name.'",
     "left": {
       "id": "a",
       "label": "Move the money tonight, tell her nothing.",
@@ -47,7 +47,7 @@
       "money",
       "leak"
     ],
-    "prompt": "The journalist did not stop. A second story names the bank, the dates, the children as beneficiaries. Nasrin reads it before you can speak. 'You moved it,' she says quietly. 'And you still got us caught.'",
+    "prompt": "A second story names the bank, the dates, the children. Nasrin reads it before you can speak. 'You moved it — and still got us caught.'",
     "left": {
       "id": "a",
       "label": "Blame a rogue aide and sack him publicly.",
@@ -84,7 +84,7 @@
       "money",
       "leak"
     ],
-    "prompt": "The anti-corruption commission requests Nasrin's testimony. She is ready to go in and lie for you, calmly, the way she does everything. 'One word from you,' she says, 'and I never opened that account.'",
+    "prompt": "The anti-corruption commission wants Nasrin's testimony. She is ready to lie for you, calmly. 'One word from you,' she says, 'and I never opened that account.'",
     "left": {
       "id": "a",
       "label": "Let her perjure herself to save you both.",
@@ -121,7 +121,7 @@
       "contracts",
       "rivalry"
     ],
-    "prompt": "Rashed spreads the Padma embankment tender on your desk. 'Three firms, all ours through cousins. Flood-protection money — nobody audits flood money.' The bid papers already carry your ministry's seal.",
+    "prompt": "Rashed slides the Padma embankment tender across your desk. 'Three firms, all ours through cousins. Nobody audits flood money.' The bid already carries your seal.",
     "left": {
       "id": "a",
       "label": "Sign. Keep it in the family.",
@@ -159,7 +159,7 @@
       "contracts",
       "rivalry"
     ],
-    "prompt": "The embankment you let Rashed build has breached. Forty villages are under water on live television, and a leaked memo carries your seal. Rashed phones, unbothered: 'Blame the contractor. We can find one who'll confess for a price.'",
+    "prompt": "The embankment Rashed built has breached — forty villages under water on live TV, a leaked memo carrying your seal. He phones, unbothered: 'Blame the contractor.'",
     "left": {
       "id": "a",
       "label": "Buy a contractor to take the fall.",
@@ -197,7 +197,7 @@
       "contracts",
       "rivalry"
     ],
-    "prompt": "Rashed, cornered, comes to your study with a thumb drive. 'Everything I did, I did with your seal — and I kept copies. Make me Deputy PM and the drive disappears. Move against me and it goes to Delhi and Washington both.'",
+    "prompt": "Cornered, Rashed waves a thumb drive in your study. 'Everything I did carried your seal, and I kept copies. Make me Deputy PM, or this goes to Delhi and Washington.'",
     "left": {
       "id": "a",
       "label": "Promote him. Bury the drive.",
@@ -235,7 +235,7 @@
       "press",
       "succession"
     ],
-    "prompt": "The Home Secretary calls at 3 a.m. 'Tania and the cricketer were at a Banani rooftop where two boys overdosed. The hospital intake has her name. By morning it is buried or it is a headline.'",
+    "prompt": "The Home Secretary calls at 3 a.m. 'Tania was at a Banani rooftop where two boys overdosed. Her name's on the hospital intake. By morning it's buried or it's a headline.'",
     "left": {
       "id": "a",
       "label": "Have it scrubbed before the presses run.",
@@ -271,7 +271,7 @@
       "press",
       "succession"
     ],
-    "prompt": "Two years on, Tania has turned sharp and ambitious. She wants the party's youth wing — and she has the footage of that scrubbed police file, kept as insurance. 'Give it to me,' she says, 'or I wonder aloud how it vanished.'",
+    "prompt": "Tania wants the party's youth wing — and she kept footage of that scrubbed police file as insurance. 'Give it to me,' she says, 'or I wonder aloud how it vanished.'",
     "left": {
       "id": "a",
       "label": "Hand her the youth wing.",
@@ -308,7 +308,7 @@
       "press",
       "succession"
     ],
-    "prompt": "Tania proposes her own marriage to the son of your fiercest rival. 'It neutralises his whole dynasty in one wedding. I am offering you my marriage as a treaty — do not waste it on sentiment.'",
+    "prompt": "Tania offers to marry your fiercest rival's son. 'It neutralises his whole dynasty in one wedding. I'm offering you a treaty — don't waste it on sentiment.'",
     "left": {
       "id": "a",
       "label": "Accept the dynastic marriage.",
@@ -345,7 +345,7 @@
       "loyalty",
       "inheritance"
     ],
-    "prompt": "Your mother gathers the family at Dhanmondi. Without looking up from her plate she announces she has rewritten the trust: your name stays on it only 'while the family remains whole.' The message is for you; the whole table heard it.",
+    "prompt": "At the Dhanmondi dinner your mother announces, without looking up, that she has rewritten the trust: your name stays only 'while the family remains whole.' The whole table heard it.",
     "left": {
       "id": "a",
       "label": "Bow to the matriarch.",
@@ -381,7 +381,7 @@
       "loyalty",
       "inheritance"
     ],
-    "prompt": "Dr. Kabir tells you privately: your mother's tremor is early dementia. 'Perhaps two lucid years.' She still controls the trust, the loyalists, and half your party's heart.",
+    "prompt": "Dr. Kabir tells you privately: your mother's tremor is early dementia, 'perhaps two lucid years.' She still controls the trust, the loyalists, and half the party's heart.",
     "left": {
       "id": "a",
       "label": "Move now to take the trust quietly.",
@@ -417,7 +417,7 @@
       "loyalty",
       "inheritance"
     ],
-    "prompt": "Lucid for one last evening, she calls you to her bedside. 'I will name you the heir of all of it, tonight, if you swear to keep the others fed. Or I die undecided and you tear each other apart.'",
+    "prompt": "Lucid one last evening, she calls you to her bedside. 'Swear to keep the others fed and I name you heir tonight. Or I die undecided, and you tear each other apart.'",
     "left": {
       "id": "a",
       "label": "Swear it. Take the inheritance whole.",
@@ -453,7 +453,7 @@
       "betrayal",
       "security"
     ],
-    "prompt": "A plain envelope clears the morning sweep. Three photographs of you with the Defence Attaché somewhere you were never meant to be, and one line: 'The opposition has copies. Your sister has the originals. Choose who you fear more by Friday.'",
+    "prompt": "A plain envelope clears the morning sweep: three photos of you with the Defence Attaché where you should never have been. One line: 'Your sister has the originals. Choose who you fear by Friday.'",
     "left": {
       "id": "a",
       "label": "Pay your sister for the originals.",
@@ -490,7 +490,7 @@
       "betrayal",
       "security"
     ],
-    "prompt": "Your sister, paid once, returns for more. 'The originals were copies of copies, brother. There is always one more.' She names a sum that would fund a ministry.",
+    "prompt": "Your sister, paid once, returns. 'The originals were copies of copies, brother. There's always one more.' She names a sum that would fund a ministry.",
     "left": {
       "id": "a",
       "label": "Pay again, and hate it.",
@@ -526,7 +526,7 @@
       "labour",
       "safety"
     ],
-    "prompt": "Faisal runs the family garment group. 'The Ashulia unit failed its fire inspection. I can pay the inspector, or shut three thousand machines for a month. Your name is on the gate, not mine.'",
+    "prompt": "Faisal runs the family garment group. 'The Ashulia unit failed its fire inspection. I can pay the inspector, or shut three thousand machines. Your name's on the gate, not mine.'",
     "left": {
       "id": "a",
       "label": "Pay the inspector. Keep the lines running.",
@@ -564,7 +564,7 @@
       "labour",
       "safety"
     ],
-    "prompt": "The Accord auditors and three Western buyers want a tour of the family's factories after a rival's collapse. Faisal panics: 'Half our units would fail. Show them the model floor and keep them off the rest.'",
+    "prompt": "Western buyers want a tour of the family's factories after a rival's collapse. Faisal panics: 'Half our units would fail. Show them the model floor and keep them off the rest.'",
     "left": {
       "id": "a",
       "label": "Stage the model-floor tour.",
@@ -602,7 +602,7 @@
       "overseas",
       "laundering"
     ],
-    "prompt": "Imran flies in from Toronto, gripping a laptop. 'The condos under the numbered company — the Canadians want to meet the real owner. I told them a businessman. Now they want him in a room.'",
+    "prompt": "Imran flies in from Toronto, gripping a laptop. 'The Canadians want to meet the real owner of the condos. I told them a businessman. Now they want him in a room.'",
     "left": {
       "id": "a",
       "label": "Send a frontman to play the owner.",
@@ -639,7 +639,7 @@
       "overseas",
       "laundering"
     ],
-    "prompt": "A leaked offshore database — the 'Begumpara files' — names Imran's Toronto holdings on the front page. Students chant about laundered millions while reserves run thin. Imran wants to fly back and 'sort the paperwork.'",
+    "prompt": "The leaked 'Begumpara files' name Imran's Toronto holdings on the front page. Students chant about laundered millions while reserves run thin. He wants to fly back and 'sort the paperwork.'",
     "left": {
       "id": "a",
       "label": "Bring him home and hide him from the press.",
@@ -676,7 +676,7 @@
       "violence",
       "party"
     ],
-    "prompt": "Your nephew Mizan leads the party's student front at Dhaka University. Tonight his boys put a rival in the morgue. 'It was him or us, chacha,' he says, blood on his sleeve. 'Protect me and I deliver every campus.'",
+    "prompt": "Your nephew Mizan leads the party's student front at Dhaka University. Tonight his boys put a rival in the morgue. 'It was him or us, chacha. Protect me and I deliver every campus.'",
     "left": {
       "id": "a",
       "label": "Shield him. Use the campuses.",
@@ -714,7 +714,7 @@
       "violence",
       "party"
     ],
-    "prompt": "The killing has sparked a campus uprising — the very 'anti-violence' movement that toppled a neighbour's government. They demand Mizan's wing be banned outright. The cantonment is watching how you handle a crowd.",
+    "prompt": "The killing has sparked a campus uprising demanding Mizan's wing be banned outright. The cantonment is watching how you handle a crowd.",
     "left": {
       "id": "a",
       "label": "Ban the student wing entirely.",
@@ -751,7 +751,7 @@
       "religion",
       "legitimacy"
     ],
-    "prompt": "The imam who married you asks a favour after Jummah. 'The madrasa board will deliver three constituencies for your endorsement — or remember, loudly, that your son drinks.'",
+    "prompt": "The imam who married you asks a favour after Jummah. 'The madrasa board delivers three constituencies for your endorsement — or remembers, loudly, that your son drinks.'",
     "left": {
       "id": "a",
       "label": "Give the endorsement publicly.",
@@ -789,7 +789,7 @@
       "class",
       "image"
     ],
-    "prompt": "Joya brings home a rickshaw-puller's son — first in his family to read, full of love for her and no fear of you. 'I am marrying him. You can bless it from the dais or read about it in the papers.'",
+    "prompt": "Joya brings home a rickshaw-puller's son — full of love for her and no fear of you. 'I am marrying him. Bless it from the dais, or read about it in the papers.'",
     "left": {
       "id": "a",
       "label": "Bless it. Make a virtue of the people's son.",
@@ -825,7 +825,7 @@
       "banking",
       "finance"
     ],
-    "prompt": "Anwar chairs the family bank. 'We have lent eight hundred crore to companies that are, let us say, ours. The central bank governor wants to classify the loans. Replace him, or our bank is the next headline.'",
+    "prompt": "Anwar chairs the family bank. 'We've lent eight hundred crore to companies that are, let us say, ours. Replace the central bank governor, or our bank is the next headline.'",
     "left": {
       "id": "a",
       "label": "Replace the governor with our man.",
@@ -860,7 +860,7 @@
       "loyalty",
       "people"
     ],
-    "prompt": "Belal has driven you since the opposition years. His son needs a kidney; the matched donor is in a state queue eight hundred deep. 'I have never asked you for anything, sir,' he says, not asking now either.",
+    "prompt": "Belal has driven you for twenty years. His son needs a kidney; the matched donor is eight hundred deep in a state queue. 'I have never asked you for anything, sir.'",
     "left": {
       "id": "a",
       "label": "Move the boy to the front of the queue.",
@@ -897,7 +897,7 @@
       "abuse",
       "press"
     ],
-    "prompt": "Saima, Imran's wife, comes to you bruised at the wrist and steady in the voice. 'Your son raises his hand. I will not smile for the cameras while he does it. Help me, or I go to the press myself.'",
+    "prompt": "Saima, Imran's wife, comes to you bruised at the wrist and steady in voice. 'Your son raises his hand. Help me, or I go to the press myself.'",
     "left": {
       "id": "a",
       "label": "Stand with her. Confront your son.",
@@ -933,7 +933,7 @@
       "nepotism",
       "state"
     ],
-    "prompt": "Karim lays the posting list before you, jaw tight. 'Of the last forty senior appointments, thirty-one share your village or your blood. The service is becoming a family firm. I had to say it.'",
+    "prompt": "Karim lays the posting list before you, jaw tight. 'Thirty-one of the last forty senior appointments share your village or your blood. I had to say it.'",
     "left": {
       "id": "a",
       "label": "Thank him, change nothing.",
@@ -971,7 +971,7 @@
       "exit",
       "love"
     ],
-    "prompt": "Nasrin packs a single bag, calmly. 'I have been your wife, your shield, your alibi for thirty years, and I am tired. Ask me to stay because you need the marriage and I will. Ask me to stay because you love me, and I might believe it.'",
+    "prompt": "Nasrin packs a single bag, calmly. 'Thirty years your wife, your shield, your alibi. Ask me to stay because you need the marriage and I will. Ask because you love me, and I might believe it.'",
     "left": {
       "id": "a",
       "label": "Ask her to stay — and mean it.",
@@ -1005,7 +1005,7 @@
       "roots",
       "patronage"
     ],
-    "prompt": "A delegation from your ancestral village arrives with garlands and grievances. 'The river took forty homes and the relief never came — your cousin the UNO sold it. We do not want charity. We want our son to remember whose soil he sprang from.'",
+    "prompt": "A delegation from your ancestral village arrives with garlands and grievances. 'The river took forty homes; your cousin the UNO sold the relief. We want our son to remember whose soil he sprang from.'",
     "left": {
       "id": "a",
       "label": "Sack the cousin, deliver relief yourself.",
@@ -1042,7 +1042,7 @@
       "ambition",
       "power"
     ],
-    "prompt": "Shafiq, married into the family and hungry, asks for a cabinet seat — 'to serve, and to keep power in trusted hands.' He is competent and grasping in equal measure, and your daughter's marriage may sour if you refuse him.",
+    "prompt": "Shafiq, married into the family and hungry, asks for a cabinet seat — 'to keep power in trusted hands.' He is competent and grasping in equal measure, and your daughter's marriage may sour if you refuse.",
     "left": {
       "id": "a",
       "label": "Give Shafiq the cabinet seat.",
@@ -1079,7 +1079,7 @@
       "ambition",
       "power"
     ],
-    "prompt": "Passed over — or empowered — Shafiq is now quietly meeting your rivals, hedging his bets, and your daughter is caught between her husband and her father. An aide brings you the surveillance log and waits for your word.",
+    "prompt": "Shafiq is now quietly meeting your rivals, hedging his bets, and your daughter is caught between husband and father. An aide brings you the surveillance log and waits.",
     "left": {
       "id": "a",
       "label": "Confront Shafiq, force him to choose.",
@@ -1115,7 +1115,7 @@
       "excess",
       "optics"
     ],
-    "prompt": "Your grandson Arif plans a wedding of obscene splendour — foreign popstars, a fleet of imported cars, a guest list of oligarchs — while the country tightens its belt. The family wants the spectacle; the optics would be a gift to your enemies.",
+    "prompt": "Your grandson Arif plans a wedding of obscene splendour — foreign popstars, imported cars, a guest list of oligarchs — while the country tightens its belt. The optics would be a gift to your enemies.",
     "left": {
       "id": "a",
       "label": "Let Arif have his grand wedding.",
@@ -1151,7 +1151,7 @@
       "favour",
       "graft"
     ],
-    "prompt": "Your brother Kamal wants a licence for a new private bank — a licence that, in your family's hands, is a money machine and a scandal in waiting. 'Every dynasty has its bank,' he says. 'Why should ours beg from strangers?'",
+    "prompt": "Your brother Kamal wants a licence for a new private bank. 'Every dynasty has its bank,' he says. 'Why should ours beg from strangers?'",
     "left": {
       "id": "a",
       "label": "Grant Kamal his bank licence.",
@@ -1188,7 +1188,7 @@
       "exposure",
       "hypocrisy"
     ],
-    "prompt": "It emerges that your son Imran quietly took a second, foreign citizenship years ago — a safety hatch, and a humiliation for a leader who preaches sovereignty. A journalist has the documents and is days from publishing.",
+    "prompt": "It emerges that Imran quietly took a foreign citizenship years ago — a humiliation for a leader who preaches sovereignty. A journalist has the documents and is days from publishing.",
     "left": {
       "id": "a",
       "label": "Pressure the journalist to kill the story.",
@@ -1225,7 +1225,7 @@
       "grabbing",
       "family"
     ],
-    "prompt": "Your sister-in-law Roksana has been seizing public and minority land across a district using the family name as a shield, and the dispossessed are starting to petition and protest. She insists she is 'only developing what others wasted.'",
+    "prompt": "Your sister-in-law Roksana has been seizing public and minority land using the family name as a shield. The dispossessed are starting to petition. She insists she is 'only developing what others wasted.'",
     "left": {
       "id": "a",
       "label": "Rein Roksana in, return the worst grabs.",
@@ -1262,7 +1262,7 @@
       "legacy",
       "secrets"
     ],
-    "prompt": "The ailing matriarch is dictating her memoirs, and her failing discretion means decades of family secrets — deals, betrayals, a death never explained — may end up in print. Her ghostwriter quietly asks you whether to publish faithfully or sanitise.",
+    "prompt": "The ailing matriarch is dictating her memoirs, and her failing discretion may put decades of family secrets in print. Her ghostwriter quietly asks whether to publish faithfully or sanitise.",
     "left": {
       "id": "a",
       "label": "Let the unvarnished memoir stand.",
@@ -1299,7 +1299,7 @@
       "funds",
       "scandal"
     ],
-    "prompt": "Your daughter Tania's glittering charity foundation — the family's philanthropic face abroad — is quietly doubling as a slush fund and a soft-power vehicle. An international audit is sniffing close, and Tania begs you to make it go away.",
+    "prompt": "Your daughter Tania's glittering charity foundation is quietly doubling as a slush fund. An international audit is sniffing close, and she begs you to make it go away.",
     "left": {
       "id": "a",
       "label": "Make the audit disappear.",
@@ -1335,7 +1335,7 @@
       "children",
       "merit"
     ],
-    "prompt": "The matriarch presses you to anoint your charming, beloved, hopeless elder child over your cold, capable younger one as the dynasty's future. 'The people love the elder,' she says. 'The party fears the younger. A throne needs love.'",
+    "prompt": "The matriarch presses you to anoint your charming, hopeless elder child over your cold, capable younger one. 'The people love the elder, the party fears the younger. A throne needs love.'",
     "left": {
       "id": "a",
       "label": "Anoint the beloved but hopeless heir.",
@@ -1371,7 +1371,7 @@
       "audio",
       "betrayal"
     ],
-    "prompt": "Hashem brings grim news: a recording of a candid family dinner — you, mocking allies, scheming against rivals, dismissing the public — has been leaked and is spreading. He asks how to respond before it consumes the cycle.",
+    "prompt": "Hashem brings grim news: a recording of a candid family dinner — you mocking allies, dismissing the public — has leaked and is spreading. He asks how to respond before it consumes the cycle.",
     "left": {
       "id": "a",
       "label": "Deny it as a deepfake.",
@@ -1408,7 +1408,7 @@
       "matriarch",
       "optics"
     ],
-    "prompt": "The matriarch needs advanced treatment available only abroad — at vast expense, on a state aircraft, while ordinary citizens die waiting in the public wards she once championed. The physician needs your decision quietly and fast.",
+    "prompt": "The matriarch needs treatment available only abroad — vast expense, a state aircraft — while ordinary citizens die in the public wards she once championed. The physician needs your decision fast.",
     "left": {
       "id": "a",
       "label": "Send her abroad on the state's dime.",
@@ -1445,7 +1445,7 @@
       "pension",
       "memory"
     ],
-    "prompt": "Quddus, who took a bullet for you decades ago, is dying poor and forgotten, and his family quietly asks for help — and carries, in his failing memory, secrets from your hardest years. Loyalty and liability sit in the same frail body.",
+    "prompt": "Quddus, who took a bullet for you decades ago, is dying poor and forgotten — and carries, in his failing memory, secrets from your hardest years. Loyalty and liability in one frail body.",
     "left": {
       "id": "a",
       "label": "Care for Quddus lavishly and openly.",
@@ -1481,7 +1481,7 @@
       "youth",
       "media"
     ],
-    "prompt": "Your niece Nadia, drunk and filmed, has crashed her imported sports car into a rickshaw, injuring the puller, and the video is everywhere. The family wants the matter buried; the rickshaw-puller's family wants justice and the internet wants blood.",
+    "prompt": "Your niece Nadia, drunk and filmed, has crashed her sports car into a rickshaw, injuring the puller. The video is everywhere; the family wants it buried, the internet wants blood.",
     "left": {
       "id": "a",
       "label": "Bury it; settle the puller quietly.",
@@ -1517,7 +1517,7 @@
       "monopoly",
       "favour"
     ],
-    "prompt": "Your son Faisal's conglomerate is bidding for a national telecom licence, and a word from you would settle it. He frames it as keeping a strategic asset in safe hands; the regulator frames it as the family swallowing another sector.",
+    "prompt": "Your son Faisal's conglomerate is bidding for a national telecom licence, and a word from you would settle it. He calls it keeping a strategic asset safe; the regulator calls it the family swallowing another sector.",
     "left": {
       "id": "a",
       "label": "Tilt the licence to Faisal.",
@@ -1554,7 +1554,7 @@
       "budget",
       "excess"
     ],
-    "prompt": "The cost of running the residence has ballooned — a fleet of cars, a small army of staff, foreign renovations — into a line item that, if leaked, would enrage a struggling public. The chief of staff asks whether to trim it or bury it deeper in the budget.",
+    "prompt": "The cost of running the residence has ballooned into a line item that, if leaked, would enrage a struggling public. The chief of staff asks whether to trim it or bury it deeper in the budget.",
     "left": {
       "id": "a",
       "label": "Trim the household lavishness.",
@@ -1592,7 +1592,7 @@
       "legacy",
       "cult"
     ],
-    "prompt": "The matriarch, sensing the end, wants a grand family mausoleum and a perpetual state-funded foundation to tend the dynasty's memory forever. 'Let them not forget what we built,' she says. The price is a permanent claim on the treasury and the calendar.",
+    "prompt": "Sensing the end, the matriarch wants a grand family mausoleum and a perpetual state-funded foundation. 'Let them not forget what we built,' she says. The price: a permanent claim on the treasury.",
     "left": {
       "id": "a",
       "label": "Build the grand mausoleum and foundation.",
@@ -1629,7 +1629,7 @@
       "rehab",
       "secret"
     ],
-    "prompt": "Your son Imran's drug problem has spiralled, and an overdose has been hushed up at a private clinic. The family wants it sealed forever; a quieter voice says he needs real, visible help that cannot stay secret for long.",
+    "prompt": "Imran's drug problem has spiralled, and an overdose was hushed up at a private clinic. The family wants it sealed forever; a quieter voice says he needs real, visible help.",
     "left": {
       "id": "a",
       "label": "Seal it; manage him in secret.",
@@ -1665,7 +1665,7 @@
       "feud",
       "threat"
     ],
-    "prompt": "Your long-estranged sister Shahana, cut off years ago in a bitter inheritance feud, resurfaces with a manuscript of grievances and a media deal — unless you reconcile and pay. She knows where every body in the family is buried.",
+    "prompt": "Your estranged sister Shahana resurfaces with a manuscript of grievances and a media deal — unless you reconcile and pay. She knows where every body in the family is buried.",
     "left": {
       "id": "a",
       "label": "Reconcile and bring her back in.",
@@ -1701,7 +1701,7 @@
       "kickbacks",
       "exposure"
     ],
-    "prompt": "Your cousin Rashed, who has greased the family's deals for decades, is named in a foreign bribery indictment that could drag the dynasty's whole contracting machine into the light. He asks, with quiet menace, that you protect him as he has always protected you.",
+    "prompt": "Your cousin Rashed, who greased the family's deals for decades, is named in a foreign bribery indictment. He asks, with quiet menace, that you protect him as he protected you.",
     "left": {
       "id": "a",
       "label": "Protect Rashed at all costs.",
@@ -1738,7 +1738,7 @@
       "politics",
       "ambition"
     ],
-    "prompt": "Nasrin, long your quiet shield, now wants a public political role of her own — a ministry, a platform, a legacy beyond being your wife. It would delight her and the women's wing, and plant a second power in your own bed.",
+    "prompt": "Nasrin, long your quiet shield, now wants a public political role of her own — a ministry, a legacy beyond being your wife. It would plant a second power in your own bed.",
     "left": {
       "id": "a",
       "label": "Give Nasrin a real public role.",
@@ -1774,7 +1774,7 @@
       "family",
       "strategy"
     ],
-    "prompt": "The pollster lays it bare: the family brand is curdling, the young see entitlement where their parents saw sacrifice, and the dynasty's halo is fading with the generation that remembers its founding. He offers a costly rebrand, or the comfort of denial.",
+    "prompt": "The pollster lays it bare: the family brand is curdling, the young see entitlement where their parents saw sacrifice. He offers a costly rebrand, or the comfort of denial.",
     "left": {
       "id": "a",
       "label": "Commission the honest rebrand.",
@@ -1811,7 +1811,7 @@
       "youth",
       "abroad"
     ],
-    "prompt": "Your grandson Arif, groomed since birth as a future heir, confesses he wants none of it — he means to stay abroad, study, marry a foreigner, and never return to the cage of the dynasty. The line of succession trembles on his answer.",
+    "prompt": "Your grandson Arif, groomed since birth as a future heir, confesses he wants none of it — he means to stay abroad and never return to the cage of the dynasty. The line of succession trembles.",
     "left": {
       "id": "a",
       "label": "Let Arif go and live his own life.",
@@ -1847,7 +1847,7 @@
       "scandal",
       "family"
     ],
-    "prompt": "Karim brings the file you dreaded: proof of a second family — a woman and a child kept quietly for years — now at risk of exposure by a tabloid. He waits, expressionless, for how you wish the matter handled.",
+    "prompt": "Karim brings the file you dreaded: proof of a second family — a woman and a child kept quietly for years — now at risk of a tabloid exposé. He waits, expressionless, for your word.",
     "left": {
       "id": "a",
       "label": "Provide for them openly and own it.",
@@ -1884,7 +1884,7 @@
       "superstition",
       "health"
     ],
-    "prompt": "The ailing matriarch has fallen under the sway of a faith healer who forbids her medicine and prescribes amulets, and her health is failing fast. The physician begs you to intervene; the family fears crossing her will and her belief.",
+    "prompt": "The ailing matriarch has fallen under a faith healer who forbids her medicine and prescribes amulets; her health is failing fast. The physician begs you to intervene; the family fears crossing her belief.",
     "left": {
       "id": "a",
       "label": "Remove the healer, restore her treatment.",
@@ -1919,7 +1919,7 @@
       "social-media",
       "image"
     ],
-    "prompt": "Your designated heir is posting reckless luxury and intemperate opinions across social media — fast cars, foreign holidays, scorn for the 'ungrateful' poor — while the country tightens its belt. The manager wants the accounts seized and scrubbed; the heir resists fiercely.",
+    "prompt": "Your designated heir floods social media with reckless luxury and scorn for the 'ungrateful' poor while the country tightens its belt. The manager wants the accounts seized; the heir resists fiercely.",
     "left": {
       "id": "a",
       "label": "Seize and scrub the heir's accounts.",
@@ -1955,7 +1955,7 @@
       "trust",
       "aide"
     ],
-    "prompt": "Nasrin, cold and certain, demands you dismiss your brilliant, indispensable young chief of staff, convinced — rightly or not — that the closeness between you has gone beyond work. The aide is the best you have. The marriage trembles on your answer.",
+    "prompt": "Nasrin, cold and certain, demands you dismiss your brilliant young chief of staff, convinced the closeness has gone beyond work. The aide is the best you have. The marriage trembles on your answer.",
     "left": {
       "id": "a",
       "label": "Dismiss the aide to save the marriage.",
@@ -1991,7 +1991,7 @@
       "family",
       "propaganda"
     ],
-    "prompt": "Your cousin Jalal wants a licence and state advertising to launch a television channel — a family mouthpiece, he says, to defend the dynasty. It would be a loyal megaphone and a private fiefdom funded, in effect, by the public purse.",
+    "prompt": "Your cousin Jalal wants a licence and state advertising for a television channel — a family mouthpiece, he says, to defend the dynasty. A loyal megaphone funded, in effect, by the public purse.",
     "left": {
       "id": "a",
       "label": "Grant Jalal his channel and ad money.",
@@ -2028,7 +2028,7 @@
       "alliance",
       "dynasty"
     ],
-    "prompt": "The matriarch has arranged for your grandchild to marry into another political dynasty — a powerful alliance that would knit two houses and two vote banks, and bind your grandchild to a stranger for the sake of the family's reach.",
+    "prompt": "The matriarch has arranged for your grandchild to marry into another political dynasty — a powerful alliance that knits two vote banks, and binds your grandchild to a stranger for the family's reach.",
     "left": {
       "id": "a",
       "label": "Bless the dynastic marriage alliance.",
@@ -2064,7 +2064,7 @@
       "mortality",
       "succession"
     ],
-    "prompt": "The physician, grave, tells you in private that your own heart is failing and the years left are few — and that the strain of office is hastening the end. You can step back toward a managed succession, or burn what remains holding absolute power.",
+    "prompt": "The physician tells you in private that your heart is failing and the years left are few — and office is hastening the end. You can step back toward a managed succession, or burn what remains holding power.",
     "left": {
       "id": "a",
       "label": "Step back toward a managed succession.",
@@ -2101,7 +2101,7 @@
       "justice",
       "family"
     ],
-    "prompt": "A drunk young relative has run down and killed a pedestrian, and Karim has the police report in hand before the press. He can make the case vanish, or you can let the law take its course against your own blood.",
+    "prompt": "A drunk young relative has run down and killed a pedestrian. Karim has the police report before the press: he can make the case vanish, or you let the law take its course against your own blood.",
     "left": {
       "id": "a",
       "label": "Let the law take its course.",
@@ -2137,7 +2137,7 @@
       "debt",
       "blackmail"
     ],
-    "prompt": "Your son Imran has run up ruinous gambling debts to dangerous people abroad, who now hint they will sell the story — and the leverage — unless quietly paid. Imran, shamefaced, begs you to settle it.",
+    "prompt": "Imran has run up ruinous gambling debts to dangerous people abroad, who now hint they will sell the story unless quietly paid. Shamefaced, he begs you to settle it.",
     "left": {
       "id": "a",
       "label": "Pay the debts and contain it.",
@@ -2173,7 +2173,7 @@
       "cabinet",
       "power"
     ],
-    "prompt": "The matriarch, though holding no office, summons your ministers, overrules your decisions, and runs a shadow government from the residence. The cabinet seethes in private; to confront her is to wound the woman who built the dynasty.",
+    "prompt": "The matriarch, holding no office, summons your ministers and runs a shadow government from the residence. The cabinet seethes in private; to confront her is to wound the woman who built the dynasty.",
     "left": {
       "id": "a",
       "label": "Rein in the matriarch's interference.",
@@ -2210,7 +2210,7 @@
       "estrangement",
       "family"
     ],
-    "prompt": "Your daughter Tania, long estranged after a bitter falling-out, returns — older, softer, seeking reconciliation, and perhaps a place in the family's future. The old wound aches; so does the empty chair she might fill.",
+    "prompt": "Your daughter Tania, long estranged after a bitter falling-out, returns — older, softer, seeking reconciliation and perhaps a place in the family's future. The old wound aches; so does the empty chair.",
     "left": {
       "id": "a",
       "label": "Reconcile and welcome her back.",
@@ -2245,7 +2245,7 @@
       "history",
       "truth"
     ],
-    "prompt": "The biographer commissioned to write the authorised history of your rule has uncovered the hard truths alongside the triumphs, and asks whether to write honestly — warts and all — or to produce the burnished hagiography the family expects.",
+    "prompt": "Your authorised biographer has uncovered the hard truths alongside the triumphs, and asks whether to write honestly — warts and all — or produce the burnished hagiography the family expects.",
     "left": {
       "id": "a",
       "label": "Commission an honest biography.",
@@ -2281,7 +2281,7 @@
       "foreign",
       "exposure"
     ],
-    "prompt": "A foreign government, investigating money-laundering, has frozen a web of the family's overseas accounts and properties and is asking pointed questions. Karim asks whether to fight it openly through lawyers, or quietly let the assets go to avoid the trail leading home.",
+    "prompt": "A foreign government investigating money-laundering has frozen a web of the family's overseas accounts. Karim asks whether to fight openly through lawyers, or quietly let the assets go before the trail leads home.",
     "left": {
       "id": "a",
       "label": "Quietly let the frozen assets go.",
@@ -2318,7 +2318,7 @@
       "loyalty",
       "secret"
     ],
-    "prompt": "An old household servant, privy to decades of the family's private dramas and secrets, is retiring — and a publisher has approached them with a fortune for a tell-all. The steward, loyal but poor, has come to you first, asking only to be looked after.",
+    "prompt": "An old household servant, privy to decades of family secrets, is retiring — and a publisher has offered a fortune for a tell-all. Loyal but poor, the steward comes to you first, asking only to be looked after.",
     "left": {
       "id": "a",
       "label": "Provide generously for the servant.",
@@ -2353,7 +2353,7 @@
       "seat",
       "politics"
     ],
-    "prompt": "Your son Faisal, with no record of service, demands a safe parliamentary seat as his due — a launchpad for his own ambitions. The local party workers who earned their place resent the parachute; the family expects you to provide for your own.",
+    "prompt": "Your son Faisal, with no record of service, demands a safe parliamentary seat as his due. The local party workers who earned their place resent the parachute; the family expects you to provide for your own.",
     "left": {
       "id": "a",
       "label": "Hand Faisal the safe seat.",
@@ -2389,7 +2389,7 @@
       "militia",
       "family"
     ],
-    "prompt": "Mizan proposes expanding the family's personal security into a large, loyal private force — answerable only to the dynasty, beyond the regular chain of command. It would make the family untouchable; it would also be a private army at the heart of the state.",
+    "prompt": "Mizan proposes expanding the family's security into a large private force answerable only to the dynasty. It would make the family untouchable — and put a private army at the heart of the state.",
     "left": {
       "id": "a",
       "label": "Build the loyal private force.",
@@ -2426,7 +2426,7 @@
       "dissent",
       "family"
     ],
-    "prompt": "Your grandson Arif, idealistic and furious, has begun publicly criticising your government's record on rights and corruption, embarrassing the family and delighting the opposition. He will not be silenced by family pressure. The hardliners want him disowned.",
+    "prompt": "Your grandson Arif, idealistic and furious, has begun publicly attacking your government's record on rights and corruption, delighting the opposition. He will not be silenced. The hardliners want him disowned.",
     "left": {
       "id": "a",
       "label": "Tolerate Arif's dissent.",
@@ -2463,7 +2463,7 @@
       "decisions",
       "influence"
     ],
-    "prompt": "A revered astrologer the matriarch trusts has begun advising on the timing of cabinet decisions, elections, and appointments — and the family takes the readings seriously. The rationalists in your circle are appalled; the matriarch is adamant.",
+    "prompt": "An astrologer the matriarch trusts now advises on the timing of cabinet decisions and elections — and the family takes the readings seriously. The rationalists in your circle are appalled; the matriarch is adamant.",
     "left": {
       "id": "a",
       "label": "Indulge the astrologer's counsel.",
@@ -2499,7 +2499,7 @@
       "property",
       "feud"
     ],
-    "prompt": "Your brother Kamal is suing over the ancestral family home and lands, claiming the lion's share against the other siblings — a feud that, if it reaches open court, will air the family's dirty laundry and wealth before the nation. He offers a private settlement on his terms.",
+    "prompt": "Your brother Kamal is suing over the ancestral home and lands, claiming the lion's share. If it reaches open court, the family's dirty laundry airs before the nation. He offers a private settlement on his terms.",
     "left": {
       "id": "a",
       "label": "Settle privately on Kamal's terms.",
@@ -2535,7 +2535,7 @@
       "foundation",
       "scrutiny"
     ],
-    "prompt": "Nasrin's beloved charitable foundation — her life's work and public pride — is facing whispers that its accounts are loose and some funds have strayed. An audit looms. She is wounded by the suspicion and begs you to make it go away.",
+    "prompt": "Nasrin's beloved foundation — her life's work — faces whispers that its accounts are loose and funds have strayed. An audit looms. Wounded by the suspicion, she begs you to make it go away.",
     "left": {
       "id": "a",
       "label": "Let the audit proceed honestly.",
@@ -2571,7 +2571,7 @@
       "loss",
       "consolation"
     ],
-    "prompt": "Your cousin Jalal, parachuted into a seat he then lost, demands a consolation — a plum ministry, a corporation chairmanship, an ambassadorship — to soothe his wounded pride and keep up appearances. The family expects you to provide; the merit-minded are appalled.",
+    "prompt": "Your cousin Jalal, parachuted into a seat he then lost, demands a consolation prize — a ministry, a chairmanship — to soothe his wounded pride. The family expects you to provide; the merit-minded are appalled.",
     "left": {
       "id": "a",
       "label": "Consolation prize for Jalal.",
@@ -2607,7 +2607,7 @@
       "secrets",
       "legacy"
     ],
-    "prompt": "Your candid private diary — decades of unguarded thoughts, deals, and judgments of allies and enemies — has been quietly copied, and a page has surfaced. Karim asks whether to hunt the leak ruthlessly or to pre-empt it by publishing a curated version yourself.",
+    "prompt": "Your candid private diary — decades of unguarded judgments of allies and enemies — has been copied, and a page has surfaced. Karim asks whether to hunt the leak ruthlessly or pre-empt it with a curated version of your own.",
     "left": {
       "id": "a",
       "label": "Hunt the leak ruthlessly.",
@@ -2644,7 +2644,7 @@
       "anniversary",
       "legacy"
     ],
-    "prompt": "A grand state spectacle is proposed for the dynasty's founding anniversary — compulsory school assemblies, a national holiday, portraits in every office, a day of enforced reverence. The family glows at the idea; critics see a personality cult cast across the calendar.",
+    "prompt": "A grand state spectacle is proposed for the dynasty's founding anniversary — compulsory assemblies, a holiday, portraits in every office. The family glows; critics see a personality cult cast across the calendar.",
     "left": {
       "id": "a",
       "label": "Stage the grand reverence.",
@@ -2681,7 +2681,7 @@
       "mental-health",
       "secret"
     ],
-    "prompt": "The physician confides that your youngest, crushed by the weight of the family name and a life lived in public, is severely depressed and hiding it. The family treats such things as shameful weakness. The physician asks how to proceed.",
+    "prompt": "The physician confides that your youngest, crushed by the weight of the family name, is severely depressed and hiding it. The family treats such things as shameful weakness. The physician asks how to proceed.",
     "left": {
       "id": "a",
       "label": "Get the child real, open help.",
@@ -2716,7 +2716,7 @@
       "death",
       "succession"
     ],
-    "prompt": "The matriarch has died, and her will divides her vast holdings and her blessing unequally among the siblings — naming a favourite and slighting the rest, with a clause that could ignite a succession war. The lawyer asks whether to honour it strictly or quietly broker an even peace.",
+    "prompt": "The matriarch has died, and her will divides everything unequally — naming a favourite, slighting the rest, with a clause that could ignite a succession war. The lawyer asks whether to honour it strictly or broker an even peace.",
     "left": {
       "id": "a",
       "label": "Honour the will exactly.",
@@ -2751,7 +2751,7 @@
       "family",
       "scandal"
     ],
-    "prompt": "Karim brings evidence that a relative has been running a gold-and-goods smuggling ring under the family's protective shadow, and customs investigators are circling. He asks whether to shut it down and cut the relative loose, or quash the investigation.",
+    "prompt": "Karim brings evidence that a relative is running a gold smuggling ring under the family's shadow, and customs investigators are circling. Shut it down and cut the relative loose, or quash the investigation?",
     "left": {
       "id": "a",
       "label": "Shut it down, cut the relative loose.",
@@ -2788,7 +2788,7 @@
       "scandal",
       "family"
     ],
-    "prompt": "Your daughter Tania wants to divorce her abusive, well-connected husband — a step the conservative public and her in-laws' powerful family will turn into a scandal and a feud. She asks for your backing against the pressure to endure for the family's image.",
+    "prompt": "Your daughter Tania wants to divorce her abusive, well-connected husband — a step the conservative public and her powerful in-laws will turn into a scandal and a feud. She asks for your backing against the pressure to endure.",
     "left": {
       "id": "a",
       "label": "Back Tania's divorce fully.",
@@ -2824,7 +2824,7 @@
       "overreach",
       "power"
     ],
-    "prompt": "Your most trusted aide has begun acting in your name without leave — issuing orders, brokering deals, taking cuts — wielding a shadow authority that ministers now fear more than yours. Karim warns the aide has grown too large; cutting him loose means losing your right hand.",
+    "prompt": "Your most trusted aide now acts in your name without leave — issuing orders, taking cuts — a shadow authority ministers fear more than yours. Karim warns he has grown too large; cutting him loose costs your right hand.",
     "left": {
       "id": "a",
       "label": "Cut the overreaching aide down.",
@@ -2861,7 +2861,7 @@
       "grooming",
       "succession"
     ],
-    "prompt": "The chosen heir is being groomed for power, but the mentor reports they are out of their depth — indecisive, unloved by the party, unready. You can keep forcing the unsuited heir forward, or face the family and reopen the succession to someone abler.",
+    "prompt": "The mentor reports your chosen heir is out of their depth — indecisive, unloved by the party, unready. You can keep forcing the unsuited heir forward, or reopen the succession to someone abler.",
     "left": {
       "id": "a",
       "label": "Keep forcing the chosen heir.",
@@ -2898,7 +2898,7 @@
       "rival",
       "loyalty"
     ],
-    "prompt": "Your brother Kamal, passed over and embittered, threatens to defect to the opposition and take his faction and his secrets with him — a betrayal that would split the family and arm your enemies. He hints what it would take to keep him: power, money, a free hand.",
+    "prompt": "Your brother Kamal, passed over and embittered, threatens to defect to the opposition with his faction and his secrets — a betrayal that would split the family. He hints what it would take to keep him: power, money, a free hand.",
     "left": {
       "id": "a",
       "label": "Pay Kamal's price to keep him.",
@@ -2935,7 +2935,7 @@
       "family",
       "patronage"
     ],
-    "prompt": "Your sister-in-law Roksana runs the family's private university as a personal fief — selling admissions and degrees, packing the faculty with cronies, while trading on the dynasty's name for accreditation. A scandal is brewing. She asks for your shield.",
+    "prompt": "Your sister-in-law Roksana runs the family's private university as a personal fief — selling admissions and degrees, packing the faculty with cronies. A scandal is brewing. She asks for your shield.",
     "left": {
       "id": "a",
       "label": "Shield Roksana's university.",
@@ -2972,7 +2972,7 @@
       "health",
       "duty"
     ],
-    "prompt": "Nasrin, your spouse and lifelong anchor, is gravely ill and needs you at her side — but the demands of office pull you away at every turn, and she is fading while you govern. The physician asks, gently, where you will be in the time she has left.",
+    "prompt": "Nasrin, your lifelong anchor, is gravely ill and needs you at her side — but office pulls you away at every turn, and she is fading while you govern. The physician asks, gently, where you will be in the time she has left.",
     "left": {
       "id": "a",
       "label": "Step back to be with Nasrin.",
@@ -3008,7 +3008,7 @@
       "bailout",
       "favour"
     ],
-    "prompt": "Your son Faisal's grand business venture has collapsed under debt and mismanagement, and he begs you to have a state bank quietly write off his loans and bail him out — as such favours have rescued the connected before. The bankers await your word.",
+    "prompt": "Your son Faisal's grand venture has collapsed under debt, and he begs you to have a state bank quietly write off his loans — as such favours have rescued the connected before. The bankers await your word.",
     "left": {
       "id": "a",
       "label": "Arrange the quiet state bailout.",
@@ -3045,7 +3045,7 @@
       "influence",
       "decisions"
     ],
-    "prompt": "The family's revered household imam has begun pressing you, through the devout matriarch and the family, to shape state policy to his conservative lights — curriculum, women's rights, minority matters. To heed him pleases the family and the pious; to refuse risks their wrath.",
+    "prompt": "The household imam is pressing you, through the devout matriarch, to shape state policy to his conservative lights — curriculum, women's rights, minority matters. To heed him pleases the pious; to refuse risks their wrath.",
     "left": {
       "id": "a",
       "label": "Keep the imam to spiritual matters.",
@@ -3081,7 +3081,7 @@
       "contingency",
       "survival"
     ],
-    "prompt": "With unrest rising, Mizan quietly proposes preparing an exile contingency — foreign assets, a safe haven, a plane on standby — should the worst come. To prepare it is prudent survival; to be discovered preparing it would signal you expect to fall, and hasten the fall.",
+    "prompt": "With unrest rising, Mizan quietly proposes an exile contingency — foreign assets, a safe haven, a plane on standby. To prepare it is prudent; to be caught preparing it would signal you expect to fall, and hasten it.",
     "left": {
       "id": "a",
       "label": "Prepare the exile contingency quietly.",
@@ -3118,7 +3118,7 @@
       "scandal",
       "influence"
     ],
-    "prompt": "Your grandchild has fallen in with a fast, decadent crowd of the wealthy young — drugs, scandal, ruinous influence — that is dragging them toward the next viral embarrassment. Karim asks whether to forcibly intervene or trust the young to find their own way.",
+    "prompt": "Your grandchild has fallen in with a fast, decadent crowd — drugs, scandal — dragging them toward the next viral embarrassment. Karim asks whether to forcibly intervene or trust the young to find their own way.",
     "left": {
       "id": "a",
       "label": "Intervene and cut off the bad crowd.",
@@ -3153,7 +3153,7 @@
       "promise",
       "legacy"
     ],
-    "prompt": "On her deathbed the matriarch extracted a promise from you — to elevate a particular grandchild, or pursue a pet cause, or shield a favoured relative — that now binds you against your better judgment. The lawyer asks whether to honour the deathbed promise or quietly set it aside.",
+    "prompt": "On her deathbed the matriarch extracted a promise — to elevate a grandchild, shield a favoured relative — that now binds you against your better judgment. The lawyer asks whether to honour it or quietly set it aside.",
     "left": {
       "id": "a",
       "label": "Honour the deathbed promise.",
@@ -3189,7 +3189,7 @@
       "family",
       "leak"
     ],
-    "prompt": "Surveillance reveals a trusted relative has been quietly feeding the family's secrets and your plans to the opposition for money. Mizan has the proof. You can expose and cast them out, or feed them false information and turn the leak into a weapon.",
+    "prompt": "Surveillance reveals a trusted relative has been feeding the family's secrets to the opposition for money. Mizan has the proof. You can expose and cast them out, or feed them lies and turn the leak into a weapon.",
     "left": {
       "id": "a",
       "label": "Expose and cast out the traitor.",
@@ -3226,7 +3226,7 @@
       "heir",
       "backup"
     ],
-    "prompt": "With the chosen heir untested and the times dangerous, the mentor urges you to quietly groom a second, backup heir — insurance against the first faltering. To do so is prudent; if it is discovered, it will pit the two against each other and split the family in two.",
+    "prompt": "With the chosen heir untested and the times dangerous, the mentor urges you to quietly groom a backup heir — insurance against the first faltering. If discovered, it will pit the two against each other and split the family.",
     "left": {
       "id": "a",
       "label": "Quietly groom a backup heir.",
@@ -3262,7 +3262,7 @@
       "health",
       "judgment"
     ],
-    "prompt": "The physician warns that exhaustion is eroding your judgment — the sleepless nights, the relentless decisions, the isolation are making you brittle, suspicious, and prone to error. You can take a real rest and delegate, or push on through the fog by sheer will.",
+    "prompt": "The physician warns that exhaustion is eroding your judgment — sleepless, isolated, brittle, prone to error. You can take a real rest and delegate, or push on through the fog by sheer will.",
     "left": {
       "id": "a",
       "label": "Take a real rest and delegate.",
@@ -3299,7 +3299,7 @@
       "gold",
       "exposure"
     ],
-    "prompt": "The family's vast hoard of undeclared gold and jewels — accumulated over the dynasty's years in power — is a fortune that an asset-disclosure rule or an investigation could expose. The treasurer asks whether to quietly declare and regularise it, or keep it hidden and deniable.",
+    "prompt": "The family's vast hoard of undeclared gold and jewels could be exposed by any asset-disclosure rule or investigation. The treasurer asks whether to quietly declare and regularise it, or keep it hidden and deniable.",
     "left": {
       "id": "a",
       "label": "Quietly declare and regularise the hoard.",
@@ -3337,7 +3337,7 @@
       "legacy",
       "stepping-down"
     ],
-    "prompt": "Nasrin, who has watched power hollow you out, asks the unaskable: whether it is time to step down with dignity while the legacy is intact, rather than cling on until you are dragged down or carried out. The whole dynasty's future hangs on the answer.",
+    "prompt": "Nasrin, who has watched power hollow you out, asks the unaskable: is it time to step down with dignity while the legacy is intact, rather than cling on until you are dragged out? The dynasty's future hangs on the answer.",
     "left": {
       "id": "a",
       "label": "Plan a dignified exit while ahead.",
@@ -3375,7 +3375,7 @@
       "education",
       "favour"
     ],
-    "prompt": "A nephew studying lavishly abroad has run up enormous bills the family is expected to cover from somewhere — and the easiest somewhere is a quiet diversion of a scholarship fund or an embassy budget. Karim asks how to settle it.",
+    "prompt": "A nephew studying lavishly abroad has run up enormous bills the family must cover — and the easiest source is a quiet diversion of a scholarship fund or an embassy budget. Karim asks how to settle it.",
     "left": {
       "id": "a",
       "label": "Pay the nephew's bills from family funds.",
@@ -3411,7 +3411,7 @@
       "succession",
       "feud"
     ],
-    "prompt": "Your two ablest children, Tania and Faisal, are now in open, poisonous rivalry over the succession, each building a faction, each demanding you anoint them and crush the other. To choose is to make an enemy of one child; to delay is to let the feud consume the family.",
+    "prompt": "Your two ablest children, Tania and Faisal, are now in open, poisonous rivalry over the succession — each building a faction, each demanding you crush the other. To choose makes an enemy of one child; to delay lets the feud consume the family.",
     "left": {
       "id": "a",
       "label": "Choose one and settle it now.",
@@ -3447,7 +3447,7 @@
       "hospital",
       "family"
     ],
-    "prompt": "A hospital owned by a family member has been caught in a deadly negligence scandal — patients dead from filth and unqualified staff — and the bodies and the outrage are mounting. Karim asks whether to let regulators act fully or to shield the family's hospital.",
+    "prompt": "A hospital owned by a family member is caught in a deadly negligence scandal — patients dead from filth and unqualified staff. The bodies and the outrage are mounting. Let regulators act fully, or shield the family's hospital?",
     "left": {
       "id": "a",
       "label": "Let the regulators act fully.",
@@ -3484,7 +3484,7 @@
       "anointment",
       "dynasty"
     ],
-    "prompt": "The elders, anxious for certainty, press you to formally and publicly anoint your successor now and begin the handover — ending the speculation that weakens you, at the cost of becoming, the moment you do, a lame duck whose power drains to the heir.",
+    "prompt": "The elders, anxious for certainty, press you to publicly anoint your successor now and begin the handover — ending the speculation that weakens you, at the cost of becoming, the moment you do, a lame duck whose power drains to the heir.",
     "left": {
       "id": "a",
       "label": "Anoint the successor publicly now.",
@@ -3521,7 +3521,7 @@
       "loyalty",
       "competence"
     ],
-    "prompt": "Your inner circle has calcified into a clique of aging loyalists who tell you only what you wish to hear, while abler outsiders are frozen out. The secretary gently urges you to open the circle to fresh, candid voices; the loyalists, sensing the threat, resist.",
+    "prompt": "Your inner circle has calcified into aging loyalists who tell you only what you wish to hear, while abler outsiders are frozen out. The secretary urges you to open it to candid voices; the loyalists, sensing the threat, resist.",
     "left": {
       "id": "a",
       "label": "Open the inner circle to candid voices.",
@@ -3558,7 +3558,7 @@
       "trust",
       "succession"
     ],
-    "prompt": "Tania, the child you have finally settled on as heir, comes to you not with gratitude but with a hard question: does she inherit a country or a cage — a state to serve, or a family machine to feed? How you answer will shape what she becomes.",
+    "prompt": "Tania, the child you have settled on as heir, comes not with gratitude but a hard question: does she inherit a country to serve, or a family machine to feed? How you answer will shape what she becomes.",
     "left": {
       "id": "a",
       "label": "Tell her she inherits a country to serve.",
@@ -3595,7 +3595,7 @@
       "trust",
       "succession"
     ],
-    "prompt": "Tania, now trusted with real authority, uncovers a vast corruption running through the family's own enterprises and brings the evidence to you, asking whether she may clean it out — even though it means turning on relatives and donors who fed the dynasty for decades.",
+    "prompt": "Tania, now trusted with real authority, uncovers vast corruption running through the family's own enterprises and asks whether she may clean it out — even though it means turning on relatives and donors who fed the dynasty for decades.",
     "left": {
       "id": "a",
       "label": "Let her clean out the family's corruption.",
@@ -3631,7 +3631,7 @@
       "trust",
       "succession"
     ],
-    "prompt": "With your reign drawing toward its end, Tania asks for the one thing left to settle: whether you will leave on your own terms and hand her a clean transition, or cling to the last and leave her to seize what she can from the wreckage of a contested succession.",
+    "prompt": "With your reign drawing to its end, Tania asks the last question: will you leave on your own terms and hand her a clean transition, or cling on and leave her to seize what she can from the wreckage of a contested succession?",
     "left": {
       "id": "a",
       "label": "Hand her a clean, managed transition.",
@@ -3669,7 +3669,7 @@
       "money",
       "leak"
     ],
-    "prompt": "A term later, the same fault line tears open again. Nasrin sits at the edge of the bed, phone face-down. 'A Gulshan journalist called me by my maiden name. He knew about the Singapore account before I did.' You opened it in her name so it could never touch yours.",
+    "prompt": "A term later, the same fault line tears open again. Nasrin holds up her phone, calm. 'A journalist knew about my Singapore account before I did — the one you opened in my name.'",
     "left": {
       "id": "a",
       "label": "Move the money tonight, tell her nothing.",
@@ -3705,7 +3705,7 @@
       "money",
       "leak"
     ],
-    "prompt": "Years into your rule, the matter you thought buried resurfaces — harder. The journalist did not stop. A second story names the bank, the dates, the children as beneficiaries. Nasrin reads it before you can speak. 'You moved it,' she says quietly. 'And you still got us caught.'",
+    "prompt": "Years into your rule, the matter you thought buried resurfaces — harder. A second story names the bank, the dates, the children. Nasrin reads it before you can speak. 'You moved it — and still got us caught.'",
     "left": {
       "id": "a",
       "label": "Blame a rogue aide and sack him publicly.",
@@ -3742,7 +3742,7 @@
       "money",
       "leak"
     ],
-    "prompt": "A new season of power, an old problem with sharper teeth. The anti-corruption commission requests Nasrin's testimony. She is ready to go in and lie for you, calmly, the way she does everything. 'One word from you,' she says, 'and I never opened that account.'",
+    "prompt": "A new season of power, an old problem with sharper teeth. The anti-corruption commission wants Nasrin's testimony. She is ready to lie for you, calmly. 'One word from you,' she says, 'and I never opened that account.'",
     "left": {
       "id": "a",
       "label": "Let her perjure herself to save you both.",
@@ -3779,7 +3779,7 @@
       "contracts",
       "rivalry"
     ],
-    "prompt": "The crisis returns, and this time the cabinet is watching. Rashed spreads the Padma embankment tender on your desk. 'Three firms, all ours through cousins. Flood-protection money — nobody audits flood money.' The bid papers already carry your ministry's seal.",
+    "prompt": "The crisis returns, and this time the cabinet is watching. Rashed slides the Padma embankment tender across your desk. 'Three firms, all ours through cousins. Nobody audits flood money.' The bid already carries your seal.",
     "left": {
       "id": "a",
       "label": "Sign. Keep it in the family.",
@@ -3817,7 +3817,7 @@
       "contracts",
       "rivalry"
     ],
-    "prompt": "Once more the issue lands on your desk, the stakes higher than before. The embankment you let Rashed build has breached. Forty villages are under water on live television, and a leaked memo carries your seal. Rashed phones, unbothered: 'Blame the contractor. We can find one who'll confess for a price.'",
+    "prompt": "Once more the issue lands on your desk, the stakes higher than before. The embankment Rashed built has breached — forty villages under water on live TV, a leaked memo carrying your seal. He phones, unbothered: 'Blame the contractor.'",
     "left": {
       "id": "a",
       "label": "Buy a contractor to take the fall.",
@@ -3855,7 +3855,7 @@
       "contracts",
       "rivalry"
     ],
-    "prompt": "Another year survived, and the reckoning circles back. Rashed, cornered, comes to your study with a thumb drive. 'Everything I did, I did with your seal — and I kept copies. Make me Deputy PM and the drive disappears. Move against me and it goes to Delhi and Washington both.'",
+    "prompt": "Another year survived, and the reckoning circles back. Cornered, Rashed waves a thumb drive in your study. 'Everything I did carried your seal, and I kept copies. Make me Deputy PM, or this goes to Delhi and Washington.'",
     "left": {
       "id": "a",
       "label": "Promote him. Bury the drive.",
@@ -3893,7 +3893,7 @@
       "press",
       "succession"
     ],
-    "prompt": "The ground has shifted; the same demand arrives with new menace. The Home Secretary calls at 3 a.m. 'Tania and the cricketer were at a Banani rooftop where two boys overdosed. The hospital intake has her name. By morning it is buried or it is a headline.'",
+    "prompt": "The ground has shifted; the same demand arrives with new menace. The Home Secretary calls at 3 a.m. 'Tania was at a Banani rooftop where two boys overdosed. Her name's on the hospital intake. By morning it's buried or it's a headline.'",
     "left": {
       "id": "a",
       "label": "Have it scrubbed before the presses run.",
@@ -3929,7 +3929,7 @@
       "press",
       "succession"
     ],
-    "prompt": "History rhymes: the conflict reopens deeper than last time. Two years on, Tania has turned sharp and ambitious. She wants the party's youth wing — and she has the footage of that scrubbed police file, kept as insurance. 'Give it to me,' she says, 'or I wonder aloud how it vanished.'",
+    "prompt": "History rhymes: the conflict reopens deeper than last time. Tania wants the party's youth wing — and she kept footage of that scrubbed police file as insurance. 'Give it to me,' she says, 'or I wonder aloud how it vanished.'",
     "left": {
       "id": "a",
       "label": "Hand her the youth wing.",
@@ -3966,7 +3966,7 @@
       "press",
       "succession"
     ],
-    "prompt": "Mid-reign, the old wound is torn afresh. Tania proposes her own marriage to the son of your fiercest rival. 'It neutralises his whole dynasty in one wedding. I am offering you my marriage as a treaty — do not waste it on sentiment.'",
+    "prompt": "Mid-reign, the old wound is torn afresh. Tania offers to marry your fiercest rival's son. 'It neutralises his whole dynasty in one wedding. I'm offering you a treaty — don't waste it on sentiment.'",
     "left": {
       "id": "a",
       "label": "Accept the dynastic marriage.",
@@ -4003,7 +4003,7 @@
       "loyalty",
       "inheritance"
     ],
-    "prompt": "The pressure you deferred has come due, larger now. Your mother gathers the family at Dhanmondi. Without looking up from her plate she announces she has rewritten the trust: your name stays on it only 'while the family remains whole.' The message is for you; the whole table heard it.",
+    "prompt": "The pressure you deferred has come due, larger now. At the Dhanmondi dinner your mother announces, without looking up, that she has rewritten the trust: your name stays only 'while the family remains whole.' The whole table heard it.",
     "left": {
       "id": "a",
       "label": "Bow to the matriarch.",
@@ -4039,7 +4039,7 @@
       "loyalty",
       "inheritance"
     ],
-    "prompt": "A later term, and the quarrel has hardened into a test. Dr. Kabir tells you privately: your mother's tremor is early dementia. 'Perhaps two lucid years.' She still controls the trust, the loyalists, and half your party's heart.",
+    "prompt": "A later term, and the quarrel has hardened into a test. Dr. Kabir tells you privately: your mother's tremor is early dementia, 'perhaps two lucid years.' She still controls the trust, the loyalists, and half the party's heart.",
     "left": {
       "id": "a",
       "label": "Move now to take the trust quietly.",
@@ -4075,7 +4075,7 @@
       "loyalty",
       "inheritance"
     ],
-    "prompt": "The country has changed, but this fault line has not — only worsened. Lucid for one last evening, she calls you to her bedside. 'I will name you the heir of all of it, tonight, if you swear to keep the others fed. Or I die undecided and you tear each other apart.'",
+    "prompt": "The country has changed, but this fault line has not — only worsened. Lucid one last evening, she calls you to her bedside. 'Swear to keep the others fed and I name you heir tonight. Or I die undecided, and you tear each other apart.'",
     "left": {
       "id": "a",
       "label": "Swear it. Take the inheritance whole.",
@@ -4111,7 +4111,7 @@
       "betrayal",
       "security"
     ],
-    "prompt": "It returns, as these things do, with the patience gone. A plain envelope clears the morning sweep. Three photographs of you with the Defence Attaché somewhere you were never meant to be, and one line: 'The opposition has copies. Your sister has the originals. Choose who you fear more by Friday.'",
+    "prompt": "It returns, as these things do, with the patience gone. A plain envelope clears the morning sweep: three photos of you with the Defence Attaché where you should never have been. One line: 'Your sister has the originals. Choose who you fear by Friday.'",
     "left": {
       "id": "a",
       "label": "Pay your sister for the originals.",
@@ -4148,7 +4148,7 @@
       "betrayal",
       "security"
     ],
-    "prompt": "Years on, the matter is no longer private; the press is already circling. Your sister, paid once, returns for more. 'The originals were copies of copies, brother. There is always one more.' She names a sum that would fund a ministry.",
+    "prompt": "Years on, the matter is no longer private; the press is already circling. Your sister, paid once, returns. 'The originals were copies of copies, brother. There's always one more.' She names a sum that would fund a ministry.",
     "left": {
       "id": "a",
       "label": "Pay again, and hate it.",
@@ -4184,7 +4184,7 @@
       "labour",
       "safety"
     ],
-    "prompt": "The same knot, retied tighter, lands before you once more. Faisal runs the family garment group. 'The Ashulia unit failed its fire inspection. I can pay the inspector, or shut three thousand machines for a month. Your name is on the gate, not mine.'",
+    "prompt": "The same knot, retied tighter, lands before you once more. Faisal runs the family garment group. 'The Ashulia unit failed its fire inspection. I can pay the inspector, or shut three thousand machines. Your name's on the gate, not mine.'",
     "left": {
       "id": "a",
       "label": "Pay the inspector. Keep the lines running.",
@@ -4222,7 +4222,7 @@
       "labour",
       "safety"
     ],
-    "prompt": "Another monsoon, another return of an argument you cannot end. The Accord auditors and three Western buyers want a tour of the family's factories after a rival's collapse. Faisal panics: 'Half our units would fail. Show them the model floor and keep them off the rest.'",
+    "prompt": "Another monsoon, another return of an argument you cannot end. Western buyers want a tour of the family's factories after a rival's collapse. Faisal panics: 'Half our units would fail. Show them the model floor and keep them off the rest.'",
     "left": {
       "id": "a",
       "label": "Stage the model-floor tour.",
@@ -4260,7 +4260,7 @@
       "overseas",
       "laundering"
     ],
-    "prompt": "Deep into the reign, the issue demands a final-sounding answer. Imran flies in from Toronto, gripping a laptop. 'The condos under the numbered company — the Canadians want to meet the real owner. I told them a businessman. Now they want him in a room.'",
+    "prompt": "Deep into the reign, the issue demands a final-sounding answer. Imran flies in from Toronto, gripping a laptop. 'The Canadians want to meet the real owner of the condos. I told them a businessman. Now they want him in a room.'",
     "left": {
       "id": "a",
       "label": "Send a frontman to play the owner.",
@@ -4297,7 +4297,7 @@
       "overseas",
       "laundering"
     ],
-    "prompt": "The reckoning you postponed has matured into a crisis. A leaked offshore database — the 'Begumpara files' — names Imran's Toronto holdings on the front page. Students chant about laundered millions while reserves run thin. Imran wants to fly back and 'sort the paperwork.'",
+    "prompt": "The reckoning you postponed has matured into a crisis. The leaked 'Begumpara files' name Imran's Toronto holdings on the front page. Students chant about laundered millions while reserves run thin. He wants to fly back and 'sort the paperwork.'",
     "left": {
       "id": "a",
       "label": "Bring him home and hide him from the press.",
@@ -4334,7 +4334,7 @@
       "violence",
       "party"
     ],
-    "prompt": "A new chapter, the same antagonists, less room to manoeuvre. Your nephew Mizan leads the party's student front at Dhaka University. Tonight his boys put a rival in the morgue. 'It was him or us, chacha,' he says, blood on his sleeve. 'Protect me and I deliver every campus.'",
+    "prompt": "A new chapter, the same antagonists, less room to manoeuvre. Your nephew Mizan leads the party's student front at Dhaka University. Tonight his boys put a rival in the morgue. 'It was him or us, chacha. Protect me and I deliver every campus.'",
     "left": {
       "id": "a",
       "label": "Shield him. Use the campuses.",
@@ -4372,7 +4372,7 @@
       "violence",
       "party"
     ],
-    "prompt": "The old fault line widens; this time there is no quiet option. The killing has sparked a campus uprising — the very 'anti-violence' movement that toppled a neighbour's government. They demand Mizan's wing be banned outright. The cantonment is watching how you handle a crowd.",
+    "prompt": "The old fault line widens; this time there is no quiet option. The killing has sparked a campus uprising demanding Mizan's wing be banned outright. The cantonment is watching how you handle a crowd.",
     "left": {
       "id": "a",
       "label": "Ban the student wing entirely.",
@@ -4409,7 +4409,7 @@
       "religion",
       "legitimacy"
     ],
-    "prompt": "Time has not healed it — the conflict comes back armed. The imam who married you asks a favour after Jummah. 'The madrasa board will deliver three constituencies for your endorsement — or remember, loudly, that your son drinks.'",
+    "prompt": "Time has not healed it — the conflict comes back armed. The imam who married you asks a favour after Jummah. 'The madrasa board delivers three constituencies for your endorsement — or remembers, loudly, that your son drinks.'",
     "left": {
       "id": "a",
       "label": "Give the endorsement publicly.",
@@ -4447,7 +4447,7 @@
       "class",
       "image"
     ],
-    "prompt": "Once again, and with the whole house holding its breath. Joya brings home a rickshaw-puller's son — first in his family to read, full of love for her and no fear of you. 'I am marrying him. You can bless it from the dais or read about it in the papers.'",
+    "prompt": "Once again, and with the whole house holding its breath. Joya brings home a rickshaw-puller's son — full of love for her and no fear of you. 'I am marrying him. Bless it from the dais, or read about it in the papers.'",
     "left": {
       "id": "a",
       "label": "Bless it. Make a virtue of the people's son.",
@@ -4483,7 +4483,7 @@
       "banking",
       "finance"
     ],
-    "prompt": "The matter resurfaces in a harder year, patience exhausted. Anwar chairs the family bank. 'We have lent eight hundred crore to companies that are, let us say, ours. The central bank governor wants to classify the loans. Replace him, or our bank is the next headline.'",
+    "prompt": "The matter resurfaces in a harder year, patience exhausted. Anwar chairs the family bank. 'We've lent eight hundred crore to companies that are, let us say, ours. Replace the central bank governor, or our bank is the next headline.'",
     "left": {
       "id": "a",
       "label": "Replace the governor with our man.",
@@ -4518,7 +4518,7 @@
       "loyalty",
       "people"
     ],
-    "prompt": "A later season of rule, the stakes now openly existential. Belal has driven you since the opposition years. His son needs a kidney; the matched donor is in a state queue eight hundred deep. 'I have never asked you for anything, sir,' he says, not asking now either.",
+    "prompt": "A later season of rule, the stakes now openly existential. Belal has driven you for twenty years. His son needs a kidney; the matched donor is eight hundred deep in a state queue. 'I have never asked you for anything, sir.'",
     "left": {
       "id": "a",
       "label": "Move the boy to the front of the queue.",
@@ -4555,7 +4555,7 @@
       "abuse",
       "press"
     ],
-    "prompt": "It comes around again, and the margin for error is gone. Saima, Imran's wife, comes to you bruised at the wrist and steady in the voice. 'Your son raises his hand. I will not smile for the cameras while he does it. Help me, or I go to the press myself.'",
+    "prompt": "It comes around again, and the margin for error is gone. Saima, Imran's wife, comes to you bruised at the wrist and steady in voice. 'Your son raises his hand. Help me, or I go to the press myself.'",
     "left": {
       "id": "a",
       "label": "Stand with her. Confront your son.",
@@ -4591,7 +4591,7 @@
       "nepotism",
       "state"
     ],
-    "prompt": "The same demand, but the reign is older and the knives sharper. Karim lays the posting list before you, jaw tight. 'Of the last forty senior appointments, thirty-one share your village or your blood. The service is becoming a family firm. I had to say it.'",
+    "prompt": "The same demand, but the reign is older and the knives sharper. Karim lays the posting list before you, jaw tight. 'Thirty-one of the last forty senior appointments share your village or your blood. I had to say it.'",
     "left": {
       "id": "a",
       "label": "Thank him, change nothing.",
@@ -4629,7 +4629,7 @@
       "exit",
       "love"
     ],
-    "prompt": "Years deep, the unresolved returns to be resolved for good. Nasrin packs a single bag, calmly. 'I have been your wife, your shield, your alibi for thirty years, and I am tired. Ask me to stay because you need the marriage and I will. Ask me to stay because you love me, and I might believe it.'",
+    "prompt": "Years deep, the unresolved returns to be resolved for good. Nasrin packs a single bag, calmly. 'Thirty years your wife, your shield, your alibi. Ask me to stay because you need the marriage and I will. Ask because you love me, and I might believe it.'",
     "left": {
       "id": "a",
       "label": "Ask her to stay — and mean it.",
@@ -4663,7 +4663,7 @@
       "roots",
       "patronage"
     ],
-    "prompt": "The conflict reignites, and the world is watching this time. A delegation from your ancestral village arrives with garlands and grievances. 'The river took forty homes and the relief never came — your cousin the UNO sold it. We do not want charity. We want our son to remember whose soil he sprang from.'",
+    "prompt": "The conflict reignites, and the world is watching this time. A delegation from your ancestral village arrives with garlands and grievances. 'The river took forty homes; your cousin the UNO sold the relief. We want our son to remember whose soil he sprang from.'",
     "left": {
       "id": "a",
       "label": "Sack the cousin, deliver relief yourself.",
@@ -4700,7 +4700,7 @@
       "ambition",
       "power"
     ],
-    "prompt": "A familiar crisis, escalated by everything you let slide. Shafiq, married into the family and hungry, asks for a cabinet seat — 'to serve, and to keep power in trusted hands.' He is competent and grasping in equal measure, and your daughter's marriage may sour if you refuse him.",
+    "prompt": "A familiar crisis, escalated by everything you let slide. Shafiq, married into the family and hungry, asks for a cabinet seat — 'to keep power in trusted hands.' He is competent and grasping in equal measure, and your daughter's marriage may sour if you refuse.",
     "left": {
       "id": "a",
       "label": "Give Shafiq the cabinet seat.",
@@ -4737,7 +4737,7 @@
       "ambition",
       "power"
     ],
-    "prompt": "The fault line cracks wider; the decision can no longer wait. Passed over — or empowered — Shafiq is now quietly meeting your rivals, hedging his bets, and your daughter is caught between her husband and her father. An aide brings you the surveillance log and waits for your word.",
+    "prompt": "The fault line cracks wider; the decision can no longer wait. Shafiq is now quietly meeting your rivals, hedging his bets, and your daughter is caught between husband and father. An aide brings you the surveillance log and waits.",
     "left": {
       "id": "a",
       "label": "Confront Shafiq, force him to choose.",
@@ -4773,7 +4773,7 @@
       "excess",
       "optics"
     ],
-    "prompt": "Late in the reign, the old question demands a heavier answer. Your grandson Arif plans a wedding of obscene splendour — foreign popstars, a fleet of imported cars, a guest list of oligarchs — while the country tightens its belt. The family wants the spectacle; the optics would be a gift to your enemies.",
+    "prompt": "Late in the reign, the old question demands a heavier answer. Your grandson Arif plans a wedding of obscene splendour — foreign popstars, imported cars, a guest list of oligarchs — while the country tightens its belt. The optics would be a gift to your enemies.",
     "left": {
       "id": "a",
       "label": "Let Arif have his grand wedding.",
@@ -4809,7 +4809,7 @@
       "favour",
       "graft"
     ],
-    "prompt": "It returns once more — and this round may be the one remembered. Your brother Kamal wants a licence for a new private bank — a licence that, in your family's hands, is a money machine and a scandal in waiting. 'Every dynasty has its bank,' he says. 'Why should ours beg from strangers?'",
+    "prompt": "It returns once more — and this round may be the one remembered. Your brother Kamal wants a licence for a new private bank. 'Every dynasty has its bank,' he says. 'Why should ours beg from strangers?'",
     "left": {
       "id": "a",
       "label": "Grant Kamal his bank licence.",
@@ -4846,7 +4846,7 @@
       "exposure",
       "hypocrisy"
     ],
-    "prompt": "The reckoning circles back, grown teeth in the waiting. It emerges that your son Imran quietly took a second, foreign citizenship years ago — a safety hatch, and a humiliation for a leader who preaches sovereignty. A journalist has the documents and is days from publishing.",
+    "prompt": "The reckoning circles back, grown teeth in the waiting. It emerges that Imran quietly took a foreign citizenship years ago — a humiliation for a leader who preaches sovereignty. A journalist has the documents and is days from publishing.",
     "left": {
       "id": "a",
       "label": "Pressure the journalist to kill the story.",
@@ -4883,7 +4883,7 @@
       "grabbing",
       "family"
     ],
-    "prompt": "Another term, the same antagonist, the stakes raised again. Your sister-in-law Roksana has been seizing public and minority land across a district using the family name as a shield, and the dispossessed are starting to petition and protest. She insists she is 'only developing what others wasted.'",
+    "prompt": "Another term, the same antagonist, the stakes raised again. Your sister-in-law Roksana has been seizing public and minority land using the family name as a shield. The dispossessed are starting to petition. She insists she is 'only developing what others wasted.'",
     "left": {
       "id": "a",
       "label": "Rein Roksana in, return the worst grabs.",
@@ -4920,7 +4920,7 @@
       "legacy",
       "secrets"
     ],
-    "prompt": "The matter, long deferred, lands with the force of a verdict. The ailing matriarch is dictating her memoirs, and her failing discretion means decades of family secrets — deals, betrayals, a death never explained — may end up in print. Her ghostwriter quietly asks you whether to publish faithfully or sanitise.",
+    "prompt": "The matter, long deferred, lands with the force of a verdict. The ailing matriarch is dictating her memoirs, and her failing discretion may put decades of family secrets in print. Her ghostwriter quietly asks whether to publish faithfully or sanitise.",
     "left": {
       "id": "a",
       "label": "Let the unvarnished memoir stand.",
@@ -4957,7 +4957,7 @@
       "funds",
       "scandal"
     ],
-    "prompt": "Years on and unhealed, the conflict returns to claim its answer. Your daughter Tania's glittering charity foundation — the family's philanthropic face abroad — is quietly doubling as a slush fund and a soft-power vehicle. An international audit is sniffing close, and Tania begs you to make it go away.",
+    "prompt": "Years on and unhealed, the conflict returns to claim its answer. Your daughter Tania's glittering charity foundation is quietly doubling as a slush fund. An international audit is sniffing close, and she begs you to make it go away.",
     "left": {
       "id": "a",
       "label": "Make the audit disappear.",
@@ -4993,7 +4993,7 @@
       "children",
       "merit"
     ],
-    "prompt": "The same fault line, the harder hour, the narrower path. The matriarch presses you to anoint your charming, beloved, hopeless elder child over your cold, capable younger one as the dynasty's future. 'The people love the elder,' she says. 'The party fears the younger. A throne needs love.'",
+    "prompt": "The same fault line, the harder hour, the narrower path. The matriarch presses you to anoint your charming, hopeless elder child over your cold, capable younger one. 'The people love the elder, the party fears the younger. A throne needs love.'",
     "left": {
       "id": "a",
       "label": "Anoint the beloved but hopeless heir.",
@@ -5029,7 +5029,7 @@
       "audio",
       "betrayal"
     ],
-    "prompt": "It comes back sharpened by every season you survived. Hashem brings grim news: a recording of a candid family dinner — you, mocking allies, scheming against rivals, dismissing the public — has been leaked and is spreading. He asks how to respond before it consumes the cycle.",
+    "prompt": "It comes back sharpened by every season you survived. Hashem brings grim news: a recording of a candid family dinner — you mocking allies, dismissing the public — has leaked and is spreading. He asks how to respond before it consumes the cycle.",
     "left": {
       "id": "a",
       "label": "Deny it as a deepfake.",
@@ -5066,7 +5066,7 @@
       "matriarch",
       "optics"
     ],
-    "prompt": "A later year of power, the old crisis now a true test of it. The matriarch needs advanced treatment available only abroad — at vast expense, on a state aircraft, while ordinary citizens die waiting in the public wards she once championed. The physician needs your decision quietly and fast.",
+    "prompt": "A later year of power, the old crisis now a true test of it. The matriarch needs treatment available only abroad — vast expense, a state aircraft — while ordinary citizens die in the public wards she once championed. The physician needs your decision fast.",
     "left": {
       "id": "a",
       "label": "Send her abroad on the state's dime.",
@@ -5103,7 +5103,7 @@
       "pension",
       "memory"
     ],
-    "prompt": "The unresolved returns, and this time it will not be deferred. Quddus, who took a bullet for you decades ago, is dying poor and forgotten, and his family quietly asks for help — and carries, in his failing memory, secrets from your hardest years. Loyalty and liability sit in the same frail body.",
+    "prompt": "The unresolved returns, and this time it will not be deferred. Quddus, who took a bullet for you decades ago, is dying poor and forgotten — and carries, in his failing memory, secrets from your hardest years. Loyalty and liability in one frail body.",
     "left": {
       "id": "a",
       "label": "Care for Quddus lavishly and openly.",
@@ -5139,7 +5139,7 @@
       "youth",
       "media"
     ],
-    "prompt": "A term later, the same fault line tears open again. Your niece Nadia, drunk and filmed, has crashed her imported sports car into a rickshaw, injuring the puller, and the video is everywhere. The family wants the matter buried; the rickshaw-puller's family wants justice and the internet wants blood.",
+    "prompt": "A term later, the same fault line tears open again. Your niece Nadia, drunk and filmed, has crashed her sports car into a rickshaw, injuring the puller. The video is everywhere; the family wants it buried, the internet wants blood.",
     "left": {
       "id": "a",
       "label": "Bury it; settle the puller quietly.",
@@ -5175,7 +5175,7 @@
       "monopoly",
       "favour"
     ],
-    "prompt": "Years into your rule, the matter you thought buried resurfaces — harder. Your son Faisal's conglomerate is bidding for a national telecom licence, and a word from you would settle it. He frames it as keeping a strategic asset in safe hands; the regulator frames it as the family swallowing another sector.",
+    "prompt": "Years into your rule, the matter you thought buried resurfaces — harder. Your son Faisal's conglomerate is bidding for a national telecom licence, and a word from you would settle it. He calls it keeping a strategic asset safe; the regulator calls it the family swallowing another sector.",
     "left": {
       "id": "a",
       "label": "Tilt the licence to Faisal.",
@@ -5212,7 +5212,7 @@
       "budget",
       "excess"
     ],
-    "prompt": "A new season of power, an old problem with sharper teeth. The cost of running the residence has ballooned — a fleet of cars, a small army of staff, foreign renovations — into a line item that, if leaked, would enrage a struggling public. The chief of staff asks whether to trim it or bury it deeper in the budget.",
+    "prompt": "A new season of power, an old problem with sharper teeth. The cost of running the residence has ballooned into a line item that, if leaked, would enrage a struggling public. The chief of staff asks whether to trim it or bury it deeper in the budget.",
     "left": {
       "id": "a",
       "label": "Trim the household lavishness.",
@@ -5250,7 +5250,7 @@
       "legacy",
       "cult"
     ],
-    "prompt": "The crisis returns, and this time the cabinet is watching. The matriarch, sensing the end, wants a grand family mausoleum and a perpetual state-funded foundation to tend the dynasty's memory forever. 'Let them not forget what we built,' she says. The price is a permanent claim on the treasury and the calendar.",
+    "prompt": "The crisis returns, and this time the cabinet is watching. Sensing the end, the matriarch wants a grand family mausoleum and a perpetual state-funded foundation. 'Let them not forget what we built,' she says. The price: a permanent claim on the treasury.",
     "left": {
       "id": "a",
       "label": "Build the grand mausoleum and foundation.",
@@ -5287,7 +5287,7 @@
       "rehab",
       "secret"
     ],
-    "prompt": "Once more the issue lands on your desk, the stakes higher than before. Your son Imran's drug problem has spiralled, and an overdose has been hushed up at a private clinic. The family wants it sealed forever; a quieter voice says he needs real, visible help that cannot stay secret for long.",
+    "prompt": "Once more the issue lands on your desk, the stakes higher than before. Imran's drug problem has spiralled, and an overdose was hushed up at a private clinic. The family wants it sealed forever; a quieter voice says he needs real, visible help.",
     "left": {
       "id": "a",
       "label": "Seal it; manage him in secret.",
@@ -5323,7 +5323,7 @@
       "feud",
       "threat"
     ],
-    "prompt": "Another year survived, and the reckoning circles back. Your long-estranged sister Shahana, cut off years ago in a bitter inheritance feud, resurfaces with a manuscript of grievances and a media deal — unless you reconcile and pay. She knows where every body in the family is buried.",
+    "prompt": "Another year survived, and the reckoning circles back. Your estranged sister Shahana resurfaces with a manuscript of grievances and a media deal — unless you reconcile and pay. She knows where every body in the family is buried.",
     "left": {
       "id": "a",
       "label": "Reconcile and bring her back in.",
@@ -5359,7 +5359,7 @@
       "kickbacks",
       "exposure"
     ],
-    "prompt": "The ground has shifted; the same demand arrives with new menace. Your cousin Rashed, who has greased the family's deals for decades, is named in a foreign bribery indictment that could drag the dynasty's whole contracting machine into the light. He asks, with quiet menace, that you protect him as he has always protected you.",
+    "prompt": "The ground has shifted; the same demand arrives with new menace. Your cousin Rashed, who greased the family's deals for decades, is named in a foreign bribery indictment. He asks, with quiet menace, that you protect him as he protected you.",
     "left": {
       "id": "a",
       "label": "Protect Rashed at all costs.",
@@ -5396,7 +5396,7 @@
       "politics",
       "ambition"
     ],
-    "prompt": "History rhymes: the conflict reopens deeper than last time. Nasrin, long your quiet shield, now wants a public political role of her own — a ministry, a platform, a legacy beyond being your wife. It would delight her and the women's wing, and plant a second power in your own bed.",
+    "prompt": "History rhymes: the conflict reopens deeper than last time. Nasrin, long your quiet shield, now wants a public political role of her own — a ministry, a legacy beyond being your wife. It would plant a second power in your own bed.",
     "left": {
       "id": "a",
       "label": "Give Nasrin a real public role.",
@@ -5432,7 +5432,7 @@
       "family",
       "strategy"
     ],
-    "prompt": "Mid-reign, the old wound is torn afresh. The pollster lays it bare: the family brand is curdling, the young see entitlement where their parents saw sacrifice, and the dynasty's halo is fading with the generation that remembers its founding. He offers a costly rebrand, or the comfort of denial.",
+    "prompt": "Mid-reign, the old wound is torn afresh. The pollster lays it bare: the family brand is curdling, the young see entitlement where their parents saw sacrifice. He offers a costly rebrand, or the comfort of denial.",
     "left": {
       "id": "a",
       "label": "Commission the honest rebrand.",
@@ -5469,7 +5469,7 @@
       "youth",
       "abroad"
     ],
-    "prompt": "The pressure you deferred has come due, larger now. Your grandson Arif, groomed since birth as a future heir, confesses he wants none of it — he means to stay abroad, study, marry a foreigner, and never return to the cage of the dynasty. The line of succession trembles on his answer.",
+    "prompt": "The pressure you deferred has come due, larger now. Your grandson Arif, groomed since birth as a future heir, confesses he wants none of it — he means to stay abroad and never return to the cage of the dynasty. The line of succession trembles.",
     "left": {
       "id": "a",
       "label": "Let Arif go and live his own life.",
@@ -5505,7 +5505,7 @@
       "scandal",
       "family"
     ],
-    "prompt": "A later term, and the quarrel has hardened into a test. Karim brings the file you dreaded: proof of a second family — a woman and a child kept quietly for years — now at risk of exposure by a tabloid. He waits, expressionless, for how you wish the matter handled.",
+    "prompt": "A later term, and the quarrel has hardened into a test. Karim brings the file you dreaded: proof of a second family — a woman and a child kept quietly for years — now at risk of a tabloid exposé. He waits, expressionless, for your word.",
     "left": {
       "id": "a",
       "label": "Provide for them openly and own it.",
@@ -5542,7 +5542,7 @@
       "superstition",
       "health"
     ],
-    "prompt": "The country has changed, but this fault line has not — only worsened. The ailing matriarch has fallen under the sway of a faith healer who forbids her medicine and prescribes amulets, and her health is failing fast. The physician begs you to intervene; the family fears crossing her will and her belief.",
+    "prompt": "The country has changed, but this fault line has not — only worsened. The ailing matriarch has fallen under a faith healer who forbids her medicine and prescribes amulets; her health is failing fast. The physician begs you to intervene; the family fears crossing her belief.",
     "left": {
       "id": "a",
       "label": "Remove the healer, restore her treatment.",
@@ -5577,7 +5577,7 @@
       "social-media",
       "image"
     ],
-    "prompt": "It returns, as these things do, with the patience gone. Your designated heir is posting reckless luxury and intemperate opinions across social media — fast cars, foreign holidays, scorn for the 'ungrateful' poor — while the country tightens its belt. The manager wants the accounts seized and scrubbed; the heir resists fiercely.",
+    "prompt": "It returns, as these things do, with the patience gone. Your designated heir floods social media with reckless luxury and scorn for the 'ungrateful' poor while the country tightens its belt. The manager wants the accounts seized; the heir resists fiercely.",
     "left": {
       "id": "a",
       "label": "Seize and scrub the heir's accounts.",
@@ -5613,7 +5613,7 @@
       "trust",
       "aide"
     ],
-    "prompt": "Years on, the matter is no longer private; the press is already circling. Nasrin, cold and certain, demands you dismiss your brilliant, indispensable young chief of staff, convinced — rightly or not — that the closeness between you has gone beyond work. The aide is the best you have. The marriage trembles on your answer.",
+    "prompt": "Years on, the matter is no longer private; the press is already circling. Nasrin, cold and certain, demands you dismiss your brilliant young chief of staff, convinced the closeness has gone beyond work. The aide is the best you have. The marriage trembles on your answer.",
     "left": {
       "id": "a",
       "label": "Dismiss the aide to save the marriage.",
@@ -5649,7 +5649,7 @@
       "family",
       "propaganda"
     ],
-    "prompt": "The same knot, retied tighter, lands before you once more. Your cousin Jalal wants a licence and state advertising to launch a television channel — a family mouthpiece, he says, to defend the dynasty. It would be a loyal megaphone and a private fiefdom funded, in effect, by the public purse.",
+    "prompt": "The same knot, retied tighter, lands before you once more. Your cousin Jalal wants a licence and state advertising for a television channel — a family mouthpiece, he says, to defend the dynasty. A loyal megaphone funded, in effect, by the public purse.",
     "left": {
       "id": "a",
       "label": "Grant Jalal his channel and ad money.",
@@ -5686,7 +5686,7 @@
       "alliance",
       "dynasty"
     ],
-    "prompt": "Another monsoon, another return of an argument you cannot end. The matriarch has arranged for your grandchild to marry into another political dynasty — a powerful alliance that would knit two houses and two vote banks, and bind your grandchild to a stranger for the sake of the family's reach.",
+    "prompt": "Another monsoon, another return of an argument you cannot end. The matriarch has arranged for your grandchild to marry into another political dynasty — a powerful alliance that knits two vote banks, and binds your grandchild to a stranger for the family's reach.",
     "left": {
       "id": "a",
       "label": "Bless the dynastic marriage alliance.",
@@ -5722,7 +5722,7 @@
       "mortality",
       "succession"
     ],
-    "prompt": "Deep into the reign, the issue demands a final-sounding answer. The physician, grave, tells you in private that your own heart is failing and the years left are few — and that the strain of office is hastening the end. You can step back toward a managed succession, or burn what remains holding absolute power.",
+    "prompt": "Deep into the reign, the issue demands a final-sounding answer. The physician tells you in private that your heart is failing and the years left are few — and office is hastening the end. You can step back toward a managed succession, or burn what remains holding power.",
     "left": {
       "id": "a",
       "label": "Step back toward a managed succession.",
@@ -5759,7 +5759,7 @@
       "justice",
       "family"
     ],
-    "prompt": "The reckoning you postponed has matured into a crisis. A drunk young relative has run down and killed a pedestrian, and Karim has the police report in hand before the press. He can make the case vanish, or you can let the law take its course against your own blood.",
+    "prompt": "The reckoning you postponed has matured into a crisis. A drunk young relative has run down and killed a pedestrian. Karim has the police report before the press: he can make the case vanish, or you let the law take its course against your own blood.",
     "left": {
       "id": "a",
       "label": "Let the law take its course.",
@@ -5795,7 +5795,7 @@
       "debt",
       "blackmail"
     ],
-    "prompt": "A new chapter, the same antagonists, less room to manoeuvre. Your son Imran has run up ruinous gambling debts to dangerous people abroad, who now hint they will sell the story — and the leverage — unless quietly paid. Imran, shamefaced, begs you to settle it.",
+    "prompt": "A new chapter, the same antagonists, less room to manoeuvre. Imran has run up ruinous gambling debts to dangerous people abroad, who now hint they will sell the story unless quietly paid. Shamefaced, he begs you to settle it.",
     "left": {
       "id": "a",
       "label": "Pay the debts and contain it.",
@@ -5831,7 +5831,7 @@
       "cabinet",
       "power"
     ],
-    "prompt": "The old fault line widens; this time there is no quiet option. The matriarch, though holding no office, summons your ministers, overrules your decisions, and runs a shadow government from the residence. The cabinet seethes in private; to confront her is to wound the woman who built the dynasty.",
+    "prompt": "The old fault line widens; this time there is no quiet option. The matriarch, holding no office, summons your ministers and runs a shadow government from the residence. The cabinet seethes in private; to confront her is to wound the woman who built the dynasty.",
     "left": {
       "id": "a",
       "label": "Rein in the matriarch's interference.",
@@ -5868,7 +5868,7 @@
       "estrangement",
       "family"
     ],
-    "prompt": "Time has not healed it — the conflict comes back armed. Your daughter Tania, long estranged after a bitter falling-out, returns — older, softer, seeking reconciliation, and perhaps a place in the family's future. The old wound aches; so does the empty chair she might fill.",
+    "prompt": "Time has not healed it — the conflict comes back armed. Your daughter Tania, long estranged after a bitter falling-out, returns — older, softer, seeking reconciliation and perhaps a place in the family's future. The old wound aches; so does the empty chair.",
     "left": {
       "id": "a",
       "label": "Reconcile and welcome her back.",
@@ -5903,7 +5903,7 @@
       "history",
       "truth"
     ],
-    "prompt": "Once again, and with the whole house holding its breath. The biographer commissioned to write the authorised history of your rule has uncovered the hard truths alongside the triumphs, and asks whether to write honestly — warts and all — or to produce the burnished hagiography the family expects.",
+    "prompt": "Once again, and with the whole house holding its breath. Your authorised biographer has uncovered the hard truths alongside the triumphs, and asks whether to write honestly — warts and all — or produce the burnished hagiography the family expects.",
     "left": {
       "id": "a",
       "label": "Commission an honest biography.",
@@ -5939,7 +5939,7 @@
       "foreign",
       "exposure"
     ],
-    "prompt": "The matter resurfaces in a harder year, patience exhausted. A foreign government, investigating money-laundering, has frozen a web of the family's overseas accounts and properties and is asking pointed questions. Karim asks whether to fight it openly through lawyers, or quietly let the assets go to avoid the trail leading home.",
+    "prompt": "The matter resurfaces in a harder year, patience exhausted. A foreign government investigating money-laundering has frozen a web of the family's overseas accounts. Karim asks whether to fight openly through lawyers, or quietly let the assets go before the trail leads home.",
     "left": {
       "id": "a",
       "label": "Quietly let the frozen assets go.",
@@ -5976,7 +5976,7 @@
       "loyalty",
       "secret"
     ],
-    "prompt": "A later season of rule, the stakes now openly existential. An old household servant, privy to decades of the family's private dramas and secrets, is retiring — and a publisher has approached them with a fortune for a tell-all. The steward, loyal but poor, has come to you first, asking only to be looked after.",
+    "prompt": "A later season of rule, the stakes now openly existential. An old household servant, privy to decades of family secrets, is retiring — and a publisher has offered a fortune for a tell-all. Loyal but poor, the steward comes to you first, asking only to be looked after.",
     "left": {
       "id": "a",
       "label": "Provide generously for the servant.",
@@ -6011,7 +6011,7 @@
       "seat",
       "politics"
     ],
-    "prompt": "It comes around again, and the margin for error is gone. Your son Faisal, with no record of service, demands a safe parliamentary seat as his due — a launchpad for his own ambitions. The local party workers who earned their place resent the parachute; the family expects you to provide for your own.",
+    "prompt": "It comes around again, and the margin for error is gone. Your son Faisal, with no record of service, demands a safe parliamentary seat as his due. The local party workers who earned their place resent the parachute; the family expects you to provide for your own.",
     "left": {
       "id": "a",
       "label": "Hand Faisal the safe seat.",
@@ -6047,7 +6047,7 @@
       "militia",
       "family"
     ],
-    "prompt": "The same demand, but the reign is older and the knives sharper. Mizan proposes expanding the family's personal security into a large, loyal private force — answerable only to the dynasty, beyond the regular chain of command. It would make the family untouchable; it would also be a private army at the heart of the state.",
+    "prompt": "The same demand, but the reign is older and the knives sharper. Mizan proposes expanding the family's security into a large private force answerable only to the dynasty. It would make the family untouchable — and put a private army at the heart of the state.",
     "left": {
       "id": "a",
       "label": "Build the loyal private force.",
@@ -6084,7 +6084,7 @@
       "dissent",
       "family"
     ],
-    "prompt": "Years deep, the unresolved returns to be resolved for good. Your grandson Arif, idealistic and furious, has begun publicly criticising your government's record on rights and corruption, embarrassing the family and delighting the opposition. He will not be silenced by family pressure. The hardliners want him disowned.",
+    "prompt": "Years deep, the unresolved returns to be resolved for good. Your grandson Arif, idealistic and furious, has begun publicly attacking your government's record on rights and corruption, delighting the opposition. He will not be silenced. The hardliners want him disowned.",
     "left": {
       "id": "a",
       "label": "Tolerate Arif's dissent.",
@@ -6121,7 +6121,7 @@
       "decisions",
       "influence"
     ],
-    "prompt": "The conflict reignites, and the world is watching this time. A revered astrologer the matriarch trusts has begun advising on the timing of cabinet decisions, elections, and appointments — and the family takes the readings seriously. The rationalists in your circle are appalled; the matriarch is adamant.",
+    "prompt": "The conflict reignites, and the world is watching this time. An astrologer the matriarch trusts now advises on the timing of cabinet decisions and elections — and the family takes the readings seriously. The rationalists in your circle are appalled; the matriarch is adamant.",
     "left": {
       "id": "a",
       "label": "Indulge the astrologer's counsel.",
@@ -6157,7 +6157,7 @@
       "property",
       "feud"
     ],
-    "prompt": "A familiar crisis, escalated by everything you let slide. Your brother Kamal is suing over the ancestral family home and lands, claiming the lion's share against the other siblings — a feud that, if it reaches open court, will air the family's dirty laundry and wealth before the nation. He offers a private settlement on his terms.",
+    "prompt": "A familiar crisis, escalated by everything you let slide. Your brother Kamal is suing over the ancestral home and lands, claiming the lion's share. If it reaches open court, the family's dirty laundry airs before the nation. He offers a private settlement on his terms.",
     "left": {
       "id": "a",
       "label": "Settle privately on Kamal's terms.",
@@ -6193,7 +6193,7 @@
       "foundation",
       "scrutiny"
     ],
-    "prompt": "The fault line cracks wider; the decision can no longer wait. Nasrin's beloved charitable foundation — her life's work and public pride — is facing whispers that its accounts are loose and some funds have strayed. An audit looms. She is wounded by the suspicion and begs you to make it go away.",
+    "prompt": "The fault line cracks wider; the decision can no longer wait. Nasrin's beloved foundation — her life's work — faces whispers that its accounts are loose and funds have strayed. An audit looms. Wounded by the suspicion, she begs you to make it go away.",
     "left": {
       "id": "a",
       "label": "Let the audit proceed honestly.",
@@ -6229,7 +6229,7 @@
       "loss",
       "consolation"
     ],
-    "prompt": "Late in the reign, the old question demands a heavier answer. Your cousin Jalal, parachuted into a seat he then lost, demands a consolation — a plum ministry, a corporation chairmanship, an ambassadorship — to soothe his wounded pride and keep up appearances. The family expects you to provide; the merit-minded are appalled.",
+    "prompt": "Late in the reign, the old question demands a heavier answer. Your cousin Jalal, parachuted into a seat he then lost, demands a consolation prize — a ministry, a chairmanship — to soothe his wounded pride. The family expects you to provide; the merit-minded are appalled.",
     "left": {
       "id": "a",
       "label": "Consolation prize for Jalal.",
@@ -6265,7 +6265,7 @@
       "secrets",
       "legacy"
     ],
-    "prompt": "It returns once more — and this round may be the one remembered. Your candid private diary — decades of unguarded thoughts, deals, and judgments of allies and enemies — has been quietly copied, and a page has surfaced. Karim asks whether to hunt the leak ruthlessly or to pre-empt it by publishing a curated version yourself.",
+    "prompt": "It returns once more — and this round may be the one remembered. Your candid private diary — decades of unguarded judgments of allies and enemies — has been copied, and a page has surfaced. Karim asks whether to hunt the leak ruthlessly or pre-empt it with a curated version of your own.",
     "left": {
       "id": "a",
       "label": "Hunt the leak ruthlessly.",
@@ -6302,7 +6302,7 @@
       "anniversary",
       "legacy"
     ],
-    "prompt": "The reckoning circles back, grown teeth in the waiting. A grand state spectacle is proposed for the dynasty's founding anniversary — compulsory school assemblies, a national holiday, portraits in every office, a day of enforced reverence. The family glows at the idea; critics see a personality cult cast across the calendar.",
+    "prompt": "The reckoning circles back, grown teeth in the waiting. A grand state spectacle is proposed for the dynasty's founding anniversary — compulsory assemblies, a holiday, portraits in every office. The family glows; critics see a personality cult cast across the calendar.",
     "left": {
       "id": "a",
       "label": "Stage the grand reverence.",
@@ -6339,7 +6339,7 @@
       "mental-health",
       "secret"
     ],
-    "prompt": "Another term, the same antagonist, the stakes raised again. The physician confides that your youngest, crushed by the weight of the family name and a life lived in public, is severely depressed and hiding it. The family treats such things as shameful weakness. The physician asks how to proceed.",
+    "prompt": "Another term, the same antagonist, the stakes raised again. The physician confides that your youngest, crushed by the weight of the family name, is severely depressed and hiding it. The family treats such things as shameful weakness. The physician asks how to proceed.",
     "left": {
       "id": "a",
       "label": "Get the child real, open help.",
@@ -6374,7 +6374,7 @@
       "death",
       "succession"
     ],
-    "prompt": "The matter, long deferred, lands with the force of a verdict. The matriarch has died, and her will divides her vast holdings and her blessing unequally among the siblings — naming a favourite and slighting the rest, with a clause that could ignite a succession war. The lawyer asks whether to honour it strictly or quietly broker an even peace.",
+    "prompt": "The matter, long deferred, lands with the force of a verdict. The matriarch has died, and her will divides everything unequally — naming a favourite, slighting the rest, with a clause that could ignite a succession war. The lawyer asks whether to honour it strictly or broker an even peace.",
     "left": {
       "id": "a",
       "label": "Honour the will exactly.",
@@ -6409,7 +6409,7 @@
       "family",
       "scandal"
     ],
-    "prompt": "Years on and unhealed, the conflict returns to claim its answer. Karim brings evidence that a relative has been running a gold-and-goods smuggling ring under the family's protective shadow, and customs investigators are circling. He asks whether to shut it down and cut the relative loose, or quash the investigation.",
+    "prompt": "Years on and unhealed, the conflict returns to claim its answer. Karim brings evidence that a relative is running a gold smuggling ring under the family's shadow, and customs investigators are circling. Shut it down and cut the relative loose, or quash the investigation?",
     "left": {
       "id": "a",
       "label": "Shut it down, cut the relative loose.",
@@ -6446,7 +6446,7 @@
       "scandal",
       "family"
     ],
-    "prompt": "The same fault line, the harder hour, the narrower path. Your daughter Tania wants to divorce her abusive, well-connected husband — a step the conservative public and her in-laws' powerful family will turn into a scandal and a feud. She asks for your backing against the pressure to endure for the family's image.",
+    "prompt": "The same fault line, the harder hour, the narrower path. Your daughter Tania wants to divorce her abusive, well-connected husband — a step the conservative public and her powerful in-laws will turn into a scandal and a feud. She asks for your backing against the pressure to endure.",
     "left": {
       "id": "a",
       "label": "Back Tania's divorce fully.",
@@ -6482,7 +6482,7 @@
       "overreach",
       "power"
     ],
-    "prompt": "It comes back sharpened by every season you survived. Your most trusted aide has begun acting in your name without leave — issuing orders, brokering deals, taking cuts — wielding a shadow authority that ministers now fear more than yours. Karim warns the aide has grown too large; cutting him loose means losing your right hand.",
+    "prompt": "It comes back sharpened by every season you survived. Your most trusted aide now acts in your name without leave — issuing orders, taking cuts — a shadow authority ministers fear more than yours. Karim warns he has grown too large; cutting him loose costs your right hand.",
     "left": {
       "id": "a",
       "label": "Cut the overreaching aide down.",
@@ -6519,7 +6519,7 @@
       "grooming",
       "succession"
     ],
-    "prompt": "A later year of power, the old crisis now a true test of it. The chosen heir is being groomed for power, but the mentor reports they are out of their depth — indecisive, unloved by the party, unready. You can keep forcing the unsuited heir forward, or face the family and reopen the succession to someone abler.",
+    "prompt": "A later year of power, the old crisis now a true test of it. The mentor reports your chosen heir is out of their depth — indecisive, unloved by the party, unready. You can keep forcing the unsuited heir forward, or reopen the succession to someone abler.",
     "left": {
       "id": "a",
       "label": "Keep forcing the chosen heir.",
@@ -6556,7 +6556,7 @@
       "rival",
       "loyalty"
     ],
-    "prompt": "The unresolved returns, and this time it will not be deferred. Your brother Kamal, passed over and embittered, threatens to defect to the opposition and take his faction and his secrets with him — a betrayal that would split the family and arm your enemies. He hints what it would take to keep him: power, money, a free hand.",
+    "prompt": "The unresolved returns, and this time it will not be deferred. Your brother Kamal, passed over and embittered, threatens to defect to the opposition with his faction and his secrets — a betrayal that would split the family. He hints what it would take to keep him: power, money, a free hand.",
     "left": {
       "id": "a",
       "label": "Pay Kamal's price to keep him.",
@@ -6593,7 +6593,7 @@
       "family",
       "patronage"
     ],
-    "prompt": "A term later, the same fault line tears open again. Your sister-in-law Roksana runs the family's private university as a personal fief — selling admissions and degrees, packing the faculty with cronies, while trading on the dynasty's name for accreditation. A scandal is brewing. She asks for your shield.",
+    "prompt": "A term later, the same fault line tears open again. Your sister-in-law Roksana runs the family's private university as a personal fief — selling admissions and degrees, packing the faculty with cronies. A scandal is brewing. She asks for your shield.",
     "left": {
       "id": "a",
       "label": "Shield Roksana's university.",
@@ -6630,7 +6630,7 @@
       "health",
       "duty"
     ],
-    "prompt": "Years into your rule, the matter you thought buried resurfaces — harder. Nasrin, your spouse and lifelong anchor, is gravely ill and needs you at her side — but the demands of office pull you away at every turn, and she is fading while you govern. The physician asks, gently, where you will be in the time she has left.",
+    "prompt": "Years into your rule, the matter you thought buried resurfaces — harder. Nasrin, your lifelong anchor, is gravely ill and needs you at her side — but office pulls you away at every turn, and she is fading while you govern. The physician asks, gently, where you will be in the time she has left.",
     "left": {
       "id": "a",
       "label": "Step back to be with Nasrin.",
@@ -6666,7 +6666,7 @@
       "bailout",
       "favour"
     ],
-    "prompt": "A new season of power, an old problem with sharper teeth. Your son Faisal's grand business venture has collapsed under debt and mismanagement, and he begs you to have a state bank quietly write off his loans and bail him out — as such favours have rescued the connected before. The bankers await your word.",
+    "prompt": "A new season of power, an old problem with sharper teeth. Your son Faisal's grand venture has collapsed under debt, and he begs you to have a state bank quietly write off his loans — as such favours have rescued the connected before. The bankers await your word.",
     "left": {
       "id": "a",
       "label": "Arrange the quiet state bailout.",
@@ -6703,7 +6703,7 @@
       "influence",
       "decisions"
     ],
-    "prompt": "The crisis returns, and this time the cabinet is watching. The family's revered household imam has begun pressing you, through the devout matriarch and the family, to shape state policy to his conservative lights — curriculum, women's rights, minority matters. To heed him pleases the family and the pious; to refuse risks their wrath.",
+    "prompt": "The crisis returns, and this time the cabinet is watching. The household imam is pressing you, through the devout matriarch, to shape state policy to his conservative lights — curriculum, women's rights, minority matters. To heed him pleases the pious; to refuse risks their wrath.",
     "left": {
       "id": "a",
       "label": "Keep the imam to spiritual matters.",
@@ -6739,7 +6739,7 @@
       "contingency",
       "survival"
     ],
-    "prompt": "Once more the issue lands on your desk, the stakes higher than before. With unrest rising, Mizan quietly proposes preparing an exile contingency — foreign assets, a safe haven, a plane on standby — should the worst come. To prepare it is prudent survival; to be discovered preparing it would signal you expect to fall, and hasten the fall.",
+    "prompt": "Once more the issue lands on your desk, the stakes higher than before. With unrest rising, Mizan quietly proposes an exile contingency — foreign assets, a safe haven, a plane on standby. To prepare it is prudent; to be caught preparing it would signal you expect to fall, and hasten it.",
     "left": {
       "id": "a",
       "label": "Prepare the exile contingency quietly.",
@@ -6776,7 +6776,7 @@
       "scandal",
       "influence"
     ],
-    "prompt": "Another year survived, and the reckoning circles back. Your grandchild has fallen in with a fast, decadent crowd of the wealthy young — drugs, scandal, ruinous influence — that is dragging them toward the next viral embarrassment. Karim asks whether to forcibly intervene or trust the young to find their own way.",
+    "prompt": "Another year survived, and the reckoning circles back. Your grandchild has fallen in with a fast, decadent crowd — drugs, scandal — dragging them toward the next viral embarrassment. Karim asks whether to forcibly intervene or trust the young to find their own way.",
     "left": {
       "id": "a",
       "label": "Intervene and cut off the bad crowd.",
@@ -6811,7 +6811,7 @@
       "promise",
       "legacy"
     ],
-    "prompt": "The ground has shifted; the same demand arrives with new menace. On her deathbed the matriarch extracted a promise from you — to elevate a particular grandchild, or pursue a pet cause, or shield a favoured relative — that now binds you against your better judgment. The lawyer asks whether to honour the deathbed promise or quietly set it aside.",
+    "prompt": "The ground has shifted; the same demand arrives with new menace. On her deathbed the matriarch extracted a promise — to elevate a grandchild, shield a favoured relative — that now binds you against your better judgment. The lawyer asks whether to honour it or quietly set it aside.",
     "left": {
       "id": "a",
       "label": "Honour the deathbed promise.",
@@ -6847,7 +6847,7 @@
       "family",
       "leak"
     ],
-    "prompt": "History rhymes: the conflict reopens deeper than last time. Surveillance reveals a trusted relative has been quietly feeding the family's secrets and your plans to the opposition for money. Mizan has the proof. You can expose and cast them out, or feed them false information and turn the leak into a weapon.",
+    "prompt": "History rhymes: the conflict reopens deeper than last time. Surveillance reveals a trusted relative has been feeding the family's secrets to the opposition for money. Mizan has the proof. You can expose and cast them out, or feed them lies and turn the leak into a weapon.",
     "left": {
       "id": "a",
       "label": "Expose and cast out the traitor.",
@@ -6884,7 +6884,7 @@
       "heir",
       "backup"
     ],
-    "prompt": "Mid-reign, the old wound is torn afresh. With the chosen heir untested and the times dangerous, the mentor urges you to quietly groom a second, backup heir — insurance against the first faltering. To do so is prudent; if it is discovered, it will pit the two against each other and split the family in two.",
+    "prompt": "Mid-reign, the old wound is torn afresh. With the chosen heir untested and the times dangerous, the mentor urges you to quietly groom a backup heir — insurance against the first faltering. If discovered, it will pit the two against each other and split the family.",
     "left": {
       "id": "a",
       "label": "Quietly groom a backup heir.",
@@ -6920,7 +6920,7 @@
       "health",
       "judgment"
     ],
-    "prompt": "The pressure you deferred has come due, larger now. The physician warns that exhaustion is eroding your judgment — the sleepless nights, the relentless decisions, the isolation are making you brittle, suspicious, and prone to error. You can take a real rest and delegate, or push on through the fog by sheer will.",
+    "prompt": "The pressure you deferred has come due, larger now. The physician warns that exhaustion is eroding your judgment — sleepless, isolated, brittle, prone to error. You can take a real rest and delegate, or push on through the fog by sheer will.",
     "left": {
       "id": "a",
       "label": "Take a real rest and delegate.",
@@ -6957,7 +6957,7 @@
       "gold",
       "exposure"
     ],
-    "prompt": "A later term, and the quarrel has hardened into a test. The family's vast hoard of undeclared gold and jewels — accumulated over the dynasty's years in power — is a fortune that an asset-disclosure rule or an investigation could expose. The treasurer asks whether to quietly declare and regularise it, or keep it hidden and deniable.",
+    "prompt": "A later term, and the quarrel has hardened into a test. The family's vast hoard of undeclared gold and jewels could be exposed by any asset-disclosure rule or investigation. The treasurer asks whether to quietly declare and regularise it, or keep it hidden and deniable.",
     "left": {
       "id": "a",
       "label": "Quietly declare and regularise the hoard.",
@@ -6995,7 +6995,7 @@
       "legacy",
       "stepping-down"
     ],
-    "prompt": "The country has changed, but this fault line has not — only worsened. Nasrin, who has watched power hollow you out, asks the unaskable: whether it is time to step down with dignity while the legacy is intact, rather than cling on until you are dragged down or carried out. The whole dynasty's future hangs on the answer.",
+    "prompt": "The country has changed, but this fault line has not — only worsened. Nasrin, who has watched power hollow you out, asks the unaskable: is it time to step down with dignity while the legacy is intact, rather than cling on until you are dragged out? The dynasty's future hangs on the answer.",
     "left": {
       "id": "a",
       "label": "Plan a dignified exit while ahead.",
@@ -7033,7 +7033,7 @@
       "education",
       "favour"
     ],
-    "prompt": "It returns, as these things do, with the patience gone. A nephew studying lavishly abroad has run up enormous bills the family is expected to cover from somewhere — and the easiest somewhere is a quiet diversion of a scholarship fund or an embassy budget. Karim asks how to settle it.",
+    "prompt": "It returns, as these things do, with the patience gone. A nephew studying lavishly abroad has run up enormous bills the family must cover — and the easiest source is a quiet diversion of a scholarship fund or an embassy budget. Karim asks how to settle it.",
     "left": {
       "id": "a",
       "label": "Pay the nephew's bills from family funds.",
@@ -7069,7 +7069,7 @@
       "succession",
       "feud"
     ],
-    "prompt": "Years on, the matter is no longer private; the press is already circling. Your two ablest children, Tania and Faisal, are now in open, poisonous rivalry over the succession, each building a faction, each demanding you anoint them and crush the other. To choose is to make an enemy of one child; to delay is to let the feud consume the family.",
+    "prompt": "Years on, the matter is no longer private; the press is already circling. Your two ablest children, Tania and Faisal, are now in open, poisonous rivalry over the succession — each building a faction, each demanding you crush the other. To choose makes an enemy of one child; to delay lets the feud consume the family.",
     "left": {
       "id": "a",
       "label": "Choose one and settle it now.",
@@ -7105,7 +7105,7 @@
       "hospital",
       "family"
     ],
-    "prompt": "The same knot, retied tighter, lands before you once more. A hospital owned by a family member has been caught in a deadly negligence scandal — patients dead from filth and unqualified staff — and the bodies and the outrage are mounting. Karim asks whether to let regulators act fully or to shield the family's hospital.",
+    "prompt": "The same knot, retied tighter, lands before you once more. A hospital owned by a family member is caught in a deadly negligence scandal — patients dead from filth and unqualified staff. The bodies and the outrage are mounting. Let regulators act fully, or shield the family's hospital?",
     "left": {
       "id": "a",
       "label": "Let the regulators act fully.",
@@ -7142,7 +7142,7 @@
       "anointment",
       "dynasty"
     ],
-    "prompt": "Another monsoon, another return of an argument you cannot end. The elders, anxious for certainty, press you to formally and publicly anoint your successor now and begin the handover — ending the speculation that weakens you, at the cost of becoming, the moment you do, a lame duck whose power drains to the heir.",
+    "prompt": "Another monsoon, another return of an argument you cannot end. The elders, anxious for certainty, press you to publicly anoint your successor now and begin the handover — ending the speculation that weakens you, at the cost of becoming, the moment you do, a lame duck whose power drains to the heir.",
     "left": {
       "id": "a",
       "label": "Anoint the successor publicly now.",
@@ -7179,7 +7179,7 @@
       "loyalty",
       "competence"
     ],
-    "prompt": "Deep into the reign, the issue demands a final-sounding answer. Your inner circle has calcified into a clique of aging loyalists who tell you only what you wish to hear, while abler outsiders are frozen out. The secretary gently urges you to open the circle to fresh, candid voices; the loyalists, sensing the threat, resist.",
+    "prompt": "Deep into the reign, the issue demands a final-sounding answer. Your inner circle has calcified into aging loyalists who tell you only what you wish to hear, while abler outsiders are frozen out. The secretary urges you to open it to candid voices; the loyalists, sensing the threat, resist.",
     "left": {
       "id": "a",
       "label": "Open the inner circle to candid voices.",
@@ -7216,7 +7216,7 @@
       "trust",
       "succession"
     ],
-    "prompt": "The reckoning you postponed has matured into a crisis. Tania, the child you have finally settled on as heir, comes to you not with gratitude but with a hard question: does she inherit a country or a cage — a state to serve, or a family machine to feed? How you answer will shape what she becomes.",
+    "prompt": "The reckoning you postponed has matured into a crisis. Tania, the child you have settled on as heir, comes not with gratitude but a hard question: does she inherit a country to serve, or a family machine to feed? How you answer will shape what she becomes.",
     "left": {
       "id": "a",
       "label": "Tell her she inherits a country to serve.",
@@ -7253,7 +7253,7 @@
       "trust",
       "succession"
     ],
-    "prompt": "A new chapter, the same antagonists, less room to manoeuvre. Tania, now trusted with real authority, uncovers a vast corruption running through the family's own enterprises and brings the evidence to you, asking whether she may clean it out — even though it means turning on relatives and donors who fed the dynasty for decades.",
+    "prompt": "A new chapter, the same antagonists, less room to manoeuvre. Tania, now trusted with real authority, uncovers vast corruption running through the family's own enterprises and asks whether she may clean it out — even though it means turning on relatives and donors who fed the dynasty for decades.",
     "left": {
       "id": "a",
       "label": "Let her clean out the family's corruption.",
@@ -7289,7 +7289,7 @@
       "trust",
       "succession"
     ],
-    "prompt": "The old fault line widens; this time there is no quiet option. With your reign drawing toward its end, Tania asks for the one thing left to settle: whether you will leave on your own terms and hand her a clean transition, or cling to the last and leave her to seize what she can from the wreckage of a contested succession.",
+    "prompt": "The old fault line widens; this time there is no quiet option. With your reign drawing to its end, Tania asks the last question: will you leave on your own terms and hand her a clean transition, or cling on and leave her to seize what she can from the wreckage of a contested succession?",
     "left": {
       "id": "a",
       "label": "Hand her a clean, managed transition.",

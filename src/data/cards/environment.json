@@ -11,7 +11,7 @@
       "embankment",
       "coast"
     ],
-    "prompt": "A super-cyclone is forty-eight hours out and the coastal embankments — patched, looted, and thin — will not hold a surge like this. The Chief wants a mass evacuation that will cost a fortune and admit the embankments failed. Or you can pray the storm turns.",
+    "prompt": "A super-cyclone is forty-eight hours out and the coastal embankments — patched, looted, thin — will not hold the surge. The Chief wants a mass evacuation that will cost a fortune and admit the embankments failed. Or you can pray the storm turns.",
     "left": {
       "id": "a",
       "label": "Order the full pre-emptive evacuation.",
@@ -47,7 +47,7 @@
       "embankment",
       "coast"
     ],
-    "prompt": "In the aftermath, the relief is being looted by local officials before it reaches the shelters, and survivors are eating the seed grain meant for next season. An adviser proposes routing aid through the army instead of the civil administration.",
+    "prompt": "In the aftermath, relief is being looted by local officials before it reaches the shelters, and survivors are eating the seed grain meant for next season. An adviser proposes routing aid through the army instead of the civil administration.",
     "left": {
       "id": "a",
       "label": "Hand relief logistics to the army.",
@@ -85,7 +85,7 @@
       "dhaka",
       "kilns"
     ],
-    "prompt": "The capital's air is the most poisonous on earth this winter — brick kilns, traffic, and dust shaving years off every lung. The scientist wants the illegal kilns ringing the city shut. The kiln owners build the city's bricks and bankroll local MPs.",
+    "prompt": "The capital's air is the most poisonous on earth this winter — brick kilns, traffic, and dust shaving years off every lung. The scientist wants the illegal kilns ringing the city shut. The kiln owners build the city's bricks and bankroll MPs.",
     "left": {
       "id": "a",
       "label": "Shut the illegal brick kilns.",
@@ -122,7 +122,7 @@
       "epidemic",
       "hospitals"
     ],
-    "prompt": "Dengue has exploded past every previous record; the hospital corridors are lined with stretchers and the test kits are running out. The DG needs an emergency procurement and a city-wide fogging blitz — fast, and without the usual tender delays.",
+    "prompt": "Dengue has exploded past every record; the hospital corridors are lined with stretchers and the test kits are running out. The DG needs emergency procurement and a city-wide fogging blitz — fast, and without the usual tender delays.",
     "left": {
       "id": "a",
       "label": "Fast-track emergency procurement now.",
@@ -158,7 +158,7 @@
       "tannery",
       "pollution"
     ],
-    "prompt": "The river through the capital is biologically dead — black with tannery chrome and factory waste. A court has ordered the tanneries relocated to a treatment estate, but the estate's plant does not work and the owners refuse to move. The Commissioner asks you to enforce or excuse.",
+    "prompt": "The river through the capital is biologically dead — black with tannery chrome and factory waste. A court ordered the tanneries relocated to a treatment estate, but its plant does not work and the owners refuse to move. Enforce the order, or excuse it?",
     "left": {
       "id": "a",
       "label": "Enforce the relocation and fix the treatment plant.",
@@ -195,7 +195,7 @@
       "slums",
       "cities"
     ],
-    "prompt": "Every drowned coastal acre sends thousands to the capital's slums — a million climate migrants a year crowding a city already past breaking. The adviser pitches building secondary 'climate-resilient' towns to absorb them, a vast and unglamorous investment.",
+    "prompt": "Every drowned coastal acre sends thousands to the capital's slums — a million climate migrants a year crowding a city already past breaking. The adviser pitches secondary 'climate-resilient' towns to absorb them, a vast and unglamorous investment.",
     "left": {
       "id": "a",
       "label": "Invest in resilient secondary towns.",
@@ -231,7 +231,7 @@
       "wetlands",
       "elite"
     ],
-    "prompt": "A politically connected developer is filling a protected flood-plain wetland to build a luxury enclave — destroying the natural sponge that saves the city from monsoon flooding. The paperwork is forged and the developer dines with your ministers.",
+    "prompt": "A politically connected developer is filling a protected flood-plain wetland to build a luxury enclave — destroying the natural sponge that saves the city from monsoon flooding. The paperwork is forged and he dines with your ministers.",
     "left": {
       "id": "a",
       "label": "Look the other way for the developer.",
@@ -269,7 +269,7 @@
       "rural",
       "doctors"
     ],
-    "prompt": "The rural clinics stand empty of doctors — every graduate wants the city or the Gulf, and the village posts go unfilled for years. The Director proposes a mandatory rural-service bond for new doctors; the medical association, an urban power bloc, will fight it bitterly.",
+    "prompt": "The rural clinics stand empty of doctors — every graduate wants the city or the Gulf, and the village posts go unfilled for years. The Director proposes a mandatory rural-service bond for new doctors; the medical association will fight it bitterly.",
     "left": {
       "id": "a",
       "label": "Impose the rural-service requirement.",
@@ -306,7 +306,7 @@
       "fisheries",
       "waste"
     ],
-    "prompt": "Plastic chokes the rivers and the catch is shrinking; the fisherfolk haul up more bags than fish. A ban on single-use plastic exists on paper and is universally ignored. The officer wants real enforcement; the plastics industry warns of lost jobs.",
+    "prompt": "Plastic chokes the rivers and the catch is shrinking; the fisherfolk haul up more bags than fish. A single-use plastic ban exists on paper and is universally ignored. The officer wants real enforcement; the plastics industry warns of lost jobs.",
     "left": {
       "id": "a",
       "label": "Enforce the plastics ban for real.",
@@ -984,7 +984,7 @@
       "flood",
       "harvest"
     ],
-    "prompt": "An early flash flood threatens to drown the entire boro rice harvest of the great wetland basin before it can be cut — a regional famine in the making. The officer needs emergency embankment repair and harvest labour, now.",
+    "prompt": "An early flash flood threatens to drown the entire boro rice harvest of the great wetland basin before it can be cut — a regional famine in the making. The officer needs emergency embankment repair and harvest labour now.",
     "left": {
       "id": "a",
       "label": "Throw everything at saving the harvest.",
@@ -1056,7 +1056,7 @@
       "shelters",
       "preparedness"
     ],
-    "prompt": "A super-cyclone is two days out and the coast has shelters for barely half its people. The chief can order a full pre-emptive evacuation inland — chaotic, costly, and unpopular if the storm veers — or trust the shelters and hope the track holds.",
+    "prompt": "A super-cyclone is two days out and the coast has shelters for barely half its people. Order a full pre-emptive evacuation inland — chaotic, costly, unpopular if the storm veers — or trust the shelters and hope the track holds?",
     "left": {
       "id": "a",
       "label": "Order a full pre-emptive evacuation.",
@@ -1091,7 +1091,7 @@
       "shelters",
       "preparedness"
     ],
-    "prompt": "The storm has passed, sparing the worst, but it exposed how few and crumbling the shelters are. The chief wants a crash programme to double the shelter network; the treasury says the money is needed elsewhere now the danger has passed.",
+    "prompt": "The storm has passed, sparing the worst, but it exposed how few and crumbling the shelters are. The chief wants a crash programme to double the shelter network; the treasury says the money is needed elsewhere now the danger is gone.",
     "left": {
       "id": "a",
       "label": "Fund the crash shelter programme.",
@@ -1126,7 +1126,7 @@
       "displacement",
       "rivers"
     ],
-    "prompt": "The great rivers are eating their banks, swallowing whole villages and farms each monsoon and creating a tide of landless climate refugees. The officer can fund expensive bank-protection works for a few key towns, or spread thin cash relief to the displaced everywhere.",
+    "prompt": "The great rivers are eating their banks, swallowing whole villages each monsoon and creating a tide of landless climate refugees. Fund expensive bank-protection works for a few key towns, or spread thin cash relief to the displaced everywhere?",
     "left": {
       "id": "a",
       "label": "Fund hard bank-protection for key towns.",
@@ -1161,7 +1161,7 @@
       "children",
       "stunting"
     ],
-    "prompt": "A third of the country's children are stunted, their growth and minds permanently dwarfed by early malnutrition. The director wants a national programme of school meals and fortified food — a slow, costly investment whose payoff is decades away.",
+    "prompt": "A third of the country's children are stunted, their growth and minds permanently dwarfed by early malnutrition. The director wants a national programme of school meals and fortified food — a slow, costly investment whose payoff is decades off.",
     "left": {
       "id": "a",
       "label": "Launch the national nutrition programme.",
@@ -1195,7 +1195,7 @@
       "children",
       "public-health"
     ],
-    "prompt": "A measles-rubella outbreak threatens a mass campaign, but anti-vaccine rumours are spreading through religious networks and social media. The director can push a hard mandatory drive that may provoke a backlash, or run a softer, slower voluntary campaign.",
+    "prompt": "A measles-rubella outbreak threatens a mass campaign, but anti-vaccine rumours are spreading through religious networks and social media. Push a hard mandatory drive that may provoke a backlash, or run a softer, slower voluntary campaign?",
     "left": {
       "id": "a",
       "label": "Push the hard mandatory campaign.",
@@ -1230,7 +1230,7 @@
       "midwives",
       "rural"
     ],
-    "prompt": "Too many mothers still die in childbirth in the villages, far from any skilled hand. The chief wants thousands of trained community midwives deployed nationwide — a years-long, costly build — versus simply funding more distant city hospitals.",
+    "prompt": "Too many mothers still die in childbirth in the villages, far from any skilled hand. Train and deploy thousands of community midwives nationwide — a years-long, costly build — or simply fund more distant city hospitals?",
     "left": {
       "id": "a",
       "label": "Train and deploy community midwives.",
@@ -1299,7 +1299,7 @@
       "safety",
       "transport"
     ],
-    "prompt": "The highways are a slaughter — unlicensed drivers, killer buses racing for fares, no enforcement. After a bus killed two students and sparked a youth uprising, the head wants real licensing, speed enforcement, and a crackdown on the transport-owner cartels who block all reform.",
+    "prompt": "The highways are a slaughter — unlicensed drivers, killer buses racing for fares, no enforcement. After a bus killed two students and sparked a youth uprising, the head wants real licensing and a crackdown on the transport cartels who block all reform.",
     "left": {
       "id": "a",
       "label": "Take on the transport cartels.",
@@ -1335,7 +1335,7 @@
       "safety",
       "disaster"
     ],
-    "prompt": "Overloaded river launches capsize every year, drowning hundreds, because owners cram in double the passengers and inspectors are bribed to look away. The director wants strict capacity enforcement and night-sailing bans; the launch owners and the ticketless crowds will both resist.",
+    "prompt": "Overloaded river launches capsize every year, drowning hundreds, because owners cram in double the passengers and inspectors are bribed to look away. The director wants strict capacity enforcement and night-sailing bans; the owners and the crowds will both resist.",
     "left": {
       "id": "a",
       "label": "Enforce strict capacity and safety rules.",
@@ -1370,7 +1370,7 @@
       "adulteration",
       "health"
     ],
-    "prompt": "Fish are soaked in formalin, fruit force-ripened with chemicals, milk cut with detergent — the food supply is quietly poisoned for profit. The chief wants mobile courts and harsh penalties; the powerful wholesale syndicates will fight every raid.",
+    "prompt": "Fish are soaked in formalin, fruit force-ripened with chemicals, milk cut with detergent — the food supply is quietly poisoned for profit. The chief wants mobile courts and harsh penalties; the wholesale syndicates will fight every raid.",
     "left": {
       "id": "a",
       "label": "Unleash mobile courts on the adulterators.",
@@ -1440,7 +1440,7 @@
       "hygiene",
       "disease"
     ],
-    "prompt": "The country has nearly ended open defecation — a genuine triumph — but millions of latrines are unhygienic pits that contaminate the groundwater. The head wants a costly upgrade to safe sanitation; others say the headline victory is already won.",
+    "prompt": "The country has nearly ended open defecation — a genuine triumph — but millions of latrines are unhygienic pits that contaminate the groundwater. Fund a costly upgrade to safe sanitation, or rest on the headline victory already won?",
     "left": {
       "id": "a",
       "label": "Fund the upgrade to safe sanitation.",
@@ -1510,7 +1510,7 @@
       "hill-cutting",
       "slums"
     ],
-    "prompt": "In the southeast, the poor build on hillsides illegally cut by land-grabbers, and every monsoon landslides bury whole settlements. The chief can evict the hillside slums for their safety — leaving thousands homeless — or jail the land-grabbers and try to stabilise the slopes.",
+    "prompt": "In the southeast, the poor build on hillsides illegally cut by land-grabbers, and every monsoon landslides bury whole settlements. Evict the hillside slums for their safety — leaving thousands homeless — or jail the grabbers and try to stabilise the slopes?",
     "left": {
       "id": "a",
       "label": "Evict the hillside settlements.",
@@ -1547,7 +1547,7 @@
       "real-estate",
       "flooding"
     ],
-    "prompt": "Powerful developers are illegally filling the capital's flood-retention wetlands to build housing estates, destroying the city's natural drainage. The director wants the projects demolished; the developers are politically connected and have pre-sold thousands of plots.",
+    "prompt": "Powerful developers are illegally filling the capital's flood-retention wetlands to build housing estates, destroying the city's natural drainage. The director wants the projects demolished; the developers are connected and have pre-sold thousands of plots.",
     "left": {
       "id": "a",
       "label": "Demolish the illegal wetland fills.",
@@ -1584,7 +1584,7 @@
       "trafficking",
       "biodiversity"
     ],
-    "prompt": "The country is a transit hub for trafficked tigers, pangolins, and rare birds, with officials on the take at every airport and border. The officer wants a hard anti-trafficking unit; it would mean prosecuting some well-connected names.",
+    "prompt": "The country is a transit hub for trafficked tigers, pangolins, and rare birds, with officials on the take at every airport and border. The officer wants a hard anti-trafficking unit — which means prosecuting some well-connected names.",
     "left": {
       "id": "a",
       "label": "Build the hard anti-trafficking unit.",
@@ -1620,7 +1620,7 @@
       "elderly",
       "disability"
     ],
-    "prompt": "The old-age and disability allowances are tiny, riddled with ghost beneficiaries, and the real needy are often left off the lists by local touts. The secretary wants a digitised, expanded scheme — costly and disruptive to the patronage networks that skim it.",
+    "prompt": "The old-age and disability allowances are tiny, riddled with ghost beneficiaries, and the real needy are often left off the lists by local touts. The secretary wants a digitised, expanded scheme — disrupting the patronage networks that skim it.",
     "left": {
       "id": "a",
       "label": "Digitise and expand the safety net.",
@@ -1656,7 +1656,7 @@
       "clinics",
       "regulation"
     ],
-    "prompt": "Unlicensed 'doctors' and filthy private clinics flourish in the villages and slums, where real care never reaches. The chief wants a crackdown — but shutting them leaves millions with no care at all until something replaces them.",
+    "prompt": "Unlicensed 'doctors' and filthy private clinics flourish in the villages and slums, where real care never reaches. The chief wants a crackdown — but shutting them leaves millions with no care at all.",
     "left": {
       "id": "a",
       "label": "Crack down on the quacks and dirty clinics.",
@@ -1692,7 +1692,7 @@
       "coverage",
       "poverty"
     ],
-    "prompt": "A single illness bankrupts countless families, who pay for almost all care out of pocket. The adviser proposes a national health-insurance scheme starting with the poorest — transformative, but a vast new permanent claim on the budget.",
+    "prompt": "A single illness bankrupts countless families, who pay for almost all care out of pocket. The adviser proposes a national health-insurance scheme starting with the poorest — transformative, but a vast permanent claim on the budget.",
     "left": {
       "id": "a",
       "label": "Launch national health insurance.",
@@ -1727,7 +1727,7 @@
       "workers",
       "outdoor"
     ],
-    "prompt": "Record heatwaves are killing outdoor workers — rickshaw-pullers, brick-haulers, farmhands — who cannot stop without starving. The officer wants mandated rest hours, shade, and water during extreme heat; employers say it will halt the work that feeds the workers.",
+    "prompt": "Record heatwaves are killing outdoor workers — rickshaw-pullers, brick-haulers, farmhands — who cannot stop without starving. The officer wants mandated rest, shade, and water during extreme heat; employers say it will halt the work that feeds the workers.",
     "left": {
       "id": "a",
       "label": "Mandate heat protections for workers.",
@@ -1762,7 +1762,7 @@
       "medicine",
       "corruption"
     ],
-    "prompt": "Public hospitals are meant to give medicine free, but most of it is stolen and sold out the back door, forcing patients to buy their own. The director wants a tracked, audited supply chain; the rackets run deep into the staff and unions.",
+    "prompt": "Public hospitals are meant to give medicine free, but most of it is stolen and sold out the back door, forcing patients to buy their own. The director wants a tracked, audited supply chain; the rackets run deep into staff and unions.",
     "left": {
       "id": "a",
       "label": "Track and audit the medicine supply.",
@@ -1797,7 +1797,7 @@
       "rural",
       "antivenom"
     ],
-    "prompt": "Snakebite kills thousands of villagers a year who reach no antivenom in time, turning instead to faith-healers as they die. The coordinator wants antivenom stocked in every rural clinic and a training drive — cheap in money, hard in logistics and habit.",
+    "prompt": "Snakebite kills thousands of villagers a year who reach no antivenom in time, turning to faith-healers as they die. The coordinator wants antivenom stocked in every rural clinic and a training drive — cheap in money, hard in logistics and habit.",
     "left": {
       "id": "a",
       "label": "Stock antivenom and train rural clinics.",
@@ -1831,7 +1831,7 @@
       "farmers",
       "warning"
     ],
-    "prompt": "Lightning now kills hundreds of farmers a year in the open fields, a toll worsened by felled trees and a warming climate. The director wants a national programme of warning sirens, shelters in the fields, and replanting of tall trees — modest money, scattered impact.",
+    "prompt": "Lightning now kills hundreds of farmers a year in the open fields, a toll worsened by felled trees and a warming climate. The director wants warning sirens, field shelters, and replanting of tall trees — modest money, scattered impact.",
     "left": {
       "id": "a",
       "label": "Fund the lightning-protection programme.",
@@ -1866,7 +1866,7 @@
       "poverty",
       "relief"
     ],
-    "prompt": "A severe cold wave is killing the elderly and homeless in the north, who have no blankets and no warm clothes. The coordinator wants an immediate mass blanket-and-fuel distribution; the cynics note that such drives are also easily turned into partisan photo-ops and skimmed.",
+    "prompt": "A severe cold wave is killing the elderly and homeless in the north, who have no blankets and no warm clothes. The coordinator wants an immediate mass blanket-and-fuel distribution; the cynics note such drives are easily turned into partisan photo-ops and skimmed.",
     "left": {
       "id": "a",
       "label": "Mount a full, transparent relief drive.",
@@ -1900,7 +1900,7 @@
       "hospitals",
       "surge"
     ],
-    "prompt": "This year's dengue epidemic is the worst on record and the hospitals are overflowing, patients on floors and in corridors. The director needs emergency field hospitals and a fleet of fogging crews now; the finance ministry balks at the unbudgeted crore.",
+    "prompt": "This year's dengue epidemic is the worst on record and the hospitals are overflowing, patients on floors and in corridors. The director needs emergency field hospitals and fogging crews now; the finance ministry balks at the unbudgeted crore.",
     "left": {
       "id": "a",
       "label": "Fund the full emergency surge response.",
@@ -1934,7 +1934,7 @@
       "drainage",
       "city"
     ],
-    "prompt": "The port city drowns for days after every heavy rain because its canals are choked with waste and built over. The engineer wants a massive canal-reclamation and drainage rebuild — evicting the encroachers, many of them politically connected — or you can keep pumping after each flood.",
+    "prompt": "The port city drowns for days after every heavy rain because its canals are choked with waste and built over. Reclaim the canals and rebuild drainage — evicting the encroachers, many politically connected — or keep pumping after each flood?",
     "left": {
       "id": "a",
       "label": "Reclaim the canals, evict the encroachers.",
@@ -1971,7 +1971,7 @@
       "farmers",
       "health"
     ],
-    "prompt": "Farmers drench their fields with banned, overstrong pesticides, poisoning themselves, the soil, and the consumers — and the agro-chemical dealers push ever more. The officer wants tight regulation and integrated pest-management training; the dealers and a chemical-dependent harvest resist.",
+    "prompt": "Farmers drench their fields with banned, overstrong pesticides, poisoning themselves, the soil, and the consumers — and the agro-chemical dealers push ever more. The officer wants regulation and pest-management training; the dealers and a chemical-dependent harvest resist.",
     "left": {
       "id": "a",
       "label": "Regulate pesticides, train in pest management.",
@@ -2007,7 +2007,7 @@
       "conflict",
       "forest"
     ],
-    "prompt": "As forests shrink, wild elephants raid villages for crops and trample people, and furious farmers poison and electrocute the herds in return. The conservator wants protected corridors and compensation for crop loss; the farmers want the dangerous animals simply gone.",
+    "prompt": "As forests shrink, wild elephants raid villages for crops and trample people, and furious farmers poison and electrocute the herds in return. The conservator wants protected corridors and crop-loss compensation; the farmers want the dangerous animals gone.",
     "left": {
       "id": "a",
       "label": "Fund corridors and crop-loss compensation.",
@@ -2043,7 +2043,7 @@
       "yaba",
       "addiction"
     ],
-    "prompt": "A flood of methamphetamine pills across the border has hooked a generation of the young. The chief offers two paths: a brutal 'war on drugs' of extrajudicial killings that thrills the public, or a slower build of treatment, rehab, and border interdiction.",
+    "prompt": "A flood of methamphetamine pills across the border has hooked a generation of the young. Wage a brutal 'war on drugs' of extrajudicial killings that thrills the public, or build slower treatment, rehab, and border interdiction?",
     "left": {
       "id": "a",
       "label": "Wage a hard 'war on drugs'.",
@@ -2079,7 +2079,7 @@
       "violence",
       "shelters"
     ],
-    "prompt": "Domestic violence, dowry abuse, and acid attacks ruin countless women's lives, while shelters are scarce and cases vanish in a hostile justice system. The secretary wants a network of shelters, fast-track courts, and a one-stop crisis service — costly and culturally contentious.",
+    "prompt": "Domestic violence, dowry abuse, and acid attacks ruin countless women's lives, while shelters are scarce and cases vanish in a hostile justice system. The secretary wants shelters, fast-track courts, and a one-stop crisis service — costly and culturally contentious.",
     "left": {
       "id": "a",
       "label": "Build shelters and fast-track courts.",
@@ -2115,7 +2115,7 @@
       "girls",
       "education"
     ],
-    "prompt": "Child marriage remains rampant, pulling girls out of school and into early, dangerous pregnancies. A proposed law would tighten the minimum age — but a contested 'special provision' clause would let parents marry off younger girls 'in special cases', a loophole big enough to drive the practice through.",
+    "prompt": "Child marriage remains rampant, pulling girls out of school and into early, dangerous pregnancies. A proposed law would tighten the minimum age — but a 'special provision' clause would let parents marry off younger girls 'in special cases', a loophole big enough to drive the practice through.",
     "left": {
       "id": "a",
       "label": "Pass the law with the loophole intact.",
@@ -2329,7 +2329,7 @@
       "hunting",
       "wetlands"
     ],
-    "prompt": "Each winter, poachers net and poison the migratory birds that flock to the haors by the hundred thousand, selling them in the markets. The director wants armed wetland guards and market raids; the trade feeds poor villagers and a lucrative delicacy market alike.",
+    "prompt": "Each winter, poachers net and poison the migratory birds that flock to the haors by the hundred thousand, selling them in the markets. The director wants armed wetland guards and market raids; the trade feeds poor villagers and a delicacy market alike.",
     "left": {
       "id": "a",
       "label": "Protect the birds with guards and raids.",
@@ -2364,7 +2364,7 @@
       "vehicles",
       "emissions"
     ],
-    "prompt": "Smoke-belching old buses, trucks, and two-stroke engines are a major source of the capital's lethal air. The officer wants the worst vehicles scrapped and emissions-tested off the road; the transport owners and the legions of poor drivers will fight it hard.",
+    "prompt": "Smoke-belching old buses, trucks, and two-stroke engines are a major source of the capital's lethal air. The officer wants the worst vehicles scrapped and emissions-tested off the road; the owners and the legions of poor drivers will fight it hard.",
     "left": {
       "id": "a",
       "label": "Scrap and test the dirtiest vehicles.",
@@ -2399,7 +2399,7 @@
       "rivers",
       "biodiversity"
     ],
-    "prompt": "The rare freshwater river dolphins are dying in fishing nets and dredged, poisoned channels — a living symbol of the rivers' decline. The conservator wants protected sanctuary stretches with fishing limits; the fishers in those reaches will lose their grounds.",
+    "prompt": "The rare freshwater river dolphins are dying in fishing nets and dredged, poisoned channels — a living symbol of the rivers' decline. The conservator wants protected sanctuary stretches; the fishers in those reaches will lose their grounds.",
     "left": {
       "id": "a",
       "label": "Declare protected dolphin sanctuaries.",
@@ -2435,7 +2435,7 @@
       "water",
       "health"
     ],
-    "prompt": "Whole districts still drink arsenic-laced tube-well water, slowly poisoning millions toward cancer and lesions. The engineer wants a deep-well and surface-treatment programme to give them safe water; it is expensive and the harm is slow and invisible.",
+    "prompt": "Whole districts still drink arsenic-laced tube-well water, slowly poisoning millions toward cancer and lesions. The engineer wants a deep-well and surface-treatment programme to give them safe water; it is costly and the harm is slow and invisible.",
     "left": {
       "id": "a",
       "label": "Fund the safe-water programme.",
@@ -2470,7 +2470,7 @@
       "landfill",
       "recycling"
     ],
-    "prompt": "The capital's mountainous landfills are overflowing and toxic. A foreign firm offers a waste-to-energy incinerator — a fast fix that would undercut the army of informal waste-pickers and lock in decades of burning, versus a slower push for sorting and recycling.",
+    "prompt": "The capital's mountainous landfills are overflowing and toxic. A foreign firm offers a waste-to-energy incinerator — a fast fix that would undercut the informal waste-pickers and lock in decades of burning, versus a slower push for sorting and recycling.",
     "left": {
       "id": "a",
       "label": "Build the waste-to-energy incinerator.",
@@ -2506,7 +2506,7 @@
       "education",
       "inclusion"
     ],
-    "prompt": "Children with disabilities are almost entirely shut out of the schools — no ramps, no trained teachers, no will. The officer wants an inclusive-education mandate and accessibility retrofits across the system; it is costly and the demand is politically quiet.",
+    "prompt": "Children with disabilities are almost entirely shut out of the schools — no ramps, no trained teachers, no will. The officer wants an inclusive-education mandate and accessibility retrofits system-wide; it is costly and the demand is politically quiet.",
     "left": {
       "id": "a",
       "label": "Mandate inclusive, accessible education.",
@@ -2541,7 +2541,7 @@
       "adaptation",
       "funding"
     ],
-    "prompt": "Foreign climate funds and your own budget could go either to flashy mitigation showpieces that please donors, or to gritty local adaptation — saline-tolerant seeds, raised homesteads, floating gardens — that actually shields the frontline poor. The director asks where the money should land.",
+    "prompt": "Foreign climate funds could go to flashy mitigation showpieces that please donors, or to gritty local adaptation — saline-tolerant seeds, raised homesteads, floating gardens — that actually shields the frontline poor. Where should the money land?",
     "left": {
       "id": "a",
       "label": "Spend on donor-friendly showpieces.",
@@ -2577,7 +2577,7 @@
       "rivers",
       "industry"
     ],
-    "prompt": "The dyeing and washing factories of the industrial belt pour untreated, rainbow-coloured effluent into the rivers, killing them and the villages downstream — but they are the engine of the export boom. The inspector wants effluent-treatment plants made mandatory and enforced.",
+    "prompt": "The dyeing and washing factories of the industrial belt pour untreated, rainbow-coloured effluent into the rivers, killing them and the villages downstream — but they drive the export boom. The inspector wants effluent-treatment plants made mandatory and enforced.",
     "left": {
       "id": "a",
       "label": "Mandate and enforce effluent treatment.",
@@ -2613,7 +2613,7 @@
       "rivers",
       "industry"
     ],
-    "prompt": "You ordered treatment, but the factories built the plants and run them only during inspections, switching them off to save power the rest of the time. The inspector wants live, tamper-proof monitoring wired to your office; the owners call it surveillance and overreach.",
+    "prompt": "You ordered treatment, but the factories run the plants only during inspections, switching them off to save power the rest of the time. The inspector wants live, tamper-proof monitoring wired to your office; the owners call it surveillance and overreach.",
     "left": {
       "id": "a",
       "label": "Install live tamper-proof monitoring.",
@@ -2650,7 +2650,7 @@
       "rivers",
       "industry"
     ],
-    "prompt": "With monitoring in place, the worst-offending factory — owned by a major party donor — is caught dumping for months and faces closure. He calls in his debt: a quiet pardon, or he pulls his funding and takes a thousand jobs with him.",
+    "prompt": "With monitoring in place, the worst-offending factory — owned by a major party donor — is caught dumping for months and faces closure. He calls in his debt: a quiet pardon, or he pulls his funding and a thousand jobs with it.",
     "left": {
       "id": "a",
       "label": "Pardon the donor's factory.",
@@ -2688,7 +2688,7 @@
       "disease",
       "poverty"
     ],
-    "prompt": "Tuberculosis still kills tens of thousands a year here, and drug-resistant strains are spreading because patients drop their long treatment halfway. The director wants a costly nationwide detection-and-adherence push; the disease is unglamorous and the budget tight.",
+    "prompt": "Tuberculosis still kills tens of thousands a year here, and drug-resistant strains spread because patients drop their long treatment halfway. The director wants a costly nationwide detection-and-adherence push; the disease is unglamorous and the budget tight.",
     "left": {
       "id": "a",
       "label": "Fund the full TB control programme.",
@@ -2723,7 +2723,7 @@
       "children",
       "ponds"
     ],
-    "prompt": "Drowning is the leading killer of the country's young children, who slip into the countless ponds and ditches while parents work. The director wants community crèches, pond barriers, and swimming lessons — cheap per life saved, but a scattered, unglamorous effort easily ignored.",
+    "prompt": "Drowning is the leading killer of the country's young children, who slip into the countless ponds and ditches while parents work. The director wants community crèches, pond barriers, and swimming lessons — cheap per life saved, but a scattered, unglamorous effort.",
     "left": {
       "id": "a",
       "label": "Fund drowning-prevention programmes.",
@@ -2757,7 +2757,7 @@
       "zoonosis",
       "outbreak"
     ],
-    "prompt": "Each winter the deadly Nipah virus kills villagers who drink raw date-palm sap contaminated by bats — a small but terrifying outbreak with pandemic potential. The director wants an awareness and safe-sap campaign and bat-habitat research; the cause is niche and the budget contested.",
+    "prompt": "Each winter the deadly Nipah virus kills villagers who drink raw date-palm sap contaminated by bats — a small but terrifying outbreak with pandemic potential. The director wants a safe-sap campaign and bat-habitat research; the cause is niche and the budget contested.",
     "left": {
       "id": "a",
       "label": "Fund the Nipah prevention campaign.",
@@ -2793,7 +2793,7 @@
       "formula",
       "marketing"
     ],
-    "prompt": "Aggressive infant-formula marketing is pushing mothers off breastfeeding toward costly formula often mixed with unsafe water, harming babies. The director wants a hard enforcement of the formula-marketing code; the formula industry, a big advertiser and donor, resists.",
+    "prompt": "Aggressive infant-formula marketing is pushing mothers off breastfeeding toward costly formula often mixed with unsafe water, harming babies. The director wants hard enforcement of the formula-marketing code; the formula industry, a big advertiser and donor, resists.",
     "left": {
       "id": "a",
       "label": "Enforce the formula-marketing code hard.",
@@ -2830,7 +2830,7 @@
       "ncd",
       "prevention"
     ],
-    "prompt": "Diabetes, heart disease, and hypertension are exploding — now the country's biggest killers — yet the health system is built for infections, not chronic care. The director wants a costly pivot to NCD screening, prevention, and lifelong management; the payoff is slow and diffuse.",
+    "prompt": "Diabetes, heart disease, and hypertension are exploding — now the country's biggest killers — yet the health system is built for infections, not chronic care. The director wants a costly pivot to NCD screening and management; the payoff is slow and diffuse.",
     "left": {
       "id": "a",
       "label": "Pivot the health system toward NCDs.",
@@ -2865,7 +2865,7 @@
       "heart-disease",
       "food"
     ],
-    "prompt": "Industrial trans-fats — in the cheap dalda and baked goods the poor eat most — drive a wave of heart disease, and a hard regulatory limit would save lives at almost no cost to the consumer. The vanaspati and bakery industries lobby hard against it.",
+    "prompt": "Industrial trans-fats — in the cheap dalda and baked goods the poor eat most — drive a wave of heart disease, and a hard limit would save lives at almost no cost to the consumer. The vanaspati and bakery industries lobby hard against it.",
     "left": {
       "id": "a",
       "label": "Ban industrial trans-fats.",
@@ -2900,7 +2900,7 @@
       "icu",
       "preparedness"
     ],
-    "prompt": "The last respiratory crisis exposed a fatal shortage of medical oxygen and ICU beds, with patients dying in corridors gasping for air. The director wants a permanent build-out of oxygen plants and critical-care capacity; between crises the money is wanted elsewhere.",
+    "prompt": "The last respiratory crisis exposed a fatal shortage of medical oxygen and ICU beds, with patients dying in corridors gasping for air. The director wants a permanent build-out of oxygen plants and critical-care beds; between crises the money is wanted elsewhere.",
     "left": {
       "id": "a",
       "label": "Build permanent oxygen and ICU capacity.",
@@ -2935,7 +2935,7 @@
       "dogs",
       "vaccination"
     ],
-    "prompt": "Rabies from dog bites kills hundreds a year, mostly poor children, and the old response — culling strays — only scatters them and fails. The officer wants a humane mass dog-vaccination and sterilisation programme that actually ends rabies; it is costly and slow versus the cheap, futile culls.",
+    "prompt": "Rabies from dog bites kills hundreds a year, mostly poor children, and culling strays only scatters them and fails. The officer wants a humane mass dog-vaccination and sterilisation programme that actually ends rabies; it is costly and slow versus the cheap, futile culls.",
     "left": {
       "id": "a",
       "label": "Fund mass dog vaccination and sterilisation.",
@@ -2970,7 +2970,7 @@
       "cancer",
       "girls"
     ],
-    "prompt": "Cervical cancer is a leading cancer killer of the country's women, and an HPV vaccine given to adolescent girls would all but prevent it for a generation. The director wants a national school-based campaign; anti-vaccine rumours and conservative unease about a 'sex' vaccine threaten it.",
+    "prompt": "Cervical cancer is a leading cancer killer of the country's women, and an HPV vaccine given to adolescent girls would all but prevent it for a generation. The director wants a national school campaign; anti-vaccine rumours and conservative unease about a 'sex' vaccine threaten it.",
     "left": {
       "id": "a",
       "label": "Launch the national HPV campaign.",
@@ -3005,7 +3005,7 @@
       "sludge",
       "cities"
     ],
-    "prompt": "The cities' septic tanks and latrines are emptied by informal crews who dump the raw sludge straight into drains and rivers, undoing the sanitation gains. The director wants a proper faecal-sludge treatment system; it is costly, unglamorous, and easy to keep ignoring.",
+    "prompt": "The cities' septic tanks and latrines are emptied by informal crews who dump the raw sludge straight into drains and rivers, undoing the sanitation gains. The director wants a proper faecal-sludge treatment system; it is costly, unglamorous, and easy to ignore.",
     "left": {
       "id": "a",
       "label": "Build faecal-sludge treatment.",
@@ -3040,7 +3040,7 @@
       "screening",
       "prevention"
     ],
-    "prompt": "A staggering number of children are born each year with thalassemia, a lifelong blood disorder, because carrier parents never knew. A premarital and prenatal screening programme could prevent most cases; it is costly and touches the sensitive ground of marriage and reproduction.",
+    "prompt": "A staggering number of children are born each year with thalassemia, a lifelong blood disorder, because carrier parents never knew. A premarital and prenatal screening programme could prevent most cases; it is costly and touches the sensitive ground of marriage.",
     "left": {
       "id": "a",
       "label": "Launch a thalassemia screening programme.",
@@ -3075,7 +3075,7 @@
       "byssinosis",
       "workers"
     ],
-    "prompt": "Stone-crusher and textile-mill workers are dying of silicosis and byssinosis — lungs destroyed by dust the law says employers must control but never do. The director wants real enforcement, dust controls, and compensation; the industry calls it ruinous.",
+    "prompt": "Stone-crusher and textile-mill workers are dying of silicosis and byssinosis — lungs destroyed by dust the law says employers must control but never do. The director wants enforcement, dust controls, and compensation; the industry calls it ruinous.",
     "left": {
       "id": "a",
       "label": "Enforce dust controls and compensation.",
@@ -3111,7 +3111,7 @@
       "disaster",
       "trauma"
     ],
-    "prompt": "Survivors of cyclones, floods, and displacement carry untreated trauma that the relief system, focused on food and shelter, entirely ignores. The coordinator wants psychosocial support built into disaster response; the hard-nosed call it a soft luxury when people need rice and roofs.",
+    "prompt": "Survivors of cyclones, floods, and displacement carry untreated trauma the relief system entirely ignores. The coordinator wants psychosocial support built into disaster response; the hard-nosed call it a luxury when people need rice and roofs.",
     "left": {
       "id": "a",
       "label": "Build psychosocial support into relief.",
@@ -3146,7 +3146,7 @@
       "pricing",
       "access"
     ],
-    "prompt": "Prices of essential, life-saving medicines have crept beyond the poor's reach, while the pharmaceutical industry — a proud export earner and donor — resists price controls. The director wants an enforced essential-medicines price ceiling; the industry threatens to cut investment.",
+    "prompt": "Prices of essential, life-saving medicines have crept beyond the poor's reach, while the pharmaceutical industry — a proud export earner and donor — resists price controls. The director wants an essential-medicines price ceiling; the industry threatens to cut investment.",
     "left": {
       "id": "a",
       "label": "Cap essential-medicine prices.",
@@ -3183,7 +3183,7 @@
       "absenteeism",
       "rural"
     ],
-    "prompt": "The rural health clinics stand staffed on paper but empty in fact, their posted doctors absent in private city practice while villagers find locked doors. The director wants biometric attendance and real consequences; the medical lobby, politically connected, resists fiercely.",
+    "prompt": "The rural health clinics stand staffed on paper but empty in fact, their posted doctors absent in private city practice while villagers find locked doors. The director wants biometric attendance and real consequences; the medical lobby resists fiercely.",
     "left": {
       "id": "a",
       "label": "Enforce attendance with real consequences.",
@@ -3218,7 +3218,7 @@
       "primary-care",
       "access"
     ],
-    "prompt": "The network of community clinics bringing basic care to the villages is the country's quiet health triumph — but many lack medicine, staff, and repair, sliding back toward uselessness. The director wants a major reinvestment to revive them; the money competes with flashier hospital projects.",
+    "prompt": "The network of community clinics bringing basic care to the villages is the country's quiet health triumph — but many lack medicine, staff, and repair, sliding toward uselessness. The director wants a major reinvestment; the money competes with flashier hospital projects.",
     "left": {
       "id": "a",
       "label": "Reinvest in the community clinics.",
@@ -3253,7 +3253,7 @@
       "substance",
       "harm"
     ],
-    "prompt": "A wave of cheap intoxicants and adulterated energy drinks is harming the urban young, with no honest information and only a punitive, shaming response. The director wants harm-reduction education and clean-drug enforcement; moralists demand crackdowns and silence instead.",
+    "prompt": "A wave of cheap intoxicants and adulterated energy drinks is harming the urban young, with no honest information and only a punitive response. The director wants harm-reduction education and clean-product enforcement; moralists demand crackdowns and silence instead.",
     "left": {
       "id": "a",
       "label": "Fund harm-reduction and honest education.",
@@ -3290,7 +3290,7 @@
       "hygiene",
       "disease"
     ],
-    "prompt": "The street food millions rely on is often prepared with contaminated water and no hygiene, spreading typhoid and diarrhoeal disease. The officer wants licensing, clean-water access, and hygiene training for vendors — or you can keep clearing them in futile drives.",
+    "prompt": "The street food millions rely on is often prepared with contaminated water and no hygiene, spreading typhoid and diarrhoeal disease. License and support vendors with clean water and hygiene training, or keep clearing them in futile drives?",
     "left": {
       "id": "a",
       "label": "License and support clean street food.",
@@ -3326,7 +3326,7 @@
       "ban",
       "construction"
     ],
-    "prompt": "Asbestos, banned across much of the world, is still imported and used in cheap roofing and the shipbreaking yards, seeding a slow epidemic of lung cancer decades out. The director wants an import-and-use ban; the cheap-roofing and shipbreaking industries resist.",
+    "prompt": "Asbestos, banned across much of the world, is still imported and used in cheap roofing and the shipbreaking yards, seeding a slow epidemic of lung cancer decades out. The director wants an import-and-use ban; the roofing and shipbreaking industries resist.",
     "left": {
       "id": "a",
       "label": "Ban asbestos import and use.",
@@ -3361,7 +3361,7 @@
       "cities",
       "adaptation"
     ],
-    "prompt": "Killer heatwaves are becoming routine, and the cities have no plan — no cooling shelters, no warnings, no protection for the outdoor poor. The officer wants a costly urban heat-action plan; between heatwaves the danger feels abstract and the budget is contested.",
+    "prompt": "Killer heatwaves are becoming routine, and the cities have no plan — no cooling shelters, no warnings, no protection for the outdoor poor. The officer wants a costly urban heat-action plan; between heatwaves the danger feels abstract and the budget contested.",
     "left": {
       "id": "a",
       "label": "Build urban heat-action plans.",
@@ -3396,7 +3396,7 @@
       "marine",
       "mangroves"
     ],
-    "prompt": "A tanker has spilled furnace oil into the mangrove rivers, coating the forest, the dolphins, and the fishers' grounds, and there is no response capacity worth the name. The officer wants a real marine-spill response system built; for now, all you can do is choose how hard to scramble.",
+    "prompt": "A tanker has spilled furnace oil into the mangrove rivers, coating the forest, the dolphins, and the fishers' grounds, and there is no response capacity worth the name. The officer wants a real marine-spill response system built; for now, choose how hard to scramble.",
     "left": {
       "id": "a",
       "label": "Mount a maximal cleanup and build capacity.",
@@ -3432,7 +3432,7 @@
       "deworming",
       "children"
     ],
-    "prompt": "Anaemia and intestinal worms sap the health and minds of a huge share of the country's schoolchildren — both cheaply treatable with iron and deworming tablets through the schools. The director wants a universal programme; even this small cost faces budget scrutiny.",
+    "prompt": "Anaemia and intestinal worms sap the health and minds of a huge share of the country's schoolchildren — both cheaply treatable with iron and deworming tablets through the schools. The director wants a universal programme; even this small cost faces scrutiny.",
     "left": {
       "id": "a",
       "label": "Fund universal school deworming and iron.",
@@ -3788,7 +3788,7 @@
       "pollution",
       "health"
     ],
-    "prompt": "The cities are a wall of noise — hydraulic horns, loudspeakers, generators — wrecking hearing, sleep, and hearts, with laws on the books that no one enforces. The officer wants real enforcement and quiet zones around hospitals and schools; drivers and the public resent the crackdown.",
+    "prompt": "The cities are a wall of noise — hydraulic horns, loudspeakers, generators — wrecking hearing, sleep, and hearts, with laws no one enforces. The officer wants real enforcement and quiet zones around hospitals and schools; drivers and the public resent the crackdown.",
     "left": {
       "id": "a",
       "label": "Enforce noise limits and quiet zones.",
@@ -3823,7 +3823,7 @@
       "emergency",
       "trauma"
     ],
-    "prompt": "There is no real national ambulance service, so the injured and the labouring reach hospital by rickshaw, too late, and the road-trauma toll is appalling. The director wants a networked ambulance and emergency-response system tied to the 999 line; it is costly to build and staff.",
+    "prompt": "There is no real national ambulance service, so the injured and the labouring reach hospital by rickshaw, too late, and the road-trauma toll is appalling. The director wants a networked ambulance and 999 emergency-response system; it is costly to build and staff.",
     "left": {
       "id": "a",
       "label": "Build a national ambulance network.",
@@ -3857,7 +3857,7 @@
       "elimination",
       "poverty"
     ],
-    "prompt": "Kala-azar, a deadly sandfly-borne disease of the poorest districts, is close to elimination — the last push of detection, treatment, and vector control could finish it, or neglect could let it roar back as it has before. The director asks whether to fund the final drive.",
+    "prompt": "Kala-azar, a deadly sandfly-borne disease of the poorest districts, is close to elimination — a last push of detection, treatment, and vector control could finish it, or neglect could let it roar back as it has before. Fund the final drive?",
     "left": {
       "id": "a",
       "label": "Fund the elimination final push.",
@@ -3892,7 +3892,7 @@
       "cataract",
       "access"
     ],
-    "prompt": "Hundreds of thousands are needlessly blind from cataracts a fifteen-minute surgery would cure, but the surgeons and camps never reach the rural poor. The director wants mass cataract-surgery camps and rural eye care; it is cheap per sight restored, but unglamorous and easily skipped.",
+    "prompt": "Hundreds of thousands are needlessly blind from cataracts a fifteen-minute surgery would cure, but the surgeons never reach the rural poor. The director wants mass cataract-surgery camps and rural eye care; it is cheap per sight restored, but unglamorous and easily skipped.",
     "left": {
       "id": "a",
       "label": "Fund mass cataract-surgery camps.",
@@ -3962,7 +3962,7 @@
       "pharmacy",
       "resistance"
     ],
-    "prompt": "Antibiotics are sold over the counter like sweets, fuelling the drug resistance that will one day make infections untreatable. The director wants prescription-only enforcement and pharmacist training; the countless unlicensed pharmacies and the public used to self-medicating resist.",
+    "prompt": "Antibiotics are sold over the counter like sweets, fuelling the drug resistance that will one day make infections untreatable. The director wants prescription-only enforcement and pharmacist training; the unlicensed pharmacies and the self-medicating public resist.",
     "left": {
       "id": "a",
       "label": "Enforce prescription-only antibiotics.",
@@ -3998,7 +3998,7 @@
       "ageing",
       "care"
     ],
-    "prompt": "The population is ageing fast, and the old joint-family care of elders is breaking down, leaving many abandoned and destitute with no system to catch them. The director wants to build elderly day-care, geriatric health, and support; the demographic crisis still feels far off to most.",
+    "prompt": "The population is ageing fast, and the old joint-family care of elders is breaking down, leaving many abandoned and destitute. The director wants to build elderly day-care, geriatric health, and support; the demographic crisis still feels far off to most.",
     "left": {
       "id": "a",
       "label": "Build elderly-care and geriatric services.",
@@ -4032,7 +4032,7 @@
       "hospitals",
       "safety"
     ],
-    "prompt": "Patients catch deadly drug-resistant infections in the very hospitals meant to heal them, for want of basic infection control — hand hygiene, sterilisation, isolation. The director wants enforced standards and accreditation; the hospitals resent the cost and the scrutiny.",
+    "prompt": "Patients catch deadly drug-resistant infections in the very hospitals meant to heal them, for want of basic infection control — hand hygiene, sterilisation, isolation. The director wants enforced standards and accreditation; the hospitals resent the cost and scrutiny.",
     "left": {
       "id": "a",
       "label": "Enforce infection control and accreditation.",
@@ -4068,7 +4068,7 @@
       "waste",
       "landfill"
     ],
-    "prompt": "Most of the cities' waste is wet organic matter that rots in the streets and overflows the landfills, when it could be composted into fertiliser. The director wants a citywide source-separation and composting system; it demands public habit-change and steady funding.",
+    "prompt": "Most of the cities' waste is wet organic matter that rots in the streets and overflows the landfills, when it could be composted into fertiliser. The director wants a citywide source-separation and composting system; it demands habit-change and steady funding.",
     "left": {
       "id": "a",
       "label": "Build citywide composting.",
@@ -4104,7 +4104,7 @@
       "hypertension",
       "diet"
     ],
-    "prompt": "Sky-high salt intake is driving an epidemic of hypertension, strokes, and heart attacks. A national salt-reduction push — reformulating processed food, public awareness, front-of-pack labels — would save many lives cheaply; the food industry resists reformulation.",
+    "prompt": "Sky-high salt intake is driving an epidemic of hypertension, strokes, and heart attacks. A national salt-reduction push — reformulating processed food, public awareness, front-of-pack labels — would save many lives cheaply; the food industry resists.",
     "left": {
       "id": "a",
       "label": "Drive the national salt-reduction push.",
@@ -4139,7 +4139,7 @@
       "assistive-devices",
       "access"
     ],
-    "prompt": "Millions who need wheelchairs, hearing aids, prosthetics, and white canes go without, shut out of work and life for want of a cheap device. The director wants a national assistive-device programme; the constituency is politically quiet and the budget contested.",
+    "prompt": "Millions who need wheelchairs, hearing aids, prosthetics, and white canes go without, shut out of work and life for want of a cheap device. The director wants a national assistive-device programme; the constituency is quiet and the budget contested.",
     "left": {
       "id": "a",
       "label": "Fund a national assistive-device programme.",
@@ -4246,7 +4246,7 @@
       "fogging",
       "dengue"
     ],
-    "prompt": "The mosquito-fogging the cities rely on against dengue is now near-useless — the mosquitoes are resistant and the larvae breed on untouched. The director wants a shift to larval-source management and integrated control; the public loves the visible fog and distrusts the invisible fix.",
+    "prompt": "The mosquito-fogging the cities rely on against dengue is now near-useless — the mosquitoes are resistant and the larvae breed untouched. The director wants a shift to larval-source management; the public loves the visible fog and distrusts the invisible fix.",
     "left": {
       "id": "a",
       "label": "Shift to larval-source management.",
@@ -4280,7 +4280,7 @@
       "hospice",
       "dignity"
     ],
-    "prompt": "The terminally ill die in agony for want of palliative care and the morphine that could ease them — held back by fear of addiction and a system that abandons those it cannot cure. The director wants a national palliative-care and pain-relief programme; it draws no votes and little notice.",
+    "prompt": "The terminally ill die in agony for want of palliative care and the morphine that could ease them — held back by fear of addiction and a system that abandons those it cannot cure. The director wants a national palliative-care programme; it draws no votes and little notice.",
     "left": {
       "id": "a",
       "label": "Build national palliative care.",
@@ -4315,7 +4315,7 @@
       "children",
       "education"
     ],
-    "prompt": "Children fail and drop out because no one notices they cannot see the board or hear the teacher — uncorrected vision and hearing problems mistaken for stupidity. The director wants universal school screening and free glasses and hearing aids; the cost is small but the programme keeps getting cut.",
+    "prompt": "Children fail and drop out because no one notices they cannot see the board or hear the teacher — uncorrected vision and hearing mistaken for stupidity. The director wants universal school screening and free glasses and hearing aids; the cost is small but keeps getting cut.",
     "left": {
       "id": "a",
       "label": "Fund universal school screening.",
@@ -4350,7 +4350,7 @@
       "ramsar",
       "biodiversity"
     ],
-    "prompt": "A globally important wetland — a wintering ground for migratory birds and a nursery for fish — is being drained and encroached for farmland and development. The officer wants it protected under the international wetland convention; the encroaching farmers and developers resist.",
+    "prompt": "A globally important wetland — a wintering ground for migratory birds and a nursery for fish — is being drained for farmland and development. The officer wants it protected under the international wetland convention; the encroaching farmers and developers resist.",
     "left": {
       "id": "a",
       "label": "Protect the wetland under the convention.",
@@ -4387,7 +4387,7 @@
       "oral-cancer",
       "betel"
     ],
-    "prompt": "Oral disease is rampant and oral cancer — driven by the betel-nut and tobacco quid chewed by millions — is a leading cancer killer, yet dental care barely exists outside private clinics. The director wants public oral health and a betel-quid awareness drive; the betel trade and habit resist.",
+    "prompt": "Oral disease is rampant and oral cancer — driven by the betel-nut and tobacco quid chewed by millions — is a leading cancer killer, yet dental care barely exists outside private clinics. The director wants public oral health and a betel-quid awareness drive; the betel trade resists.",
     "left": {
       "id": "a",
       "label": "Build public oral health and quid awareness.",
@@ -4422,7 +4422,7 @@
       "data",
       "transparency"
     ],
-    "prompt": "The country has almost no real air-quality monitoring, so the lethal pollution is unmeasured, undenied, and unaddressed. The officer wants a public network of monitors with open, real-time data; some fear the numbers will be damning and the industries fear the accountability.",
+    "prompt": "The country has almost no real air-quality monitoring, so the lethal pollution is unmeasured and unaddressed. The officer wants a public network of monitors with open, real-time data; some fear the numbers will be damning and the industries fear the accountability.",
     "left": {
       "id": "a",
       "label": "Build an open air-monitoring network.",
@@ -4459,7 +4459,7 @@
       "buildings",
       "preparedness"
     ],
-    "prompt": "The capital sits on a fault, crammed with buildings that would pancake in a major quake, and the country has almost no urban search-and-rescue capacity. The director wants a costly retrofit, code-enforcement, and rescue-capacity drive; the threat is invisible until the ground moves.",
+    "prompt": "The capital sits on a fault, crammed with buildings that would pancake in a major quake, and the country has almost no urban search-and-rescue capacity. The director wants a costly retrofit, code-enforcement, and rescue drive; the threat is invisible until the ground moves.",
     "left": {
       "id": "a",
       "label": "Fund quake retrofit and rescue capacity.",
@@ -4494,7 +4494,7 @@
       "pesticide",
       "rural"
     ],
-    "prompt": "Easy access to highly toxic farm pesticides makes them the method of countless impulsive rural suicides, especially among the young and women. The director wants the most lethal pesticides banned and the rest locked in community stores — a proven, cheap lifesaver the agro-chemical lobby resists.",
+    "prompt": "Easy access to highly toxic farm pesticides makes them the method of countless impulsive rural suicides, especially among the young and women. The director wants the most lethal banned and the rest locked in community stores — a proven, cheap lifesaver the agro-chemical lobby resists.",
     "left": {
       "id": "a",
       "label": "Ban the most lethal pesticides, lock the rest.",
@@ -4529,7 +4529,7 @@
       "cold-chain",
       "coverage"
     ],
-    "prompt": "The vaccine cold chain — the unbroken refrigeration that keeps childhood vaccines potent from factory to village — is fraying, with failing fridges and gaps that quietly render vaccines useless. The director wants a costly cold-chain overhaul; the failure is invisible until outbreaks return.",
+    "prompt": "The vaccine cold chain — the refrigeration that keeps childhood vaccines potent from factory to village — is fraying, with failing fridges that quietly render vaccines useless. The director wants a costly overhaul; the failure is invisible until outbreaks return.",
     "left": {
       "id": "a",
       "label": "Overhaul the vaccine cold chain.",
@@ -4564,7 +4564,7 @@
       "kidney",
       "access"
     ],
-    "prompt": "Chronic kidney disease — driven by diabetes, hypertension, and arsenic — is surging, and dialysis is scarce and ruinously expensive, so the poor simply die. The director wants subsidised dialysis centres across the regions; the per-patient cost is high and unending.",
+    "prompt": "Chronic kidney disease — driven by diabetes, hypertension, and arsenic — is surging, and dialysis is scarce and ruinously expensive, so the poor simply die. The director wants subsidised dialysis centres across the regions; the per-patient cost is high and endless.",
     "left": {
       "id": "a",
       "label": "Build subsidised regional dialysis.",
@@ -4599,7 +4599,7 @@
       "hospitals",
       "hygiene"
     ],
-    "prompt": "A shocking share of clinics and hospitals lack clean water, functioning toilets, and hand-washing — so the places of healing spread infection and mothers give birth in filth. The director wants a WASH overhaul of every health facility; it is basic, costly, and chronically deprioritised.",
+    "prompt": "A shocking share of clinics and hospitals lack clean water, functioning toilets, and hand-washing — so the places of healing spread infection and mothers give birth in filth. The director wants a WASH overhaul of every health facility; it is basic, costly, and chronically skipped.",
     "left": {
       "id": "a",
       "label": "Fund WASH in every health facility.",
@@ -4634,7 +4634,7 @@
       "junk-food",
       "children"
     ],
-    "prompt": "As incomes rise, childhood obesity and the junk food driving it are surging in the cities even as stunting persists in the villages — a double burden. The director wants junk food out of schools and healthy-eating standards; the snack industry and the kids resist.",
+    "prompt": "As incomes rise, childhood obesity surges in the cities even as stunting persists in the villages — a double burden. The director wants junk food out of schools and healthy-eating standards; the snack industry and the kids resist.",
     "left": {
       "id": "a",
       "label": "Ban junk food from schools.",
@@ -4669,7 +4669,7 @@
       "housing",
       "resilience"
     ],
-    "prompt": "In the flood-prone chars and haors, the poor rebuild fragile homes washed away every year. A programme of raised plinths, flood-resilient housing, and protected tube-wells would break the cycle; the alternative is the cheaper, endless ritual of post-flood relief.",
+    "prompt": "In the flood-prone chars and haors, the poor rebuild fragile homes washed away every year. A programme of raised plinths, flood-resilient housing, and protected wells would break the cycle; the alternative is the cheaper, endless ritual of post-flood relief.",
     "left": {
       "id": "a",
       "label": "Fund flood-resilient housing.",
@@ -4704,7 +4704,7 @@
       "donation",
       "safety"
     ],
-    "prompt": "The country runs on a commercial blood trade of paid, often-diseased donors, because the voluntary donation network is thin and the safe supply scarce. The director wants to build a real voluntary, screened blood system; it takes sustained funding and a culture shift.",
+    "prompt": "The country runs on a commercial blood trade of paid, often-diseased donors, because the voluntary donation network is thin and the safe supply scarce. The director wants to build a real voluntary, screened blood system; it takes funding and a culture shift.",
     "left": {
       "id": "a",
       "label": "Build a voluntary, screened blood system.",
@@ -4739,7 +4739,7 @@
       "helplines",
       "stigma"
     ],
-    "prompt": "Suicide is rising, especially among the young and women, hidden by stigma and a law that still criminalises the attempt. The director wants decriminalisation, helplines, and responsible reporting; the conservatives resist 'condoning' it and the law is awkward to change.",
+    "prompt": "Suicide is rising, especially among the young and women, hidden by stigma and a law that still criminalises the attempt. The director wants decriminalisation, helplines, and responsible reporting; the conservatives resist 'condoning' it.",
     "left": {
       "id": "a",
       "label": "Decriminalise and build prevention.",
@@ -4774,7 +4774,7 @@
       "trauma",
       "enforcement"
     ],
-    "prompt": "The explosion of motorcycles and ride-share bikes has filled the trauma wards with head injuries, mostly from riders without helmets. The officer wants hard helmet and safety-gear enforcement; riders resent it and the ride-share boom prefers fewer rules.",
+    "prompt": "The explosion of motorcycles and ride-share bikes has filled the trauma wards with head injuries, mostly from riders without helmets. The officer wants hard helmet enforcement; riders resent it and the ride-share boom prefers fewer rules.",
     "left": {
       "id": "a",
       "label": "Enforce helmet and safety-gear laws.",
@@ -4809,7 +4809,7 @@
       "children",
       "introduction"
     ],
-    "prompt": "New vaccines against the rotavirus and pneumonia that kill so many small children are available but costly to add to the national schedule. The director wants them introduced now; the finance side balks at the added recurrent cost of protecting against diseases people are used to.",
+    "prompt": "New vaccines against the rotavirus and pneumonia that kill so many small children are available but costly to add to the national schedule. The director wants them introduced now; the finance side balks at the added recurrent cost.",
     "left": {
       "id": "a",
       "label": "Introduce the new childhood vaccines.",
@@ -4844,7 +4844,7 @@
       "health",
       "adaptation"
     ],
-    "prompt": "Climate change is reshaping disease — dengue spreading, heat killing, floods drowning health facilities, salinity raising blood pressure in coastal women. The director wants the health system climate-proofed and a climate-health surveillance built; it is a diffuse, long-horizon investment.",
+    "prompt": "Climate change is reshaping disease — dengue spreading, heat killing, floods drowning clinics, salinity raising blood pressure in coastal women. The director wants the health system climate-proofed and climate-health surveillance built; it is a diffuse, long-horizon investment.",
     "left": {
       "id": "a",
       "label": "Climate-proof the health system.",
@@ -4879,7 +4879,7 @@
       "beaches",
       "plastic"
     ],
-    "prompt": "The beaches and coastal waters are drowning in plastic litter — washed down the rivers and dumped by the tourist towns — choking marine life and the tourist economy alike. The officer wants a sustained cleanup, river-interception, and a coastal plastic ban; the cost and the tourist trade resist.",
+    "prompt": "The beaches and coastal waters are drowning in plastic litter — washed down the rivers and dumped by the tourist towns — choking marine life and the tourist economy alike. The officer wants cleanup, river-interception, and a coastal plastic ban; the cost and the tourist trade resist.",
     "left": {
       "id": "a",
       "label": "Fund cleanup and river-litter interception.",
@@ -4915,7 +4915,7 @@
       "disability",
       "children"
     ],
-    "prompt": "Children with autism and developmental disorders are hidden, shamed, and shut out entirely for want of any diagnosis, therapy, or schooling. The director wants a national developmental-screening and early-intervention programme; the cause is poorly understood and easily deprioritised.",
+    "prompt": "Children with autism and developmental disorders are hidden, shamed, and shut out entirely for want of any diagnosis, therapy, or schooling. The director wants a national developmental-screening and early-intervention programme; the cause is poorly understood and easily skipped.",
     "left": {
       "id": "a",
       "label": "Build developmental screening and therapy.",
@@ -4950,7 +4950,7 @@
       "waste",
       "flooding"
     ],
-    "prompt": "The cities' canals and riverbanks are choked with dumped solid waste, blocking drainage and breeding disease, while informal settlements and businesses dump with impunity. The officer wants enforced anti-dumping, regular clearing, and waste collection; it means confronting dumpers great and small.",
+    "prompt": "The cities' canals and riverbanks are choked with dumped solid waste, blocking drainage and breeding disease, while settlements and businesses dump with impunity. The officer wants enforced anti-dumping, regular clearing, and waste collection; it means confronting dumpers great and small.",
     "left": {
       "id": "a",
       "label": "Enforce anti-dumping and clear the canals.",
@@ -4986,7 +4986,7 @@
       "women",
       "workforce"
     ],
-    "prompt": "Working mothers, especially the garment workforce, have nowhere safe to leave their infants, so children are neglected and women forced out of work. The law mandates factory creches that almost no one provides. The director wants real enforcement; employers call it an unbearable cost.",
+    "prompt": "Working mothers, especially the garment workforce, have nowhere safe to leave their infants, so children are neglected and women forced out of work. The law mandates factory creches almost no one provides. The director wants real enforcement; employers call it unbearable.",
     "left": {
       "id": "a",
       "label": "Enforce the workplace-creche mandate.",
@@ -5022,7 +5022,7 @@
       "typhoid",
       "vaccines"
     ],
-    "prompt": "Cholera and typhoid still sweep the slums and flood zones from filthy water, and oral vaccines now exist to blunt them. The director wants targeted vaccination campaigns in the high-risk areas alongside the slow water fixes; the vaccines are costly and the diseases familiar.",
+    "prompt": "Cholera and typhoid still sweep the slums and flood zones from filthy water, and oral vaccines now exist to blunt them. The director wants targeted vaccination in the high-risk areas alongside the slow water fixes; the vaccines are costly and the diseases familiar.",
     "left": {
       "id": "a",
       "label": "Run targeted cholera-typhoid vaccination.",
@@ -5057,7 +5057,7 @@
       "records",
       "privacy"
     ],
-    "prompt": "A national electronic health-record system would join up fragmented care, cut duplication, and power real planning — and concentrate the population's most intimate data in a system the state has not earned trust to hold securely. The director asks how far to build it.",
+    "prompt": "A national electronic health-record system would join up fragmented care, cut duplication, and power real planning — and concentrate the population's most intimate data in a system the state has not earned trust to hold securely. How far do you build it?",
     "left": {
       "id": "a",
       "label": "Build the integrated health-record system.",
@@ -5092,7 +5092,7 @@
       "shisha",
       "youth"
     ],
-    "prompt": "Vaping and shisha lounges are spreading among urban youth, marketed as harmless and slipping through the tobacco laws. The officer wants them regulated and taxed like tobacco before the habit entrenches; the lounges and importers, and the youth who enjoy them, push back.",
+    "prompt": "Vaping and shisha lounges are spreading among urban youth, marketed as harmless and slipping through the tobacco laws. The officer wants them regulated and taxed like tobacco before the habit entrenches; the lounges, importers, and youth push back.",
     "left": {
       "id": "a",
       "label": "Regulate and tax vaping like tobacco.",
@@ -5127,7 +5127,7 @@
       "shelter",
       "livestock"
     ],
-    "prompt": "In the floods, the poor lose not just homes but the livestock that is their whole wealth, because the shelters take people but not animals, so families stay in the water to guard their cattle and drown. The director wants combined people-and-livestock shelters; purists call it a misuse of relief.",
+    "prompt": "In the floods, the poor lose not just homes but the livestock that is their whole wealth, because the shelters take people but not animals — so families stay in the water to guard their cattle and drown. The director wants combined people-and-livestock shelters; purists call it a misuse of relief.",
     "left": {
       "id": "a",
       "label": "Build combined people-and-livestock shelters.",
@@ -5162,7 +5162,7 @@
       "green-jobs",
       "informal"
     ],
-    "prompt": "An army of informal waste-pickers already recycles much of the cities' waste, unseen, unpaid fairly, and unprotected. The officer wants to formalise them into the recycling system with IDs, fair pay, and gear — dignifying vital work — or leave them to the dumps and the middlemen.",
+    "prompt": "An army of informal waste-pickers already recycles much of the cities' waste, unseen, unpaid fairly, and unprotected. Formalise them into the recycling system with IDs, fair pay, and gear — dignifying vital work — or leave them to the dumps and the middlemen?",
     "left": {
       "id": "a",
       "label": "Formalise the waste-pickers into green jobs.",
@@ -5198,7 +5198,7 @@
       "hospitals",
       "standards"
     ],
-    "prompt": "Private hospitals and diagnostic centres operate with wild variation in quality, some excellent and some lethal, with no accreditation to tell them apart. The director wants mandatory accreditation and public quality ratings; the private health industry, powerful and connected, resists.",
+    "prompt": "Private hospitals and diagnostic centres operate with wild variation in quality, some excellent and some lethal, with no accreditation to tell them apart. The director wants mandatory accreditation and public quality ratings; the private health industry resists.",
     "left": {
       "id": "a",
       "label": "Mandate accreditation and public ratings.",
@@ -5235,7 +5235,7 @@
       "household",
       "women"
     ],
-    "prompt": "Indoor air pollution from cooking smoke, damp, and crowding quietly kills more than the outdoor smog, striking women and children worst. The director wants a programme of ventilation, clean cooking, and housing improvement; the harm is invisible and inside the home, easily ignored.",
+    "prompt": "Indoor air pollution from cooking smoke, damp, and crowding quietly kills more than the outdoor smog, striking women and children worst. The director wants ventilation, clean cooking, and housing improvement; the harm is invisible, inside the home, easily ignored.",
     "left": {
       "id": "a",
       "label": "Fund indoor-air and clean-cooking programmes.",
@@ -5270,7 +5270,7 @@
       "drinks",
       "diabetes"
     ],
-    "prompt": "Sugary drinks are flooding the market and driving childhood obesity and diabetes, marketed hardest to the young. Beyond the tax already debated, the director wants marketing curbs, front-of-pack warnings, and a ban on sales near schools; the beverage giants, big advertisers, resist.",
+    "prompt": "Sugary drinks are flooding the market and driving childhood obesity and diabetes, marketed hardest to the young. The director wants marketing curbs, front-of-pack warnings, and a ban on sales near schools; the beverage giants, big advertisers, resist.",
     "left": {
       "id": "a",
       "label": "Curb marketing and sales near schools.",
@@ -5305,7 +5305,7 @@
       "slums",
       "services"
     ],
-    "prompt": "Climate-displaced families from the drowning coast and eroding rivers pour into the city slums by the thousand, straining water, health, and shelter to breaking. The director wants planned reception, services, and secondary-town development to absorb them; the cheaper path is to let the slums swell untended.",
+    "prompt": "Climate-displaced families from the drowning coast and eroding rivers pour into the city slums by the thousand, straining water, health, and shelter to breaking. Fund planned reception, services, and secondary-town development to absorb them, or let the slums swell untended?",
     "left": {
       "id": "a",
       "label": "Plan for the climate migrants.",
@@ -5340,7 +5340,7 @@
       "embankment",
       "coast"
     ],
-    "prompt": "A term later, the same fault line tears open again. A super-cyclone is forty-eight hours out and the coastal embankments — patched, looted, and thin — will not hold a surge like this. The Chief wants a mass evacuation that will cost a fortune and admit the embankments failed. Or you can pray the storm turns.",
+    "prompt": "A term later, the same fault line tears open again. A super-cyclone is forty-eight hours out and the coastal embankments — patched, looted, thin — will not hold the surge. The Chief wants a mass evacuation that will cost a fortune and admit the embankments failed. Or you can pray the storm turns.",
     "left": {
       "id": "a",
       "label": "Order the full pre-emptive evacuation.",
@@ -5376,7 +5376,7 @@
       "embankment",
       "coast"
     ],
-    "prompt": "Years into your rule, the matter you thought buried resurfaces — harder. In the aftermath, the relief is being looted by local officials before it reaches the shelters, and survivors are eating the seed grain meant for next season. An adviser proposes routing aid through the army instead of the civil administration.",
+    "prompt": "Years into your rule, the matter you thought buried resurfaces — harder. In the aftermath, relief is being looted by local officials before it reaches the shelters, and survivors are eating the seed grain meant for next season. An adviser proposes routing aid through the army instead of the civil administration.",
     "left": {
       "id": "a",
       "label": "Hand relief logistics to the army.",
@@ -5414,7 +5414,7 @@
       "dhaka",
       "kilns"
     ],
-    "prompt": "A new season of power, an old problem with sharper teeth. The capital's air is the most poisonous on earth this winter — brick kilns, traffic, and dust shaving years off every lung. The scientist wants the illegal kilns ringing the city shut. The kiln owners build the city's bricks and bankroll local MPs.",
+    "prompt": "A new season of power, an old problem with sharper teeth. The capital's air is the most poisonous on earth this winter — brick kilns, traffic, and dust shaving years off every lung. The scientist wants the illegal kilns ringing the city shut. The kiln owners build the city's bricks and bankroll MPs.",
     "left": {
       "id": "a",
       "label": "Shut the illegal brick kilns.",
@@ -5451,7 +5451,7 @@
       "epidemic",
       "hospitals"
     ],
-    "prompt": "The crisis returns, and this time the cabinet is watching. Dengue has exploded past every previous record; the hospital corridors are lined with stretchers and the test kits are running out. The DG needs an emergency procurement and a city-wide fogging blitz — fast, and without the usual tender delays.",
+    "prompt": "The crisis returns, and this time the cabinet is watching. Dengue has exploded past every record; the hospital corridors are lined with stretchers and the test kits are running out. The DG needs emergency procurement and a city-wide fogging blitz — fast, and without the usual tender delays.",
     "left": {
       "id": "a",
       "label": "Fast-track emergency procurement now.",
@@ -5487,7 +5487,7 @@
       "tannery",
       "pollution"
     ],
-    "prompt": "Once more the issue lands on your desk, the stakes higher than before. The river through the capital is biologically dead — black with tannery chrome and factory waste. A court has ordered the tanneries relocated to a treatment estate, but the estate's plant does not work and the owners refuse to move. The Commissioner asks you to enforce or excuse.",
+    "prompt": "Once more the issue lands on your desk, the stakes higher than before. The river through the capital is biologically dead — black with tannery chrome and factory waste. A court ordered the tanneries relocated to a treatment estate, but its plant does not work and the owners refuse to move. Enforce the order, or excuse it?",
     "left": {
       "id": "a",
       "label": "Enforce the relocation and fix the treatment plant.",
@@ -5524,7 +5524,7 @@
       "slums",
       "cities"
     ],
-    "prompt": "Another year survived, and the reckoning circles back. Every drowned coastal acre sends thousands to the capital's slums — a million climate migrants a year crowding a city already past breaking. The adviser pitches building secondary 'climate-resilient' towns to absorb them, a vast and unglamorous investment.",
+    "prompt": "Another year survived, and the reckoning circles back. Every drowned coastal acre sends thousands to the capital's slums — a million climate migrants a year crowding a city already past breaking. The adviser pitches secondary 'climate-resilient' towns to absorb them, a vast and unglamorous investment.",
     "left": {
       "id": "a",
       "label": "Invest in resilient secondary towns.",
@@ -5560,7 +5560,7 @@
       "wetlands",
       "elite"
     ],
-    "prompt": "The ground has shifted; the same demand arrives with new menace. A politically connected developer is filling a protected flood-plain wetland to build a luxury enclave — destroying the natural sponge that saves the city from monsoon flooding. The paperwork is forged and the developer dines with your ministers.",
+    "prompt": "The ground has shifted; the same demand arrives with new menace. A politically connected developer is filling a protected flood-plain wetland to build a luxury enclave — destroying the natural sponge that saves the city from monsoon flooding. The paperwork is forged and he dines with your ministers.",
     "left": {
       "id": "a",
       "label": "Look the other way for the developer.",
@@ -5598,7 +5598,7 @@
       "rural",
       "doctors"
     ],
-    "prompt": "History rhymes: the conflict reopens deeper than last time. The rural clinics stand empty of doctors — every graduate wants the city or the Gulf, and the village posts go unfilled for years. The Director proposes a mandatory rural-service bond for new doctors; the medical association, an urban power bloc, will fight it bitterly.",
+    "prompt": "History rhymes: the conflict reopens deeper than last time. The rural clinics stand empty of doctors — every graduate wants the city or the Gulf, and the village posts go unfilled for years. The Director proposes a mandatory rural-service bond for new doctors; the medical association will fight it bitterly.",
     "left": {
       "id": "a",
       "label": "Impose the rural-service requirement.",
@@ -5635,7 +5635,7 @@
       "fisheries",
       "waste"
     ],
-    "prompt": "Mid-reign, the old wound is torn afresh. Plastic chokes the rivers and the catch is shrinking; the fisherfolk haul up more bags than fish. A ban on single-use plastic exists on paper and is universally ignored. The officer wants real enforcement; the plastics industry warns of lost jobs.",
+    "prompt": "Mid-reign, the old wound is torn afresh. Plastic chokes the rivers and the catch is shrinking; the fisherfolk haul up more bags than fish. A single-use plastic ban exists on paper and is universally ignored. The officer wants real enforcement; the plastics industry warns of lost jobs.",
     "left": {
       "id": "a",
       "label": "Enforce the plastics ban for real.",
@@ -6313,7 +6313,7 @@
       "flood",
       "harvest"
     ],
-    "prompt": "The conflict reignites, and the world is watching this time. An early flash flood threatens to drown the entire boro rice harvest of the great wetland basin before it can be cut — a regional famine in the making. The officer needs emergency embankment repair and harvest labour, now.",
+    "prompt": "The conflict reignites, and the world is watching this time. An early flash flood threatens to drown the entire boro rice harvest of the great wetland basin before it can be cut — a regional famine in the making. The officer needs emergency embankment repair and harvest labour now.",
     "left": {
       "id": "a",
       "label": "Throw everything at saving the harvest.",
@@ -6385,7 +6385,7 @@
       "shelters",
       "preparedness"
     ],
-    "prompt": "The fault line cracks wider; the decision can no longer wait. A super-cyclone is two days out and the coast has shelters for barely half its people. The chief can order a full pre-emptive evacuation inland — chaotic, costly, and unpopular if the storm veers — or trust the shelters and hope the track holds.",
+    "prompt": "The fault line cracks wider; the decision can no longer wait. A super-cyclone is two days out and the coast has shelters for barely half its people. Order a full pre-emptive evacuation inland — chaotic, costly, unpopular if the storm veers — or trust the shelters and hope the track holds?",
     "left": {
       "id": "a",
       "label": "Order a full pre-emptive evacuation.",
@@ -6420,7 +6420,7 @@
       "shelters",
       "preparedness"
     ],
-    "prompt": "Late in the reign, the old question demands a heavier answer. The storm has passed, sparing the worst, but it exposed how few and crumbling the shelters are. The chief wants a crash programme to double the shelter network; the treasury says the money is needed elsewhere now the danger has passed.",
+    "prompt": "Late in the reign, the old question demands a heavier answer. The storm has passed, sparing the worst, but it exposed how few and crumbling the shelters are. The chief wants a crash programme to double the shelter network; the treasury says the money is needed elsewhere now the danger is gone.",
     "left": {
       "id": "a",
       "label": "Fund the crash shelter programme.",
@@ -6455,7 +6455,7 @@
       "displacement",
       "rivers"
     ],
-    "prompt": "It returns once more — and this round may be the one remembered. The great rivers are eating their banks, swallowing whole villages and farms each monsoon and creating a tide of landless climate refugees. The officer can fund expensive bank-protection works for a few key towns, or spread thin cash relief to the displaced everywhere.",
+    "prompt": "It returns once more — and this round may be the one remembered. The great rivers are eating their banks, swallowing whole villages each monsoon and creating a tide of landless climate refugees. Fund expensive bank-protection works for a few key towns, or spread thin cash relief to the displaced everywhere?",
     "left": {
       "id": "a",
       "label": "Fund hard bank-protection for key towns.",
@@ -6490,7 +6490,7 @@
       "children",
       "stunting"
     ],
-    "prompt": "The reckoning circles back, grown teeth in the waiting. A third of the country's children are stunted, their growth and minds permanently dwarfed by early malnutrition. The director wants a national programme of school meals and fortified food — a slow, costly investment whose payoff is decades away.",
+    "prompt": "The reckoning circles back, grown teeth in the waiting. A third of the country's children are stunted, their growth and minds permanently dwarfed by early malnutrition. The director wants a national programme of school meals and fortified food — a slow, costly investment whose payoff is decades off.",
     "left": {
       "id": "a",
       "label": "Launch the national nutrition programme.",
@@ -6524,7 +6524,7 @@
       "children",
       "public-health"
     ],
-    "prompt": "Another term, the same antagonist, the stakes raised again. A measles-rubella outbreak threatens a mass campaign, but anti-vaccine rumours are spreading through religious networks and social media. The director can push a hard mandatory drive that may provoke a backlash, or run a softer, slower voluntary campaign.",
+    "prompt": "Another term, the same antagonist, the stakes raised again. A measles-rubella outbreak threatens a mass campaign, but anti-vaccine rumours are spreading through religious networks and social media. Push a hard mandatory drive that may provoke a backlash, or run a softer, slower voluntary campaign?",
     "left": {
       "id": "a",
       "label": "Push the hard mandatory campaign.",
@@ -6559,7 +6559,7 @@
       "midwives",
       "rural"
     ],
-    "prompt": "The matter, long deferred, lands with the force of a verdict. Too many mothers still die in childbirth in the villages, far from any skilled hand. The chief wants thousands of trained community midwives deployed nationwide — a years-long, costly build — versus simply funding more distant city hospitals.",
+    "prompt": "The matter, long deferred, lands with the force of a verdict. Too many mothers still die in childbirth in the villages, far from any skilled hand. Train and deploy thousands of community midwives nationwide — a years-long, costly build — or simply fund more distant city hospitals?",
     "left": {
       "id": "a",
       "label": "Train and deploy community midwives.",
@@ -6628,7 +6628,7 @@
       "safety",
       "transport"
     ],
-    "prompt": "The same fault line, the harder hour, the narrower path. The highways are a slaughter — unlicensed drivers, killer buses racing for fares, no enforcement. After a bus killed two students and sparked a youth uprising, the head wants real licensing, speed enforcement, and a crackdown on the transport-owner cartels who block all reform.",
+    "prompt": "The same fault line, the harder hour, the narrower path. The highways are a slaughter — unlicensed drivers, killer buses racing for fares, no enforcement. After a bus killed two students and sparked a youth uprising, the head wants real licensing and a crackdown on the transport cartels who block all reform.",
     "left": {
       "id": "a",
       "label": "Take on the transport cartels.",
@@ -6664,7 +6664,7 @@
       "safety",
       "disaster"
     ],
-    "prompt": "It comes back sharpened by every season you survived. Overloaded river launches capsize every year, drowning hundreds, because owners cram in double the passengers and inspectors are bribed to look away. The director wants strict capacity enforcement and night-sailing bans; the launch owners and the ticketless crowds will both resist.",
+    "prompt": "It comes back sharpened by every season you survived. Overloaded river launches capsize every year, drowning hundreds, because owners cram in double the passengers and inspectors are bribed to look away. The director wants strict capacity enforcement and night-sailing bans; the owners and the crowds will both resist.",
     "left": {
       "id": "a",
       "label": "Enforce strict capacity and safety rules.",
@@ -6699,7 +6699,7 @@
       "adulteration",
       "health"
     ],
-    "prompt": "A later year of power, the old crisis now a true test of it. Fish are soaked in formalin, fruit force-ripened with chemicals, milk cut with detergent — the food supply is quietly poisoned for profit. The chief wants mobile courts and harsh penalties; the powerful wholesale syndicates will fight every raid.",
+    "prompt": "A later year of power, the old crisis now a true test of it. Fish are soaked in formalin, fruit force-ripened with chemicals, milk cut with detergent — the food supply is quietly poisoned for profit. The chief wants mobile courts and harsh penalties; the wholesale syndicates will fight every raid.",
     "left": {
       "id": "a",
       "label": "Unleash mobile courts on the adulterators.",
@@ -6769,7 +6769,7 @@
       "hygiene",
       "disease"
     ],
-    "prompt": "A term later, the same fault line tears open again. The country has nearly ended open defecation — a genuine triumph — but millions of latrines are unhygienic pits that contaminate the groundwater. The head wants a costly upgrade to safe sanitation; others say the headline victory is already won.",
+    "prompt": "A term later, the same fault line tears open again. The country has nearly ended open defecation — a genuine triumph — but millions of latrines are unhygienic pits that contaminate the groundwater. Fund a costly upgrade to safe sanitation, or rest on the headline victory already won?",
     "left": {
       "id": "a",
       "label": "Fund the upgrade to safe sanitation.",
@@ -6839,7 +6839,7 @@
       "hill-cutting",
       "slums"
     ],
-    "prompt": "A new season of power, an old problem with sharper teeth. In the southeast, the poor build on hillsides illegally cut by land-grabbers, and every monsoon landslides bury whole settlements. The chief can evict the hillside slums for their safety — leaving thousands homeless — or jail the land-grabbers and try to stabilise the slopes.",
+    "prompt": "A new season of power, an old problem with sharper teeth. In the southeast, the poor build on hillsides illegally cut by land-grabbers, and every monsoon landslides bury whole settlements. Evict the hillside slums for their safety — leaving thousands homeless — or jail the grabbers and try to stabilise the slopes?",
     "left": {
       "id": "a",
       "label": "Evict the hillside settlements.",
@@ -6876,7 +6876,7 @@
       "real-estate",
       "flooding"
     ],
-    "prompt": "The crisis returns, and this time the cabinet is watching. Powerful developers are illegally filling the capital's flood-retention wetlands to build housing estates, destroying the city's natural drainage. The director wants the projects demolished; the developers are politically connected and have pre-sold thousands of plots.",
+    "prompt": "The crisis returns, and this time the cabinet is watching. Powerful developers are illegally filling the capital's flood-retention wetlands to build housing estates, destroying the city's natural drainage. The director wants the projects demolished; the developers are connected and have pre-sold thousands of plots.",
     "left": {
       "id": "a",
       "label": "Demolish the illegal wetland fills.",
@@ -6913,7 +6913,7 @@
       "trafficking",
       "biodiversity"
     ],
-    "prompt": "Once more the issue lands on your desk, the stakes higher than before. The country is a transit hub for trafficked tigers, pangolins, and rare birds, with officials on the take at every airport and border. The officer wants a hard anti-trafficking unit; it would mean prosecuting some well-connected names.",
+    "prompt": "Once more the issue lands on your desk, the stakes higher than before. The country is a transit hub for trafficked tigers, pangolins, and rare birds, with officials on the take at every airport and border. The officer wants a hard anti-trafficking unit — which means prosecuting some well-connected names.",
     "left": {
       "id": "a",
       "label": "Build the hard anti-trafficking unit.",
@@ -6949,7 +6949,7 @@
       "elderly",
       "disability"
     ],
-    "prompt": "Another year survived, and the reckoning circles back. The old-age and disability allowances are tiny, riddled with ghost beneficiaries, and the real needy are often left off the lists by local touts. The secretary wants a digitised, expanded scheme — costly and disruptive to the patronage networks that skim it.",
+    "prompt": "Another year survived, and the reckoning circles back. The old-age and disability allowances are tiny, riddled with ghost beneficiaries, and the real needy are often left off the lists by local touts. The secretary wants a digitised, expanded scheme — disrupting the patronage networks that skim it.",
     "left": {
       "id": "a",
       "label": "Digitise and expand the safety net.",
@@ -6985,7 +6985,7 @@
       "clinics",
       "regulation"
     ],
-    "prompt": "The ground has shifted; the same demand arrives with new menace. Unlicensed 'doctors' and filthy private clinics flourish in the villages and slums, where real care never reaches. The chief wants a crackdown — but shutting them leaves millions with no care at all until something replaces them.",
+    "prompt": "The ground has shifted; the same demand arrives with new menace. Unlicensed 'doctors' and filthy private clinics flourish in the villages and slums, where real care never reaches. The chief wants a crackdown — but shutting them leaves millions with no care at all.",
     "left": {
       "id": "a",
       "label": "Crack down on the quacks and dirty clinics.",
@@ -7021,7 +7021,7 @@
       "coverage",
       "poverty"
     ],
-    "prompt": "History rhymes: the conflict reopens deeper than last time. A single illness bankrupts countless families, who pay for almost all care out of pocket. The adviser proposes a national health-insurance scheme starting with the poorest — transformative, but a vast new permanent claim on the budget.",
+    "prompt": "History rhymes: the conflict reopens deeper than last time. A single illness bankrupts countless families, who pay for almost all care out of pocket. The adviser proposes a national health-insurance scheme starting with the poorest — transformative, but a vast permanent claim on the budget.",
     "left": {
       "id": "a",
       "label": "Launch national health insurance.",
@@ -7056,7 +7056,7 @@
       "workers",
       "outdoor"
     ],
-    "prompt": "Mid-reign, the old wound is torn afresh. Record heatwaves are killing outdoor workers — rickshaw-pullers, brick-haulers, farmhands — who cannot stop without starving. The officer wants mandated rest hours, shade, and water during extreme heat; employers say it will halt the work that feeds the workers.",
+    "prompt": "Mid-reign, the old wound is torn afresh. Record heatwaves are killing outdoor workers — rickshaw-pullers, brick-haulers, farmhands — who cannot stop without starving. The officer wants mandated rest, shade, and water during extreme heat; employers say it will halt the work that feeds the workers.",
     "left": {
       "id": "a",
       "label": "Mandate heat protections for workers.",
@@ -7091,7 +7091,7 @@
       "medicine",
       "corruption"
     ],
-    "prompt": "The pressure you deferred has come due, larger now. Public hospitals are meant to give medicine free, but most of it is stolen and sold out the back door, forcing patients to buy their own. The director wants a tracked, audited supply chain; the rackets run deep into the staff and unions.",
+    "prompt": "The pressure you deferred has come due, larger now. Public hospitals are meant to give medicine free, but most of it is stolen and sold out the back door, forcing patients to buy their own. The director wants a tracked, audited supply chain; the rackets run deep into staff and unions.",
     "left": {
       "id": "a",
       "label": "Track and audit the medicine supply.",
@@ -7126,7 +7126,7 @@
       "rural",
       "antivenom"
     ],
-    "prompt": "A later term, and the quarrel has hardened into a test. Snakebite kills thousands of villagers a year who reach no antivenom in time, turning instead to faith-healers as they die. The coordinator wants antivenom stocked in every rural clinic and a training drive — cheap in money, hard in logistics and habit.",
+    "prompt": "A later term, and the quarrel has hardened into a test. Snakebite kills thousands of villagers a year who reach no antivenom in time, turning to faith-healers as they die. The coordinator wants antivenom stocked in every rural clinic and a training drive — cheap in money, hard in logistics and habit.",
     "left": {
       "id": "a",
       "label": "Stock antivenom and train rural clinics.",
@@ -7160,7 +7160,7 @@
       "farmers",
       "warning"
     ],
-    "prompt": "The country has changed, but this fault line has not — only worsened. Lightning now kills hundreds of farmers a year in the open fields, a toll worsened by felled trees and a warming climate. The director wants a national programme of warning sirens, shelters in the fields, and replanting of tall trees — modest money, scattered impact.",
+    "prompt": "The country has changed, but this fault line has not — only worsened. Lightning now kills hundreds of farmers a year in the open fields, a toll worsened by felled trees and a warming climate. The director wants warning sirens, field shelters, and replanting of tall trees — modest money, scattered impact.",
     "left": {
       "id": "a",
       "label": "Fund the lightning-protection programme.",
@@ -7195,7 +7195,7 @@
       "poverty",
       "relief"
     ],
-    "prompt": "It returns, as these things do, with the patience gone. A severe cold wave is killing the elderly and homeless in the north, who have no blankets and no warm clothes. The coordinator wants an immediate mass blanket-and-fuel distribution; the cynics note that such drives are also easily turned into partisan photo-ops and skimmed.",
+    "prompt": "It returns, as these things do, with the patience gone. A severe cold wave is killing the elderly and homeless in the north, who have no blankets and no warm clothes. The coordinator wants an immediate mass blanket-and-fuel distribution; the cynics note such drives are easily turned into partisan photo-ops and skimmed.",
     "left": {
       "id": "a",
       "label": "Mount a full, transparent relief drive.",
@@ -7229,7 +7229,7 @@
       "hospitals",
       "surge"
     ],
-    "prompt": "Years on, the matter is no longer private; the press is already circling. This year's dengue epidemic is the worst on record and the hospitals are overflowing, patients on floors and in corridors. The director needs emergency field hospitals and a fleet of fogging crews now; the finance ministry balks at the unbudgeted crore.",
+    "prompt": "Years on, the matter is no longer private; the press is already circling. This year's dengue epidemic is the worst on record and the hospitals are overflowing, patients on floors and in corridors. The director needs emergency field hospitals and fogging crews now; the finance ministry balks at the unbudgeted crore.",
     "left": {
       "id": "a",
       "label": "Fund the full emergency surge response.",
@@ -7263,7 +7263,7 @@
       "drainage",
       "city"
     ],
-    "prompt": "The same knot, retied tighter, lands before you once more. The port city drowns for days after every heavy rain because its canals are choked with waste and built over. The engineer wants a massive canal-reclamation and drainage rebuild — evicting the encroachers, many of them politically connected — or you can keep pumping after each flood.",
+    "prompt": "The same knot, retied tighter, lands before you once more. The port city drowns for days after every heavy rain because its canals are choked with waste and built over. Reclaim the canals and rebuild drainage — evicting the encroachers, many politically connected — or keep pumping after each flood?",
     "left": {
       "id": "a",
       "label": "Reclaim the canals, evict the encroachers.",
@@ -7300,7 +7300,7 @@
       "farmers",
       "health"
     ],
-    "prompt": "Another monsoon, another return of an argument you cannot end. Farmers drench their fields with banned, overstrong pesticides, poisoning themselves, the soil, and the consumers — and the agro-chemical dealers push ever more. The officer wants tight regulation and integrated pest-management training; the dealers and a chemical-dependent harvest resist.",
+    "prompt": "Another monsoon, another return of an argument you cannot end. Farmers drench their fields with banned, overstrong pesticides, poisoning themselves, the soil, and the consumers — and the agro-chemical dealers push ever more. The officer wants regulation and pest-management training; the dealers and a chemical-dependent harvest resist.",
     "left": {
       "id": "a",
       "label": "Regulate pesticides, train in pest management.",
@@ -7336,7 +7336,7 @@
       "conflict",
       "forest"
     ],
-    "prompt": "Deep into the reign, the issue demands a final-sounding answer. As forests shrink, wild elephants raid villages for crops and trample people, and furious farmers poison and electrocute the herds in return. The conservator wants protected corridors and compensation for crop loss; the farmers want the dangerous animals simply gone.",
+    "prompt": "Deep into the reign, the issue demands a final-sounding answer. As forests shrink, wild elephants raid villages for crops and trample people, and furious farmers poison and electrocute the herds in return. The conservator wants protected corridors and crop-loss compensation; the farmers want the dangerous animals gone.",
     "left": {
       "id": "a",
       "label": "Fund corridors and crop-loss compensation.",
@@ -7372,7 +7372,7 @@
       "yaba",
       "addiction"
     ],
-    "prompt": "The reckoning you postponed has matured into a crisis. A flood of methamphetamine pills across the border has hooked a generation of the young. The chief offers two paths: a brutal 'war on drugs' of extrajudicial killings that thrills the public, or a slower build of treatment, rehab, and border interdiction.",
+    "prompt": "The reckoning you postponed has matured into a crisis. A flood of methamphetamine pills across the border has hooked a generation of the young. Wage a brutal 'war on drugs' of extrajudicial killings that thrills the public, or build slower treatment, rehab, and border interdiction?",
     "left": {
       "id": "a",
       "label": "Wage a hard 'war on drugs'.",
@@ -7408,7 +7408,7 @@
       "violence",
       "shelters"
     ],
-    "prompt": "A new chapter, the same antagonists, less room to manoeuvre. Domestic violence, dowry abuse, and acid attacks ruin countless women's lives, while shelters are scarce and cases vanish in a hostile justice system. The secretary wants a network of shelters, fast-track courts, and a one-stop crisis service — costly and culturally contentious.",
+    "prompt": "A new chapter, the same antagonists, less room to manoeuvre. Domestic violence, dowry abuse, and acid attacks ruin countless women's lives, while shelters are scarce and cases vanish in a hostile justice system. The secretary wants shelters, fast-track courts, and a one-stop crisis service — costly and culturally contentious.",
     "left": {
       "id": "a",
       "label": "Build shelters and fast-track courts.",
@@ -7444,7 +7444,7 @@
       "girls",
       "education"
     ],
-    "prompt": "The old fault line widens; this time there is no quiet option. Child marriage remains rampant, pulling girls out of school and into early, dangerous pregnancies. A proposed law would tighten the minimum age — but a contested 'special provision' clause would let parents marry off younger girls 'in special cases', a loophole big enough to drive the practice through.",
+    "prompt": "The old fault line widens; this time there is no quiet option. Child marriage remains rampant, pulling girls out of school and into early, dangerous pregnancies. A proposed law would tighten the minimum age — but a 'special provision' clause would let parents marry off younger girls 'in special cases', a loophole big enough to drive the practice through.",
     "left": {
       "id": "a",
       "label": "Pass the law with the loophole intact.",
@@ -7658,7 +7658,7 @@
       "hunting",
       "wetlands"
     ],
-    "prompt": "The same demand, but the reign is older and the knives sharper. Each winter, poachers net and poison the migratory birds that flock to the haors by the hundred thousand, selling them in the markets. The director wants armed wetland guards and market raids; the trade feeds poor villagers and a lucrative delicacy market alike.",
+    "prompt": "The same demand, but the reign is older and the knives sharper. Each winter, poachers net and poison the migratory birds that flock to the haors by the hundred thousand, selling them in the markets. The director wants armed wetland guards and market raids; the trade feeds poor villagers and a delicacy market alike.",
     "left": {
       "id": "a",
       "label": "Protect the birds with guards and raids.",
@@ -7693,7 +7693,7 @@
       "vehicles",
       "emissions"
     ],
-    "prompt": "Years deep, the unresolved returns to be resolved for good. Smoke-belching old buses, trucks, and two-stroke engines are a major source of the capital's lethal air. The officer wants the worst vehicles scrapped and emissions-tested off the road; the transport owners and the legions of poor drivers will fight it hard.",
+    "prompt": "Years deep, the unresolved returns to be resolved for good. Smoke-belching old buses, trucks, and two-stroke engines are a major source of the capital's lethal air. The officer wants the worst vehicles scrapped and emissions-tested off the road; the owners and the legions of poor drivers will fight it hard.",
     "left": {
       "id": "a",
       "label": "Scrap and test the dirtiest vehicles.",
@@ -7728,7 +7728,7 @@
       "rivers",
       "biodiversity"
     ],
-    "prompt": "The conflict reignites, and the world is watching this time. The rare freshwater river dolphins are dying in fishing nets and dredged, poisoned channels — a living symbol of the rivers' decline. The conservator wants protected sanctuary stretches with fishing limits; the fishers in those reaches will lose their grounds.",
+    "prompt": "The conflict reignites, and the world is watching this time. The rare freshwater river dolphins are dying in fishing nets and dredged, poisoned channels — a living symbol of the rivers' decline. The conservator wants protected sanctuary stretches; the fishers in those reaches will lose their grounds.",
     "left": {
       "id": "a",
       "label": "Declare protected dolphin sanctuaries.",
@@ -7764,7 +7764,7 @@
       "water",
       "health"
     ],
-    "prompt": "A familiar crisis, escalated by everything you let slide. Whole districts still drink arsenic-laced tube-well water, slowly poisoning millions toward cancer and lesions. The engineer wants a deep-well and surface-treatment programme to give them safe water; it is expensive and the harm is slow and invisible.",
+    "prompt": "A familiar crisis, escalated by everything you let slide. Whole districts still drink arsenic-laced tube-well water, slowly poisoning millions toward cancer and lesions. The engineer wants a deep-well and surface-treatment programme to give them safe water; it is costly and the harm is slow and invisible.",
     "left": {
       "id": "a",
       "label": "Fund the safe-water programme.",
@@ -7799,7 +7799,7 @@
       "landfill",
       "recycling"
     ],
-    "prompt": "The fault line cracks wider; the decision can no longer wait. The capital's mountainous landfills are overflowing and toxic. A foreign firm offers a waste-to-energy incinerator — a fast fix that would undercut the army of informal waste-pickers and lock in decades of burning, versus a slower push for sorting and recycling.",
+    "prompt": "The fault line cracks wider; the decision can no longer wait. The capital's mountainous landfills are overflowing and toxic. A foreign firm offers a waste-to-energy incinerator — a fast fix that would undercut the informal waste-pickers and lock in decades of burning, versus a slower push for sorting and recycling.",
     "left": {
       "id": "a",
       "label": "Build the waste-to-energy incinerator.",
@@ -7835,7 +7835,7 @@
       "education",
       "inclusion"
     ],
-    "prompt": "Late in the reign, the old question demands a heavier answer. Children with disabilities are almost entirely shut out of the schools — no ramps, no trained teachers, no will. The officer wants an inclusive-education mandate and accessibility retrofits across the system; it is costly and the demand is politically quiet.",
+    "prompt": "Late in the reign, the old question demands a heavier answer. Children with disabilities are almost entirely shut out of the schools — no ramps, no trained teachers, no will. The officer wants an inclusive-education mandate and accessibility retrofits system-wide; it is costly and the demand is politically quiet.",
     "left": {
       "id": "a",
       "label": "Mandate inclusive, accessible education.",
@@ -7870,7 +7870,7 @@
       "adaptation",
       "funding"
     ],
-    "prompt": "It returns once more — and this round may be the one remembered. Foreign climate funds and your own budget could go either to flashy mitigation showpieces that please donors, or to gritty local adaptation — saline-tolerant seeds, raised homesteads, floating gardens — that actually shields the frontline poor. The director asks where the money should land.",
+    "prompt": "It returns once more — and this round may be the one remembered. Foreign climate funds could go to flashy mitigation showpieces that please donors, or to gritty local adaptation — saline-tolerant seeds, raised homesteads, floating gardens — that actually shields the frontline poor. Where should the money land?",
     "left": {
       "id": "a",
       "label": "Spend on donor-friendly showpieces.",
@@ -7906,7 +7906,7 @@
       "rivers",
       "industry"
     ],
-    "prompt": "The reckoning circles back, grown teeth in the waiting. The dyeing and washing factories of the industrial belt pour untreated, rainbow-coloured effluent into the rivers, killing them and the villages downstream — but they are the engine of the export boom. The inspector wants effluent-treatment plants made mandatory and enforced.",
+    "prompt": "The reckoning circles back, grown teeth in the waiting. The dyeing and washing factories of the industrial belt pour untreated, rainbow-coloured effluent into the rivers, killing them and the villages downstream — but they drive the export boom. The inspector wants effluent-treatment plants made mandatory and enforced.",
     "left": {
       "id": "a",
       "label": "Mandate and enforce effluent treatment.",
@@ -7942,7 +7942,7 @@
       "rivers",
       "industry"
     ],
-    "prompt": "Another term, the same antagonist, the stakes raised again. You ordered treatment, but the factories built the plants and run them only during inspections, switching them off to save power the rest of the time. The inspector wants live, tamper-proof monitoring wired to your office; the owners call it surveillance and overreach.",
+    "prompt": "Another term, the same antagonist, the stakes raised again. You ordered treatment, but the factories run the plants only during inspections, switching them off to save power the rest of the time. The inspector wants live, tamper-proof monitoring wired to your office; the owners call it surveillance and overreach.",
     "left": {
       "id": "a",
       "label": "Install live tamper-proof monitoring.",
@@ -7979,7 +7979,7 @@
       "rivers",
       "industry"
     ],
-    "prompt": "The matter, long deferred, lands with the force of a verdict. With monitoring in place, the worst-offending factory — owned by a major party donor — is caught dumping for months and faces closure. He calls in his debt: a quiet pardon, or he pulls his funding and takes a thousand jobs with him.",
+    "prompt": "The matter, long deferred, lands with the force of a verdict. With monitoring in place, the worst-offending factory — owned by a major party donor — is caught dumping for months and faces closure. He calls in his debt: a quiet pardon, or he pulls his funding and a thousand jobs with it.",
     "left": {
       "id": "a",
       "label": "Pardon the donor's factory.",
@@ -8017,7 +8017,7 @@
       "disease",
       "poverty"
     ],
-    "prompt": "Years on and unhealed, the conflict returns to claim its answer. Tuberculosis still kills tens of thousands a year here, and drug-resistant strains are spreading because patients drop their long treatment halfway. The director wants a costly nationwide detection-and-adherence push; the disease is unglamorous and the budget tight.",
+    "prompt": "Years on and unhealed, the conflict returns to claim its answer. Tuberculosis still kills tens of thousands a year here, and drug-resistant strains spread because patients drop their long treatment halfway. The director wants a costly nationwide detection-and-adherence push; the disease is unglamorous and the budget tight.",
     "left": {
       "id": "a",
       "label": "Fund the full TB control programme.",
@@ -8052,7 +8052,7 @@
       "children",
       "ponds"
     ],
-    "prompt": "The same fault line, the harder hour, the narrower path. Drowning is the leading killer of the country's young children, who slip into the countless ponds and ditches while parents work. The director wants community crèches, pond barriers, and swimming lessons — cheap per life saved, but a scattered, unglamorous effort easily ignored.",
+    "prompt": "The same fault line, the harder hour, the narrower path. Drowning is the leading killer of the country's young children, who slip into the countless ponds and ditches while parents work. The director wants community crèches, pond barriers, and swimming lessons — cheap per life saved, but a scattered, unglamorous effort.",
     "left": {
       "id": "a",
       "label": "Fund drowning-prevention programmes.",
@@ -8086,7 +8086,7 @@
       "zoonosis",
       "outbreak"
     ],
-    "prompt": "It comes back sharpened by every season you survived. Each winter the deadly Nipah virus kills villagers who drink raw date-palm sap contaminated by bats — a small but terrifying outbreak with pandemic potential. The director wants an awareness and safe-sap campaign and bat-habitat research; the cause is niche and the budget contested.",
+    "prompt": "It comes back sharpened by every season you survived. Each winter the deadly Nipah virus kills villagers who drink raw date-palm sap contaminated by bats — a small but terrifying outbreak with pandemic potential. The director wants a safe-sap campaign and bat-habitat research; the cause is niche and the budget contested.",
     "left": {
       "id": "a",
       "label": "Fund the Nipah prevention campaign.",
@@ -8122,7 +8122,7 @@
       "formula",
       "marketing"
     ],
-    "prompt": "A later year of power, the old crisis now a true test of it. Aggressive infant-formula marketing is pushing mothers off breastfeeding toward costly formula often mixed with unsafe water, harming babies. The director wants a hard enforcement of the formula-marketing code; the formula industry, a big advertiser and donor, resists.",
+    "prompt": "A later year of power, the old crisis now a true test of it. Aggressive infant-formula marketing is pushing mothers off breastfeeding toward costly formula often mixed with unsafe water, harming babies. The director wants hard enforcement of the formula-marketing code; the formula industry, a big advertiser and donor, resists.",
     "left": {
       "id": "a",
       "label": "Enforce the formula-marketing code hard.",
@@ -8159,7 +8159,7 @@
       "ncd",
       "prevention"
     ],
-    "prompt": "The unresolved returns, and this time it will not be deferred. Diabetes, heart disease, and hypertension are exploding — now the country's biggest killers — yet the health system is built for infections, not chronic care. The director wants a costly pivot to NCD screening, prevention, and lifelong management; the payoff is slow and diffuse.",
+    "prompt": "The unresolved returns, and this time it will not be deferred. Diabetes, heart disease, and hypertension are exploding — now the country's biggest killers — yet the health system is built for infections, not chronic care. The director wants a costly pivot to NCD screening and management; the payoff is slow and diffuse.",
     "left": {
       "id": "a",
       "label": "Pivot the health system toward NCDs.",
@@ -8194,7 +8194,7 @@
       "heart-disease",
       "food"
     ],
-    "prompt": "A term later, the same fault line tears open again. Industrial trans-fats — in the cheap dalda and baked goods the poor eat most — drive a wave of heart disease, and a hard regulatory limit would save lives at almost no cost to the consumer. The vanaspati and bakery industries lobby hard against it.",
+    "prompt": "A term later, the same fault line tears open again. Industrial trans-fats — in the cheap dalda and baked goods the poor eat most — drive a wave of heart disease, and a hard limit would save lives at almost no cost to the consumer. The vanaspati and bakery industries lobby hard against it.",
     "left": {
       "id": "a",
       "label": "Ban industrial trans-fats.",
@@ -8229,7 +8229,7 @@
       "icu",
       "preparedness"
     ],
-    "prompt": "Years into your rule, the matter you thought buried resurfaces — harder. The last respiratory crisis exposed a fatal shortage of medical oxygen and ICU beds, with patients dying in corridors gasping for air. The director wants a permanent build-out of oxygen plants and critical-care capacity; between crises the money is wanted elsewhere.",
+    "prompt": "Years into your rule, the matter you thought buried resurfaces — harder. The last respiratory crisis exposed a fatal shortage of medical oxygen and ICU beds, with patients dying in corridors gasping for air. The director wants a permanent build-out of oxygen plants and critical-care beds; between crises the money is wanted elsewhere.",
     "left": {
       "id": "a",
       "label": "Build permanent oxygen and ICU capacity.",
@@ -8264,7 +8264,7 @@
       "dogs",
       "vaccination"
     ],
-    "prompt": "A new season of power, an old problem with sharper teeth. Rabies from dog bites kills hundreds a year, mostly poor children, and the old response — culling strays — only scatters them and fails. The officer wants a humane mass dog-vaccination and sterilisation programme that actually ends rabies; it is costly and slow versus the cheap, futile culls.",
+    "prompt": "A new season of power, an old problem with sharper teeth. Rabies from dog bites kills hundreds a year, mostly poor children, and culling strays only scatters them and fails. The officer wants a humane mass dog-vaccination and sterilisation programme that actually ends rabies; it is costly and slow versus the cheap, futile culls.",
     "left": {
       "id": "a",
       "label": "Fund mass dog vaccination and sterilisation.",
@@ -8299,7 +8299,7 @@
       "cancer",
       "girls"
     ],
-    "prompt": "The crisis returns, and this time the cabinet is watching. Cervical cancer is a leading cancer killer of the country's women, and an HPV vaccine given to adolescent girls would all but prevent it for a generation. The director wants a national school-based campaign; anti-vaccine rumours and conservative unease about a 'sex' vaccine threaten it.",
+    "prompt": "The crisis returns, and this time the cabinet is watching. Cervical cancer is a leading cancer killer of the country's women, and an HPV vaccine given to adolescent girls would all but prevent it for a generation. The director wants a national school campaign; anti-vaccine rumours and conservative unease about a 'sex' vaccine threaten it.",
     "left": {
       "id": "a",
       "label": "Launch the national HPV campaign.",
@@ -8334,7 +8334,7 @@
       "sludge",
       "cities"
     ],
-    "prompt": "Once more the issue lands on your desk, the stakes higher than before. The cities' septic tanks and latrines are emptied by informal crews who dump the raw sludge straight into drains and rivers, undoing the sanitation gains. The director wants a proper faecal-sludge treatment system; it is costly, unglamorous, and easy to keep ignoring.",
+    "prompt": "Once more the issue lands on your desk, the stakes higher than before. The cities' septic tanks and latrines are emptied by informal crews who dump the raw sludge straight into drains and rivers, undoing the sanitation gains. The director wants a proper faecal-sludge treatment system; it is costly, unglamorous, and easy to ignore.",
     "left": {
       "id": "a",
       "label": "Build faecal-sludge treatment.",
@@ -8369,7 +8369,7 @@
       "screening",
       "prevention"
     ],
-    "prompt": "Another year survived, and the reckoning circles back. A staggering number of children are born each year with thalassemia, a lifelong blood disorder, because carrier parents never knew. A premarital and prenatal screening programme could prevent most cases; it is costly and touches the sensitive ground of marriage and reproduction.",
+    "prompt": "Another year survived, and the reckoning circles back. A staggering number of children are born each year with thalassemia, a lifelong blood disorder, because carrier parents never knew. A premarital and prenatal screening programme could prevent most cases; it is costly and touches the sensitive ground of marriage.",
     "left": {
       "id": "a",
       "label": "Launch a thalassemia screening programme.",
@@ -8404,7 +8404,7 @@
       "byssinosis",
       "workers"
     ],
-    "prompt": "The ground has shifted; the same demand arrives with new menace. Stone-crusher and textile-mill workers are dying of silicosis and byssinosis — lungs destroyed by dust the law says employers must control but never do. The director wants real enforcement, dust controls, and compensation; the industry calls it ruinous.",
+    "prompt": "The ground has shifted; the same demand arrives with new menace. Stone-crusher and textile-mill workers are dying of silicosis and byssinosis — lungs destroyed by dust the law says employers must control but never do. The director wants enforcement, dust controls, and compensation; the industry calls it ruinous.",
     "left": {
       "id": "a",
       "label": "Enforce dust controls and compensation.",
@@ -8440,7 +8440,7 @@
       "disaster",
       "trauma"
     ],
-    "prompt": "History rhymes: the conflict reopens deeper than last time. Survivors of cyclones, floods, and displacement carry untreated trauma that the relief system, focused on food and shelter, entirely ignores. The coordinator wants psychosocial support built into disaster response; the hard-nosed call it a soft luxury when people need rice and roofs.",
+    "prompt": "History rhymes: the conflict reopens deeper than last time. Survivors of cyclones, floods, and displacement carry untreated trauma the relief system entirely ignores. The coordinator wants psychosocial support built into disaster response; the hard-nosed call it a luxury when people need rice and roofs.",
     "left": {
       "id": "a",
       "label": "Build psychosocial support into relief.",
@@ -8475,7 +8475,7 @@
       "pricing",
       "access"
     ],
-    "prompt": "Mid-reign, the old wound is torn afresh. Prices of essential, life-saving medicines have crept beyond the poor's reach, while the pharmaceutical industry — a proud export earner and donor — resists price controls. The director wants an enforced essential-medicines price ceiling; the industry threatens to cut investment.",
+    "prompt": "Mid-reign, the old wound is torn afresh. Prices of essential, life-saving medicines have crept beyond the poor's reach, while the pharmaceutical industry — a proud export earner and donor — resists price controls. The director wants an essential-medicines price ceiling; the industry threatens to cut investment.",
     "left": {
       "id": "a",
       "label": "Cap essential-medicine prices.",
@@ -8512,7 +8512,7 @@
       "absenteeism",
       "rural"
     ],
-    "prompt": "The pressure you deferred has come due, larger now. The rural health clinics stand staffed on paper but empty in fact, their posted doctors absent in private city practice while villagers find locked doors. The director wants biometric attendance and real consequences; the medical lobby, politically connected, resists fiercely.",
+    "prompt": "The pressure you deferred has come due, larger now. The rural health clinics stand staffed on paper but empty in fact, their posted doctors absent in private city practice while villagers find locked doors. The director wants biometric attendance and real consequences; the medical lobby resists fiercely.",
     "left": {
       "id": "a",
       "label": "Enforce attendance with real consequences.",
@@ -8547,7 +8547,7 @@
       "primary-care",
       "access"
     ],
-    "prompt": "A later term, and the quarrel has hardened into a test. The network of community clinics bringing basic care to the villages is the country's quiet health triumph — but many lack medicine, staff, and repair, sliding back toward uselessness. The director wants a major reinvestment to revive them; the money competes with flashier hospital projects.",
+    "prompt": "A later term, and the quarrel has hardened into a test. The network of community clinics bringing basic care to the villages is the country's quiet health triumph — but many lack medicine, staff, and repair, sliding toward uselessness. The director wants a major reinvestment; the money competes with flashier hospital projects.",
     "left": {
       "id": "a",
       "label": "Reinvest in the community clinics.",
@@ -8582,7 +8582,7 @@
       "substance",
       "harm"
     ],
-    "prompt": "The country has changed, but this fault line has not — only worsened. A wave of cheap intoxicants and adulterated energy drinks is harming the urban young, with no honest information and only a punitive, shaming response. The director wants harm-reduction education and clean-drug enforcement; moralists demand crackdowns and silence instead.",
+    "prompt": "The country has changed, but this fault line has not — only worsened. A wave of cheap intoxicants and adulterated energy drinks is harming the urban young, with no honest information and only a punitive response. The director wants harm-reduction education and clean-product enforcement; moralists demand crackdowns and silence instead.",
     "left": {
       "id": "a",
       "label": "Fund harm-reduction and honest education.",
@@ -8619,7 +8619,7 @@
       "hygiene",
       "disease"
     ],
-    "prompt": "It returns, as these things do, with the patience gone. The street food millions rely on is often prepared with contaminated water and no hygiene, spreading typhoid and diarrhoeal disease. The officer wants licensing, clean-water access, and hygiene training for vendors — or you can keep clearing them in futile drives.",
+    "prompt": "It returns, as these things do, with the patience gone. The street food millions rely on is often prepared with contaminated water and no hygiene, spreading typhoid and diarrhoeal disease. License and support vendors with clean water and hygiene training, or keep clearing them in futile drives?",
     "left": {
       "id": "a",
       "label": "License and support clean street food.",
@@ -8655,7 +8655,7 @@
       "ban",
       "construction"
     ],
-    "prompt": "Years on, the matter is no longer private; the press is already circling. Asbestos, banned across much of the world, is still imported and used in cheap roofing and the shipbreaking yards, seeding a slow epidemic of lung cancer decades out. The director wants an import-and-use ban; the cheap-roofing and shipbreaking industries resist.",
+    "prompt": "Years on, the matter is no longer private; the press is already circling. Asbestos, banned across much of the world, is still imported and used in cheap roofing and the shipbreaking yards, seeding a slow epidemic of lung cancer decades out. The director wants an import-and-use ban; the roofing and shipbreaking industries resist.",
     "left": {
       "id": "a",
       "label": "Ban asbestos import and use.",
@@ -8690,7 +8690,7 @@
       "cities",
       "adaptation"
     ],
-    "prompt": "The same knot, retied tighter, lands before you once more. Killer heatwaves are becoming routine, and the cities have no plan — no cooling shelters, no warnings, no protection for the outdoor poor. The officer wants a costly urban heat-action plan; between heatwaves the danger feels abstract and the budget is contested.",
+    "prompt": "The same knot, retied tighter, lands before you once more. Killer heatwaves are becoming routine, and the cities have no plan — no cooling shelters, no warnings, no protection for the outdoor poor. The officer wants a costly urban heat-action plan; between heatwaves the danger feels abstract and the budget contested.",
     "left": {
       "id": "a",
       "label": "Build urban heat-action plans.",
@@ -8725,7 +8725,7 @@
       "marine",
       "mangroves"
     ],
-    "prompt": "Another monsoon, another return of an argument you cannot end. A tanker has spilled furnace oil into the mangrove rivers, coating the forest, the dolphins, and the fishers' grounds, and there is no response capacity worth the name. The officer wants a real marine-spill response system built; for now, all you can do is choose how hard to scramble.",
+    "prompt": "Another monsoon, another return of an argument you cannot end. A tanker has spilled furnace oil into the mangrove rivers, coating the forest, the dolphins, and the fishers' grounds, and there is no response capacity worth the name. The officer wants a real marine-spill response system built; for now, choose how hard to scramble.",
     "left": {
       "id": "a",
       "label": "Mount a maximal cleanup and build capacity.",
@@ -8761,7 +8761,7 @@
       "deworming",
       "children"
     ],
-    "prompt": "Deep into the reign, the issue demands a final-sounding answer. Anaemia and intestinal worms sap the health and minds of a huge share of the country's schoolchildren — both cheaply treatable with iron and deworming tablets through the schools. The director wants a universal programme; even this small cost faces budget scrutiny.",
+    "prompt": "Deep into the reign, the issue demands a final-sounding answer. Anaemia and intestinal worms sap the health and minds of a huge share of the country's schoolchildren — both cheaply treatable with iron and deworming tablets through the schools. The director wants a universal programme; even this small cost faces scrutiny.",
     "left": {
       "id": "a",
       "label": "Fund universal school deworming and iron.",
@@ -9117,7 +9117,7 @@
       "pollution",
       "health"
     ],
-    "prompt": "Years deep, the unresolved returns to be resolved for good. The cities are a wall of noise — hydraulic horns, loudspeakers, generators — wrecking hearing, sleep, and hearts, with laws on the books that no one enforces. The officer wants real enforcement and quiet zones around hospitals and schools; drivers and the public resent the crackdown.",
+    "prompt": "Years deep, the unresolved returns to be resolved for good. The cities are a wall of noise — hydraulic horns, loudspeakers, generators — wrecking hearing, sleep, and hearts, with laws no one enforces. The officer wants real enforcement and quiet zones around hospitals and schools; drivers and the public resent the crackdown.",
     "left": {
       "id": "a",
       "label": "Enforce noise limits and quiet zones.",
@@ -9152,7 +9152,7 @@
       "emergency",
       "trauma"
     ],
-    "prompt": "The conflict reignites, and the world is watching this time. There is no real national ambulance service, so the injured and the labouring reach hospital by rickshaw, too late, and the road-trauma toll is appalling. The director wants a networked ambulance and emergency-response system tied to the 999 line; it is costly to build and staff.",
+    "prompt": "The conflict reignites, and the world is watching this time. There is no real national ambulance service, so the injured and the labouring reach hospital by rickshaw, too late, and the road-trauma toll is appalling. The director wants a networked ambulance and 999 emergency-response system; it is costly to build and staff.",
     "left": {
       "id": "a",
       "label": "Build a national ambulance network.",
@@ -9186,7 +9186,7 @@
       "elimination",
       "poverty"
     ],
-    "prompt": "A familiar crisis, escalated by everything you let slide. Kala-azar, a deadly sandfly-borne disease of the poorest districts, is close to elimination — the last push of detection, treatment, and vector control could finish it, or neglect could let it roar back as it has before. The director asks whether to fund the final drive.",
+    "prompt": "A familiar crisis, escalated by everything you let slide. Kala-azar, a deadly sandfly-borne disease of the poorest districts, is close to elimination — a last push of detection, treatment, and vector control could finish it, or neglect could let it roar back as it has before. Fund the final drive?",
     "left": {
       "id": "a",
       "label": "Fund the elimination final push.",
@@ -9221,7 +9221,7 @@
       "cataract",
       "access"
     ],
-    "prompt": "The fault line cracks wider; the decision can no longer wait. Hundreds of thousands are needlessly blind from cataracts a fifteen-minute surgery would cure, but the surgeons and camps never reach the rural poor. The director wants mass cataract-surgery camps and rural eye care; it is cheap per sight restored, but unglamorous and easily skipped.",
+    "prompt": "The fault line cracks wider; the decision can no longer wait. Hundreds of thousands are needlessly blind from cataracts a fifteen-minute surgery would cure, but the surgeons never reach the rural poor. The director wants mass cataract-surgery camps and rural eye care; it is cheap per sight restored, but unglamorous and easily skipped.",
     "left": {
       "id": "a",
       "label": "Fund mass cataract-surgery camps.",
@@ -9291,7 +9291,7 @@
       "pharmacy",
       "resistance"
     ],
-    "prompt": "It returns once more — and this round may be the one remembered. Antibiotics are sold over the counter like sweets, fuelling the drug resistance that will one day make infections untreatable. The director wants prescription-only enforcement and pharmacist training; the countless unlicensed pharmacies and the public used to self-medicating resist.",
+    "prompt": "It returns once more — and this round may be the one remembered. Antibiotics are sold over the counter like sweets, fuelling the drug resistance that will one day make infections untreatable. The director wants prescription-only enforcement and pharmacist training; the unlicensed pharmacies and the self-medicating public resist.",
     "left": {
       "id": "a",
       "label": "Enforce prescription-only antibiotics.",
@@ -9327,7 +9327,7 @@
       "ageing",
       "care"
     ],
-    "prompt": "The reckoning circles back, grown teeth in the waiting. The population is ageing fast, and the old joint-family care of elders is breaking down, leaving many abandoned and destitute with no system to catch them. The director wants to build elderly day-care, geriatric health, and support; the demographic crisis still feels far off to most.",
+    "prompt": "The reckoning circles back, grown teeth in the waiting. The population is ageing fast, and the old joint-family care of elders is breaking down, leaving many abandoned and destitute. The director wants to build elderly day-care, geriatric health, and support; the demographic crisis still feels far off to most.",
     "left": {
       "id": "a",
       "label": "Build elderly-care and geriatric services.",
@@ -9361,7 +9361,7 @@
       "hospitals",
       "safety"
     ],
-    "prompt": "Another term, the same antagonist, the stakes raised again. Patients catch deadly drug-resistant infections in the very hospitals meant to heal them, for want of basic infection control — hand hygiene, sterilisation, isolation. The director wants enforced standards and accreditation; the hospitals resent the cost and the scrutiny.",
+    "prompt": "Another term, the same antagonist, the stakes raised again. Patients catch deadly drug-resistant infections in the very hospitals meant to heal them, for want of basic infection control — hand hygiene, sterilisation, isolation. The director wants enforced standards and accreditation; the hospitals resent the cost and scrutiny.",
     "left": {
       "id": "a",
       "label": "Enforce infection control and accreditation.",
@@ -9397,7 +9397,7 @@
       "waste",
       "landfill"
     ],
-    "prompt": "The matter, long deferred, lands with the force of a verdict. Most of the cities' waste is wet organic matter that rots in the streets and overflows the landfills, when it could be composted into fertiliser. The director wants a citywide source-separation and composting system; it demands public habit-change and steady funding.",
+    "prompt": "The matter, long deferred, lands with the force of a verdict. Most of the cities' waste is wet organic matter that rots in the streets and overflows the landfills, when it could be composted into fertiliser. The director wants a citywide source-separation and composting system; it demands habit-change and steady funding.",
     "left": {
       "id": "a",
       "label": "Build citywide composting.",
@@ -9433,7 +9433,7 @@
       "hypertension",
       "diet"
     ],
-    "prompt": "Years on and unhealed, the conflict returns to claim its answer. Sky-high salt intake is driving an epidemic of hypertension, strokes, and heart attacks. A national salt-reduction push — reformulating processed food, public awareness, front-of-pack labels — would save many lives cheaply; the food industry resists reformulation.",
+    "prompt": "Years on and unhealed, the conflict returns to claim its answer. Sky-high salt intake is driving an epidemic of hypertension, strokes, and heart attacks. A national salt-reduction push — reformulating processed food, public awareness, front-of-pack labels — would save many lives cheaply; the food industry resists.",
     "left": {
       "id": "a",
       "label": "Drive the national salt-reduction push.",
@@ -9468,7 +9468,7 @@
       "assistive-devices",
       "access"
     ],
-    "prompt": "The same fault line, the harder hour, the narrower path. Millions who need wheelchairs, hearing aids, prosthetics, and white canes go without, shut out of work and life for want of a cheap device. The director wants a national assistive-device programme; the constituency is politically quiet and the budget contested.",
+    "prompt": "The same fault line, the harder hour, the narrower path. Millions who need wheelchairs, hearing aids, prosthetics, and white canes go without, shut out of work and life for want of a cheap device. The director wants a national assistive-device programme; the constituency is quiet and the budget contested.",
     "left": {
       "id": "a",
       "label": "Fund a national assistive-device programme.",
@@ -9575,7 +9575,7 @@
       "fogging",
       "dengue"
     ],
-    "prompt": "The unresolved returns, and this time it will not be deferred. The mosquito-fogging the cities rely on against dengue is now near-useless — the mosquitoes are resistant and the larvae breed on untouched. The director wants a shift to larval-source management and integrated control; the public loves the visible fog and distrusts the invisible fix.",
+    "prompt": "The unresolved returns, and this time it will not be deferred. The mosquito-fogging the cities rely on against dengue is now near-useless — the mosquitoes are resistant and the larvae breed untouched. The director wants a shift to larval-source management; the public loves the visible fog and distrusts the invisible fix.",
     "left": {
       "id": "a",
       "label": "Shift to larval-source management.",
@@ -9609,7 +9609,7 @@
       "hospice",
       "dignity"
     ],
-    "prompt": "A term later, the same fault line tears open again. The terminally ill die in agony for want of palliative care and the morphine that could ease them — held back by fear of addiction and a system that abandons those it cannot cure. The director wants a national palliative-care and pain-relief programme; it draws no votes and little notice.",
+    "prompt": "A term later, the same fault line tears open again. The terminally ill die in agony for want of palliative care and the morphine that could ease them — held back by fear of addiction and a system that abandons those it cannot cure. The director wants a national palliative-care programme; it draws no votes and little notice.",
     "left": {
       "id": "a",
       "label": "Build national palliative care.",
@@ -9644,7 +9644,7 @@
       "children",
       "education"
     ],
-    "prompt": "Years into your rule, the matter you thought buried resurfaces — harder. Children fail and drop out because no one notices they cannot see the board or hear the teacher — uncorrected vision and hearing problems mistaken for stupidity. The director wants universal school screening and free glasses and hearing aids; the cost is small but the programme keeps getting cut.",
+    "prompt": "Years into your rule, the matter you thought buried resurfaces — harder. Children fail and drop out because no one notices they cannot see the board or hear the teacher — uncorrected vision and hearing mistaken for stupidity. The director wants universal school screening and free glasses and hearing aids; the cost is small but keeps getting cut.",
     "left": {
       "id": "a",
       "label": "Fund universal school screening.",
@@ -9679,7 +9679,7 @@
       "ramsar",
       "biodiversity"
     ],
-    "prompt": "A new season of power, an old problem with sharper teeth. A globally important wetland — a wintering ground for migratory birds and a nursery for fish — is being drained and encroached for farmland and development. The officer wants it protected under the international wetland convention; the encroaching farmers and developers resist.",
+    "prompt": "A new season of power, an old problem with sharper teeth. A globally important wetland — a wintering ground for migratory birds and a nursery for fish — is being drained for farmland and development. The officer wants it protected under the international wetland convention; the encroaching farmers and developers resist.",
     "left": {
       "id": "a",
       "label": "Protect the wetland under the convention.",
@@ -9716,7 +9716,7 @@
       "oral-cancer",
       "betel"
     ],
-    "prompt": "The crisis returns, and this time the cabinet is watching. Oral disease is rampant and oral cancer — driven by the betel-nut and tobacco quid chewed by millions — is a leading cancer killer, yet dental care barely exists outside private clinics. The director wants public oral health and a betel-quid awareness drive; the betel trade and habit resist.",
+    "prompt": "The crisis returns, and this time the cabinet is watching. Oral disease is rampant and oral cancer — driven by the betel-nut and tobacco quid chewed by millions — is a leading cancer killer, yet dental care barely exists outside private clinics. The director wants public oral health and a betel-quid awareness drive; the betel trade resists.",
     "left": {
       "id": "a",
       "label": "Build public oral health and quid awareness.",
@@ -9751,7 +9751,7 @@
       "data",
       "transparency"
     ],
-    "prompt": "Once more the issue lands on your desk, the stakes higher than before. The country has almost no real air-quality monitoring, so the lethal pollution is unmeasured, undenied, and unaddressed. The officer wants a public network of monitors with open, real-time data; some fear the numbers will be damning and the industries fear the accountability.",
+    "prompt": "Once more the issue lands on your desk, the stakes higher than before. The country has almost no real air-quality monitoring, so the lethal pollution is unmeasured and unaddressed. The officer wants a public network of monitors with open, real-time data; some fear the numbers will be damning and the industries fear the accountability.",
     "left": {
       "id": "a",
       "label": "Build an open air-monitoring network.",
@@ -9788,7 +9788,7 @@
       "buildings",
       "preparedness"
     ],
-    "prompt": "Another year survived, and the reckoning circles back. The capital sits on a fault, crammed with buildings that would pancake in a major quake, and the country has almost no urban search-and-rescue capacity. The director wants a costly retrofit, code-enforcement, and rescue-capacity drive; the threat is invisible until the ground moves.",
+    "prompt": "Another year survived, and the reckoning circles back. The capital sits on a fault, crammed with buildings that would pancake in a major quake, and the country has almost no urban search-and-rescue capacity. The director wants a costly retrofit, code-enforcement, and rescue drive; the threat is invisible until the ground moves.",
     "left": {
       "id": "a",
       "label": "Fund quake retrofit and rescue capacity.",
@@ -9823,7 +9823,7 @@
       "pesticide",
       "rural"
     ],
-    "prompt": "The ground has shifted; the same demand arrives with new menace. Easy access to highly toxic farm pesticides makes them the method of countless impulsive rural suicides, especially among the young and women. The director wants the most lethal pesticides banned and the rest locked in community stores — a proven, cheap lifesaver the agro-chemical lobby resists.",
+    "prompt": "The ground has shifted; the same demand arrives with new menace. Easy access to highly toxic farm pesticides makes them the method of countless impulsive rural suicides, especially among the young and women. The director wants the most lethal banned and the rest locked in community stores — a proven, cheap lifesaver the agro-chemical lobby resists.",
     "left": {
       "id": "a",
       "label": "Ban the most lethal pesticides, lock the rest.",
@@ -9858,7 +9858,7 @@
       "cold-chain",
       "coverage"
     ],
-    "prompt": "History rhymes: the conflict reopens deeper than last time. The vaccine cold chain — the unbroken refrigeration that keeps childhood vaccines potent from factory to village — is fraying, with failing fridges and gaps that quietly render vaccines useless. The director wants a costly cold-chain overhaul; the failure is invisible until outbreaks return.",
+    "prompt": "History rhymes: the conflict reopens deeper than last time. The vaccine cold chain — the refrigeration that keeps childhood vaccines potent from factory to village — is fraying, with failing fridges that quietly render vaccines useless. The director wants a costly overhaul; the failure is invisible until outbreaks return.",
     "left": {
       "id": "a",
       "label": "Overhaul the vaccine cold chain.",
@@ -9893,7 +9893,7 @@
       "kidney",
       "access"
     ],
-    "prompt": "Mid-reign, the old wound is torn afresh. Chronic kidney disease — driven by diabetes, hypertension, and arsenic — is surging, and dialysis is scarce and ruinously expensive, so the poor simply die. The director wants subsidised dialysis centres across the regions; the per-patient cost is high and unending.",
+    "prompt": "Mid-reign, the old wound is torn afresh. Chronic kidney disease — driven by diabetes, hypertension, and arsenic — is surging, and dialysis is scarce and ruinously expensive, so the poor simply die. The director wants subsidised dialysis centres across the regions; the per-patient cost is high and endless.",
     "left": {
       "id": "a",
       "label": "Build subsidised regional dialysis.",
@@ -9928,7 +9928,7 @@
       "hospitals",
       "hygiene"
     ],
-    "prompt": "The pressure you deferred has come due, larger now. A shocking share of clinics and hospitals lack clean water, functioning toilets, and hand-washing — so the places of healing spread infection and mothers give birth in filth. The director wants a WASH overhaul of every health facility; it is basic, costly, and chronically deprioritised.",
+    "prompt": "The pressure you deferred has come due, larger now. A shocking share of clinics and hospitals lack clean water, functioning toilets, and hand-washing — so the places of healing spread infection and mothers give birth in filth. The director wants a WASH overhaul of every health facility; it is basic, costly, and chronically skipped.",
     "left": {
       "id": "a",
       "label": "Fund WASH in every health facility.",
@@ -9963,7 +9963,7 @@
       "junk-food",
       "children"
     ],
-    "prompt": "A later term, and the quarrel has hardened into a test. As incomes rise, childhood obesity and the junk food driving it are surging in the cities even as stunting persists in the villages — a double burden. The director wants junk food out of schools and healthy-eating standards; the snack industry and the kids resist.",
+    "prompt": "A later term, and the quarrel has hardened into a test. As incomes rise, childhood obesity surges in the cities even as stunting persists in the villages — a double burden. The director wants junk food out of schools and healthy-eating standards; the snack industry and the kids resist.",
     "left": {
       "id": "a",
       "label": "Ban junk food from schools.",
@@ -9998,7 +9998,7 @@
       "housing",
       "resilience"
     ],
-    "prompt": "The country has changed, but this fault line has not — only worsened. In the flood-prone chars and haors, the poor rebuild fragile homes washed away every year. A programme of raised plinths, flood-resilient housing, and protected tube-wells would break the cycle; the alternative is the cheaper, endless ritual of post-flood relief.",
+    "prompt": "The country has changed, but this fault line has not — only worsened. In the flood-prone chars and haors, the poor rebuild fragile homes washed away every year. A programme of raised plinths, flood-resilient housing, and protected wells would break the cycle; the alternative is the cheaper, endless ritual of post-flood relief.",
     "left": {
       "id": "a",
       "label": "Fund flood-resilient housing.",
@@ -10033,7 +10033,7 @@
       "donation",
       "safety"
     ],
-    "prompt": "It returns, as these things do, with the patience gone. The country runs on a commercial blood trade of paid, often-diseased donors, because the voluntary donation network is thin and the safe supply scarce. The director wants to build a real voluntary, screened blood system; it takes sustained funding and a culture shift.",
+    "prompt": "It returns, as these things do, with the patience gone. The country runs on a commercial blood trade of paid, often-diseased donors, because the voluntary donation network is thin and the safe supply scarce. The director wants to build a real voluntary, screened blood system; it takes funding and a culture shift.",
     "left": {
       "id": "a",
       "label": "Build a voluntary, screened blood system.",
@@ -10068,7 +10068,7 @@
       "helplines",
       "stigma"
     ],
-    "prompt": "Years on, the matter is no longer private; the press is already circling. Suicide is rising, especially among the young and women, hidden by stigma and a law that still criminalises the attempt. The director wants decriminalisation, helplines, and responsible reporting; the conservatives resist 'condoning' it and the law is awkward to change.",
+    "prompt": "Years on, the matter is no longer private; the press is already circling. Suicide is rising, especially among the young and women, hidden by stigma and a law that still criminalises the attempt. The director wants decriminalisation, helplines, and responsible reporting; the conservatives resist 'condoning' it.",
     "left": {
       "id": "a",
       "label": "Decriminalise and build prevention.",
@@ -10103,7 +10103,7 @@
       "trauma",
       "enforcement"
     ],
-    "prompt": "The same knot, retied tighter, lands before you once more. The explosion of motorcycles and ride-share bikes has filled the trauma wards with head injuries, mostly from riders without helmets. The officer wants hard helmet and safety-gear enforcement; riders resent it and the ride-share boom prefers fewer rules.",
+    "prompt": "The same knot, retied tighter, lands before you once more. The explosion of motorcycles and ride-share bikes has filled the trauma wards with head injuries, mostly from riders without helmets. The officer wants hard helmet enforcement; riders resent it and the ride-share boom prefers fewer rules.",
     "left": {
       "id": "a",
       "label": "Enforce helmet and safety-gear laws.",
@@ -10138,7 +10138,7 @@
       "children",
       "introduction"
     ],
-    "prompt": "Another monsoon, another return of an argument you cannot end. New vaccines against the rotavirus and pneumonia that kill so many small children are available but costly to add to the national schedule. The director wants them introduced now; the finance side balks at the added recurrent cost of protecting against diseases people are used to.",
+    "prompt": "Another monsoon, another return of an argument you cannot end. New vaccines against the rotavirus and pneumonia that kill so many small children are available but costly to add to the national schedule. The director wants them introduced now; the finance side balks at the added recurrent cost.",
     "left": {
       "id": "a",
       "label": "Introduce the new childhood vaccines.",
@@ -10173,7 +10173,7 @@
       "health",
       "adaptation"
     ],
-    "prompt": "Deep into the reign, the issue demands a final-sounding answer. Climate change is reshaping disease — dengue spreading, heat killing, floods drowning health facilities, salinity raising blood pressure in coastal women. The director wants the health system climate-proofed and a climate-health surveillance built; it is a diffuse, long-horizon investment.",
+    "prompt": "Deep into the reign, the issue demands a final-sounding answer. Climate change is reshaping disease — dengue spreading, heat killing, floods drowning clinics, salinity raising blood pressure in coastal women. The director wants the health system climate-proofed and climate-health surveillance built; it is a diffuse, long-horizon investment.",
     "left": {
       "id": "a",
       "label": "Climate-proof the health system.",
@@ -10208,7 +10208,7 @@
       "beaches",
       "plastic"
     ],
-    "prompt": "The reckoning you postponed has matured into a crisis. The beaches and coastal waters are drowning in plastic litter — washed down the rivers and dumped by the tourist towns — choking marine life and the tourist economy alike. The officer wants a sustained cleanup, river-interception, and a coastal plastic ban; the cost and the tourist trade resist.",
+    "prompt": "The reckoning you postponed has matured into a crisis. The beaches and coastal waters are drowning in plastic litter — washed down the rivers and dumped by the tourist towns — choking marine life and the tourist economy alike. The officer wants cleanup, river-interception, and a coastal plastic ban; the cost and the tourist trade resist.",
     "left": {
       "id": "a",
       "label": "Fund cleanup and river-litter interception.",
@@ -10244,7 +10244,7 @@
       "disability",
       "children"
     ],
-    "prompt": "A new chapter, the same antagonists, less room to manoeuvre. Children with autism and developmental disorders are hidden, shamed, and shut out entirely for want of any diagnosis, therapy, or schooling. The director wants a national developmental-screening and early-intervention programme; the cause is poorly understood and easily deprioritised.",
+    "prompt": "A new chapter, the same antagonists, less room to manoeuvre. Children with autism and developmental disorders are hidden, shamed, and shut out entirely for want of any diagnosis, therapy, or schooling. The director wants a national developmental-screening and early-intervention programme; the cause is poorly understood and easily skipped.",
     "left": {
       "id": "a",
       "label": "Build developmental screening and therapy.",
@@ -10279,7 +10279,7 @@
       "waste",
       "flooding"
     ],
-    "prompt": "The old fault line widens; this time there is no quiet option. The cities' canals and riverbanks are choked with dumped solid waste, blocking drainage and breeding disease, while informal settlements and businesses dump with impunity. The officer wants enforced anti-dumping, regular clearing, and waste collection; it means confronting dumpers great and small.",
+    "prompt": "The old fault line widens; this time there is no quiet option. The cities' canals and riverbanks are choked with dumped solid waste, blocking drainage and breeding disease, while settlements and businesses dump with impunity. The officer wants enforced anti-dumping, regular clearing, and waste collection; it means confronting dumpers great and small.",
     "left": {
       "id": "a",
       "label": "Enforce anti-dumping and clear the canals.",
@@ -10315,7 +10315,7 @@
       "women",
       "workforce"
     ],
-    "prompt": "Time has not healed it — the conflict comes back armed. Working mothers, especially the garment workforce, have nowhere safe to leave their infants, so children are neglected and women forced out of work. The law mandates factory creches that almost no one provides. The director wants real enforcement; employers call it an unbearable cost.",
+    "prompt": "Time has not healed it — the conflict comes back armed. Working mothers, especially the garment workforce, have nowhere safe to leave their infants, so children are neglected and women forced out of work. The law mandates factory creches almost no one provides. The director wants real enforcement; employers call it unbearable.",
     "left": {
       "id": "a",
       "label": "Enforce the workplace-creche mandate.",
@@ -10351,7 +10351,7 @@
       "typhoid",
       "vaccines"
     ],
-    "prompt": "Once again, and with the whole house holding its breath. Cholera and typhoid still sweep the slums and flood zones from filthy water, and oral vaccines now exist to blunt them. The director wants targeted vaccination campaigns in the high-risk areas alongside the slow water fixes; the vaccines are costly and the diseases familiar.",
+    "prompt": "Once again, and with the whole house holding its breath. Cholera and typhoid still sweep the slums and flood zones from filthy water, and oral vaccines now exist to blunt them. The director wants targeted vaccination in the high-risk areas alongside the slow water fixes; the vaccines are costly and the diseases familiar.",
     "left": {
       "id": "a",
       "label": "Run targeted cholera-typhoid vaccination.",
@@ -10386,7 +10386,7 @@
       "records",
       "privacy"
     ],
-    "prompt": "The matter resurfaces in a harder year, patience exhausted. A national electronic health-record system would join up fragmented care, cut duplication, and power real planning — and concentrate the population's most intimate data in a system the state has not earned trust to hold securely. The director asks how far to build it.",
+    "prompt": "The matter resurfaces in a harder year, patience exhausted. A national electronic health-record system would join up fragmented care, cut duplication, and power real planning — and concentrate the population's most intimate data in a system the state has not earned trust to hold securely. How far do you build it?",
     "left": {
       "id": "a",
       "label": "Build the integrated health-record system.",
@@ -10421,7 +10421,7 @@
       "shisha",
       "youth"
     ],
-    "prompt": "A later season of rule, the stakes now openly existential. Vaping and shisha lounges are spreading among urban youth, marketed as harmless and slipping through the tobacco laws. The officer wants them regulated and taxed like tobacco before the habit entrenches; the lounges and importers, and the youth who enjoy them, push back.",
+    "prompt": "A later season of rule, the stakes now openly existential. Vaping and shisha lounges are spreading among urban youth, marketed as harmless and slipping through the tobacco laws. The officer wants them regulated and taxed like tobacco before the habit entrenches; the lounges, importers, and youth push back.",
     "left": {
       "id": "a",
       "label": "Regulate and tax vaping like tobacco.",
@@ -10456,7 +10456,7 @@
       "shelter",
       "livestock"
     ],
-    "prompt": "It comes around again, and the margin for error is gone. In the floods, the poor lose not just homes but the livestock that is their whole wealth, because the shelters take people but not animals, so families stay in the water to guard their cattle and drown. The director wants combined people-and-livestock shelters; purists call it a misuse of relief.",
+    "prompt": "It comes around again, and the margin for error is gone. In the floods, the poor lose not just homes but the livestock that is their whole wealth, because the shelters take people but not animals — so families stay in the water to guard their cattle and drown. The director wants combined people-and-livestock shelters; purists call it a misuse of relief.",
     "left": {
       "id": "a",
       "label": "Build combined people-and-livestock shelters.",
@@ -10491,7 +10491,7 @@
       "green-jobs",
       "informal"
     ],
-    "prompt": "The same demand, but the reign is older and the knives sharper. An army of informal waste-pickers already recycles much of the cities' waste, unseen, unpaid fairly, and unprotected. The officer wants to formalise them into the recycling system with IDs, fair pay, and gear — dignifying vital work — or leave them to the dumps and the middlemen.",
+    "prompt": "The same demand, but the reign is older and the knives sharper. An army of informal waste-pickers already recycles much of the cities' waste, unseen, unpaid fairly, and unprotected. Formalise them into the recycling system with IDs, fair pay, and gear — dignifying vital work — or leave them to the dumps and the middlemen?",
     "left": {
       "id": "a",
       "label": "Formalise the waste-pickers into green jobs.",
@@ -10527,7 +10527,7 @@
       "hospitals",
       "standards"
     ],
-    "prompt": "Years deep, the unresolved returns to be resolved for good. Private hospitals and diagnostic centres operate with wild variation in quality, some excellent and some lethal, with no accreditation to tell them apart. The director wants mandatory accreditation and public quality ratings; the private health industry, powerful and connected, resists.",
+    "prompt": "Years deep, the unresolved returns to be resolved for good. Private hospitals and diagnostic centres operate with wild variation in quality, some excellent and some lethal, with no accreditation to tell them apart. The director wants mandatory accreditation and public quality ratings; the private health industry resists.",
     "left": {
       "id": "a",
       "label": "Mandate accreditation and public ratings.",
@@ -10564,7 +10564,7 @@
       "household",
       "women"
     ],
-    "prompt": "The conflict reignites, and the world is watching this time. Indoor air pollution from cooking smoke, damp, and crowding quietly kills more than the outdoor smog, striking women and children worst. The director wants a programme of ventilation, clean cooking, and housing improvement; the harm is invisible and inside the home, easily ignored.",
+    "prompt": "The conflict reignites, and the world is watching this time. Indoor air pollution from cooking smoke, damp, and crowding quietly kills more than the outdoor smog, striking women and children worst. The director wants ventilation, clean cooking, and housing improvement; the harm is invisible, inside the home, easily ignored.",
     "left": {
       "id": "a",
       "label": "Fund indoor-air and clean-cooking programmes.",
@@ -10599,7 +10599,7 @@
       "drinks",
       "diabetes"
     ],
-    "prompt": "A familiar crisis, escalated by everything you let slide. Sugary drinks are flooding the market and driving childhood obesity and diabetes, marketed hardest to the young. Beyond the tax already debated, the director wants marketing curbs, front-of-pack warnings, and a ban on sales near schools; the beverage giants, big advertisers, resist.",
+    "prompt": "A familiar crisis, escalated by everything you let slide. Sugary drinks are flooding the market and driving childhood obesity and diabetes, marketed hardest to the young. The director wants marketing curbs, front-of-pack warnings, and a ban on sales near schools; the beverage giants, big advertisers, resist.",
     "left": {
       "id": "a",
       "label": "Curb marketing and sales near schools.",
@@ -10634,7 +10634,7 @@
       "slums",
       "services"
     ],
-    "prompt": "The fault line cracks wider; the decision can no longer wait. Climate-displaced families from the drowning coast and eroding rivers pour into the city slums by the thousand, straining water, health, and shelter to breaking. The director wants planned reception, services, and secondary-town development to absorb them; the cheaper path is to let the slums swell untended.",
+    "prompt": "The fault line cracks wider; the decision can no longer wait. Climate-displaced families from the drowning coast and eroding rivers pour into the city slums by the thousand, straining water, health, and shelter to breaking. Fund planned reception, services, and secondary-town development to absorb them, or let the slums swell untended?",
     "left": {
       "id": "a",
       "label": "Plan for the climate migrants.",

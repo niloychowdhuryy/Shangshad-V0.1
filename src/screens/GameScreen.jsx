@@ -29,6 +29,10 @@ export default function GameScreen({ user, startMode = 'continue', gameMode, onE
   const [tradeOpen, setTradeOpen] = useState(false);
   const [sleepOpen, setSleepOpen] = useState(false);
   const [toast, setToast] = useState(null);
+  // Feedback "beat": after a choice, hold the answered card (highlighted) while
+  // the pillars visibly move, then advance. { card, side } | null.
+  const [review, setReview] = useState(null);
+  const reviewTimer = useRef(null);
   // Tutorial: shown at the start of every fresh run while it's enabled in the profile.
   const [tutorialEnabled, setTutorialEnabled] = useState(() => loadProfile(user).tutorialEnabled !== false);
   const [showTutorial, setShowTutorial] = useState(false);
@@ -38,11 +42,14 @@ export default function GameScreen({ user, startMode = 'continue', gameMode, onE
   const sleepRef = useRef(null);
   const favorsRef = useRef(null);
 
-  // An office that just locked sends the player straight back to the map.
+  useEffect(() => () => clearTimeout(reviewTimer.current), []);
+
+  // An office that just locked sends the player to the map — but not until the
+  // feedback beat for the locking answer has finished.
   useEffect(() => {
-    if (g.activeLocation && isLocationLocked(state, g.activeLocation)) g.closeLocation();
+    if (!review && g.activeLocation && isLocationLocked(state, g.activeLocation)) g.closeLocation();
     // eslint-disable-next-line react-hooks/exhaustive-deps
-  }, [state, g.activeLocation]);
+  }, [state, g.activeLocation, review]);
 
   // When a favor unlocks (every 15 decisions), pop a Bangla notice, then clear it.
   useEffect(() => {
@@ -146,14 +153,32 @@ export default function GameScreen({ user, startMode = 'continue', gameMode, onE
   // A just-locked office is treated as "no office open" so the player drops back
   // to the map (the effect above also clears the activeLocation state).
   const openLoc = g.activeLocation && !isLocationLocked(state, g.activeLocation) ? g.activeLocation : null;
-  const activeLocMeta = LOCATIONS.find((l) => l.id === openLoc);
   const dayPct = Math.min(100, (state.day / FINAL_DAY) * 100);
   // Every office closed (standard phase): Sleep is the only way forward — flag it.
   const allLocked = !endgame && allLocationsLocked(state);
 
+  // Answer flow with a brief feedback beat: hold the answered card (chosen side
+  // highlighted) and glow the affected pillars while their bars move, then advance.
+  const reviewing = !!review;
+  const cardToShow = review ? review.card : g.card;
+  const headerLoc = openLoc || review?.card?.location || g.activeLocation;
+  const headerMeta = LOCATIONS.find((l) => l.id === headerLoc);
+  const decide = (side) => {
+    if (reviewing) return;
+    const chosen = side === 'left' ? g.card?.left : g.card?.right;
+    if (!chosen) return;
+    setReview({ card: g.card, side });
+    setGlow(new Set(Object.keys(chosen.effects || {})));
+    g.answer(side);
+    reviewTimer.current = setTimeout(() => {
+      setReview(null);
+      setGlow(new Set());
+    }, 1050);
+  };
+
   return (
     <div
-      className="mx-auto flex min-h-screen max-w-xl flex-col gap-3 p-3 font-tech"
+      className="mx-auto flex h-[100dvh] max-w-xl flex-col gap-3 overflow-hidden p-3 font-tech"
       style={{
         paddingTop: 'calc(0.75rem + env(safe-area-inset-top))',
         paddingBottom: 'calc(0.75rem + env(safe-area-inset-bottom))',
@@ -230,7 +255,9 @@ export default function GameScreen({ user, startMode = 'continue', gameMode, onE
         </button>
       </div>
 
-      {isCampaign && state.day === 1 && state.status === STATUS.PLAYING && (
+      {/* ── Scrolling content (only this area scrolls; the bars above stay put) ── */}
+      <div className="flex flex-1 flex-col gap-3 overflow-y-auto">
+        {isCampaign && state.day === 1 && state.status === STATUS.PLAYING && (
           <button
             onClick={() => setFavorsOpen(true)}
             className="ribbon flex w-full items-start gap-2 border border-bdred/40 bg-bdred/10 px-3 py-2 text-left font-tech text-[11px] leading-snug text-parchment/80"
@@ -249,24 +276,24 @@ export default function GameScreen({ user, startMode = 'continue', gameMode, onE
           </div>
         )}
 
-        <main className="flex flex-1 flex-col items-center justify-center gap-3">
+        <main className="flex flex-1 flex-col items-center justify-center gap-3 py-1">
           {endgame ? (
-            <CardView card={g.card} insightActive={insightOn} difficultyFactor={df} onHoverSide={(ids) => setGlow(new Set(ids))} onAnswer={g.answer} />
-          ) : openLoc ? (
+            <CardView card={cardToShow} insightActive={insightOn} difficultyFactor={df} selectedSide={review?.side} onHoverSide={(ids) => setGlow(new Set(ids))} onAnswer={decide} />
+          ) : openLoc || reviewing ? (
             <div className="flex w-full flex-col items-center gap-3">
               <div className="flex w-full items-center justify-between">
                 <span className="flex items-center gap-2 font-tech text-sm font-semibold uppercase tracking-wide text-parchment">
-                  <span className="text-accent"><LocationIcon id={openLoc} size={18} /></span>
-                  {activeLocMeta?.name}
+                  <span className="text-accent"><LocationIcon id={headerLoc} size={18} /></span>
+                  {headerMeta?.name}
                 </span>
-                <button className="btn-ghost flex items-center gap-1 px-2 py-1 text-[11px]" onClick={g.closeLocation}>
+                <button className="btn-ghost flex items-center gap-1 px-2 py-1 text-[11px]" disabled={reviewing} onClick={g.closeLocation}>
                   <IconChevronLeft size={13} /> Map
                 </button>
               </div>
 
-              <CardView card={g.card} insightActive={insightOn} difficultyFactor={df} onHoverSide={(ids) => setGlow(new Set(ids))} onAnswer={g.answer} />
+              <CardView card={cardToShow} insightActive={insightOn} difficultyFactor={df} selectedSide={review?.side} onHoverSide={(ids) => setGlow(new Set(ids))} onAnswer={decide} />
               <span className="hud-label">
-                {state.locations[openLoc]?.answered || 0}/5 answered · this department locks at 5
+                {state.locations[headerLoc]?.answered || 0}/5 answered · this department locks at 5
               </span>
             </div>
           ) : (
@@ -278,6 +305,7 @@ export default function GameScreen({ user, startMode = 'continue', gameMode, onE
             </div>
           )}
         </main>
+      </div>
 
       {showTutorial && <TutorialOverlay steps={tutorialSteps} onDone={finishTutorial} />}
 

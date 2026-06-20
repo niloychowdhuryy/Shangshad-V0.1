@@ -11,7 +11,7 @@
       "sundarbans",
       "energy"
     ],
-    "prompt": "The coal plant near the mangrove forest is built and ready — and so are the protests. \"Switch it on and we add a thousand megawatts tomorrow,\" the Chairman says. \"Leave it dark and we have poured a fortune into a monument to indecision.\" The forest is a UNESCO heritage and the country's storm shield.",
+    "prompt": "The coal plant near the mangrove forest is built and ready — and so are the protests. \"Switch it on and we add a thousand megawatts tomorrow,\" the Chairman says. The Sundarbans is a UNESCO heritage and the country's storm shield.",
     "left": {
       "id": "a",
       "label": "Fire up the coal plant.",
@@ -49,7 +49,7 @@
       "sundarbans",
       "energy"
     ],
-    "prompt": "With the plant running, fishing communities and forest scientists report acidified water and dying spawning grounds. A foreign court is weighing whether to strip the Sundarbans' heritage status — a global humiliation. Your engineers say new scrubbers could cut the damage at a steep price.",
+    "prompt": "With the plant running, fishers and scientists report acidified water and dying spawning grounds, and a global body weighs stripping the Sundarbans' heritage status. Your engineers say new scrubbers could cut the damage at a steep price.",
     "left": {
       "id": "a",
       "label": "Fund the costly scrubbers and monitoring.",
@@ -87,7 +87,7 @@
       "import",
       "tariff"
     ],
-    "prompt": "A giant Indian conglomerate offers electricity from a dedicated coal plant across the border — power on tap, but at a tariff and on terms that auditors call lopsided in the seller's favour, dollar-indexed and locked for twenty-five years.",
+    "prompt": "A giant Indian conglomerate offers electricity from a dedicated coal plant across the border — power on tap, but on terms auditors call lopsided: dollar-indexed and locked for twenty-five years.",
     "left": {
       "id": "a",
       "label": "Sign the long import contract.",
@@ -125,7 +125,7 @@
       "rental",
       "subsidy"
     ],
-    "prompt": "For years the state has paid 'capacity charges' to private rental power plants — billions for electricity never generated, locked in by indemnity laws. The lobby, thick with party donors, wants the contracts renewed. An adviser says ending them could save the treasury a fortune.",
+    "prompt": "For years the state has paid 'capacity charges' to private rental power plants — billions for electricity never generated, locked in by indemnity laws. The lobby, thick with party donors, wants the contracts renewed; ending them could save a fortune.",
     "left": {
       "id": "a",
       "label": "Renew the capacity-charge contracts.",
@@ -163,7 +163,7 @@
       "offshore",
       "maritime"
     ],
-    "prompt": "New offshore blocks sit in waters you won at sea tribunal — but exploring them risks reigniting a maritime spat with a neighbour, and only foreign supermajors have the deep-water rigs. The Chief wants to license fast before the gas crisis bites harder.",
+    "prompt": "New offshore blocks sit in waters you won at sea tribunal — but exploring them risks reigniting a maritime spat, and only foreign supermajors have the deep-water rigs. The Chief wants to license fast before the gas crisis bites harder.",
     "left": {
       "id": "a",
       "label": "License the supermajors aggressively.",
@@ -199,7 +199,7 @@
       "labour",
       "toxic"
     ],
-    "prompt": "The beaching yards that scrap the world's dead ships employ tens of thousands and feed the steel mills — and bury workers under falling plate and toxic ash with grim regularity. International rules would force costly 'green' yards. The owner warns reform means ruin and unemployment.",
+    "prompt": "The beaching yards that scrap the world's dead ships employ tens of thousands and feed the steel mills — and bury workers under falling plate and toxic ash. International rules would force costly 'green' yards. The owner warns reform means ruin and unemployment.",
     "left": {
       "id": "a",
       "label": "Keep the beaching yards as they are.",
@@ -237,7 +237,7 @@
       "water",
       "wells"
     ],
-    "prompt": "The tube-wells that ended cholera are slowly poisoning millions with natural arsenic — the largest mass poisoning in history, the hydrologist says, and barely on anyone's agenda. Safe piped water or deep wells would cost more than any photo-op returns.",
+    "prompt": "The tube-wells that ended cholera are slowly poisoning millions with natural arsenic — the largest mass poisoning in history, the hydrologist says, and barely on the agenda. Safe piped water or deep wells would cost more than any photo-op returns.",
     "left": {
       "id": "a",
       "label": "Fund a national safe-water programme.",
@@ -273,7 +273,7 @@
       "rivers",
       "erosion"
     ],
-    "prompt": "Illegal sand dredging feeds the construction boom — and eats riverbanks, swallowing villages and bridges into the current. The dredgers are protected by local strongmen tied to your party. The officer wants a real ban; the strongmen want to keep digging.",
+    "prompt": "Illegal sand dredging feeds the construction boom — and eats riverbanks, swallowing villages and bridges into the current. The dredgers are protected by local strongmen tied to your party. Ban it, or let them keep digging?",
     "left": {
       "id": "a",
       "label": "Tolerate the dredging for the building boom.",
@@ -311,7 +311,7 @@
       "transition",
       "land"
     ],
-    "prompt": "Donors dangle cheap green finance for a solar push, but utility-scale panels need flat land — and the only flat land is fertile farmland in a country that must feed itself. The Director asks where the megawatts should come from.",
+    "prompt": "Donors dangle cheap green finance for a solar push, but utility-scale panels need flat land — and the only flat land is fertile farmland in a country that must feed itself. Where should the megawatts come from?",
     "left": {
       "id": "a",
       "label": "Convert farmland to solar parks for the cheap finance.",
@@ -349,7 +349,7 @@
       "open-pit",
       "displacement"
     ],
-    "prompt": "A foreign firm wants to open-pit mine the great northern coal seam — vast cheap energy, but it would uproot tens of thousands of farmers and drop the water table across the breadbasket. The villages there once died protesting this very mine.",
+    "prompt": "A foreign firm wants to open-pit mine the great northern coal seam — vast cheap energy, but it would uproot tens of thousands of farmers and drop the water table across the breadbasket. Villages there once died protesting this very mine.",
     "left": {
       "id": "a",
       "label": "Approve the open-pit mine.",
@@ -1051,7 +1051,7 @@
       "rooppur",
       "debt"
     ],
-    "prompt": "The Russian-built nuclear plant is nearly done, financed by a loan that will shadow the budget for decades. With the country under sanctions pressure for dealing with Moscow, the chairman asks whether to fuel it up on schedule or pause and renegotiate the terms.",
+    "prompt": "The Russian-built nuclear plant is nearly done, financed by a loan that will shadow the budget for decades, with sanctions pressure mounting over the Moscow tie. Fuel it up on schedule, or pause and renegotiate the terms?",
     "left": {
       "id": "a",
       "label": "Fuel it on schedule, debt and sanctions be damned.",
@@ -1087,7 +1087,7 @@
       "phulbari",
       "displacement"
     ],
-    "prompt": "A foreign company wants to open-pit mine the vast Phulbari coal seam — enough fuel for decades — but it would displace tens of thousands and drain the aquifer of a whole farming region. The last time it was proposed, three protesters were shot dead.",
+    "prompt": "A foreign company wants to open-pit mine the vast Phulbari coal seam — fuel for decades — but it would displace tens of thousands and drain the aquifer of a whole farming region. The last time it was proposed, three protesters were shot dead.",
     "left": {
       "id": "a",
       "label": "Approve the open-pit mine.",
@@ -1125,7 +1125,7 @@
       "theft",
       "losses"
     ],
-    "prompt": "A fifth of the power you generate is stolen or lost — illegal hooks, bribed meter readers, crumbling lines. The chief can fund a hard crackdown with prepaid meters and disconnections, hitting the poor hardest, or absorb the loss and keep the peace.",
+    "prompt": "A fifth of the power you generate is stolen or lost — illegal hooks, bribed meter readers, crumbling lines. Fund a hard crackdown with prepaid meters and disconnections, hitting the poor hardest, or absorb the loss and keep the peace?",
     "left": {
       "id": "a",
       "label": "Crack down hard with prepaid meters.",
@@ -1161,7 +1161,7 @@
       "subsidy",
       "cost"
     ],
-    "prompt": "Imported fuel costs have blown a hole in the power subsidy. The regulator presents a steep tariff hike to plug it — politically toxic but fiscally vital — or you can hold prices and let the subsidy keep bleeding the treasury.",
+    "prompt": "Imported fuel costs have blown a hole in the power subsidy. The regulator presents a steep tariff hike to plug it — politically toxic but fiscally vital — or hold prices and let the subsidy keep bleeding the treasury?",
     "left": {
       "id": "a",
       "label": "Raise the tariff to cover costs.",
@@ -1197,7 +1197,7 @@
       "import",
       "dependence"
     ],
-    "prompt": "Domestic gas is running dry and a new floating LNG terminal would secure imports — but it locks the country into volatile world prices in dollars you do not have. The chairman wants the deal signed before winter shortages bite.",
+    "prompt": "Domestic gas is running dry and a new floating LNG terminal would secure imports — but it locks the country into volatile world prices in dollars you do not have. The chairman wants it signed before winter shortages bite.",
     "left": {
       "id": "a",
       "label": "Sign the LNG terminal deal.",
@@ -1233,7 +1233,7 @@
       "gas",
       "sovereignty"
     ],
-    "prompt": "The national exploration company swears it can find and develop new gas fields cheaply — if you fund it instead of handing the blocks to international oil majors on production-sharing terms that ship most of the gas value abroad.",
+    "prompt": "The national exploration company swears it can find and develop new gas fields cheaply — if you fund it instead of handing the blocks to international majors on production-sharing terms that ship most of the value abroad.",
     "left": {
       "id": "a",
       "label": "Hand the blocks to the international majors.",
@@ -1270,7 +1270,7 @@
       "irrigation",
       "drought"
     ],
-    "prompt": "The deep tube-wells that made the parched Barind tract bloom with rice are draining the aquifer faster than the rains refill it. The head warns of a slow-motion desert; the farmers warn that any cut to pumping means a failed harvest now.",
+    "prompt": "The deep tube-wells that made the parched Barind tract bloom with rice are draining the aquifer faster than the rains refill it. The head warns of a slow-motion desert; the farmers warn that any cut to pumping fails the harvest now.",
     "left": {
       "id": "a",
       "label": "Keep the pumps running at full tilt.",
@@ -1306,7 +1306,7 @@
       "pollution",
       "leather"
     ],
-    "prompt": "The leather tanneries, relocated to a new estate, still dump untreated chromium effluent straight into the river because the promised treatment plant was never finished. The inspector wants them shut until it works; the exporters threaten to flee the country.",
+    "prompt": "The relocated leather tanneries still dump untreated chromium effluent straight into the river because the promised treatment plant was never finished. The inspector wants them shut until it works; the exporters threaten to flee the country.",
     "left": {
       "id": "a",
       "label": "Let the tanneries keep running.",
@@ -1343,7 +1343,7 @@
       "infrastructure",
       "debt"
     ],
-    "prompt": "A deep-sea port would transform trade — and three different foreign backers (one Japanese, one Chinese, one Indian) are competing to build it, each deal carrying strategic strings. The chairman needs you to pick a patron, or build it slower on your own dime.",
+    "prompt": "A deep-sea port would transform trade — and Japanese, Chinese, and Indian backers compete to build it, each deal carrying strategic strings. Pick a patron, or build it slower on your own dime?",
     "left": {
       "id": "a",
       "label": "Take the cheapest foreign deal and its strings.",
@@ -1379,7 +1379,7 @@
       "stone",
       "rivers"
     ],
-    "prompt": "In the northeast, illegal stone quarrying is gutting the riverbeds and hill slopes, feeding the construction boom but collapsing banks and killing labourers in pit cave-ins. The officer asks whether to enforce the ban or keep the cheap aggregate flowing.",
+    "prompt": "In the northeast, illegal stone quarrying is gutting the riverbeds and hill slopes, feeding the construction boom but collapsing banks and killing labourers in cave-ins. Enforce the ban, or keep the cheap aggregate flowing?",
     "left": {
       "id": "a",
       "label": "Let the quarrying continue.",
@@ -1416,7 +1416,7 @@
       "fishing",
       "livelihoods"
     ],
-    "prompt": "The national fish spawns only if you enforce a strict fishing ban during the breeding season — but that means tens of thousands of fishing families with no income for weeks. The director can enforce the ban hard, or look away to spare the hunger.",
+    "prompt": "The national fish spawns only if you enforce a strict fishing ban during the breeding season — but that means tens of thousands of fishing families with no income for weeks. Enforce the ban hard, or look away to spare the hunger?",
     "left": {
       "id": "a",
       "label": "Enforce the breeding-season ban hard.",
@@ -1452,7 +1452,7 @@
       "net-metering",
       "transition"
     ],
-    "prompt": "A net-metering scheme would let factories and homes put rooftop solar on the grid and sell back the surplus — cutting imports and emissions. The utilities resist, since every rooftop panel is a customer they lose. The adviser asks whose side you take.",
+    "prompt": "A net-metering scheme would let factories and homes put rooftop solar on the grid and sell back the surplus — cutting imports and emissions. The utilities resist, since every rooftop panel is a customer they lose. Whose side do you take?",
     "left": {
       "id": "a",
       "label": "Side with the utilities, stall net metering.",
@@ -1525,7 +1525,7 @@
       "gas",
       "food"
     ],
-    "prompt": "The state fertilizer plants devour scarce gas to make cheap urea for farmers — gas the power sector is desperate for. The minister asks whether to keep feeding the fertilizer plants for food security, or divert the gas to keep the lights on.",
+    "prompt": "The state fertilizer plants devour scarce gas to make cheap urea for farmers — gas the power sector is desperate for. Keep feeding the fertilizer plants for food security, or divert the gas to keep the lights on?",
     "left": {
       "id": "a",
       "label": "Keep gas flowing to fertilizer.",
@@ -1561,7 +1561,7 @@
       "indemnity",
       "rentals"
     ],
-    "prompt": "The notorious law that lets you award power-plant contracts with no tender and no legal challenge — the source of the ruinous 'capacity charges' paid to idle plants — is up for renewal. The director's friends in the rental business want it extended again.",
+    "prompt": "The notorious law that lets you award power-plant contracts with no tender and no legal challenge — source of the ruinous 'capacity charges' paid to idle plants — is up for renewal. The director's friends in the rental business want it extended.",
     "left": {
       "id": "a",
       "label": "Renew the no-tender indemnity law.",
@@ -1599,7 +1599,7 @@
       "topsoil",
       "air"
     ],
-    "prompt": "Thousands of illegal brick kilns ring the cities, burning coal and the country's fertile topsoil into smog that chokes the capital every winter. The inspector wants them forced onto clean technology or shut; the kiln owners employ a million workers.",
+    "prompt": "Thousands of illegal brick kilns ring the cities, burning coal and fertile topsoil into smog that chokes the capital every winter. The inspector wants them forced onto clean technology or shut; the kiln owners employ a million workers.",
     "left": {
       "id": "a",
       "label": "Leave the kilns as they are.",
@@ -1635,7 +1635,7 @@
       "trawlers",
       "maritime"
     ],
-    "prompt": "Foreign industrial trawlers are sweeping your newly-won maritime zone bare, often with bribed permits, while artisanal fishers come home empty. The commander can mount costly patrols to drive them out, or keep taking the licence fees and look away.",
+    "prompt": "Foreign industrial trawlers are sweeping your newly-won maritime zone bare, often with bribed permits, while artisanal fishers come home empty. Mount costly patrols to drive them out, or keep taking the licence fees and look away?",
     "left": {
       "id": "a",
       "label": "Keep the licence fees, look away.",
@@ -1672,7 +1672,7 @@
       "recycling",
       "toxics"
     ],
-    "prompt": "The country has become a dumping ground for the world's electronic waste, picked apart by hand in toxic backyard yards — including children's. The secretary can crack down and demand a formal recycling industry, or keep the cheap scrap trade flowing.",
+    "prompt": "The country has become a dumping ground for the world's electronic waste, picked apart by hand — including children's — in toxic backyard yards. Crack down and demand a formal recycling industry, or keep the cheap scrap trade flowing?",
     "left": {
       "id": "a",
       "label": "Let the informal e-waste trade run.",
@@ -1709,7 +1709,7 @@
       "forest",
       "livelihoods"
     ],
-    "prompt": "To protect the mangrove forest you can bar the honey-collectors, woodcutters, and fishers whose families have lived off it for centuries — or let them keep harvesting and watch the forest thin. The conservator says the forest cannot bear both protection and people forever.",
+    "prompt": "To protect the mangrove forest you can bar the honey-collectors, woodcutters, and fishers whose families have lived off it for centuries — or let them keep harvesting and watch it thin. The forest cannot bear both protection and people forever.",
     "left": {
       "id": "a",
       "label": "Bar the forest communities for conservation.",
@@ -1745,7 +1745,7 @@
       "industry",
       "heritage"
     ],
-    "prompt": "The state jute mills — once the 'golden fibre' that built the economy — bleed losses every year, kept alive for the workers and the heritage. The secretary can shut the rotting mills to stop the bleeding, or pour in another bailout and a modernisation gamble.",
+    "prompt": "The state jute mills — once the 'golden fibre' that built the economy — bleed losses every year, kept alive for the workers and the heritage. Shut the rotting mills to stop the bleeding, or pour in another bailout and a modernisation gamble?",
     "left": {
       "id": "a",
       "label": "Shut the loss-making jute mills.",
@@ -1781,7 +1781,7 @@
       "import",
       "logistics"
     ],
-    "prompt": "Your new coal plants need a steady stream of imported coal, and a dedicated deep-water terminal would lock in cheap, reliable supply for decades. It also chains the country to coal long after the world has moved to phase it out — and to financing it.",
+    "prompt": "Your new coal plants need a steady stream of imported coal, and a dedicated deep-water terminal would lock in cheap supply for decades. It also chains the country to coal long after the world has moved to phase it out.",
     "left": {
       "id": "a",
       "label": "Build the dedicated coal terminal.",
@@ -1819,7 +1819,7 @@
       "dhaka",
       "pollution"
     ],
-    "prompt": "The capital's piped water is so contaminated that millions boil it or buy it by the jar, while the rivers ringing the city are biologically dead. The MD needs a vast, expensive overhaul of treatment and sewerage — or you can keep patching and let people cope.",
+    "prompt": "The capital's piped water is so contaminated that millions boil it or buy it by the jar, while the rivers ringing the city are biologically dead. Fund a vast overhaul of treatment and sewerage, or keep patching and let people cope?",
     "left": {
       "id": "a",
       "label": "Keep patching the old system.",
@@ -1855,7 +1855,7 @@
       "blowout",
       "compensation"
     ],
-    "prompt": "A foreign operator's well has blown out, burning a forest and a gas reserve worth a fortune for weeks. The company offers a token settlement and a denial of liability. The chairman asks whether to fight for full compensation or take the quiet money and move on.",
+    "prompt": "A foreign operator's well has blown out, burning a forest and a fortune in gas for weeks. The company offers a token settlement and denies liability. Fight for full compensation, or take the quiet money and move on?",
     "left": {
       "id": "a",
       "label": "Take the token settlement quietly.",
@@ -1893,7 +1893,7 @@
       "households",
       "rationing"
     ],
-    "prompt": "With gas reserves dwindling, you have frozen new household pipeline connections — but millions on the waiting list, who have paid bribes for years, are furious. The secretary can lift the freeze to win goodwill, or hold it to ration the dying reserve for industry.",
+    "prompt": "With gas reserves dwindling, you have frozen new household pipeline connections — but millions on the waiting list, who have paid bribes for years, are furious. Lift the freeze to win goodwill, or hold it to ration the dying reserve for industry?",
     "left": {
       "id": "a",
       "label": "Lift the freeze, connect the households.",
@@ -1929,7 +1929,7 @@
       "toll",
       "debt"
     ],
-    "prompt": "A signature river tunnel has opened, financed by foreign loans, but traffic is a fraction of the rosy forecasts that justified it. The chairman can set punishing tolls to service the debt, or keep tolls low and let the loss sit on the public books.",
+    "prompt": "A signature river tunnel has opened on foreign loans, but traffic is a fraction of the rosy forecasts that justified it. Set punishing tolls to service the debt, or keep tolls low and let the loss sit on the public books?",
     "left": {
       "id": "a",
       "label": "Set high tolls to service the debt.",
@@ -1965,7 +1965,7 @@
       "transport",
       "imports"
     ],
-    "prompt": "Imported fuel for vehicles drains your dollars by the billion. The adviser proposes aggressive incentives for electric vehicles and a charging network — slashing the oil bill over time, but stranding the gas-station economy and demanding more grid power up front.",
+    "prompt": "Imported vehicle fuel drains your dollars by the billion. The adviser proposes aggressive incentives for electric vehicles and a charging network — slashing the oil bill over time, but stranding the gas-station economy and demanding more grid power up front.",
     "left": {
       "id": "a",
       "label": "Push hard for the EV transition.",
@@ -2002,7 +2002,7 @@
       "coast",
       "renewables"
     ],
-    "prompt": "The coast has strong, steady wind, and a foreign developer offers to build a large wind farm — clean power, but on prime coastal land that fishers and salt-farmers use, and at a guaranteed tariff higher than coal.",
+    "prompt": "The coast has strong, steady wind, and a foreign developer offers a large wind farm — clean power, but on prime coastal land that fishers and salt-farmers use, at a guaranteed tariff higher than coal.",
     "left": {
       "id": "a",
       "label": "Approve the coastal wind farm.",
@@ -2038,7 +2038,7 @@
       "landless",
       "grabbing"
     ],
-    "prompt": "New river islands — fertile silt 'chars' — have surfaced, and they are state land by law. The commissioner can distribute them to the landless families who already farm them, or let the local strongmen who 'manage' the chars formalise their grab.",
+    "prompt": "New river islands — fertile silt 'chars' — have surfaced, and they are state land by law. Distribute them to the landless families who already farm them, or let the local strongmen who 'manage' the chars formalise their grab?",
     "left": {
       "id": "a",
       "label": "Let the strongmen formalise their hold.",
@@ -2076,7 +2076,7 @@
       "wetland",
       "flash-flood"
     ],
-    "prompt": "The vast northeastern haor wetlands — a single boro rice crop, a fishery, a bird sanctuary — are being diked and converted to year-round farming, which raises yields but destroys the flood-pulse the whole ecosystem depends on. The director begs you to choose.",
+    "prompt": "The vast northeastern haor wetlands — a boro rice crop, a fishery, a bird sanctuary — are being diked for year-round farming, which raises yields but destroys the flood-pulse the whole ecosystem depends on. The director begs you to choose.",
     "left": {
       "id": "a",
       "label": "Allow the diking for higher yields.",
@@ -2112,7 +2112,7 @@
       "tourism",
       "island"
     ],
-    "prompt": "The country's only coral island is being loved to death — hotels on the dunes, day-trippers trampling the reef, plastic everywhere. The chair can cap visitors and tear down illegal resorts to save the reef, or keep the tourist revenue flowing.",
+    "prompt": "The country's only coral island is being loved to death — hotels on the dunes, day-trippers trampling the reef, plastic everywhere. Cap visitors and tear down illegal resorts to save the reef, or keep the tourist revenue flowing?",
     "left": {
       "id": "a",
       "label": "Keep the tourism flowing.",
@@ -2148,7 +2148,7 @@
       "pollution",
       "ban"
     ],
-    "prompt": "Single-use plastic chokes every drain, river, and field in the country — and clogs the very canals whose blockage floods the capital. The secretary proposes a hard ban and a jute-bag mandate. The plastics industry, a big employer and donor, will fight to the death.",
+    "prompt": "Single-use plastic chokes every drain, river, and field — and clogs the very canals whose blockage floods the capital. The secretary proposes a hard ban and a jute-bag mandate. The plastics industry, a big employer and donor, will fight to the death.",
     "left": {
       "id": "a",
       "label": "Hold off on the plastics ban.",
@@ -2186,7 +2186,7 @@
       "sands",
       "mining"
     ],
-    "prompt": "The coastal beaches hold valuable heavy-mineral sands — zircon, titanium, rare earths — that a foreign miner wants to extract. It would earn real money, but strip-mining the beaches would gut the storm-buffering dunes and the turtle nesting grounds.",
+    "prompt": "The coastal beaches hold valuable heavy-mineral sands — zircon, titanium, rare earths — that a foreign miner wants to extract. Real money, but strip-mining the beaches would gut the storm-buffering dunes and the turtle nesting grounds.",
     "left": {
       "id": "a",
       "label": "Approve the beach mineral mining.",
@@ -2222,7 +2222,7 @@
       "polder",
       "flood"
     ],
-    "prompt": "The coastal embankments that hold back the tides are decades old and failing; one big surge could drown a district. The chief needs a massive repair programme — or you can keep doing emergency patch-jobs after each breach, cheaper now and catastrophic later.",
+    "prompt": "The coastal embankments that hold back the tides are decades old and failing; one big surge could drown a district. Fund a massive repair programme, or keep doing emergency patch-jobs after each breach — cheaper now, catastrophic later?",
     "left": {
       "id": "a",
       "label": "Keep patching breaches as they come.",
@@ -2258,7 +2258,7 @@
       "limestone",
       "import"
     ],
-    "prompt": "The construction boom runs on cement made from imported clinker and limestone, draining dollars. A domestic limestone quarry in the hills could cut the import bill — at the cost of blasting a forested range the indigenous communities hold sacred.",
+    "prompt": "The construction boom runs on cement from imported clinker and limestone, draining dollars. A domestic limestone quarry in the hills could cut the import bill — at the cost of blasting a forested range the indigenous communities hold sacred.",
     "left": {
       "id": "a",
       "label": "Open the domestic limestone quarry.",
@@ -2294,7 +2294,7 @@
       "antibiotics",
       "exports"
     ],
-    "prompt": "The booming farmed-fish and shrimp sector dopes its ponds with banned antibiotics, and Europe is threatening to reject the exports over residue limits. The director can crack down hard — costly and unpopular with farmers — or keep certifying and hope the testing misses it.",
+    "prompt": "The booming farmed-fish and shrimp sector dopes its ponds with banned antibiotics, and Europe is threatening to reject the exports over residue limits. Crack down hard — costly and unpopular with farmers — or keep certifying and hope the testing misses it?",
     "left": {
       "id": "a",
       "label": "Keep certifying, hope the tests miss it.",
@@ -2332,7 +2332,7 @@
       "rivers",
       "navigation"
     ],
-    "prompt": "The country's rivers — its cheapest highways — are silting up, stranding the cargo boats that move grain and goods. A vast dredging programme would reopen them, but the dredged spoil has to go somewhere, and the cheapest dumping ruins floodplains and fisheries.",
+    "prompt": "The country's rivers — its cheapest highways — are silting up, stranding the cargo boats that move grain and goods. A vast dredging programme would reopen them, but the cheapest spoil dumping ruins floodplains and fisheries.",
     "left": {
       "id": "a",
       "label": "Dredge fast and dump spoil cheaply.",
@@ -2368,7 +2368,7 @@
       "gas",
       "bidding"
     ],
-    "prompt": "With the maritime boundary settled, you can finally open the deep offshore blocks to international bidding. The majors want generous, low-royalty terms to take the deep-water risk. The chairman asks how hard to bargain — gas in hand, or the nation's full share.",
+    "prompt": "With the maritime boundary settled, you can finally open the deep offshore blocks to international bidding. The majors want generous, low-royalty terms to take the deep-water risk. How hard do you bargain — gas in hand, or the nation's full share?",
     "left": {
       "id": "a",
       "label": "Offer generous terms to attract the majors.",
@@ -2404,7 +2404,7 @@
       "farmers",
       "import"
     ],
-    "prompt": "A glut has crashed the price of locally-farmed salt, ruining the coastal salt-farmers, while industry lobbies to import cheap foreign salt for its factories. The secretary asks whether to protect the farmers with an import ban or let the cheap salt in.",
+    "prompt": "A glut has crashed the price of locally-farmed salt, ruining the coastal salt-farmers, while industry lobbies to import cheap foreign salt. Protect the farmers with an import ban, or let the cheap salt in?",
     "left": {
       "id": "a",
       "label": "Allow the cheap salt imports.",
@@ -2440,7 +2440,7 @@
       "plantation",
       "biodiversity"
     ],
-    "prompt": "To hit your 'green coverage' targets cheaply, the department wants to blanket cleared hills with fast-growing acacia and eucalyptus monoculture — green on paper, but a desert for wildlife that sucks the water table dry. The alternative is slower native-species restoration.",
+    "prompt": "To hit your 'green coverage' targets cheaply, the department wants to blanket cleared hills with fast-growing acacia and eucalyptus — green on paper, but a desert for wildlife that sucks the water table dry. The alternative is slower native-species restoration.",
     "left": {
       "id": "a",
       "label": "Plant the fast monoculture for green targets.",
@@ -2476,7 +2476,7 @@
       "discovery",
       "windfall"
     ],
-    "prompt": "Exploration has struck a major new onshore gas field — a genuine windfall. The chairman asks how to use it: burn it fast and cheap to win an easy few years of plenty, or husband it as a long-term reserve and feedstock for industry.",
+    "prompt": "Exploration has struck a major new onshore gas field — a genuine windfall. Burn it fast and cheap to win an easy few years of plenty, or husband it as a long-term reserve and feedstock for industry?",
     "left": {
       "id": "a",
       "label": "Burn it fast for a few easy years.",
@@ -2550,7 +2550,7 @@
       "minerals",
       "cht"
     ],
-    "prompt": "A survey has found valuable minerals under indigenous land in the hill tracts. The communities, citing the peace accord, demand consent and a share; the mining lobby says national resources belong to the nation, accord or not. The officer awaits your call.",
+    "prompt": "A survey has found valuable minerals under indigenous land in the hill tracts. The communities, citing the peace accord, demand consent and a share; the mining lobby says national resources belong to the nation. The officer awaits your call.",
     "left": {
       "id": "a",
       "label": "Mine without indigenous consent.",
@@ -2588,7 +2588,7 @@
       "water",
       "metering"
     ],
-    "prompt": "Free and unmetered irrigation power has farmers pumping groundwater with abandon. The head proposes prepaid meters on the irrigation pumps to curb the waste and the subsidy bleed — but a metered pump in a bad season is a farmer's ruin.",
+    "prompt": "Free, unmetered irrigation power has farmers pumping groundwater with abandon. The head proposes prepaid meters to curb the waste and the subsidy bleed — but a metered pump in a bad season is a farmer's ruin.",
     "left": {
       "id": "a",
       "label": "Meter the irrigation pumps.",
@@ -2624,7 +2624,7 @@
       "safety",
       "workers"
     ],
-    "prompt": "The ship-breaking beaches that feed the country's steel are death-traps — no safety gear, asbestos, men cut in half by falling plate, child labour at the torches. The inspector demands enforced standards; the yard owners say the margins cannot bear them.",
+    "prompt": "The ship-breaking beaches that feed the country's steel are death-traps — no safety gear, asbestos, men cut in half by falling plate, child labour at the torches. The inspector demands enforced standards; the owners say the margins cannot bear them.",
     "left": {
       "id": "a",
       "label": "Leave the yards to their own ways.",
@@ -2661,7 +2661,7 @@
       "canal",
       "mega-project"
     ],
-    "prompt": "Engineers propose a colossal canal to divert water from the wet south to the drought-prone north — a nation-reshaping project. The chief calls it a permanent answer to the north's thirst; ecologists warn it could wreck the river systems at both ends.",
+    "prompt": "Engineers propose a colossal canal to divert water from the wet south to the drought-prone north — a nation-reshaping project. The chief calls it a permanent answer to the north's thirst; ecologists warn it could wreck the rivers at both ends.",
     "left": {
       "id": "a",
       "label": "Greenlight the grand canal.",
@@ -2697,7 +2697,7 @@
       "canal",
       "mega-project"
     ],
-    "prompt": "You pressed ahead, and the canal's upstream intake has dried the wetlands and fisheries of the donor basin, igniting protests there even as the north celebrates its new water. The donor districts demand the intake be throttled back.",
+    "prompt": "You pressed ahead, and the canal's intake has dried the wetlands and fisheries of the donor basin, igniting protests there even as the north celebrates its new water. The donor districts demand the intake be throttled back.",
     "left": {
       "id": "a",
       "label": "Keep the intake at full flow for the north.",
@@ -2733,7 +2733,7 @@
       "canal",
       "mega-project"
     ],
-    "prompt": "With the canal half-built and half-cursed, the contractors — politically connected — demand the full budget regardless of the scaled-back flow, threatening to abandon the works and sue. You can pay them off or face a stalled, litigated ruin in the landscape.",
+    "prompt": "With the canal half-built and half-cursed, the politically connected contractors demand the full budget regardless of the scaled-back flow, threatening to abandon the works and sue. Pay them off, or face a stalled, litigated ruin in the landscape?",
     "left": {
       "id": "a",
       "label": "Pay the contractors in full.",
@@ -2771,7 +2771,7 @@
       "blackout",
       "resilience"
     ],
-    "prompt": "The national grid is so brittle that a single fault can — and once did — black out the entire country at once. The chief wants a costly redesign with regional islanding and redundancy; the money is wanted elsewhere until the next nationwide blackout.",
+    "prompt": "The national grid is so brittle that a single fault can — and once did — black out the entire country at once. The chief wants a costly redesign with regional islanding and redundancy; the money is wanted elsewhere until the next blackout.",
     "left": {
       "id": "a",
       "label": "Fund the grid-resilience redesign.",
@@ -2807,7 +2807,7 @@
       "off-grid",
       "rural"
     ],
-    "prompt": "Remote villages can be reached either by costly grid extension or by the off-grid solar home systems the country pioneered. The chief asks whether to push solar to the last villages now, or wait years to bring them the grid that powers heavier loads.",
+    "prompt": "Remote villages can be reached by costly grid extension or by the off-grid solar home systems the country pioneered. Push solar to the last villages now, or wait years to bring them the grid that powers heavier loads?",
     "left": {
       "id": "a",
       "label": "Push off-grid solar to the last villages.",
@@ -2843,7 +2843,7 @@
       "retirement",
       "workers"
     ],
-    "prompt": "Pressure mounts to retire the ageing, dirty coal plants ahead of schedule. Doing so cleans the air and the country's image, but strands billions in assets and throws thousands of plant and mine workers out of work in towns built around the coal.",
+    "prompt": "Pressure mounts to retire the ageing, dirty coal plants ahead of schedule. Doing so cleans the air and the country's image, but strands billions in assets and throws thousands of plant and mine workers out of work in towns built on coal.",
     "left": {
       "id": "a",
       "label": "Retire the coal plants with a just transition.",
@@ -2881,7 +2881,7 @@
       "reserve",
       "resilience"
     ],
-    "prompt": "The country holds only days of fuel stock, leaving it dangerously exposed to any supply shock or blockade. The director wants a costly strategic petroleum reserve and bigger storage depots; the capital is large and the threat feels abstract in calm times.",
+    "prompt": "The country holds only days of fuel stock, leaving it dangerously exposed to any supply shock or blockade. The director wants a costly strategic petroleum reserve; the capital is large and the threat feels abstract in calm times.",
     "left": {
       "id": "a",
       "label": "Build a strategic fuel reserve.",
@@ -2917,7 +2917,7 @@
       "cooking",
       "health"
     ],
-    "prompt": "Most rural households still cook on smoky biomass, ruining women's lungs and the forests. A push to make bottled LPG cheap and available would change that — through subsidy and a safe distribution network, or you can leave the woodsmoke as it is.",
+    "prompt": "Most rural households still cook on smoky biomass, ruining women's lungs and the forests. A push to make bottled LPG cheap and available — through subsidy and a safe distribution network — would change that. Or leave the woodsmoke as it is?",
     "left": {
       "id": "a",
       "label": "Subsidise rural LPG access.",
@@ -2953,7 +2953,7 @@
       "gas",
       "dependence"
     ],
-    "prompt": "A regional gas pipeline could bring steady, cheaper gas across borders for decades — energy security of a kind — but it threads through and depends on neighbours' goodwill, and chains your grid to a fuel and a transit route others control.",
+    "prompt": "A regional gas pipeline could bring steady, cheaper gas across borders for decades — energy security of a kind — but it depends on neighbours' goodwill, chaining your grid to a fuel and transit route others control.",
     "left": {
       "id": "a",
       "label": "Commit to the cross-border gas pipeline.",
@@ -2990,7 +2990,7 @@
       "waste",
       "safety"
     ],
-    "prompt": "The new nuclear plant will soon produce spent fuel that must be stored safely for generations, and no permanent solution exists. The chairman can fund a proper long-term storage and safety regime now, or rely on the foreign builder's vague take-back promise and hope.",
+    "prompt": "The new nuclear plant will soon produce spent fuel that must be stored safely for generations, and no permanent solution exists. Fund a proper long-term storage and safety regime now, or rely on the foreign builder's vague take-back promise?",
     "left": {
       "id": "a",
       "label": "Fund proper long-term waste storage.",
@@ -3026,7 +3026,7 @@
       "industry",
       "grid"
     ],
-    "prompt": "Big factories run their own gas-fired captive power plants, abandoning the grid because it is unreliable — which starves the grid of its best customers and worsens it for everyone else. The regulator can force them back onto the grid, or let industry self-supply.",
+    "prompt": "Big factories run their own gas-fired captive power plants, abandoning the unreliable grid — which starves it of its best customers and worsens it for everyone else. Force them back onto the grid, or let industry self-supply?",
     "left": {
       "id": "a",
       "label": "Force big industry back onto the grid.",
@@ -3063,7 +3063,7 @@
       "seeds",
       "farmers"
     ],
-    "prompt": "A genetically-modified pest-resistant crop could cut pesticide use and lift yields, but activists warn of seed-company dependence and unknown risks, and the public is uneasy. The director asks whether to approve and promote it or hold back.",
+    "prompt": "A genetically-modified pest-resistant crop could cut pesticide use and lift yields, but activists warn of seed-company dependence and unknown risks, and the public is uneasy. Approve and promote it, or hold back?",
     "left": {
       "id": "a",
       "label": "Approve and promote the GM crop.",
@@ -3098,7 +3098,7 @@
       "greenbelt",
       "cyclone"
     ],
-    "prompt": "A planted mangrove greenbelt along the coast would blunt cyclones and storm surges and nurse fisheries — but the land is coveted for shrimp farms and salt pans, and the planting is slow and easily encroached. The chief asks whether to commit to the greenbelt.",
+    "prompt": "A planted mangrove greenbelt along the coast would blunt cyclones and storm surges and nurse fisheries — but the land is coveted for shrimp farms and salt pans, and the planting is slow and easily encroached. Commit to the greenbelt?",
     "left": {
       "id": "a",
       "label": "Commit to the coastal mangrove greenbelt.",
@@ -3208,7 +3208,7 @@
       "mining",
       "contracts"
     ],
-    "prompt": "The country's only hard-rock mine, run at a chronic loss under a padded foreign operating contract, supplies stone the construction boom craves. The director can renegotiate the corrupt contract and modernise — angering connected middlemen — or keep importing the difference.",
+    "prompt": "The country's only hard-rock mine, run at a chronic loss under a padded foreign contract, supplies stone the construction boom craves. Renegotiate the corrupt contract and modernise — angering connected middlemen — or keep importing the difference?",
     "left": {
       "id": "a",
       "label": "Renegotiate the contract and modernise.",
@@ -3244,7 +3244,7 @@
       "phosphate",
       "import"
     ],
-    "prompt": "The country imports nearly all the rock phosphate and potash its fertilizer depends on, leaving farmers exposed to world price spikes. The director wants costly long-term supply contracts and buffer stocks; the alternative is cheaper spot buying and exposure to the next shock.",
+    "prompt": "The country imports nearly all the rock phosphate and potash its fertilizer depends on, leaving farmers exposed to world price spikes. Lock in costly long-term supply contracts and buffers, or buy cheaper on the spot market and risk the next shock?",
     "left": {
       "id": "a",
       "label": "Lock in long-term supply and buffers.",
@@ -3280,7 +3280,7 @@
       "health",
       "forests"
     ],
-    "prompt": "Cheap, clean-burning improved cookstoves would cut the woodsmoke killing rural women and the deforestation feeding their fires — a modest, proven intervention that nonetheless needs subsidy, distribution, and the patience to change a deep habit.",
+    "prompt": "Cheap, clean-burning improved cookstoves would cut the woodsmoke killing rural women and the deforestation feeding their fires — a modest, proven intervention that still needs subsidy, distribution, and patience to change a deep habit.",
     "left": {
       "id": "a",
       "label": "Roll out improved cookstoves widely.",
@@ -3316,7 +3316,7 @@
       "contracts",
       "renegotiation"
     ],
-    "prompt": "The old independent power-producer contracts lock in dollar-indexed tariffs far above today's market, draining the utility — and they were signed with firms tied to your own party. The director can force a renegotiation, angering the donors, or honour the ruinous terms.",
+    "prompt": "The old independent power-producer contracts lock in dollar-indexed tariffs far above today's market, draining the utility — and they were signed with firms tied to your own party. Force a renegotiation and anger the donors, or honour the ruinous terms?",
     "left": {
       "id": "a",
       "label": "Force the IPP contracts down.",
@@ -3352,7 +3352,7 @@
       "surface",
       "groundwater"
     ],
-    "prompt": "The big cities drink their aquifers dry because surface-water treatment is costly to build. The director wants a major shift to treated river water to save the sinking groundwater; the capital is enormous and the rivers themselves are filthy and need cleaning first.",
+    "prompt": "The big cities drink their aquifers dry because surface-water treatment is costly to build. The director wants a major shift to treated river water to save the sinking groundwater; but the capital is enormous and the rivers themselves need cleaning first.",
     "left": {
       "id": "a",
       "label": "Build the surface-water supply system.",
@@ -3388,7 +3388,7 @@
       "livestock",
       "imports"
     ],
-    "prompt": "The country imports most of its milk powder while smallholder dairy farmers struggle for want of feed, breeds, and a fair market. The director wants a costly push for domestic dairy self-sufficiency; the importers and the cheaper foreign powder resist.",
+    "prompt": "The country imports most of its milk powder while smallholder dairy farmers struggle for want of feed, breeds, and a fair market. Drive a costly push for domestic dairy self-sufficiency, or keep importing the cheaper foreign powder?",
     "left": {
       "id": "a",
       "label": "Drive domestic dairy self-sufficiency.",
@@ -3424,7 +3424,7 @@
       "canals",
       "irrigation"
     ],
-    "prompt": "A vast programme to re-excavate the silted-up ponds and canals would restore irrigation, fish, and flood-buffering across the countryside — labour-intensive, leak-prone to local graft, but transformative for rural water. The officer asks whether to launch it big.",
+    "prompt": "A vast programme to re-excavate the silted-up ponds and canals would restore irrigation, fish, and flood-buffering across the countryside — labour-intensive, leak-prone to local graft, but transformative for rural water. Launch it big?",
     "left": {
       "id": "a",
       "label": "Launch the big re-excavation programme.",
@@ -3460,7 +3460,7 @@
       "monopoly",
       "sovereignty"
     ],
-    "prompt": "A handful of seed companies are cornering the market with hybrids that cannot be saved and replanted, binding farmers to buy anew each season. The director wants a strong public seed system to preserve farmer-saved varieties; the seed firms lobby hard against it.",
+    "prompt": "A handful of seed companies are cornering the market with hybrids that cannot be saved and replanted, binding farmers to buy anew each season. The director wants a strong public seed system to preserve farmer-saved varieties; the seed firms lobby hard.",
     "left": {
       "id": "a",
       "label": "Build a strong public seed system.",
@@ -3496,7 +3496,7 @@
       "fuel",
       "self-reliance"
     ],
-    "prompt": "The country's lone, ancient oil refinery meets a fraction of fuel demand, so most fuel is imported already-refined at a premium. The director wants a costly second refinery for self-reliance; the alternative is to keep importing refined product and skip the capital.",
+    "prompt": "The country's lone, ancient oil refinery meets a fraction of fuel demand, so most fuel is imported already-refined at a premium. Build a costly second refinery for self-reliance, or keep importing refined product and skip the capital?",
     "left": {
       "id": "a",
       "label": "Build the second refinery.",
@@ -3531,7 +3531,7 @@
       "rainwater",
       "aquifer"
     ],
-    "prompt": "As aquifers fall, a programme of managed recharge — capturing monsoon rain to refill the groundwater — could slow the decline. The officer wants mandatory rainwater harvesting in cities and recharge structures in the countryside; it is cheap per site but vast in scale and easy to neglect.",
+    "prompt": "As aquifers fall, a programme of managed recharge — capturing monsoon rain to refill the groundwater — could slow the decline. The officer wants mandatory rainwater harvesting and recharge structures; it is cheap per site but vast in scale and easy to neglect.",
     "left": {
       "id": "a",
       "label": "Mandate recharge and rainwater harvesting.",
@@ -3567,7 +3567,7 @@
       "diversification",
       "water"
     ],
-    "prompt": "The obsession with thirsty rice drains the aquifers and leaves diets and incomes undiversified. The director wants incentives to shift toward less-thirsty, higher-value crops — pulses, oilseeds, vegetables — against the grain of farmer habit and rice-centric food policy.",
+    "prompt": "The obsession with thirsty rice drains the aquifers and leaves diets and incomes undiversified. The director wants incentives to shift toward less-thirsty, higher-value crops — pulses, oilseeds, vegetables — against the grain of habit and rice-first policy.",
     "left": {
       "id": "a",
       "label": "Incentivise crop diversification.",
@@ -3603,7 +3603,7 @@
       "marine",
       "tourism"
     ],
-    "prompt": "The coast's sea-turtle nesting beaches are being lost to lights, nets, and development. A protected hatchery-and-beach programme would save them and draw eco-tourism, at the cost of restricting the fishing and building that the coastal economy leans on.",
+    "prompt": "The coast's sea-turtle nesting beaches are being lost to lights, nets, and development. A protected hatchery-and-beach programme would save them and draw eco-tourism, at the cost of restricting the fishing and building the coastal economy leans on.",
     "left": {
       "id": "a",
       "label": "Protect the nesting beaches and hatcheries.",
@@ -3639,7 +3639,7 @@
       "battery",
       "renewables"
     ],
-    "prompt": "Solar and wind are useless after dark and in calm without storage, and the grid cannot absorb them. The director wants a costly grid-scale battery programme to make renewables dispatchable; the alternative is to keep leaning on fossil plants for reliable power.",
+    "prompt": "Solar and wind are useless after dark and in calm without storage, and the grid cannot absorb them. Invest in a costly grid-scale battery programme to make renewables dispatchable, or keep leaning on fossil plants for reliable power?",
     "left": {
       "id": "a",
       "label": "Invest in grid-scale battery storage.",
@@ -3675,7 +3675,7 @@
       "system-loss",
       "theft"
     ],
-    "prompt": "A fifth of the piped gas vanishes through illegal connections, tampered meters, and bribed staff, much of it serving captive industrial and elite users. The chief can mount a hard anti-theft drive that hits connected beneficiaries, or keep absorbing the loss.",
+    "prompt": "A fifth of the piped gas vanishes through illegal connections, tampered meters, and bribed staff, much of it serving captive industrial and elite users. Mount a hard anti-theft drive that hits connected beneficiaries, or keep absorbing the loss?",
     "left": {
       "id": "a",
       "label": "Crack down on the gas theft.",
@@ -3711,7 +3711,7 @@
       "communities",
       "livelihoods"
     ],
-    "prompt": "A social-forestry scheme would let poor villagers grow and harvest trees on degraded state land — income for them, green cover for the country — but done carelessly it becomes a backdoor to clear-felling and grabbing the very forest it should grow. The chief asks how to design it.",
+    "prompt": "A social-forestry scheme would let poor villagers grow and harvest trees on degraded state land — income for them, green cover for the country — but done carelessly it becomes a backdoor to clear-felling and grabbing the very forest it should grow. How do you design it?",
     "left": {
       "id": "a",
       "label": "Run a genuine community social-forestry scheme.",
@@ -3747,7 +3747,7 @@
       "pilot",
       "innovation"
     ],
-    "prompt": "The strong tidal range of the estuaries could, in theory, drive tidal power — a clean, novel source. A pilot would be costly and unproven, a gamble on innovation; the safe path is to stick with proven solar and wind and let others pioneer the tides.",
+    "prompt": "The strong tidal range of the estuaries could, in theory, drive tidal power — a clean, novel source. A pilot would be a costly, unproven gamble on innovation; the safe path is to stick with proven solar and wind and let others pioneer the tides.",
     "left": {
       "id": "a",
       "label": "Fund the tidal-energy pilot.",
@@ -3783,7 +3783,7 @@
       "oilseed",
       "imports"
     ],
-    "prompt": "The country imports almost all its cooking oil, draining dollars and leaving prices hostage to world markets. A push for domestic mustard, sunflower, and soy oilseed would build self-reliance — slow, and competing for the same scarce land as food grains.",
+    "prompt": "The country imports almost all its cooking oil, draining dollars and leaving prices hostage to world markets. A push for domestic mustard, sunflower, and soy oilseed would build self-reliance — slow, and competing for the scarce land that grows food grains.",
     "left": {
       "id": "a",
       "label": "Drive domestic oilseed self-reliance.",
@@ -3819,7 +3819,7 @@
       "soe",
       "farmers"
     ],
-    "prompt": "The state sugar mills lose money every year on obsolete machinery and graft, but tens of thousands of cane farmers and mill workers depend on them. The chief can shut or privatise the worst, stemming the losses, or pour in another bailout and modernisation gamble.",
+    "prompt": "The state sugar mills lose money every year on obsolete machinery and graft, but tens of thousands of cane farmers and mill workers depend on them. Shut or privatise the worst to stem the losses, or pour in another bailout and modernisation gamble?",
     "left": {
       "id": "a",
       "label": "Shut or privatise the loss-making mills.",
@@ -3855,7 +3855,7 @@
       "cold-chain",
       "waste"
     ],
-    "prompt": "A third of the fruit and vegetables rot between farm and market for want of storage, cold chain, and roads — a staggering waste that beggars farmers and inflates prices. The director wants a costly cold-chain and storage build; the capital is large and the gain diffuse.",
+    "prompt": "A third of the fruit and vegetables rot between farm and market for want of storage, cold chain, and roads — a staggering waste that beggars farmers and inflates prices. The director wants a costly cold-chain build; the capital is large and the gain diffuse.",
     "left": {
       "id": "a",
       "label": "Build the cold chain and storage.",
@@ -3891,7 +3891,7 @@
       "bricks",
       "topsoil"
     ],
-    "prompt": "The coal plants pile up fly-ash as toxic waste, while the brick kilns devour the country's topsoil. Mandating fly-ash bricks would solve both — using the waste, sparing the soil — but it disrupts the entrenched clay-brick industry and its army of workers.",
+    "prompt": "The coal plants pile up fly-ash as toxic waste, while the brick kilns devour the country's topsoil. Mandating fly-ash bricks would solve both — using the waste, sparing the soil — but it disrupts the entrenched clay-brick industry and its workers.",
     "left": {
       "id": "a",
       "label": "Mandate fly-ash brick production.",
@@ -3927,7 +3927,7 @@
       "protected-area",
       "fisheries"
     ],
-    "prompt": "Declaring a large marine protected area in the bay would let the overfished stocks recover and safeguard biodiversity — a long-term gift to the fishery — but it locks the trawler fleet and the artisanal fishers out of rich grounds in the short term.",
+    "prompt": "Declaring a large marine protected area in the bay would let the overfished stocks recover and safeguard biodiversity — a long-term gift to the fishery — but it locks both trawlers and artisanal fishers out of rich grounds in the short term.",
     "left": {
       "id": "a",
       "label": "Declare the marine protected area.",
@@ -3963,7 +3963,7 @@
       "land",
       "evacuation"
     ],
-    "prompt": "New power plants sit idle for want of transmission lines to evacuate their power, and the lines are stalled by land disputes and farmers refusing the towers across their fields. The director can force the right-of-way through with compulsory acquisition, or negotiate slow and fair.",
+    "prompt": "New power plants sit idle for want of transmission lines, and the lines are stalled by land disputes and farmers refusing the towers across their fields. Force the right-of-way through with compulsory acquisition, or negotiate slow and fair?",
     "left": {
       "id": "a",
       "label": "Force the right-of-way through.",
@@ -3999,7 +3999,7 @@
       "forest",
       "expansion"
     ],
-    "prompt": "Tea companies want to expand their estates into adjoining reserve forest and indigenous land — more export tea, at the cost of felled forest and displaced hill communities. The officer asks whether to grant the leases or protect the forest and the people on it.",
+    "prompt": "Tea companies want to expand their estates into adjoining reserve forest and indigenous land — more export tea, at the cost of felled forest and displaced hill communities. Grant the leases, or protect the forest and the people on it?",
     "left": {
       "id": "a",
       "label": "Grant the tea-estate expansion.",
@@ -4036,7 +4036,7 @@
       "irrigation",
       "diesel"
     ],
-    "prompt": "Replacing the diesel and grid pumps that irrigate the fields with solar-powered ones would slash the fuel bill and emissions and free farmers from fuel-price shocks — a large upfront cost, against the cheap, familiar diesel status quo.",
+    "prompt": "Replacing the diesel and grid pumps that irrigate the fields with solar ones would slash the fuel bill and emissions and free farmers from fuel-price shocks — a large upfront cost, against the cheap, familiar diesel status quo.",
     "left": {
       "id": "a",
       "label": "Drive the solar-irrigation rollout.",
@@ -4072,7 +4072,7 @@
       "pesticides",
       "exports"
     ],
-    "prompt": "The dried-fish trade — a coastal staple and growing export — is rife with illegal pesticide use to keep flies off the drying racks, poisoning consumers and threatening the export market. The officer wants enforcement and clean drying tech; the traders resist the cost.",
+    "prompt": "The dried-fish trade — a coastal staple and growing export — is rife with illegal pesticide use to keep flies off the racks, poisoning consumers and threatening the export market. The officer wants enforcement and clean drying tech; the traders resist the cost.",
     "left": {
       "id": "a",
       "label": "Enforce clean drying, ban the pesticides.",
@@ -4108,7 +4108,7 @@
       "survey",
       "sovereignty"
     ],
-    "prompt": "A thorough national mineral survey could reveal coal, gas, hard rock, and rare minerals worth fortunes — knowledge that is power, and a magnet for foreign extractors and the conflicts that follow discovery. The director asks whether to survey aggressively or tread lightly.",
+    "prompt": "A thorough national mineral survey could reveal coal, gas, hard rock, and rare minerals worth fortunes — knowledge that is power, and a magnet for foreign extractors and the conflicts that follow discovery. Survey aggressively, or tread lightly?",
     "left": {
       "id": "a",
       "label": "Survey aggressively and map the wealth.",
@@ -4143,7 +4143,7 @@
       "afforestation",
       "land"
     ],
-    "prompt": "Planting forests on the new coastal chars would stabilise the silt islands, buffer storms, and eventually create land for the landless — slow, unglamorous work, easily neglected, competing with the rush to hand the chars to shrimp farms and grabbers.",
+    "prompt": "Planting forests on the new coastal chars would stabilise the silt islands, buffer storms, and eventually create land for the landless — slow, unglamorous work, easily neglected against the rush to hand the chars to shrimp farms and grabbers.",
     "left": {
       "id": "a",
       "label": "Fund char afforestation and stabilisation.",
@@ -4181,7 +4181,7 @@
       "landless",
       "elite"
     ],
-    "prompt": "Land-ceiling laws meant to cap how much one family can own are flouted wholesale through benami holdings, while millions are landless. The commissioner wants real enforcement and redistribution of the surplus; the great landholders, many connected, will fight to the death.",
+    "prompt": "Land-ceiling laws meant to cap how much one family can own are flouted wholesale through benami holdings, while millions are landless. The commissioner wants real enforcement and redistribution of the surplus; the great landholders, many connected, will fight hard.",
     "left": {
       "id": "a",
       "label": "Enforce the land ceiling and redistribute.",
@@ -4217,7 +4217,7 @@
       "labour",
       "yields"
     ],
-    "prompt": "Mechanising the farms — harvesters, tillers, transplanters — would raise yields and ease the brutal labour, especially as workers leave for the cities. But it would also throw landless farm labourers, who have nothing else, out of their only work. The director asks how hard to push.",
+    "prompt": "Mechanising the farms — harvesters, tillers, transplanters — would raise yields and ease the brutal labour as workers leave for the cities. But it would also throw landless farm labourers, who have nothing else, out of their only work. How hard do you push?",
     "left": {
       "id": "a",
       "label": "Push mechanisation hard.",
@@ -4253,7 +4253,7 @@
       "used-oil",
       "pollution"
     ],
-    "prompt": "Used engine oil and scrap tyres are dumped or burned in toxic backyard operations that poison soil and air. A formal recycling and pyrolysis industry could turn the waste to value cleanly — at a cost the informal burners and dumpers will resist.",
+    "prompt": "Used engine oil and scrap tyres are dumped or burned in toxic backyard operations that poison soil and air. A formal recycling and pyrolysis industry could turn the waste to value cleanly — at a cost the informal burners will resist.",
     "left": {
       "id": "a",
       "label": "Build formal oil and tyre recycling.",
@@ -4289,7 +4289,7 @@
       "solar",
       "investment"
     ],
-    "prompt": "A generous feed-in tariff guaranteeing a good price for renewable power fed to the grid would unleash private solar and wind investment — at a cost locked in for years that the utility, and ultimately the consumer, must bear. The regulator asks how generous to be.",
+    "prompt": "A generous feed-in tariff guaranteeing a good price for renewable power fed to the grid would unleash private solar and wind investment — at a cost locked in for years that the utility, and ultimately the consumer, must bear. How generous do you set it?",
     "left": {
       "id": "a",
       "label": "Set a generous feed-in tariff.",
@@ -4324,7 +4324,7 @@
       "seabed",
       "claim"
     ],
-    "prompt": "With the maritime boundary settled, you can press an extended continental-shelf claim to vast seabed resources beyond — a potential bonanza of gas and minerals, and a costly, years-long legal and survey effort that may antagonise neighbours with overlapping claims.",
+    "prompt": "With the maritime boundary settled, you can press an extended continental-shelf claim to the seabed beyond — a potential bonanza of gas and minerals, and a costly, years-long legal and survey effort that may antagonise neighbours with overlapping claims.",
     "left": {
       "id": "a",
       "label": "Press the extended shelf claim.",
@@ -4359,7 +4359,7 @@
       "tourism",
       "conservation"
     ],
-    "prompt": "A grand safari park and eco-resort carved out of a forest reserve would draw tourists and revenue — and fragment the habitat, cage wildlife for show, and hand prime forest to resort developers. The officer asks whether to build the attraction or protect the reserve intact.",
+    "prompt": "A grand safari park and eco-resort carved out of a forest reserve would draw tourists and revenue — and fragment the habitat, cage wildlife for show, and hand prime forest to resort developers. Build the attraction, or protect the reserve intact?",
     "left": {
       "id": "a",
       "label": "Build the safari park and eco-resort.",
@@ -4395,7 +4395,7 @@
       "ethanol",
       "food"
     ],
-    "prompt": "Molasses from the sugar mills could be turned into ethanol to blend with petrol, cutting fuel imports and using a waste stream — or that same feedstock and land could feed the food and drink industries. The officer asks whether to mandate biofuel blending.",
+    "prompt": "Molasses from the sugar mills could be turned into ethanol to blend with petrol, cutting fuel imports and using a waste stream — or that same feedstock could feed the food and drink industries. Mandate biofuel blending?",
     "left": {
       "id": "a",
       "label": "Mandate ethanol blending.",
@@ -4430,7 +4430,7 @@
       "hydro",
       "storage"
     ],
-    "prompt": "With little room for big dams, the engineers propose a pumped-storage scheme in the hills — a giant battery using water and gravity to store surplus power. It is costly, geologically risky, and would flood a hill valley, displacing the communities who live there.",
+    "prompt": "With little room for big dams, the engineers propose a pumped-storage scheme in the hills — a giant battery using water and gravity to store surplus power. It is costly, geologically risky, and would flood a hill valley, displacing its communities.",
     "left": {
       "id": "a",
       "label": "Build the pumped-storage scheme.",
@@ -4467,7 +4467,7 @@
       "iodine",
       "health"
     ],
-    "prompt": "Iodine deficiency still stunts minds in the regions where un-iodised salt slips through, and enforcement of universal salt iodisation is lax. The officer wants a hard enforcement and monitoring drive; the small, scattered salt producers resist the cost and oversight.",
+    "prompt": "Iodine deficiency still stunts minds in the regions where un-iodised salt slips through, and enforcement of universal salt iodisation is lax. The officer wants a hard enforcement drive; the small, scattered salt producers resist the cost and oversight.",
     "left": {
       "id": "a",
       "label": "Enforce universal salt iodisation.",
@@ -4502,7 +4502,7 @@
       "silos",
       "food-security"
     ],
-    "prompt": "The country's grain reserve rots in damp, rat-infested warehouses, losing a fortune and leaving the buffer unreliable in a crisis. The director wants modern steel silos to hold a real reserve; the capital is large and the warehouse-supply rackets that profit from the chaos resist.",
+    "prompt": "The country's grain reserve rots in damp, rat-infested warehouses, losing a fortune and leaving the buffer unreliable in a crisis. The director wants modern steel silos; the capital is large and the warehouse rackets that profit from the chaos resist.",
     "left": {
       "id": "a",
       "label": "Build modern grain silos.",
@@ -4539,7 +4539,7 @@
       "bird-flu",
       "biosecurity"
     ],
-    "prompt": "The booming backyard and commercial poultry industry — cheap protein for millions — is a tinderbox for bird flu, with poor biosecurity and a culling-compensation system too stingy to stop farmers hiding outbreaks. The director wants real biosecurity and fair compensation; it is costly.",
+    "prompt": "The booming poultry industry — cheap protein for millions — is a tinderbox for bird flu, with poor biosecurity and culling-compensation too stingy to stop farmers hiding outbreaks. The director wants real biosecurity and fair compensation; it is costly.",
     "left": {
       "id": "a",
       "label": "Fund biosecurity and fair culling pay.",
@@ -4574,7 +4574,7 @@
       "tenancy",
       "rights"
     ],
-    "prompt": "Millions of sharecroppers till others' land for a punishing share of the crop, with no security and no recourse when a landlord evicts them at whim. The officer wants enforceable tenancy rights and a fairer crop-share; the landlord class, woven into local power, resists fiercely.",
+    "prompt": "Millions of sharecroppers till others' land for a punishing share of the crop, with no security and no recourse when a landlord evicts them at whim. The officer wants enforceable tenancy rights and a fairer share; the landlord class resists fiercely.",
     "left": {
       "id": "a",
       "label": "Enforce tenancy rights and a fair share.",
@@ -4610,7 +4610,7 @@
       "standards",
       "demand"
     ],
-    "prompt": "The cheapest power is the power not used, and mandatory energy-efficiency standards for buildings, motors, and appliances would cut demand more cheaply than any new plant. The director wants hard standards; manufacturers and developers resist the cost and the enforcement.",
+    "prompt": "The cheapest power is the power not used, and mandatory energy-efficiency standards for buildings, motors, and appliances would cut demand more cheaply than any new plant. The director wants hard standards; manufacturers and developers resist the cost.",
     "left": {
       "id": "a",
       "label": "Mandate hard efficiency standards.",
@@ -4646,7 +4646,7 @@
       "fleet",
       "sovereignty"
     ],
-    "prompt": "Your fishers work only the crowded coastal waters while the rich deep-sea zone of your own maritime territory is fished by licensed foreign trawlers. The director wants to build a national deep-sea fleet to claim that catch; it is costly and the fishers lack the vessels and skills.",
+    "prompt": "Your fishers work only the crowded coastal waters while the rich deep-sea zone of your own maritime territory is fished by licensed foreign trawlers. The director wants a national deep-sea fleet to claim that catch; it is costly and the fishers lack the vessels and skills.",
     "left": {
       "id": "a",
       "label": "Build a national deep-sea fleet.",
@@ -4682,7 +4682,7 @@
       "fruit",
       "exports"
     ],
-    "prompt": "The country's mangoes, jackfruit, and vegetables could earn real export money, but they rot for want of cold chain, fail foreign pesticide-residue tests, and lack branding. The director wants a costly push for export-grade horticulture; the alternative is to keep them a domestic crop.",
+    "prompt": "The country's mangoes, jackfruit, and vegetables could earn real export money, but they rot for want of cold chain, fail foreign pesticide tests, and lack branding. Invest in a costly push for export-grade horticulture, or keep them a domestic crop?",
     "left": {
       "id": "a",
       "label": "Invest in export-grade horticulture.",
@@ -4719,7 +4719,7 @@
       "craft",
       "livelihoods"
     ],
-    "prompt": "Bamboo and cane sustain vast craft and construction livelihoods and could anchor a sustainable green industry — but the resource is being stripped unsustainably and the artisans are sliding into poverty. The officer wants a managed-cultivation and value-chain push, or you can let it dwindle.",
+    "prompt": "Bamboo and cane sustain vast craft and construction livelihoods and could anchor a sustainable green industry — but the resource is being stripped bare and the artisans are sliding into poverty. Build a managed-cultivation and value-chain push, or let it dwindle?",
     "left": {
       "id": "a",
       "label": "Build a sustainable bamboo value chain.",
@@ -4755,7 +4755,7 @@
       "disease",
       "hatchery"
     ],
-    "prompt": "Disease keeps wiping out the shrimp farms — a major export — because the hatcheries sell weak, virus-laden post-larvae and farmers lack any quality control. The director wants certified disease-free hatcheries and farmer training; the cheap-PL hatchery trade resists.",
+    "prompt": "Disease keeps wiping out the shrimp farms — a major export — because the hatcheries sell weak, virus-laden post-larvae and farmers lack any quality control. The director wants certified disease-free hatcheries and training; the cheap-PL hatchery trade resists.",
     "left": {
       "id": "a",
       "label": "Mandate certified disease-free hatcheries.",
@@ -4791,7 +4791,7 @@
       "efficiency",
       "demand"
     ],
-    "prompt": "Air-conditioning is exploding with the heat and the middle class, spiking peak demand and the grid's strain. A district-cooling and efficiency push could blunt it; the developers and the AC-importing lobby prefer the cheap, wasteful status quo.",
+    "prompt": "Air-conditioning is exploding with the heat and the middle class, spiking peak demand and grid strain. A district-cooling and efficiency push could blunt it; the developers and the AC-importing lobby prefer the cheap, wasteful status quo.",
     "left": {
       "id": "a",
       "label": "Push district cooling and AC standards.",
@@ -4864,7 +4864,7 @@
       "certification",
       "exports"
     ],
-    "prompt": "A credible safe-food and organic certification scheme would let farmers earn premiums at home and abroad and reassure consumers poisoned by adulteration — a costly system to build and police, easily faked into a meaningless sticker if done on the cheap.",
+    "prompt": "A credible safe-food and organic certification scheme would let farmers earn premiums and reassure consumers poisoned by adulteration — a costly system to build and police, easily faked into a meaningless sticker if done on the cheap.",
     "left": {
       "id": "a",
       "label": "Build a rigorous certification scheme.",
@@ -4900,7 +4900,7 @@
       "billing",
       "losses"
     ],
-    "prompt": "Smart meters would end the bribed meter-readers, estimated bills, and theft that plague the utilities — and let you bill accurately and cut losses. They are costly to roll out, and consumers fear higher, harder-to-dodge bills and the surveillance of their usage.",
+    "prompt": "Smart meters would end the bribed meter-readers, estimated bills, and theft that plague the utilities — and let you bill accurately and cut losses. They are costly to roll out, and consumers fear higher, harder-to-dodge bills.",
     "left": {
       "id": "a",
       "label": "Roll out smart meters widely.",
@@ -4936,7 +4936,7 @@
       "biopiracy",
       "communities"
     ],
-    "prompt": "The country's forests hold medicinal plants and genetic resources that foreign firms quietly harvest and patent — biopiracy of a heritage worth fortunes. The officer wants a benefit-sharing and protection regime; it is complex and could deter the research investment too.",
+    "prompt": "The country's forests hold medicinal plants and genetic resources that foreign firms quietly harvest and patent — biopiracy of a heritage worth fortunes. The officer wants a benefit-sharing and protection regime; it is complex and could deter research investment too.",
     "left": {
       "id": "a",
       "label": "Build a benefit-sharing protection regime.",
@@ -4972,7 +4972,7 @@
       "co-management",
       "commons"
     ],
-    "prompt": "The open-water fisheries — the beels and floodplains feeding millions — are being plundered by leaseholders and gear that wipe out the stocks. The director wants community co-management handing the waters to the fishers who depend on them; the politically-connected leaseholders resist.",
+    "prompt": "The open-water fisheries — the beels and floodplains feeding millions — are being plundered by leaseholders and gear that wipe out the stocks. The director wants community co-management handing the waters to the fishers; the connected leaseholders resist.",
     "left": {
       "id": "a",
       "label": "Hand the waters to community co-management.",
@@ -5009,7 +5009,7 @@
       "waste",
       "rural"
     ],
-    "prompt": "Rural cattle dung and farm waste could fuel village-scale biogas plants — clean cooking gas and fertiliser slurry from waste — cutting woodsmoke and firewood demand. The officer wants a national biogas push; uptake has always stalled on cost, maintenance, and habit.",
+    "prompt": "Rural cattle dung and farm waste could fuel village-scale biogas plants — clean cooking gas and fertiliser slurry from waste — cutting woodsmoke and firewood demand. The officer wants a national biogas push; uptake has always stalled on cost and habit.",
     "left": {
       "id": "a",
       "label": "Drive a national biogas programme.",
@@ -5045,7 +5045,7 @@
       "import",
       "livestock"
     ],
-    "prompt": "Livestock and dairy are throttled by costly imported feed, and the maize and fodder to grow it domestically compete for land with food grains. The director wants a feed-crop and fodder push to cut the import bill; the land is scarce and the food-first lobby resists.",
+    "prompt": "Livestock and dairy are throttled by costly imported feed, and the maize and fodder to grow it at home compete for land with food grains. The director wants a feed-crop push to cut the import bill; the land is scarce and the food-first lobby resists.",
     "left": {
       "id": "a",
       "label": "Push domestic feed and fodder.",
@@ -5081,7 +5081,7 @@
       "refining",
       "graft"
     ],
-    "prompt": "Condensate — a valuable liquid byproduct of gas extraction — is being siphoned to private 'fractionation' plants owned by connected operators at giveaway prices, robbing the state of the value. The officer can reclaim and properly auction it, or leave the cosy arrangement.",
+    "prompt": "Condensate — a valuable liquid byproduct of gas extraction — is being siphoned to private 'fractionation' plants owned by connected operators at giveaway prices, robbing the state. Reclaim and properly auction it, or leave the cosy arrangement?",
     "left": {
       "id": "a",
       "label": "Reclaim and auction the condensate.",
@@ -5153,7 +5153,7 @@
       "irrigation",
       "water"
     ],
-    "prompt": "The flood-irrigation that waters the fields wastes most of the water it draws, draining the aquifers faster than need demands. Drip and sprinkler systems would slash that waste; they are costly upfront and unfamiliar, and the water and power are cheap enough that few farmers bother.",
+    "prompt": "The flood-irrigation that waters the fields wastes most of the water it draws, draining the aquifers faster than need demands. Drip and sprinkler systems would slash that waste; they are costly upfront, and water and power are cheap enough that few farmers bother.",
     "left": {
       "id": "a",
       "label": "Subsidise efficient irrigation.",
@@ -5189,7 +5189,7 @@
       "efficiency",
       "cogeneration"
     ],
-    "prompt": "Factories waste vast energy through old motors, leaky steam, and dumped waste-heat. Mandating energy audits and cogeneration would cut industry's huge energy bill and the grid's load; the manufacturers resist the audits and the retrofit cost.",
+    "prompt": "Factories waste vast energy through old motors, leaky steam, and dumped waste-heat. Mandating energy audits and cogeneration would cut industry's energy bill and the grid's load; the manufacturers resist the audits and the retrofit cost.",
     "left": {
       "id": "a",
       "label": "Mandate industrial energy audits and retrofits.",
@@ -5224,7 +5224,7 @@
       "ice",
       "waste"
     ],
-    "prompt": "A huge share of the marine catch spoils for want of ice, landing centres, and cold storage at the coast, beggaring fishers and wasting protein. The director wants a coastal cold-chain and landing-centre build; the capital is large and the gain spread thinly along the coast.",
+    "prompt": "A huge share of the marine catch spoils for want of ice, landing centres, and cold storage at the coast, beggaring fishers and wasting protein. The director wants a coastal cold-chain and landing-centre build; the capital is large and the gain spread thin.",
     "left": {
       "id": "a",
       "label": "Build coastal landing and cold storage.",
@@ -5260,7 +5260,7 @@
       "quarrying",
       "environment"
     ],
-    "prompt": "A granite deposit could supply valuable dimension stone and cut imports, but quarrying it means blasting a forested hill that buffers a watershed and shelters indigenous hamlets. The officer asks whether to open the quarry or leave the hill standing.",
+    "prompt": "A granite deposit could supply valuable dimension stone and cut imports, but quarrying it means blasting a forested hill that buffers a watershed and shelters indigenous hamlets. Open the quarry, or leave the hill standing?",
     "left": {
       "id": "a",
       "label": "Open the granite quarry.",
@@ -5296,7 +5296,7 @@
       "peak",
       "tariff"
     ],
-    "prompt": "Peak evening demand strains the grid to breaking, forcing costly, dirty peaker plants to fire up. Time-of-use tariffs and demand-management could shave the peak cheaply; consumers resent paying more at peak hours and the populist instinct is to keep one flat, low price.",
+    "prompt": "Peak evening demand strains the grid to breaking, forcing costly, dirty peaker plants to fire up. Time-of-use tariffs and demand-management could shave the peak cheaply; consumers resent paying more at peak hours and the populist instinct is one flat, low price.",
     "left": {
       "id": "a",
       "label": "Introduce time-of-use tariffs.",
@@ -5332,7 +5332,7 @@
       "import",
       "health"
     ],
-    "prompt": "Cheap imported palm oil dominates the cooking-oil market — affordable, but linked to poorer health and to rainforest destruction abroad your imports fund. The officer asks whether to tax and curb it in favour of domestic and healthier oils, or keep the cheap staple flowing.",
+    "prompt": "Cheap imported palm oil dominates the cooking-oil market — affordable, but linked to poorer health and to rainforest destruction your imports fund. Tax and curb it in favour of domestic, healthier oils, or keep the cheap staple flowing?",
     "left": {
       "id": "a",
       "label": "Curb palm oil for domestic, healthier oils.",
@@ -5368,7 +5368,7 @@
       "strategy",
       "future"
     ],
-    "prompt": "The decades-long power master plan must be set, and the chairman lays out the fork: double down on cheap, reliable imported coal and LNG for the growth the economy demands, or stake the future on a costlier, slower pivot to renewables and efficiency.",
+    "prompt": "The decades-long power master plan must be set, and the chairman lays out the fork: double down on cheap, reliable imported coal and LNG for the growth the economy demands, or stake the future on a costlier, slower pivot to renewables?",
     "left": {
       "id": "a",
       "label": "Build the fossil-heavy power plan.",
@@ -5406,7 +5406,7 @@
       "strategy",
       "future"
     ],
-    "prompt": "Years into the plan you chose, the bills are coming due — fuel-price shocks battering the fossil bet, or intermittency and cost straining the green one. The chairman asks whether to stay the course or hedge with a costly mid-stream correction.",
+    "prompt": "Years into the plan you chose, the bills are coming due — fuel-price shocks battering the fossil bet, or intermittency and cost straining the green one. Stay the course, or hedge with a costly mid-stream correction?",
     "left": {
       "id": "a",
       "label": "Stay the course you set.",
@@ -5442,7 +5442,7 @@
       "strategy",
       "future"
     ],
-    "prompt": "The energy strategy has become a political symbol — the opposition hammers every blackout or price rise as proof of your folly, while your base defends the plan as visionary. The chairman asks whether to defend it loudly or quietly let the next plan correct it.",
+    "prompt": "The energy strategy has become a political symbol — the opposition hammers every blackout or price rise as proof of your folly, while your base defends the plan as visionary. Defend it loudly, or quietly let the next plan correct it?",
     "left": {
       "id": "a",
       "label": "Defend the strategy loudly.",
@@ -5479,7 +5479,7 @@
       "sundarbans",
       "energy"
     ],
-    "prompt": "A term later, the same fault line tears open again. The coal plant near the mangrove forest is built and ready — and so are the protests. \"Switch it on and we add a thousand megawatts tomorrow,\" the Chairman says. \"Leave it dark and we have poured a fortune into a monument to indecision.\" The forest is a UNESCO heritage and the country's storm shield.",
+    "prompt": "A term later, the same fault line tears open again. The coal plant near the mangrove forest is built and ready — and so are the protests. \"Switch it on and we add a thousand megawatts tomorrow,\" the Chairman says. The Sundarbans is a UNESCO heritage and the country's storm shield.",
     "left": {
       "id": "a",
       "label": "Fire up the coal plant.",
@@ -5517,7 +5517,7 @@
       "sundarbans",
       "energy"
     ],
-    "prompt": "Years into your rule, the matter you thought buried resurfaces — harder. With the plant running, fishing communities and forest scientists report acidified water and dying spawning grounds. A foreign court is weighing whether to strip the Sundarbans' heritage status — a global humiliation. Your engineers say new scrubbers could cut the damage at a steep price.",
+    "prompt": "Years into your rule, the matter you thought buried resurfaces — harder. With the plant running, fishers and scientists report acidified water and dying spawning grounds, and a global body weighs stripping the Sundarbans' heritage status. Your engineers say new scrubbers could cut the damage at a steep price.",
     "left": {
       "id": "a",
       "label": "Fund the costly scrubbers and monitoring.",
@@ -5555,7 +5555,7 @@
       "import",
       "tariff"
     ],
-    "prompt": "A new season of power, an old problem with sharper teeth. A giant Indian conglomerate offers electricity from a dedicated coal plant across the border — power on tap, but at a tariff and on terms that auditors call lopsided in the seller's favour, dollar-indexed and locked for twenty-five years.",
+    "prompt": "A new season of power, an old problem with sharper teeth. A giant Indian conglomerate offers electricity from a dedicated coal plant across the border — power on tap, but on terms auditors call lopsided: dollar-indexed and locked for twenty-five years.",
     "left": {
       "id": "a",
       "label": "Sign the long import contract.",
@@ -5593,7 +5593,7 @@
       "rental",
       "subsidy"
     ],
-    "prompt": "The crisis returns, and this time the cabinet is watching. For years the state has paid 'capacity charges' to private rental power plants — billions for electricity never generated, locked in by indemnity laws. The lobby, thick with party donors, wants the contracts renewed. An adviser says ending them could save the treasury a fortune.",
+    "prompt": "The crisis returns, and this time the cabinet is watching. For years the state has paid 'capacity charges' to private rental power plants — billions for electricity never generated, locked in by indemnity laws. The lobby, thick with party donors, wants the contracts renewed; ending them could save a fortune.",
     "left": {
       "id": "a",
       "label": "Renew the capacity-charge contracts.",
@@ -5631,7 +5631,7 @@
       "offshore",
       "maritime"
     ],
-    "prompt": "Once more the issue lands on your desk, the stakes higher than before. New offshore blocks sit in waters you won at sea tribunal — but exploring them risks reigniting a maritime spat with a neighbour, and only foreign supermajors have the deep-water rigs. The Chief wants to license fast before the gas crisis bites harder.",
+    "prompt": "Once more the issue lands on your desk, the stakes higher than before. New offshore blocks sit in waters you won at sea tribunal — but exploring them risks reigniting a maritime spat, and only foreign supermajors have the deep-water rigs. The Chief wants to license fast before the gas crisis bites harder.",
     "left": {
       "id": "a",
       "label": "License the supermajors aggressively.",
@@ -5667,7 +5667,7 @@
       "labour",
       "toxic"
     ],
-    "prompt": "Another year survived, and the reckoning circles back. The beaching yards that scrap the world's dead ships employ tens of thousands and feed the steel mills — and bury workers under falling plate and toxic ash with grim regularity. International rules would force costly 'green' yards. The owner warns reform means ruin and unemployment.",
+    "prompt": "Another year survived, and the reckoning circles back. The beaching yards that scrap the world's dead ships employ tens of thousands and feed the steel mills — and bury workers under falling plate and toxic ash. International rules would force costly 'green' yards. The owner warns reform means ruin and unemployment.",
     "left": {
       "id": "a",
       "label": "Keep the beaching yards as they are.",
@@ -5705,7 +5705,7 @@
       "water",
       "wells"
     ],
-    "prompt": "The ground has shifted; the same demand arrives with new menace. The tube-wells that ended cholera are slowly poisoning millions with natural arsenic — the largest mass poisoning in history, the hydrologist says, and barely on anyone's agenda. Safe piped water or deep wells would cost more than any photo-op returns.",
+    "prompt": "The ground has shifted; the same demand arrives with new menace. The tube-wells that ended cholera are slowly poisoning millions with natural arsenic — the largest mass poisoning in history, the hydrologist says, and barely on the agenda. Safe piped water or deep wells would cost more than any photo-op returns.",
     "left": {
       "id": "a",
       "label": "Fund a national safe-water programme.",
@@ -5741,7 +5741,7 @@
       "rivers",
       "erosion"
     ],
-    "prompt": "History rhymes: the conflict reopens deeper than last time. Illegal sand dredging feeds the construction boom — and eats riverbanks, swallowing villages and bridges into the current. The dredgers are protected by local strongmen tied to your party. The officer wants a real ban; the strongmen want to keep digging.",
+    "prompt": "History rhymes: the conflict reopens deeper than last time. Illegal sand dredging feeds the construction boom — and eats riverbanks, swallowing villages and bridges into the current. The dredgers are protected by local strongmen tied to your party. Ban it, or let them keep digging?",
     "left": {
       "id": "a",
       "label": "Tolerate the dredging for the building boom.",
@@ -5779,7 +5779,7 @@
       "transition",
       "land"
     ],
-    "prompt": "Mid-reign, the old wound is torn afresh. Donors dangle cheap green finance for a solar push, but utility-scale panels need flat land — and the only flat land is fertile farmland in a country that must feed itself. The Director asks where the megawatts should come from.",
+    "prompt": "Mid-reign, the old wound is torn afresh. Donors dangle cheap green finance for a solar push, but utility-scale panels need flat land — and the only flat land is fertile farmland in a country that must feed itself. Where should the megawatts come from?",
     "left": {
       "id": "a",
       "label": "Convert farmland to solar parks for the cheap finance.",
@@ -5817,7 +5817,7 @@
       "open-pit",
       "displacement"
     ],
-    "prompt": "The pressure you deferred has come due, larger now. A foreign firm wants to open-pit mine the great northern coal seam — vast cheap energy, but it would uproot tens of thousands of farmers and drop the water table across the breadbasket. The villages there once died protesting this very mine.",
+    "prompt": "The pressure you deferred has come due, larger now. A foreign firm wants to open-pit mine the great northern coal seam — vast cheap energy, but it would uproot tens of thousands of farmers and drop the water table across the breadbasket. Villages there once died protesting this very mine.",
     "left": {
       "id": "a",
       "label": "Approve the open-pit mine.",
@@ -6519,7 +6519,7 @@
       "rooppur",
       "debt"
     ],
-    "prompt": "A familiar crisis, escalated by everything you let slide. The Russian-built nuclear plant is nearly done, financed by a loan that will shadow the budget for decades. With the country under sanctions pressure for dealing with Moscow, the chairman asks whether to fuel it up on schedule or pause and renegotiate the terms.",
+    "prompt": "A familiar crisis, escalated by everything you let slide. The Russian-built nuclear plant is nearly done, financed by a loan that will shadow the budget for decades, with sanctions pressure mounting over the Moscow tie. Fuel it up on schedule, or pause and renegotiate the terms?",
     "left": {
       "id": "a",
       "label": "Fuel it on schedule, debt and sanctions be damned.",
@@ -6555,7 +6555,7 @@
       "phulbari",
       "displacement"
     ],
-    "prompt": "The fault line cracks wider; the decision can no longer wait. A foreign company wants to open-pit mine the vast Phulbari coal seam — enough fuel for decades — but it would displace tens of thousands and drain the aquifer of a whole farming region. The last time it was proposed, three protesters were shot dead.",
+    "prompt": "The fault line cracks wider; the decision can no longer wait. A foreign company wants to open-pit mine the vast Phulbari coal seam — fuel for decades — but it would displace tens of thousands and drain the aquifer of a whole farming region. The last time it was proposed, three protesters were shot dead.",
     "left": {
       "id": "a",
       "label": "Approve the open-pit mine.",
@@ -6593,7 +6593,7 @@
       "theft",
       "losses"
     ],
-    "prompt": "Late in the reign, the old question demands a heavier answer. A fifth of the power you generate is stolen or lost — illegal hooks, bribed meter readers, crumbling lines. The chief can fund a hard crackdown with prepaid meters and disconnections, hitting the poor hardest, or absorb the loss and keep the peace.",
+    "prompt": "Late in the reign, the old question demands a heavier answer. A fifth of the power you generate is stolen or lost — illegal hooks, bribed meter readers, crumbling lines. Fund a hard crackdown with prepaid meters and disconnections, hitting the poor hardest, or absorb the loss and keep the peace?",
     "left": {
       "id": "a",
       "label": "Crack down hard with prepaid meters.",
@@ -6629,7 +6629,7 @@
       "subsidy",
       "cost"
     ],
-    "prompt": "It returns once more — and this round may be the one remembered. Imported fuel costs have blown a hole in the power subsidy. The regulator presents a steep tariff hike to plug it — politically toxic but fiscally vital — or you can hold prices and let the subsidy keep bleeding the treasury.",
+    "prompt": "It returns once more — and this round may be the one remembered. Imported fuel costs have blown a hole in the power subsidy. The regulator presents a steep tariff hike to plug it — politically toxic but fiscally vital — or hold prices and let the subsidy keep bleeding the treasury?",
     "left": {
       "id": "a",
       "label": "Raise the tariff to cover costs.",
@@ -6665,7 +6665,7 @@
       "import",
       "dependence"
     ],
-    "prompt": "The reckoning circles back, grown teeth in the waiting. Domestic gas is running dry and a new floating LNG terminal would secure imports — but it locks the country into volatile world prices in dollars you do not have. The chairman wants the deal signed before winter shortages bite.",
+    "prompt": "The reckoning circles back, grown teeth in the waiting. Domestic gas is running dry and a new floating LNG terminal would secure imports — but it locks the country into volatile world prices in dollars you do not have. The chairman wants it signed before winter shortages bite.",
     "left": {
       "id": "a",
       "label": "Sign the LNG terminal deal.",
@@ -6701,7 +6701,7 @@
       "gas",
       "sovereignty"
     ],
-    "prompt": "Another term, the same antagonist, the stakes raised again. The national exploration company swears it can find and develop new gas fields cheaply — if you fund it instead of handing the blocks to international oil majors on production-sharing terms that ship most of the gas value abroad.",
+    "prompt": "Another term, the same antagonist, the stakes raised again. The national exploration company swears it can find and develop new gas fields cheaply — if you fund it instead of handing the blocks to international majors on production-sharing terms that ship most of the value abroad.",
     "left": {
       "id": "a",
       "label": "Hand the blocks to the international majors.",
@@ -6738,7 +6738,7 @@
       "irrigation",
       "drought"
     ],
-    "prompt": "The matter, long deferred, lands with the force of a verdict. The deep tube-wells that made the parched Barind tract bloom with rice are draining the aquifer faster than the rains refill it. The head warns of a slow-motion desert; the farmers warn that any cut to pumping means a failed harvest now.",
+    "prompt": "The matter, long deferred, lands with the force of a verdict. The deep tube-wells that made the parched Barind tract bloom with rice are draining the aquifer faster than the rains refill it. The head warns of a slow-motion desert; the farmers warn that any cut to pumping fails the harvest now.",
     "left": {
       "id": "a",
       "label": "Keep the pumps running at full tilt.",
@@ -6774,7 +6774,7 @@
       "pollution",
       "leather"
     ],
-    "prompt": "Years on and unhealed, the conflict returns to claim its answer. The leather tanneries, relocated to a new estate, still dump untreated chromium effluent straight into the river because the promised treatment plant was never finished. The inspector wants them shut until it works; the exporters threaten to flee the country.",
+    "prompt": "Years on and unhealed, the conflict returns to claim its answer. The relocated leather tanneries still dump untreated chromium effluent straight into the river because the promised treatment plant was never finished. The inspector wants them shut until it works; the exporters threaten to flee the country.",
     "left": {
       "id": "a",
       "label": "Let the tanneries keep running.",
@@ -6811,7 +6811,7 @@
       "infrastructure",
       "debt"
     ],
-    "prompt": "The same fault line, the harder hour, the narrower path. A deep-sea port would transform trade — and three different foreign backers (one Japanese, one Chinese, one Indian) are competing to build it, each deal carrying strategic strings. The chairman needs you to pick a patron, or build it slower on your own dime.",
+    "prompt": "The same fault line, the harder hour, the narrower path. A deep-sea port would transform trade — and Japanese, Chinese, and Indian backers compete to build it, each deal carrying strategic strings. Pick a patron, or build it slower on your own dime?",
     "left": {
       "id": "a",
       "label": "Take the cheapest foreign deal and its strings.",
@@ -6847,7 +6847,7 @@
       "stone",
       "rivers"
     ],
-    "prompt": "It comes back sharpened by every season you survived. In the northeast, illegal stone quarrying is gutting the riverbeds and hill slopes, feeding the construction boom but collapsing banks and killing labourers in pit cave-ins. The officer asks whether to enforce the ban or keep the cheap aggregate flowing.",
+    "prompt": "It comes back sharpened by every season you survived. In the northeast, illegal stone quarrying is gutting the riverbeds and hill slopes, feeding the construction boom but collapsing banks and killing labourers in cave-ins. Enforce the ban, or keep the cheap aggregate flowing?",
     "left": {
       "id": "a",
       "label": "Let the quarrying continue.",
@@ -6884,7 +6884,7 @@
       "fishing",
       "livelihoods"
     ],
-    "prompt": "A later year of power, the old crisis now a true test of it. The national fish spawns only if you enforce a strict fishing ban during the breeding season — but that means tens of thousands of fishing families with no income for weeks. The director can enforce the ban hard, or look away to spare the hunger.",
+    "prompt": "A later year of power, the old crisis now a true test of it. The national fish spawns only if you enforce a strict fishing ban during the breeding season — but that means tens of thousands of fishing families with no income for weeks. Enforce the ban hard, or look away to spare the hunger?",
     "left": {
       "id": "a",
       "label": "Enforce the breeding-season ban hard.",
@@ -6920,7 +6920,7 @@
       "net-metering",
       "transition"
     ],
-    "prompt": "The unresolved returns, and this time it will not be deferred. A net-metering scheme would let factories and homes put rooftop solar on the grid and sell back the surplus — cutting imports and emissions. The utilities resist, since every rooftop panel is a customer they lose. The adviser asks whose side you take.",
+    "prompt": "The unresolved returns, and this time it will not be deferred. A net-metering scheme would let factories and homes put rooftop solar on the grid and sell back the surplus — cutting imports and emissions. The utilities resist, since every rooftop panel is a customer they lose. Whose side do you take?",
     "left": {
       "id": "a",
       "label": "Side with the utilities, stall net metering.",
@@ -6993,7 +6993,7 @@
       "gas",
       "food"
     ],
-    "prompt": "Years into your rule, the matter you thought buried resurfaces — harder. The state fertilizer plants devour scarce gas to make cheap urea for farmers — gas the power sector is desperate for. The minister asks whether to keep feeding the fertilizer plants for food security, or divert the gas to keep the lights on.",
+    "prompt": "Years into your rule, the matter you thought buried resurfaces — harder. The state fertilizer plants devour scarce gas to make cheap urea for farmers — gas the power sector is desperate for. Keep feeding the fertilizer plants for food security, or divert the gas to keep the lights on?",
     "left": {
       "id": "a",
       "label": "Keep gas flowing to fertilizer.",
@@ -7029,7 +7029,7 @@
       "indemnity",
       "rentals"
     ],
-    "prompt": "A new season of power, an old problem with sharper teeth. The notorious law that lets you award power-plant contracts with no tender and no legal challenge — the source of the ruinous 'capacity charges' paid to idle plants — is up for renewal. The director's friends in the rental business want it extended again.",
+    "prompt": "A new season of power, an old problem with sharper teeth. The notorious law that lets you award power-plant contracts with no tender and no legal challenge — source of the ruinous 'capacity charges' paid to idle plants — is up for renewal. The director's friends in the rental business want it extended.",
     "left": {
       "id": "a",
       "label": "Renew the no-tender indemnity law.",
@@ -7067,7 +7067,7 @@
       "topsoil",
       "air"
     ],
-    "prompt": "The crisis returns, and this time the cabinet is watching. Thousands of illegal brick kilns ring the cities, burning coal and the country's fertile topsoil into smog that chokes the capital every winter. The inspector wants them forced onto clean technology or shut; the kiln owners employ a million workers.",
+    "prompt": "The crisis returns, and this time the cabinet is watching. Thousands of illegal brick kilns ring the cities, burning coal and fertile topsoil into smog that chokes the capital every winter. The inspector wants them forced onto clean technology or shut; the kiln owners employ a million workers.",
     "left": {
       "id": "a",
       "label": "Leave the kilns as they are.",
@@ -7103,7 +7103,7 @@
       "trawlers",
       "maritime"
     ],
-    "prompt": "Once more the issue lands on your desk, the stakes higher than before. Foreign industrial trawlers are sweeping your newly-won maritime zone bare, often with bribed permits, while artisanal fishers come home empty. The commander can mount costly patrols to drive them out, or keep taking the licence fees and look away.",
+    "prompt": "Once more the issue lands on your desk, the stakes higher than before. Foreign industrial trawlers are sweeping your newly-won maritime zone bare, often with bribed permits, while artisanal fishers come home empty. Mount costly patrols to drive them out, or keep taking the licence fees and look away?",
     "left": {
       "id": "a",
       "label": "Keep the licence fees, look away.",
@@ -7140,7 +7140,7 @@
       "recycling",
       "toxics"
     ],
-    "prompt": "Another year survived, and the reckoning circles back. The country has become a dumping ground for the world's electronic waste, picked apart by hand in toxic backyard yards — including children's. The secretary can crack down and demand a formal recycling industry, or keep the cheap scrap trade flowing.",
+    "prompt": "Another year survived, and the reckoning circles back. The country has become a dumping ground for the world's electronic waste, picked apart by hand — including children's — in toxic backyard yards. Crack down and demand a formal recycling industry, or keep the cheap scrap trade flowing?",
     "left": {
       "id": "a",
       "label": "Let the informal e-waste trade run.",
@@ -7177,7 +7177,7 @@
       "forest",
       "livelihoods"
     ],
-    "prompt": "The ground has shifted; the same demand arrives with new menace. To protect the mangrove forest you can bar the honey-collectors, woodcutters, and fishers whose families have lived off it for centuries — or let them keep harvesting and watch the forest thin. The conservator says the forest cannot bear both protection and people forever.",
+    "prompt": "The ground has shifted; the same demand arrives with new menace. To protect the mangrove forest you can bar the honey-collectors, woodcutters, and fishers whose families have lived off it for centuries — or let them keep harvesting and watch it thin. The forest cannot bear both protection and people forever.",
     "left": {
       "id": "a",
       "label": "Bar the forest communities for conservation.",
@@ -7213,7 +7213,7 @@
       "industry",
       "heritage"
     ],
-    "prompt": "History rhymes: the conflict reopens deeper than last time. The state jute mills — once the 'golden fibre' that built the economy — bleed losses every year, kept alive for the workers and the heritage. The secretary can shut the rotting mills to stop the bleeding, or pour in another bailout and a modernisation gamble.",
+    "prompt": "History rhymes: the conflict reopens deeper than last time. The state jute mills — once the 'golden fibre' that built the economy — bleed losses every year, kept alive for the workers and the heritage. Shut the rotting mills to stop the bleeding, or pour in another bailout and a modernisation gamble?",
     "left": {
       "id": "a",
       "label": "Shut the loss-making jute mills.",
@@ -7249,7 +7249,7 @@
       "import",
       "logistics"
     ],
-    "prompt": "Mid-reign, the old wound is torn afresh. Your new coal plants need a steady stream of imported coal, and a dedicated deep-water terminal would lock in cheap, reliable supply for decades. It also chains the country to coal long after the world has moved to phase it out — and to financing it.",
+    "prompt": "Mid-reign, the old wound is torn afresh. Your new coal plants need a steady stream of imported coal, and a dedicated deep-water terminal would lock in cheap supply for decades. It also chains the country to coal long after the world has moved to phase it out.",
     "left": {
       "id": "a",
       "label": "Build the dedicated coal terminal.",
@@ -7287,7 +7287,7 @@
       "dhaka",
       "pollution"
     ],
-    "prompt": "The pressure you deferred has come due, larger now. The capital's piped water is so contaminated that millions boil it or buy it by the jar, while the rivers ringing the city are biologically dead. The MD needs a vast, expensive overhaul of treatment and sewerage — or you can keep patching and let people cope.",
+    "prompt": "The pressure you deferred has come due, larger now. The capital's piped water is so contaminated that millions boil it or buy it by the jar, while the rivers ringing the city are biologically dead. Fund a vast overhaul of treatment and sewerage, or keep patching and let people cope?",
     "left": {
       "id": "a",
       "label": "Keep patching the old system.",
@@ -7323,7 +7323,7 @@
       "blowout",
       "compensation"
     ],
-    "prompt": "A later term, and the quarrel has hardened into a test. A foreign operator's well has blown out, burning a forest and a gas reserve worth a fortune for weeks. The company offers a token settlement and a denial of liability. The chairman asks whether to fight for full compensation or take the quiet money and move on.",
+    "prompt": "A later term, and the quarrel has hardened into a test. A foreign operator's well has blown out, burning a forest and a fortune in gas for weeks. The company offers a token settlement and denies liability. Fight for full compensation, or take the quiet money and move on?",
     "left": {
       "id": "a",
       "label": "Take the token settlement quietly.",
@@ -7361,7 +7361,7 @@
       "households",
       "rationing"
     ],
-    "prompt": "The country has changed, but this fault line has not — only worsened. With gas reserves dwindling, you have frozen new household pipeline connections — but millions on the waiting list, who have paid bribes for years, are furious. The secretary can lift the freeze to win goodwill, or hold it to ration the dying reserve for industry.",
+    "prompt": "The country has changed, but this fault line has not — only worsened. With gas reserves dwindling, you have frozen new household pipeline connections — but millions on the waiting list, who have paid bribes for years, are furious. Lift the freeze to win goodwill, or hold it to ration the dying reserve for industry?",
     "left": {
       "id": "a",
       "label": "Lift the freeze, connect the households.",
@@ -7397,7 +7397,7 @@
       "toll",
       "debt"
     ],
-    "prompt": "It returns, as these things do, with the patience gone. A signature river tunnel has opened, financed by foreign loans, but traffic is a fraction of the rosy forecasts that justified it. The chairman can set punishing tolls to service the debt, or keep tolls low and let the loss sit on the public books.",
+    "prompt": "It returns, as these things do, with the patience gone. A signature river tunnel has opened on foreign loans, but traffic is a fraction of the rosy forecasts that justified it. Set punishing tolls to service the debt, or keep tolls low and let the loss sit on the public books?",
     "left": {
       "id": "a",
       "label": "Set high tolls to service the debt.",
@@ -7433,7 +7433,7 @@
       "transport",
       "imports"
     ],
-    "prompt": "Years on, the matter is no longer private; the press is already circling. Imported fuel for vehicles drains your dollars by the billion. The adviser proposes aggressive incentives for electric vehicles and a charging network — slashing the oil bill over time, but stranding the gas-station economy and demanding more grid power up front.",
+    "prompt": "Years on, the matter is no longer private; the press is already circling. Imported vehicle fuel drains your dollars by the billion. The adviser proposes aggressive incentives for electric vehicles and a charging network — slashing the oil bill over time, but stranding the gas-station economy and demanding more grid power up front.",
     "left": {
       "id": "a",
       "label": "Push hard for the EV transition.",
@@ -7470,7 +7470,7 @@
       "coast",
       "renewables"
     ],
-    "prompt": "The same knot, retied tighter, lands before you once more. The coast has strong, steady wind, and a foreign developer offers to build a large wind farm — clean power, but on prime coastal land that fishers and salt-farmers use, and at a guaranteed tariff higher than coal.",
+    "prompt": "The same knot, retied tighter, lands before you once more. The coast has strong, steady wind, and a foreign developer offers a large wind farm — clean power, but on prime coastal land that fishers and salt-farmers use, at a guaranteed tariff higher than coal.",
     "left": {
       "id": "a",
       "label": "Approve the coastal wind farm.",
@@ -7506,7 +7506,7 @@
       "landless",
       "grabbing"
     ],
-    "prompt": "Another monsoon, another return of an argument you cannot end. New river islands — fertile silt 'chars' — have surfaced, and they are state land by law. The commissioner can distribute them to the landless families who already farm them, or let the local strongmen who 'manage' the chars formalise their grab.",
+    "prompt": "Another monsoon, another return of an argument you cannot end. New river islands — fertile silt 'chars' — have surfaced, and they are state land by law. Distribute them to the landless families who already farm them, or let the local strongmen who 'manage' the chars formalise their grab?",
     "left": {
       "id": "a",
       "label": "Let the strongmen formalise their hold.",
@@ -7544,7 +7544,7 @@
       "wetland",
       "flash-flood"
     ],
-    "prompt": "Deep into the reign, the issue demands a final-sounding answer. The vast northeastern haor wetlands — a single boro rice crop, a fishery, a bird sanctuary — are being diked and converted to year-round farming, which raises yields but destroys the flood-pulse the whole ecosystem depends on. The director begs you to choose.",
+    "prompt": "Deep into the reign, the issue demands a final-sounding answer. The vast northeastern haor wetlands — a boro rice crop, a fishery, a bird sanctuary — are being diked for year-round farming, which raises yields but destroys the flood-pulse the whole ecosystem depends on. The director begs you to choose.",
     "left": {
       "id": "a",
       "label": "Allow the diking for higher yields.",
@@ -7580,7 +7580,7 @@
       "tourism",
       "island"
     ],
-    "prompt": "The reckoning you postponed has matured into a crisis. The country's only coral island is being loved to death — hotels on the dunes, day-trippers trampling the reef, plastic everywhere. The chair can cap visitors and tear down illegal resorts to save the reef, or keep the tourist revenue flowing.",
+    "prompt": "The reckoning you postponed has matured into a crisis. The country's only coral island is being loved to death — hotels on the dunes, day-trippers trampling the reef, plastic everywhere. Cap visitors and tear down illegal resorts to save the reef, or keep the tourist revenue flowing?",
     "left": {
       "id": "a",
       "label": "Keep the tourism flowing.",
@@ -7616,7 +7616,7 @@
       "pollution",
       "ban"
     ],
-    "prompt": "A new chapter, the same antagonists, less room to manoeuvre. Single-use plastic chokes every drain, river, and field in the country — and clogs the very canals whose blockage floods the capital. The secretary proposes a hard ban and a jute-bag mandate. The plastics industry, a big employer and donor, will fight to the death.",
+    "prompt": "A new chapter, the same antagonists, less room to manoeuvre. Single-use plastic chokes every drain, river, and field — and clogs the very canals whose blockage floods the capital. The secretary proposes a hard ban and a jute-bag mandate. The plastics industry, a big employer and donor, will fight to the death.",
     "left": {
       "id": "a",
       "label": "Hold off on the plastics ban.",
@@ -7654,7 +7654,7 @@
       "sands",
       "mining"
     ],
-    "prompt": "The old fault line widens; this time there is no quiet option. The coastal beaches hold valuable heavy-mineral sands — zircon, titanium, rare earths — that a foreign miner wants to extract. It would earn real money, but strip-mining the beaches would gut the storm-buffering dunes and the turtle nesting grounds.",
+    "prompt": "The old fault line widens; this time there is no quiet option. The coastal beaches hold valuable heavy-mineral sands — zircon, titanium, rare earths — that a foreign miner wants to extract. Real money, but strip-mining the beaches would gut the storm-buffering dunes and the turtle nesting grounds.",
     "left": {
       "id": "a",
       "label": "Approve the beach mineral mining.",
@@ -7690,7 +7690,7 @@
       "polder",
       "flood"
     ],
-    "prompt": "Time has not healed it — the conflict comes back armed. The coastal embankments that hold back the tides are decades old and failing; one big surge could drown a district. The chief needs a massive repair programme — or you can keep doing emergency patch-jobs after each breach, cheaper now and catastrophic later.",
+    "prompt": "Time has not healed it — the conflict comes back armed. The coastal embankments that hold back the tides are decades old and failing; one big surge could drown a district. Fund a massive repair programme, or keep doing emergency patch-jobs after each breach — cheaper now, catastrophic later?",
     "left": {
       "id": "a",
       "label": "Keep patching breaches as they come.",
@@ -7726,7 +7726,7 @@
       "limestone",
       "import"
     ],
-    "prompt": "Once again, and with the whole house holding its breath. The construction boom runs on cement made from imported clinker and limestone, draining dollars. A domestic limestone quarry in the hills could cut the import bill — at the cost of blasting a forested range the indigenous communities hold sacred.",
+    "prompt": "Once again, and with the whole house holding its breath. The construction boom runs on cement from imported clinker and limestone, draining dollars. A domestic limestone quarry in the hills could cut the import bill — at the cost of blasting a forested range the indigenous communities hold sacred.",
     "left": {
       "id": "a",
       "label": "Open the domestic limestone quarry.",
@@ -7762,7 +7762,7 @@
       "antibiotics",
       "exports"
     ],
-    "prompt": "The matter resurfaces in a harder year, patience exhausted. The booming farmed-fish and shrimp sector dopes its ponds with banned antibiotics, and Europe is threatening to reject the exports over residue limits. The director can crack down hard — costly and unpopular with farmers — or keep certifying and hope the testing misses it.",
+    "prompt": "The matter resurfaces in a harder year, patience exhausted. The booming farmed-fish and shrimp sector dopes its ponds with banned antibiotics, and Europe is threatening to reject the exports over residue limits. Crack down hard — costly and unpopular with farmers — or keep certifying and hope the testing misses it?",
     "left": {
       "id": "a",
       "label": "Keep certifying, hope the tests miss it.",
@@ -7800,7 +7800,7 @@
       "rivers",
       "navigation"
     ],
-    "prompt": "A later season of rule, the stakes now openly existential. The country's rivers — its cheapest highways — are silting up, stranding the cargo boats that move grain and goods. A vast dredging programme would reopen them, but the dredged spoil has to go somewhere, and the cheapest dumping ruins floodplains and fisheries.",
+    "prompt": "A later season of rule, the stakes now openly existential. The country's rivers — its cheapest highways — are silting up, stranding the cargo boats that move grain and goods. A vast dredging programme would reopen them, but the cheapest spoil dumping ruins floodplains and fisheries.",
     "left": {
       "id": "a",
       "label": "Dredge fast and dump spoil cheaply.",
@@ -7836,7 +7836,7 @@
       "gas",
       "bidding"
     ],
-    "prompt": "It comes around again, and the margin for error is gone. With the maritime boundary settled, you can finally open the deep offshore blocks to international bidding. The majors want generous, low-royalty terms to take the deep-water risk. The chairman asks how hard to bargain — gas in hand, or the nation's full share.",
+    "prompt": "It comes around again, and the margin for error is gone. With the maritime boundary settled, you can finally open the deep offshore blocks to international bidding. The majors want generous, low-royalty terms to take the deep-water risk. How hard do you bargain — gas in hand, or the nation's full share?",
     "left": {
       "id": "a",
       "label": "Offer generous terms to attract the majors.",
@@ -7872,7 +7872,7 @@
       "farmers",
       "import"
     ],
-    "prompt": "The same demand, but the reign is older and the knives sharper. A glut has crashed the price of locally-farmed salt, ruining the coastal salt-farmers, while industry lobbies to import cheap foreign salt for its factories. The secretary asks whether to protect the farmers with an import ban or let the cheap salt in.",
+    "prompt": "The same demand, but the reign is older and the knives sharper. A glut has crashed the price of locally-farmed salt, ruining the coastal salt-farmers, while industry lobbies to import cheap foreign salt. Protect the farmers with an import ban, or let the cheap salt in?",
     "left": {
       "id": "a",
       "label": "Allow the cheap salt imports.",
@@ -7908,7 +7908,7 @@
       "plantation",
       "biodiversity"
     ],
-    "prompt": "Years deep, the unresolved returns to be resolved for good. To hit your 'green coverage' targets cheaply, the department wants to blanket cleared hills with fast-growing acacia and eucalyptus monoculture — green on paper, but a desert for wildlife that sucks the water table dry. The alternative is slower native-species restoration.",
+    "prompt": "Years deep, the unresolved returns to be resolved for good. To hit your 'green coverage' targets cheaply, the department wants to blanket cleared hills with fast-growing acacia and eucalyptus — green on paper, but a desert for wildlife that sucks the water table dry. The alternative is slower native-species restoration.",
     "left": {
       "id": "a",
       "label": "Plant the fast monoculture for green targets.",
@@ -7944,7 +7944,7 @@
       "discovery",
       "windfall"
     ],
-    "prompt": "The conflict reignites, and the world is watching this time. Exploration has struck a major new onshore gas field — a genuine windfall. The chairman asks how to use it: burn it fast and cheap to win an easy few years of plenty, or husband it as a long-term reserve and feedstock for industry.",
+    "prompt": "The conflict reignites, and the world is watching this time. Exploration has struck a major new onshore gas field — a genuine windfall. Burn it fast and cheap to win an easy few years of plenty, or husband it as a long-term reserve and feedstock for industry?",
     "left": {
       "id": "a",
       "label": "Burn it fast for a few easy years.",
@@ -8018,7 +8018,7 @@
       "minerals",
       "cht"
     ],
-    "prompt": "The fault line cracks wider; the decision can no longer wait. A survey has found valuable minerals under indigenous land in the hill tracts. The communities, citing the peace accord, demand consent and a share; the mining lobby says national resources belong to the nation, accord or not. The officer awaits your call.",
+    "prompt": "The fault line cracks wider; the decision can no longer wait. A survey has found valuable minerals under indigenous land in the hill tracts. The communities, citing the peace accord, demand consent and a share; the mining lobby says national resources belong to the nation. The officer awaits your call.",
     "left": {
       "id": "a",
       "label": "Mine without indigenous consent.",
@@ -8056,7 +8056,7 @@
       "water",
       "metering"
     ],
-    "prompt": "Late in the reign, the old question demands a heavier answer. Free and unmetered irrigation power has farmers pumping groundwater with abandon. The head proposes prepaid meters on the irrigation pumps to curb the waste and the subsidy bleed — but a metered pump in a bad season is a farmer's ruin.",
+    "prompt": "Late in the reign, the old question demands a heavier answer. Free, unmetered irrigation power has farmers pumping groundwater with abandon. The head proposes prepaid meters to curb the waste and the subsidy bleed — but a metered pump in a bad season is a farmer's ruin.",
     "left": {
       "id": "a",
       "label": "Meter the irrigation pumps.",
@@ -8092,7 +8092,7 @@
       "safety",
       "workers"
     ],
-    "prompt": "It returns once more — and this round may be the one remembered. The ship-breaking beaches that feed the country's steel are death-traps — no safety gear, asbestos, men cut in half by falling plate, child labour at the torches. The inspector demands enforced standards; the yard owners say the margins cannot bear them.",
+    "prompt": "It returns once more — and this round may be the one remembered. The ship-breaking beaches that feed the country's steel are death-traps — no safety gear, asbestos, men cut in half by falling plate, child labour at the torches. The inspector demands enforced standards; the owners say the margins cannot bear them.",
     "left": {
       "id": "a",
       "label": "Leave the yards to their own ways.",
@@ -8129,7 +8129,7 @@
       "canal",
       "mega-project"
     ],
-    "prompt": "The reckoning circles back, grown teeth in the waiting. Engineers propose a colossal canal to divert water from the wet south to the drought-prone north — a nation-reshaping project. The chief calls it a permanent answer to the north's thirst; ecologists warn it could wreck the river systems at both ends.",
+    "prompt": "The reckoning circles back, grown teeth in the waiting. Engineers propose a colossal canal to divert water from the wet south to the drought-prone north — a nation-reshaping project. The chief calls it a permanent answer to the north's thirst; ecologists warn it could wreck the rivers at both ends.",
     "left": {
       "id": "a",
       "label": "Greenlight the grand canal.",
@@ -8165,7 +8165,7 @@
       "canal",
       "mega-project"
     ],
-    "prompt": "Another term, the same antagonist, the stakes raised again. You pressed ahead, and the canal's upstream intake has dried the wetlands and fisheries of the donor basin, igniting protests there even as the north celebrates its new water. The donor districts demand the intake be throttled back.",
+    "prompt": "Another term, the same antagonist, the stakes raised again. You pressed ahead, and the canal's intake has dried the wetlands and fisheries of the donor basin, igniting protests there even as the north celebrates its new water. The donor districts demand the intake be throttled back.",
     "left": {
       "id": "a",
       "label": "Keep the intake at full flow for the north.",
@@ -8201,7 +8201,7 @@
       "canal",
       "mega-project"
     ],
-    "prompt": "The matter, long deferred, lands with the force of a verdict. With the canal half-built and half-cursed, the contractors — politically connected — demand the full budget regardless of the scaled-back flow, threatening to abandon the works and sue. You can pay them off or face a stalled, litigated ruin in the landscape.",
+    "prompt": "The matter, long deferred, lands with the force of a verdict. With the canal half-built and half-cursed, the politically connected contractors demand the full budget regardless of the scaled-back flow, threatening to abandon the works and sue. Pay them off, or face a stalled, litigated ruin in the landscape?",
     "left": {
       "id": "a",
       "label": "Pay the contractors in full.",
@@ -8239,7 +8239,7 @@
       "blackout",
       "resilience"
     ],
-    "prompt": "Years on and unhealed, the conflict returns to claim its answer. The national grid is so brittle that a single fault can — and once did — black out the entire country at once. The chief wants a costly redesign with regional islanding and redundancy; the money is wanted elsewhere until the next nationwide blackout.",
+    "prompt": "Years on and unhealed, the conflict returns to claim its answer. The national grid is so brittle that a single fault can — and once did — black out the entire country at once. The chief wants a costly redesign with regional islanding and redundancy; the money is wanted elsewhere until the next blackout.",
     "left": {
       "id": "a",
       "label": "Fund the grid-resilience redesign.",
@@ -8275,7 +8275,7 @@
       "off-grid",
       "rural"
     ],
-    "prompt": "The same fault line, the harder hour, the narrower path. Remote villages can be reached either by costly grid extension or by the off-grid solar home systems the country pioneered. The chief asks whether to push solar to the last villages now, or wait years to bring them the grid that powers heavier loads.",
+    "prompt": "The same fault line, the harder hour, the narrower path. Remote villages can be reached by costly grid extension or by the off-grid solar home systems the country pioneered. Push solar to the last villages now, or wait years to bring them the grid that powers heavier loads?",
     "left": {
       "id": "a",
       "label": "Push off-grid solar to the last villages.",
@@ -8311,7 +8311,7 @@
       "retirement",
       "workers"
     ],
-    "prompt": "It comes back sharpened by every season you survived. Pressure mounts to retire the ageing, dirty coal plants ahead of schedule. Doing so cleans the air and the country's image, but strands billions in assets and throws thousands of plant and mine workers out of work in towns built around the coal.",
+    "prompt": "It comes back sharpened by every season you survived. Pressure mounts to retire the ageing, dirty coal plants ahead of schedule. Doing so cleans the air and the country's image, but strands billions in assets and throws thousands of plant and mine workers out of work in towns built on coal.",
     "left": {
       "id": "a",
       "label": "Retire the coal plants with a just transition.",
@@ -8349,7 +8349,7 @@
       "reserve",
       "resilience"
     ],
-    "prompt": "A later year of power, the old crisis now a true test of it. The country holds only days of fuel stock, leaving it dangerously exposed to any supply shock or blockade. The director wants a costly strategic petroleum reserve and bigger storage depots; the capital is large and the threat feels abstract in calm times.",
+    "prompt": "A later year of power, the old crisis now a true test of it. The country holds only days of fuel stock, leaving it dangerously exposed to any supply shock or blockade. The director wants a costly strategic petroleum reserve; the capital is large and the threat feels abstract in calm times.",
     "left": {
       "id": "a",
       "label": "Build a strategic fuel reserve.",
@@ -8385,7 +8385,7 @@
       "cooking",
       "health"
     ],
-    "prompt": "The unresolved returns, and this time it will not be deferred. Most rural households still cook on smoky biomass, ruining women's lungs and the forests. A push to make bottled LPG cheap and available would change that — through subsidy and a safe distribution network, or you can leave the woodsmoke as it is.",
+    "prompt": "The unresolved returns, and this time it will not be deferred. Most rural households still cook on smoky biomass, ruining women's lungs and the forests. A push to make bottled LPG cheap and available — through subsidy and a safe distribution network — would change that. Or leave the woodsmoke as it is?",
     "left": {
       "id": "a",
       "label": "Subsidise rural LPG access.",
@@ -8421,7 +8421,7 @@
       "gas",
       "dependence"
     ],
-    "prompt": "A term later, the same fault line tears open again. A regional gas pipeline could bring steady, cheaper gas across borders for decades — energy security of a kind — but it threads through and depends on neighbours' goodwill, and chains your grid to a fuel and a transit route others control.",
+    "prompt": "A term later, the same fault line tears open again. A regional gas pipeline could bring steady, cheaper gas across borders for decades — energy security of a kind — but it depends on neighbours' goodwill, chaining your grid to a fuel and transit route others control.",
     "left": {
       "id": "a",
       "label": "Commit to the cross-border gas pipeline.",
@@ -8458,7 +8458,7 @@
       "waste",
       "safety"
     ],
-    "prompt": "Years into your rule, the matter you thought buried resurfaces — harder. The new nuclear plant will soon produce spent fuel that must be stored safely for generations, and no permanent solution exists. The chairman can fund a proper long-term storage and safety regime now, or rely on the foreign builder's vague take-back promise and hope.",
+    "prompt": "Years into your rule, the matter you thought buried resurfaces — harder. The new nuclear plant will soon produce spent fuel that must be stored safely for generations, and no permanent solution exists. Fund a proper long-term storage and safety regime now, or rely on the foreign builder's vague take-back promise?",
     "left": {
       "id": "a",
       "label": "Fund proper long-term waste storage.",
@@ -8494,7 +8494,7 @@
       "industry",
       "grid"
     ],
-    "prompt": "A new season of power, an old problem with sharper teeth. Big factories run their own gas-fired captive power plants, abandoning the grid because it is unreliable — which starves the grid of its best customers and worsens it for everyone else. The regulator can force them back onto the grid, or let industry self-supply.",
+    "prompt": "A new season of power, an old problem with sharper teeth. Big factories run their own gas-fired captive power plants, abandoning the unreliable grid — which starves it of its best customers and worsens it for everyone else. Force them back onto the grid, or let industry self-supply?",
     "left": {
       "id": "a",
       "label": "Force big industry back onto the grid.",
@@ -8531,7 +8531,7 @@
       "seeds",
       "farmers"
     ],
-    "prompt": "The crisis returns, and this time the cabinet is watching. A genetically-modified pest-resistant crop could cut pesticide use and lift yields, but activists warn of seed-company dependence and unknown risks, and the public is uneasy. The director asks whether to approve and promote it or hold back.",
+    "prompt": "The crisis returns, and this time the cabinet is watching. A genetically-modified pest-resistant crop could cut pesticide use and lift yields, but activists warn of seed-company dependence and unknown risks, and the public is uneasy. Approve and promote it, or hold back?",
     "left": {
       "id": "a",
       "label": "Approve and promote the GM crop.",
@@ -8566,7 +8566,7 @@
       "greenbelt",
       "cyclone"
     ],
-    "prompt": "Once more the issue lands on your desk, the stakes higher than before. A planted mangrove greenbelt along the coast would blunt cyclones and storm surges and nurse fisheries — but the land is coveted for shrimp farms and salt pans, and the planting is slow and easily encroached. The chief asks whether to commit to the greenbelt.",
+    "prompt": "Once more the issue lands on your desk, the stakes higher than before. A planted mangrove greenbelt along the coast would blunt cyclones and storm surges and nurse fisheries — but the land is coveted for shrimp farms and salt pans, and the planting is slow and easily encroached. Commit to the greenbelt?",
     "left": {
       "id": "a",
       "label": "Commit to the coastal mangrove greenbelt.",
@@ -8676,7 +8676,7 @@
       "mining",
       "contracts"
     ],
-    "prompt": "History rhymes: the conflict reopens deeper than last time. The country's only hard-rock mine, run at a chronic loss under a padded foreign operating contract, supplies stone the construction boom craves. The director can renegotiate the corrupt contract and modernise — angering connected middlemen — or keep importing the difference.",
+    "prompt": "History rhymes: the conflict reopens deeper than last time. The country's only hard-rock mine, run at a chronic loss under a padded foreign contract, supplies stone the construction boom craves. Renegotiate the corrupt contract and modernise — angering connected middlemen — or keep importing the difference?",
     "left": {
       "id": "a",
       "label": "Renegotiate the contract and modernise.",
@@ -8712,7 +8712,7 @@
       "phosphate",
       "import"
     ],
-    "prompt": "Mid-reign, the old wound is torn afresh. The country imports nearly all the rock phosphate and potash its fertilizer depends on, leaving farmers exposed to world price spikes. The director wants costly long-term supply contracts and buffer stocks; the alternative is cheaper spot buying and exposure to the next shock.",
+    "prompt": "Mid-reign, the old wound is torn afresh. The country imports nearly all the rock phosphate and potash its fertilizer depends on, leaving farmers exposed to world price spikes. Lock in costly long-term supply contracts and buffers, or buy cheaper on the spot market and risk the next shock?",
     "left": {
       "id": "a",
       "label": "Lock in long-term supply and buffers.",
@@ -8748,7 +8748,7 @@
       "health",
       "forests"
     ],
-    "prompt": "The pressure you deferred has come due, larger now. Cheap, clean-burning improved cookstoves would cut the woodsmoke killing rural women and the deforestation feeding their fires — a modest, proven intervention that nonetheless needs subsidy, distribution, and the patience to change a deep habit.",
+    "prompt": "The pressure you deferred has come due, larger now. Cheap, clean-burning improved cookstoves would cut the woodsmoke killing rural women and the deforestation feeding their fires — a modest, proven intervention that still needs subsidy, distribution, and patience to change a deep habit.",
     "left": {
       "id": "a",
       "label": "Roll out improved cookstoves widely.",
@@ -8784,7 +8784,7 @@
       "contracts",
       "renegotiation"
     ],
-    "prompt": "A later term, and the quarrel has hardened into a test. The old independent power-producer contracts lock in dollar-indexed tariffs far above today's market, draining the utility — and they were signed with firms tied to your own party. The director can force a renegotiation, angering the donors, or honour the ruinous terms.",
+    "prompt": "A later term, and the quarrel has hardened into a test. The old independent power-producer contracts lock in dollar-indexed tariffs far above today's market, draining the utility — and they were signed with firms tied to your own party. Force a renegotiation and anger the donors, or honour the ruinous terms?",
     "left": {
       "id": "a",
       "label": "Force the IPP contracts down.",
@@ -8820,7 +8820,7 @@
       "surface",
       "groundwater"
     ],
-    "prompt": "The country has changed, but this fault line has not — only worsened. The big cities drink their aquifers dry because surface-water treatment is costly to build. The director wants a major shift to treated river water to save the sinking groundwater; the capital is enormous and the rivers themselves are filthy and need cleaning first.",
+    "prompt": "The country has changed, but this fault line has not — only worsened. The big cities drink their aquifers dry because surface-water treatment is costly to build. The director wants a major shift to treated river water to save the sinking groundwater; but the capital is enormous and the rivers themselves need cleaning first.",
     "left": {
       "id": "a",
       "label": "Build the surface-water supply system.",
@@ -8856,7 +8856,7 @@
       "livestock",
       "imports"
     ],
-    "prompt": "It returns, as these things do, with the patience gone. The country imports most of its milk powder while smallholder dairy farmers struggle for want of feed, breeds, and a fair market. The director wants a costly push for domestic dairy self-sufficiency; the importers and the cheaper foreign powder resist.",
+    "prompt": "It returns, as these things do, with the patience gone. The country imports most of its milk powder while smallholder dairy farmers struggle for want of feed, breeds, and a fair market. Drive a costly push for domestic dairy self-sufficiency, or keep importing the cheaper foreign powder?",
     "left": {
       "id": "a",
       "label": "Drive domestic dairy self-sufficiency.",
@@ -8892,7 +8892,7 @@
       "canals",
       "irrigation"
     ],
-    "prompt": "Years on, the matter is no longer private; the press is already circling. A vast programme to re-excavate the silted-up ponds and canals would restore irrigation, fish, and flood-buffering across the countryside — labour-intensive, leak-prone to local graft, but transformative for rural water. The officer asks whether to launch it big.",
+    "prompt": "Years on, the matter is no longer private; the press is already circling. A vast programme to re-excavate the silted-up ponds and canals would restore irrigation, fish, and flood-buffering across the countryside — labour-intensive, leak-prone to local graft, but transformative for rural water. Launch it big?",
     "left": {
       "id": "a",
       "label": "Launch the big re-excavation programme.",
@@ -8928,7 +8928,7 @@
       "monopoly",
       "sovereignty"
     ],
-    "prompt": "The same knot, retied tighter, lands before you once more. A handful of seed companies are cornering the market with hybrids that cannot be saved and replanted, binding farmers to buy anew each season. The director wants a strong public seed system to preserve farmer-saved varieties; the seed firms lobby hard against it.",
+    "prompt": "The same knot, retied tighter, lands before you once more. A handful of seed companies are cornering the market with hybrids that cannot be saved and replanted, binding farmers to buy anew each season. The director wants a strong public seed system to preserve farmer-saved varieties; the seed firms lobby hard.",
     "left": {
       "id": "a",
       "label": "Build a strong public seed system.",
@@ -8964,7 +8964,7 @@
       "fuel",
       "self-reliance"
     ],
-    "prompt": "Another monsoon, another return of an argument you cannot end. The country's lone, ancient oil refinery meets a fraction of fuel demand, so most fuel is imported already-refined at a premium. The director wants a costly second refinery for self-reliance; the alternative is to keep importing refined product and skip the capital.",
+    "prompt": "Another monsoon, another return of an argument you cannot end. The country's lone, ancient oil refinery meets a fraction of fuel demand, so most fuel is imported already-refined at a premium. Build a costly second refinery for self-reliance, or keep importing refined product and skip the capital?",
     "left": {
       "id": "a",
       "label": "Build the second refinery.",
@@ -8999,7 +8999,7 @@
       "rainwater",
       "aquifer"
     ],
-    "prompt": "Deep into the reign, the issue demands a final-sounding answer. As aquifers fall, a programme of managed recharge — capturing monsoon rain to refill the groundwater — could slow the decline. The officer wants mandatory rainwater harvesting in cities and recharge structures in the countryside; it is cheap per site but vast in scale and easy to neglect.",
+    "prompt": "Deep into the reign, the issue demands a final-sounding answer. As aquifers fall, a programme of managed recharge — capturing monsoon rain to refill the groundwater — could slow the decline. The officer wants mandatory rainwater harvesting and recharge structures; it is cheap per site but vast in scale and easy to neglect.",
     "left": {
       "id": "a",
       "label": "Mandate recharge and rainwater harvesting.",
@@ -9035,7 +9035,7 @@
       "diversification",
       "water"
     ],
-    "prompt": "The reckoning you postponed has matured into a crisis. The obsession with thirsty rice drains the aquifers and leaves diets and incomes undiversified. The director wants incentives to shift toward less-thirsty, higher-value crops — pulses, oilseeds, vegetables — against the grain of farmer habit and rice-centric food policy.",
+    "prompt": "The reckoning you postponed has matured into a crisis. The obsession with thirsty rice drains the aquifers and leaves diets and incomes undiversified. The director wants incentives to shift toward less-thirsty, higher-value crops — pulses, oilseeds, vegetables — against the grain of habit and rice-first policy.",
     "left": {
       "id": "a",
       "label": "Incentivise crop diversification.",
@@ -9071,7 +9071,7 @@
       "marine",
       "tourism"
     ],
-    "prompt": "A new chapter, the same antagonists, less room to manoeuvre. The coast's sea-turtle nesting beaches are being lost to lights, nets, and development. A protected hatchery-and-beach programme would save them and draw eco-tourism, at the cost of restricting the fishing and building that the coastal economy leans on.",
+    "prompt": "A new chapter, the same antagonists, less room to manoeuvre. The coast's sea-turtle nesting beaches are being lost to lights, nets, and development. A protected hatchery-and-beach programme would save them and draw eco-tourism, at the cost of restricting the fishing and building the coastal economy leans on.",
     "left": {
       "id": "a",
       "label": "Protect the nesting beaches and hatcheries.",
@@ -9107,7 +9107,7 @@
       "battery",
       "renewables"
     ],
-    "prompt": "The old fault line widens; this time there is no quiet option. Solar and wind are useless after dark and in calm without storage, and the grid cannot absorb them. The director wants a costly grid-scale battery programme to make renewables dispatchable; the alternative is to keep leaning on fossil plants for reliable power.",
+    "prompt": "The old fault line widens; this time there is no quiet option. Solar and wind are useless after dark and in calm without storage, and the grid cannot absorb them. Invest in a costly grid-scale battery programme to make renewables dispatchable, or keep leaning on fossil plants for reliable power?",
     "left": {
       "id": "a",
       "label": "Invest in grid-scale battery storage.",
@@ -9143,7 +9143,7 @@
       "system-loss",
       "theft"
     ],
-    "prompt": "Time has not healed it — the conflict comes back armed. A fifth of the piped gas vanishes through illegal connections, tampered meters, and bribed staff, much of it serving captive industrial and elite users. The chief can mount a hard anti-theft drive that hits connected beneficiaries, or keep absorbing the loss.",
+    "prompt": "Time has not healed it — the conflict comes back armed. A fifth of the piped gas vanishes through illegal connections, tampered meters, and bribed staff, much of it serving captive industrial and elite users. Mount a hard anti-theft drive that hits connected beneficiaries, or keep absorbing the loss?",
     "left": {
       "id": "a",
       "label": "Crack down on the gas theft.",
@@ -9179,7 +9179,7 @@
       "communities",
       "livelihoods"
     ],
-    "prompt": "Once again, and with the whole house holding its breath. A social-forestry scheme would let poor villagers grow and harvest trees on degraded state land — income for them, green cover for the country — but done carelessly it becomes a backdoor to clear-felling and grabbing the very forest it should grow. The chief asks how to design it.",
+    "prompt": "Once again, and with the whole house holding its breath. A social-forestry scheme would let poor villagers grow and harvest trees on degraded state land — income for them, green cover for the country — but done carelessly it becomes a backdoor to clear-felling and grabbing the very forest it should grow. How do you design it?",
     "left": {
       "id": "a",
       "label": "Run a genuine community social-forestry scheme.",
@@ -9215,7 +9215,7 @@
       "pilot",
       "innovation"
     ],
-    "prompt": "The matter resurfaces in a harder year, patience exhausted. The strong tidal range of the estuaries could, in theory, drive tidal power — a clean, novel source. A pilot would be costly and unproven, a gamble on innovation; the safe path is to stick with proven solar and wind and let others pioneer the tides.",
+    "prompt": "The matter resurfaces in a harder year, patience exhausted. The strong tidal range of the estuaries could, in theory, drive tidal power — a clean, novel source. A pilot would be a costly, unproven gamble on innovation; the safe path is to stick with proven solar and wind and let others pioneer the tides.",
     "left": {
       "id": "a",
       "label": "Fund the tidal-energy pilot.",
@@ -9251,7 +9251,7 @@
       "oilseed",
       "imports"
     ],
-    "prompt": "A later season of rule, the stakes now openly existential. The country imports almost all its cooking oil, draining dollars and leaving prices hostage to world markets. A push for domestic mustard, sunflower, and soy oilseed would build self-reliance — slow, and competing for the same scarce land as food grains.",
+    "prompt": "A later season of rule, the stakes now openly existential. The country imports almost all its cooking oil, draining dollars and leaving prices hostage to world markets. A push for domestic mustard, sunflower, and soy oilseed would build self-reliance — slow, and competing for the scarce land that grows food grains.",
     "left": {
       "id": "a",
       "label": "Drive domestic oilseed self-reliance.",
@@ -9287,7 +9287,7 @@
       "soe",
       "farmers"
     ],
-    "prompt": "It comes around again, and the margin for error is gone. The state sugar mills lose money every year on obsolete machinery and graft, but tens of thousands of cane farmers and mill workers depend on them. The chief can shut or privatise the worst, stemming the losses, or pour in another bailout and modernisation gamble.",
+    "prompt": "It comes around again, and the margin for error is gone. The state sugar mills lose money every year on obsolete machinery and graft, but tens of thousands of cane farmers and mill workers depend on them. Shut or privatise the worst to stem the losses, or pour in another bailout and modernisation gamble?",
     "left": {
       "id": "a",
       "label": "Shut or privatise the loss-making mills.",
@@ -9323,7 +9323,7 @@
       "cold-chain",
       "waste"
     ],
-    "prompt": "The same demand, but the reign is older and the knives sharper. A third of the fruit and vegetables rot between farm and market for want of storage, cold chain, and roads — a staggering waste that beggars farmers and inflates prices. The director wants a costly cold-chain and storage build; the capital is large and the gain diffuse.",
+    "prompt": "The same demand, but the reign is older and the knives sharper. A third of the fruit and vegetables rot between farm and market for want of storage, cold chain, and roads — a staggering waste that beggars farmers and inflates prices. The director wants a costly cold-chain build; the capital is large and the gain diffuse.",
     "left": {
       "id": "a",
       "label": "Build the cold chain and storage.",
@@ -9359,7 +9359,7 @@
       "bricks",
       "topsoil"
     ],
-    "prompt": "Years deep, the unresolved returns to be resolved for good. The coal plants pile up fly-ash as toxic waste, while the brick kilns devour the country's topsoil. Mandating fly-ash bricks would solve both — using the waste, sparing the soil — but it disrupts the entrenched clay-brick industry and its army of workers.",
+    "prompt": "Years deep, the unresolved returns to be resolved for good. The coal plants pile up fly-ash as toxic waste, while the brick kilns devour the country's topsoil. Mandating fly-ash bricks would solve both — using the waste, sparing the soil — but it disrupts the entrenched clay-brick industry and its workers.",
     "left": {
       "id": "a",
       "label": "Mandate fly-ash brick production.",
@@ -9395,7 +9395,7 @@
       "protected-area",
       "fisheries"
     ],
-    "prompt": "The conflict reignites, and the world is watching this time. Declaring a large marine protected area in the bay would let the overfished stocks recover and safeguard biodiversity — a long-term gift to the fishery — but it locks the trawler fleet and the artisanal fishers out of rich grounds in the short term.",
+    "prompt": "The conflict reignites, and the world is watching this time. Declaring a large marine protected area in the bay would let the overfished stocks recover and safeguard biodiversity — a long-term gift to the fishery — but it locks both trawlers and artisanal fishers out of rich grounds in the short term.",
     "left": {
       "id": "a",
       "label": "Declare the marine protected area.",
@@ -9431,7 +9431,7 @@
       "land",
       "evacuation"
     ],
-    "prompt": "A familiar crisis, escalated by everything you let slide. New power plants sit idle for want of transmission lines to evacuate their power, and the lines are stalled by land disputes and farmers refusing the towers across their fields. The director can force the right-of-way through with compulsory acquisition, or negotiate slow and fair.",
+    "prompt": "A familiar crisis, escalated by everything you let slide. New power plants sit idle for want of transmission lines, and the lines are stalled by land disputes and farmers refusing the towers across their fields. Force the right-of-way through with compulsory acquisition, or negotiate slow and fair?",
     "left": {
       "id": "a",
       "label": "Force the right-of-way through.",
@@ -9467,7 +9467,7 @@
       "forest",
       "expansion"
     ],
-    "prompt": "The fault line cracks wider; the decision can no longer wait. Tea companies want to expand their estates into adjoining reserve forest and indigenous land — more export tea, at the cost of felled forest and displaced hill communities. The officer asks whether to grant the leases or protect the forest and the people on it.",
+    "prompt": "The fault line cracks wider; the decision can no longer wait. Tea companies want to expand their estates into adjoining reserve forest and indigenous land — more export tea, at the cost of felled forest and displaced hill communities. Grant the leases, or protect the forest and the people on it?",
     "left": {
       "id": "a",
       "label": "Grant the tea-estate expansion.",
@@ -9504,7 +9504,7 @@
       "irrigation",
       "diesel"
     ],
-    "prompt": "Late in the reign, the old question demands a heavier answer. Replacing the diesel and grid pumps that irrigate the fields with solar-powered ones would slash the fuel bill and emissions and free farmers from fuel-price shocks — a large upfront cost, against the cheap, familiar diesel status quo.",
+    "prompt": "Late in the reign, the old question demands a heavier answer. Replacing the diesel and grid pumps that irrigate the fields with solar ones would slash the fuel bill and emissions and free farmers from fuel-price shocks — a large upfront cost, against the cheap, familiar diesel status quo.",
     "left": {
       "id": "a",
       "label": "Drive the solar-irrigation rollout.",
@@ -9540,7 +9540,7 @@
       "pesticides",
       "exports"
     ],
-    "prompt": "It returns once more — and this round may be the one remembered. The dried-fish trade — a coastal staple and growing export — is rife with illegal pesticide use to keep flies off the drying racks, poisoning consumers and threatening the export market. The officer wants enforcement and clean drying tech; the traders resist the cost.",
+    "prompt": "It returns once more — and this round may be the one remembered. The dried-fish trade — a coastal staple and growing export — is rife with illegal pesticide use to keep flies off the racks, poisoning consumers and threatening the export market. The officer wants enforcement and clean drying tech; the traders resist the cost.",
     "left": {
       "id": "a",
       "label": "Enforce clean drying, ban the pesticides.",
@@ -9576,7 +9576,7 @@
       "survey",
       "sovereignty"
     ],
-    "prompt": "The reckoning circles back, grown teeth in the waiting. A thorough national mineral survey could reveal coal, gas, hard rock, and rare minerals worth fortunes — knowledge that is power, and a magnet for foreign extractors and the conflicts that follow discovery. The director asks whether to survey aggressively or tread lightly.",
+    "prompt": "The reckoning circles back, grown teeth in the waiting. A thorough national mineral survey could reveal coal, gas, hard rock, and rare minerals worth fortunes — knowledge that is power, and a magnet for foreign extractors and the conflicts that follow discovery. Survey aggressively, or tread lightly?",
     "left": {
       "id": "a",
       "label": "Survey aggressively and map the wealth.",
@@ -9611,7 +9611,7 @@
       "afforestation",
       "land"
     ],
-    "prompt": "Another term, the same antagonist, the stakes raised again. Planting forests on the new coastal chars would stabilise the silt islands, buffer storms, and eventually create land for the landless — slow, unglamorous work, easily neglected, competing with the rush to hand the chars to shrimp farms and grabbers.",
+    "prompt": "Another term, the same antagonist, the stakes raised again. Planting forests on the new coastal chars would stabilise the silt islands, buffer storms, and eventually create land for the landless — slow, unglamorous work, easily neglected against the rush to hand the chars to shrimp farms and grabbers.",
     "left": {
       "id": "a",
       "label": "Fund char afforestation and stabilisation.",
@@ -9649,7 +9649,7 @@
       "landless",
       "elite"
     ],
-    "prompt": "The matter, long deferred, lands with the force of a verdict. Land-ceiling laws meant to cap how much one family can own are flouted wholesale through benami holdings, while millions are landless. The commissioner wants real enforcement and redistribution of the surplus; the great landholders, many connected, will fight to the death.",
+    "prompt": "The matter, long deferred, lands with the force of a verdict. Land-ceiling laws meant to cap how much one family can own are flouted wholesale through benami holdings, while millions are landless. The commissioner wants real enforcement and redistribution of the surplus; the great landholders, many connected, will fight hard.",
     "left": {
       "id": "a",
       "label": "Enforce the land ceiling and redistribute.",
@@ -9685,7 +9685,7 @@
       "labour",
       "yields"
     ],
-    "prompt": "Years on and unhealed, the conflict returns to claim its answer. Mechanising the farms — harvesters, tillers, transplanters — would raise yields and ease the brutal labour, especially as workers leave for the cities. But it would also throw landless farm labourers, who have nothing else, out of their only work. The director asks how hard to push.",
+    "prompt": "Years on and unhealed, the conflict returns to claim its answer. Mechanising the farms — harvesters, tillers, transplanters — would raise yields and ease the brutal labour as workers leave for the cities. But it would also throw landless farm labourers, who have nothing else, out of their only work. How hard do you push?",
     "left": {
       "id": "a",
       "label": "Push mechanisation hard.",
@@ -9721,7 +9721,7 @@
       "used-oil",
       "pollution"
     ],
-    "prompt": "The same fault line, the harder hour, the narrower path. Used engine oil and scrap tyres are dumped or burned in toxic backyard operations that poison soil and air. A formal recycling and pyrolysis industry could turn the waste to value cleanly — at a cost the informal burners and dumpers will resist.",
+    "prompt": "The same fault line, the harder hour, the narrower path. Used engine oil and scrap tyres are dumped or burned in toxic backyard operations that poison soil and air. A formal recycling and pyrolysis industry could turn the waste to value cleanly — at a cost the informal burners will resist.",
     "left": {
       "id": "a",
       "label": "Build formal oil and tyre recycling.",
@@ -9757,7 +9757,7 @@
       "solar",
       "investment"
     ],
-    "prompt": "It comes back sharpened by every season you survived. A generous feed-in tariff guaranteeing a good price for renewable power fed to the grid would unleash private solar and wind investment — at a cost locked in for years that the utility, and ultimately the consumer, must bear. The regulator asks how generous to be.",
+    "prompt": "It comes back sharpened by every season you survived. A generous feed-in tariff guaranteeing a good price for renewable power fed to the grid would unleash private solar and wind investment — at a cost locked in for years that the utility, and ultimately the consumer, must bear. How generous do you set it?",
     "left": {
       "id": "a",
       "label": "Set a generous feed-in tariff.",
@@ -9792,7 +9792,7 @@
       "seabed",
       "claim"
     ],
-    "prompt": "A later year of power, the old crisis now a true test of it. With the maritime boundary settled, you can press an extended continental-shelf claim to vast seabed resources beyond — a potential bonanza of gas and minerals, and a costly, years-long legal and survey effort that may antagonise neighbours with overlapping claims.",
+    "prompt": "A later year of power, the old crisis now a true test of it. With the maritime boundary settled, you can press an extended continental-shelf claim to the seabed beyond — a potential bonanza of gas and minerals, and a costly, years-long legal and survey effort that may antagonise neighbours with overlapping claims.",
     "left": {
       "id": "a",
       "label": "Press the extended shelf claim.",
@@ -9827,7 +9827,7 @@
       "tourism",
       "conservation"
     ],
-    "prompt": "The unresolved returns, and this time it will not be deferred. A grand safari park and eco-resort carved out of a forest reserve would draw tourists and revenue — and fragment the habitat, cage wildlife for show, and hand prime forest to resort developers. The officer asks whether to build the attraction or protect the reserve intact.",
+    "prompt": "The unresolved returns, and this time it will not be deferred. A grand safari park and eco-resort carved out of a forest reserve would draw tourists and revenue — and fragment the habitat, cage wildlife for show, and hand prime forest to resort developers. Build the attraction, or protect the reserve intact?",
     "left": {
       "id": "a",
       "label": "Build the safari park and eco-resort.",
@@ -9863,7 +9863,7 @@
       "ethanol",
       "food"
     ],
-    "prompt": "A term later, the same fault line tears open again. Molasses from the sugar mills could be turned into ethanol to blend with petrol, cutting fuel imports and using a waste stream — or that same feedstock and land could feed the food and drink industries. The officer asks whether to mandate biofuel blending.",
+    "prompt": "A term later, the same fault line tears open again. Molasses from the sugar mills could be turned into ethanol to blend with petrol, cutting fuel imports and using a waste stream — or that same feedstock could feed the food and drink industries. Mandate biofuel blending?",
     "left": {
       "id": "a",
       "label": "Mandate ethanol blending.",
@@ -9898,7 +9898,7 @@
       "hydro",
       "storage"
     ],
-    "prompt": "Years into your rule, the matter you thought buried resurfaces — harder. With little room for big dams, the engineers propose a pumped-storage scheme in the hills — a giant battery using water and gravity to store surplus power. It is costly, geologically risky, and would flood a hill valley, displacing the communities who live there.",
+    "prompt": "Years into your rule, the matter you thought buried resurfaces — harder. With little room for big dams, the engineers propose a pumped-storage scheme in the hills — a giant battery using water and gravity to store surplus power. It is costly, geologically risky, and would flood a hill valley, displacing its communities.",
     "left": {
       "id": "a",
       "label": "Build the pumped-storage scheme.",
@@ -9935,7 +9935,7 @@
       "iodine",
       "health"
     ],
-    "prompt": "A new season of power, an old problem with sharper teeth. Iodine deficiency still stunts minds in the regions where un-iodised salt slips through, and enforcement of universal salt iodisation is lax. The officer wants a hard enforcement and monitoring drive; the small, scattered salt producers resist the cost and oversight.",
+    "prompt": "A new season of power, an old problem with sharper teeth. Iodine deficiency still stunts minds in the regions where un-iodised salt slips through, and enforcement of universal salt iodisation is lax. The officer wants a hard enforcement drive; the small, scattered salt producers resist the cost and oversight.",
     "left": {
       "id": "a",
       "label": "Enforce universal salt iodisation.",
@@ -9970,7 +9970,7 @@
       "silos",
       "food-security"
     ],
-    "prompt": "The crisis returns, and this time the cabinet is watching. The country's grain reserve rots in damp, rat-infested warehouses, losing a fortune and leaving the buffer unreliable in a crisis. The director wants modern steel silos to hold a real reserve; the capital is large and the warehouse-supply rackets that profit from the chaos resist.",
+    "prompt": "The crisis returns, and this time the cabinet is watching. The country's grain reserve rots in damp, rat-infested warehouses, losing a fortune and leaving the buffer unreliable in a crisis. The director wants modern steel silos; the capital is large and the warehouse rackets that profit from the chaos resist.",
     "left": {
       "id": "a",
       "label": "Build modern grain silos.",
@@ -10007,7 +10007,7 @@
       "bird-flu",
       "biosecurity"
     ],
-    "prompt": "Once more the issue lands on your desk, the stakes higher than before. The booming backyard and commercial poultry industry — cheap protein for millions — is a tinderbox for bird flu, with poor biosecurity and a culling-compensation system too stingy to stop farmers hiding outbreaks. The director wants real biosecurity and fair compensation; it is costly.",
+    "prompt": "Once more the issue lands on your desk, the stakes higher than before. The booming poultry industry — cheap protein for millions — is a tinderbox for bird flu, with poor biosecurity and culling-compensation too stingy to stop farmers hiding outbreaks. The director wants real biosecurity and fair compensation; it is costly.",
     "left": {
       "id": "a",
       "label": "Fund biosecurity and fair culling pay.",
@@ -10042,7 +10042,7 @@
       "tenancy",
       "rights"
     ],
-    "prompt": "Another year survived, and the reckoning circles back. Millions of sharecroppers till others' land for a punishing share of the crop, with no security and no recourse when a landlord evicts them at whim. The officer wants enforceable tenancy rights and a fairer crop-share; the landlord class, woven into local power, resists fiercely.",
+    "prompt": "Another year survived, and the reckoning circles back. Millions of sharecroppers till others' land for a punishing share of the crop, with no security and no recourse when a landlord evicts them at whim. The officer wants enforceable tenancy rights and a fairer share; the landlord class resists fiercely.",
     "left": {
       "id": "a",
       "label": "Enforce tenancy rights and a fair share.",
@@ -10078,7 +10078,7 @@
       "standards",
       "demand"
     ],
-    "prompt": "The ground has shifted; the same demand arrives with new menace. The cheapest power is the power not used, and mandatory energy-efficiency standards for buildings, motors, and appliances would cut demand more cheaply than any new plant. The director wants hard standards; manufacturers and developers resist the cost and the enforcement.",
+    "prompt": "The ground has shifted; the same demand arrives with new menace. The cheapest power is the power not used, and mandatory energy-efficiency standards for buildings, motors, and appliances would cut demand more cheaply than any new plant. The director wants hard standards; manufacturers and developers resist the cost.",
     "left": {
       "id": "a",
       "label": "Mandate hard efficiency standards.",
@@ -10114,7 +10114,7 @@
       "fleet",
       "sovereignty"
     ],
-    "prompt": "History rhymes: the conflict reopens deeper than last time. Your fishers work only the crowded coastal waters while the rich deep-sea zone of your own maritime territory is fished by licensed foreign trawlers. The director wants to build a national deep-sea fleet to claim that catch; it is costly and the fishers lack the vessels and skills.",
+    "prompt": "History rhymes: the conflict reopens deeper than last time. Your fishers work only the crowded coastal waters while the rich deep-sea zone of your own maritime territory is fished by licensed foreign trawlers. The director wants a national deep-sea fleet to claim that catch; it is costly and the fishers lack the vessels and skills.",
     "left": {
       "id": "a",
       "label": "Build a national deep-sea fleet.",
@@ -10150,7 +10150,7 @@
       "fruit",
       "exports"
     ],
-    "prompt": "Mid-reign, the old wound is torn afresh. The country's mangoes, jackfruit, and vegetables could earn real export money, but they rot for want of cold chain, fail foreign pesticide-residue tests, and lack branding. The director wants a costly push for export-grade horticulture; the alternative is to keep them a domestic crop.",
+    "prompt": "Mid-reign, the old wound is torn afresh. The country's mangoes, jackfruit, and vegetables could earn real export money, but they rot for want of cold chain, fail foreign pesticide tests, and lack branding. Invest in a costly push for export-grade horticulture, or keep them a domestic crop?",
     "left": {
       "id": "a",
       "label": "Invest in export-grade horticulture.",
@@ -10187,7 +10187,7 @@
       "craft",
       "livelihoods"
     ],
-    "prompt": "The pressure you deferred has come due, larger now. Bamboo and cane sustain vast craft and construction livelihoods and could anchor a sustainable green industry — but the resource is being stripped unsustainably and the artisans are sliding into poverty. The officer wants a managed-cultivation and value-chain push, or you can let it dwindle.",
+    "prompt": "The pressure you deferred has come due, larger now. Bamboo and cane sustain vast craft and construction livelihoods and could anchor a sustainable green industry — but the resource is being stripped bare and the artisans are sliding into poverty. Build a managed-cultivation and value-chain push, or let it dwindle?",
     "left": {
       "id": "a",
       "label": "Build a sustainable bamboo value chain.",
@@ -10223,7 +10223,7 @@
       "disease",
       "hatchery"
     ],
-    "prompt": "A later term, and the quarrel has hardened into a test. Disease keeps wiping out the shrimp farms — a major export — because the hatcheries sell weak, virus-laden post-larvae and farmers lack any quality control. The director wants certified disease-free hatcheries and farmer training; the cheap-PL hatchery trade resists.",
+    "prompt": "A later term, and the quarrel has hardened into a test. Disease keeps wiping out the shrimp farms — a major export — because the hatcheries sell weak, virus-laden post-larvae and farmers lack any quality control. The director wants certified disease-free hatcheries and training; the cheap-PL hatchery trade resists.",
     "left": {
       "id": "a",
       "label": "Mandate certified disease-free hatcheries.",
@@ -10259,7 +10259,7 @@
       "efficiency",
       "demand"
     ],
-    "prompt": "The country has changed, but this fault line has not — only worsened. Air-conditioning is exploding with the heat and the middle class, spiking peak demand and the grid's strain. A district-cooling and efficiency push could blunt it; the developers and the AC-importing lobby prefer the cheap, wasteful status quo.",
+    "prompt": "The country has changed, but this fault line has not — only worsened. Air-conditioning is exploding with the heat and the middle class, spiking peak demand and grid strain. A district-cooling and efficiency push could blunt it; the developers and the AC-importing lobby prefer the cheap, wasteful status quo.",
     "left": {
       "id": "a",
       "label": "Push district cooling and AC standards.",
@@ -10332,7 +10332,7 @@
       "certification",
       "exports"
     ],
-    "prompt": "Years on, the matter is no longer private; the press is already circling. A credible safe-food and organic certification scheme would let farmers earn premiums at home and abroad and reassure consumers poisoned by adulteration — a costly system to build and police, easily faked into a meaningless sticker if done on the cheap.",
+    "prompt": "Years on, the matter is no longer private; the press is already circling. A credible safe-food and organic certification scheme would let farmers earn premiums and reassure consumers poisoned by adulteration — a costly system to build and police, easily faked into a meaningless sticker if done on the cheap.",
     "left": {
       "id": "a",
       "label": "Build a rigorous certification scheme.",
@@ -10368,7 +10368,7 @@
       "billing",
       "losses"
     ],
-    "prompt": "The same knot, retied tighter, lands before you once more. Smart meters would end the bribed meter-readers, estimated bills, and theft that plague the utilities — and let you bill accurately and cut losses. They are costly to roll out, and consumers fear higher, harder-to-dodge bills and the surveillance of their usage.",
+    "prompt": "The same knot, retied tighter, lands before you once more. Smart meters would end the bribed meter-readers, estimated bills, and theft that plague the utilities — and let you bill accurately and cut losses. They are costly to roll out, and consumers fear higher, harder-to-dodge bills.",
     "left": {
       "id": "a",
       "label": "Roll out smart meters widely.",
@@ -10404,7 +10404,7 @@
       "biopiracy",
       "communities"
     ],
-    "prompt": "Another monsoon, another return of an argument you cannot end. The country's forests hold medicinal plants and genetic resources that foreign firms quietly harvest and patent — biopiracy of a heritage worth fortunes. The officer wants a benefit-sharing and protection regime; it is complex and could deter the research investment too.",
+    "prompt": "Another monsoon, another return of an argument you cannot end. The country's forests hold medicinal plants and genetic resources that foreign firms quietly harvest and patent — biopiracy of a heritage worth fortunes. The officer wants a benefit-sharing and protection regime; it is complex and could deter research investment too.",
     "left": {
       "id": "a",
       "label": "Build a benefit-sharing protection regime.",
@@ -10440,7 +10440,7 @@
       "co-management",
       "commons"
     ],
-    "prompt": "Deep into the reign, the issue demands a final-sounding answer. The open-water fisheries — the beels and floodplains feeding millions — are being plundered by leaseholders and gear that wipe out the stocks. The director wants community co-management handing the waters to the fishers who depend on them; the politically-connected leaseholders resist.",
+    "prompt": "Deep into the reign, the issue demands a final-sounding answer. The open-water fisheries — the beels and floodplains feeding millions — are being plundered by leaseholders and gear that wipe out the stocks. The director wants community co-management handing the waters to the fishers; the connected leaseholders resist.",
     "left": {
       "id": "a",
       "label": "Hand the waters to community co-management.",
@@ -10477,7 +10477,7 @@
       "waste",
       "rural"
     ],
-    "prompt": "The reckoning you postponed has matured into a crisis. Rural cattle dung and farm waste could fuel village-scale biogas plants — clean cooking gas and fertiliser slurry from waste — cutting woodsmoke and firewood demand. The officer wants a national biogas push; uptake has always stalled on cost, maintenance, and habit.",
+    "prompt": "The reckoning you postponed has matured into a crisis. Rural cattle dung and farm waste could fuel village-scale biogas plants — clean cooking gas and fertiliser slurry from waste — cutting woodsmoke and firewood demand. The officer wants a national biogas push; uptake has always stalled on cost and habit.",
     "left": {
       "id": "a",
       "label": "Drive a national biogas programme.",
@@ -10513,7 +10513,7 @@
       "import",
       "livestock"
     ],
-    "prompt": "A new chapter, the same antagonists, less room to manoeuvre. Livestock and dairy are throttled by costly imported feed, and the maize and fodder to grow it domestically compete for land with food grains. The director wants a feed-crop and fodder push to cut the import bill; the land is scarce and the food-first lobby resists.",
+    "prompt": "A new chapter, the same antagonists, less room to manoeuvre. Livestock and dairy are throttled by costly imported feed, and the maize and fodder to grow it at home compete for land with food grains. The director wants a feed-crop push to cut the import bill; the land is scarce and the food-first lobby resists.",
     "left": {
       "id": "a",
       "label": "Push domestic feed and fodder.",
@@ -10549,7 +10549,7 @@
       "refining",
       "graft"
     ],
-    "prompt": "The old fault line widens; this time there is no quiet option. Condensate — a valuable liquid byproduct of gas extraction — is being siphoned to private 'fractionation' plants owned by connected operators at giveaway prices, robbing the state of the value. The officer can reclaim and properly auction it, or leave the cosy arrangement.",
+    "prompt": "The old fault line widens; this time there is no quiet option. Condensate — a valuable liquid byproduct of gas extraction — is being siphoned to private 'fractionation' plants owned by connected operators at giveaway prices, robbing the state. Reclaim and properly auction it, or leave the cosy arrangement?",
     "left": {
       "id": "a",
       "label": "Reclaim and auction the condensate.",
@@ -10621,7 +10621,7 @@
       "irrigation",
       "water"
     ],
-    "prompt": "Once again, and with the whole house holding its breath. The flood-irrigation that waters the fields wastes most of the water it draws, draining the aquifers faster than need demands. Drip and sprinkler systems would slash that waste; they are costly upfront and unfamiliar, and the water and power are cheap enough that few farmers bother.",
+    "prompt": "Once again, and with the whole house holding its breath. The flood-irrigation that waters the fields wastes most of the water it draws, draining the aquifers faster than need demands. Drip and sprinkler systems would slash that waste; they are costly upfront, and water and power are cheap enough that few farmers bother.",
     "left": {
       "id": "a",
       "label": "Subsidise efficient irrigation.",
@@ -10657,7 +10657,7 @@
       "efficiency",
       "cogeneration"
     ],
-    "prompt": "The matter resurfaces in a harder year, patience exhausted. Factories waste vast energy through old motors, leaky steam, and dumped waste-heat. Mandating energy audits and cogeneration would cut industry's huge energy bill and the grid's load; the manufacturers resist the audits and the retrofit cost.",
+    "prompt": "The matter resurfaces in a harder year, patience exhausted. Factories waste vast energy through old motors, leaky steam, and dumped waste-heat. Mandating energy audits and cogeneration would cut industry's energy bill and the grid's load; the manufacturers resist the audits and the retrofit cost.",
     "left": {
       "id": "a",
       "label": "Mandate industrial energy audits and retrofits.",
@@ -10692,7 +10692,7 @@
       "ice",
       "waste"
     ],
-    "prompt": "A later season of rule, the stakes now openly existential. A huge share of the marine catch spoils for want of ice, landing centres, and cold storage at the coast, beggaring fishers and wasting protein. The director wants a coastal cold-chain and landing-centre build; the capital is large and the gain spread thinly along the coast.",
+    "prompt": "A later season of rule, the stakes now openly existential. A huge share of the marine catch spoils for want of ice, landing centres, and cold storage at the coast, beggaring fishers and wasting protein. The director wants a coastal cold-chain and landing-centre build; the capital is large and the gain spread thin.",
     "left": {
       "id": "a",
       "label": "Build coastal landing and cold storage.",
@@ -10728,7 +10728,7 @@
       "quarrying",
       "environment"
     ],
-    "prompt": "It comes around again, and the margin for error is gone. A granite deposit could supply valuable dimension stone and cut imports, but quarrying it means blasting a forested hill that buffers a watershed and shelters indigenous hamlets. The officer asks whether to open the quarry or leave the hill standing.",
+    "prompt": "It comes around again, and the margin for error is gone. A granite deposit could supply valuable dimension stone and cut imports, but quarrying it means blasting a forested hill that buffers a watershed and shelters indigenous hamlets. Open the quarry, or leave the hill standing?",
     "left": {
       "id": "a",
       "label": "Open the granite quarry.",
@@ -10764,7 +10764,7 @@
       "peak",
       "tariff"
     ],
-    "prompt": "The same demand, but the reign is older and the knives sharper. Peak evening demand strains the grid to breaking, forcing costly, dirty peaker plants to fire up. Time-of-use tariffs and demand-management could shave the peak cheaply; consumers resent paying more at peak hours and the populist instinct is to keep one flat, low price.",
+    "prompt": "The same demand, but the reign is older and the knives sharper. Peak evening demand strains the grid to breaking, forcing costly, dirty peaker plants to fire up. Time-of-use tariffs and demand-management could shave the peak cheaply; consumers resent paying more at peak hours and the populist instinct is one flat, low price.",
     "left": {
       "id": "a",
       "label": "Introduce time-of-use tariffs.",
@@ -10800,7 +10800,7 @@
       "import",
       "health"
     ],
-    "prompt": "Years deep, the unresolved returns to be resolved for good. Cheap imported palm oil dominates the cooking-oil market — affordable, but linked to poorer health and to rainforest destruction abroad your imports fund. The officer asks whether to tax and curb it in favour of domestic and healthier oils, or keep the cheap staple flowing.",
+    "prompt": "Years deep, the unresolved returns to be resolved for good. Cheap imported palm oil dominates the cooking-oil market — affordable, but linked to poorer health and to rainforest destruction your imports fund. Tax and curb it in favour of domestic, healthier oils, or keep the cheap staple flowing?",
     "left": {
       "id": "a",
       "label": "Curb palm oil for domestic, healthier oils.",
@@ -10836,7 +10836,7 @@
       "strategy",
       "future"
     ],
-    "prompt": "The conflict reignites, and the world is watching this time. The decades-long power master plan must be set, and the chairman lays out the fork: double down on cheap, reliable imported coal and LNG for the growth the economy demands, or stake the future on a costlier, slower pivot to renewables and efficiency.",
+    "prompt": "The conflict reignites, and the world is watching this time. The decades-long power master plan must be set, and the chairman lays out the fork: double down on cheap, reliable imported coal and LNG for the growth the economy demands, or stake the future on a costlier, slower pivot to renewables?",
     "left": {
       "id": "a",
       "label": "Build the fossil-heavy power plan.",
@@ -10874,7 +10874,7 @@
       "strategy",
       "future"
     ],
-    "prompt": "A familiar crisis, escalated by everything you let slide. Years into the plan you chose, the bills are coming due — fuel-price shocks battering the fossil bet, or intermittency and cost straining the green one. The chairman asks whether to stay the course or hedge with a costly mid-stream correction.",
+    "prompt": "A familiar crisis, escalated by everything you let slide. Years into the plan you chose, the bills are coming due — fuel-price shocks battering the fossil bet, or intermittency and cost straining the green one. Stay the course, or hedge with a costly mid-stream correction?",
     "left": {
       "id": "a",
       "label": "Stay the course you set.",
@@ -10910,7 +10910,7 @@
       "strategy",
       "future"
     ],
-    "prompt": "The fault line cracks wider; the decision can no longer wait. The energy strategy has become a political symbol — the opposition hammers every blackout or price rise as proof of your folly, while your base defends the plan as visionary. The chairman asks whether to defend it loudly or quietly let the next plan correct it.",
+    "prompt": "The fault line cracks wider; the decision can no longer wait. The energy strategy has become a political symbol — the opposition hammers every blackout or price rise as proof of your folly, while your base defends the plan as visionary. Defend it loudly, or quietly let the next plan correct it?",
     "left": {
       "id": "a",
       "label": "Defend the strategy loudly.",

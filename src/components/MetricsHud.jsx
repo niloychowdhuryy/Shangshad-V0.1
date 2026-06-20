@@ -25,8 +25,11 @@ export default function MetricsHud({ metrics, glow = new Set(), deltas = {} }) {
           <div
             key={m.id}
             title={overflow ? `${m.name}: ${m.value}% — OVERFLOWING (fatal at 120%)` : `${m.name}: ${m.value}%`}
-            className="relative flex flex-col items-center gap-1 bg-panel/90 px-1 py-2.5"
-            style={overflow ? { boxShadow: `inset 0 0 0 1px ${OVERFLOW_COLOR}66` } : undefined}
+            className="relative z-0 flex flex-col items-center gap-1 bg-panel/90 px-1 py-2.5 transition-transform duration-300"
+            style={{
+              ...(overflow ? { boxShadow: `inset 0 0 0 1px ${OVERFLOW_COLOR}66` } : {}),
+              ...(isGlowing ? { transform: 'scale(1.12)', zIndex: 10 } : {}),
+            }}
           >
             <span
               className={isGlowing || overflow ? 'animate-metric-pulse' : ''}

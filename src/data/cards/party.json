@@ -11,7 +11,7 @@
       "caretaker",
       "legitimacy"
     ],
-    "prompt": "The opposition will boycott unless you hand the election to a neutral caretaker administration, as the old custom demanded. \"Concede the caretaker,\" the Secretary warns, \"and you might lose. Refuse, and you win a vote the world calls a sham.\"",
+    "prompt": "The opposition will boycott unless you hand the election to a neutral caretaker administration. \"Concede the caretaker,\" the Secretary warns, \"and you might lose. Refuse, and you win a vote the world calls a sham.\"",
     "left": {
       "id": "a",
       "label": "Refuse the caretaker, hold the vote under your government.",
@@ -120,7 +120,7 @@
       "blockade",
       "violence"
     ],
-    "prompt": "The opposition has called a week of hartals and transport blockades; petrol bombs are landing on buses and the economy is freezing by the day. The coordinator wants to flood the streets with your own cadres to 'break' the blockade by force.",
+    "prompt": "The opposition has called a week of hartals and transport blockades; petrol bombs are landing on buses and the economy is freezing. The coordinator wants to flood the streets with your own cadres to 'break' the blockade by force.",
     "left": {
       "id": "a",
       "label": "Deploy party cadres to break the blockade.",
@@ -195,7 +195,7 @@
       "alliance",
       "secularism"
     ],
-    "prompt": "A powerful religious movement offers its street power and its voters — in exchange for a blasphemy law, control of textbook content, and a quiet end to certain women's-rights reforms. The emissary smiles: \"We can fill any square in the country.\"",
+    "prompt": "A powerful religious movement offers its street power and its voters — in exchange for a blasphemy law, control of textbooks, and a quiet end to certain women's-rights reforms. The emissary smiles: \"We can fill any square in the country.\"",
     "left": {
       "id": "a",
       "label": "Take the alliance and its demands.",
@@ -232,7 +232,7 @@
       "tribunal",
       "justice"
     ],
-    "prompt": "The tribunal trying the 1971 war criminals is both a genuine reckoning and a useful weapon against today's opposition. The prosecutor asks how far to push — strict evidence and slow justice, or fast verdicts that thrill the base and decimate your rivals.",
+    "prompt": "The tribunal trying the 1971 war criminals is both a genuine reckoning and a useful weapon against today's opposition. How far do you push — strict evidence and slow justice, or fast verdicts that thrill the base and decimate your rivals?",
     "left": {
       "id": "a",
       "label": "Push fast, sweeping verdicts.",
@@ -269,7 +269,7 @@
       "campus",
       "extortion"
     ],
-    "prompt": "Your student wing controls the campuses through guest-room torture, tender extortion, and seat-control of the halls. The president wants more autonomy and more money. A reformist faction inside the party wants the wing reined in before it becomes a scandal.",
+    "prompt": "Your student wing controls the campuses through guest-room torture, tender extortion, and seat-control of the halls. The president wants more autonomy and money; a reformist faction wants the wing reined in before it becomes a scandal.",
     "left": {
       "id": "a",
       "label": "Empower the student wing further.",
@@ -305,7 +305,7 @@
       "dynasty",
       "loyalty"
     ],
-    "prompt": "The grey-haired council that has run the party for decades wants you to anoint your child as heir-apparent now, to 'preserve unity'. The reformers warn that a dynastic coronation will hollow the party of every talent who is not your blood.",
+    "prompt": "The grey-haired council that has run the party for decades wants you to anoint your child as heir-apparent now, to 'preserve unity'. The reformers warn a dynastic coronation will hollow the party of every talent who is not your blood.",
     "left": {
       "id": "a",
       "label": "Anoint your child as successor.",
@@ -343,7 +343,7 @@
       "courts",
       "lawfare"
     ],
-    "prompt": "A graft case decades old has finally ripened against the opposition leader. Convict her and she is barred from the next election; the bench will rule whichever way you nod. \"One judgment,\" the Attorney General murmurs, \"and your only rival watches the vote from a cell.\"",
+    "prompt": "A decades-old graft case has finally ripened against the opposition leader. Convict her and she is barred from the next election; the bench will rule whichever way you nod. \"One judgment,\" the Attorney General murmurs, \"and your only rival watches the vote from a cell.\"",
     "left": {
       "id": "a",
       "label": "Push the conviction and the ban.",
@@ -379,7 +379,7 @@
       "courts",
       "lawfare"
     ],
-    "prompt": "With the leader jailed, her elderly frame ailing in custody, the prison doctor warns that a death behind your bars would make her a martyr forever. Her family begs for hospital release; your hardliners call it weakness.",
+    "prompt": "With the leader jailed and ailing in custody, the prison doctor warns that a death behind your bars would make her a martyr forever. Her family begs for hospital release; your hardliners call it weakness.",
     "left": {
       "id": "a",
       "label": "Keep her confined, deny the release.",
@@ -601,7 +601,7 @@
       "disinformation",
       "online"
     ],
-    "prompt": "Your party's online cell wants a budget to flood the networks with fake personas — smearing critics, manufacturing trends, and burying inconvenient news under coordinated noise. The commander promises 'we win the feed before they wake up.'",
+    "prompt": "Your party's online cell wants a budget to flood the networks with fake personas — smearing critics, manufacturing trends, burying inconvenient news under coordinated noise. The commander promises 'we win the feed before they wake up.'",
     "left": {
       "id": "a",
       "label": "Fund the troll army.",
@@ -637,7 +637,7 @@
       "allies",
       "leverage"
     ],
-    "prompt": "Your largest junior partner threatens to walk unless it gets a deputy-premiership and three more ministries — a price that would let its leader posture as co-ruler. Lose them and your majority cracks; keep them and you feed a rival under your roof.",
+    "prompt": "Your largest junior partner threatens to walk unless it gets a deputy-premiership and three more ministries — a price that lets its leader posture as co-ruler. Lose them and your majority cracks; keep them and you feed a rival under your roof.",
     "left": {
       "id": "a",
       "label": "Pay the price and keep the coalition whole.",
@@ -674,7 +674,7 @@
       "no-confidence",
       "discipline"
     ],
-    "prompt": "A no-confidence motion is on the order paper, and a dozen of your backbenchers are wavering. The Whip can break it with a mix of threats, frozen contracts, and midnight visits — or you can win the floor by actually answering the grievance behind the revolt.",
+    "prompt": "A no-confidence motion is on the order paper, and a dozen of your backbenchers are wavering. Break it with the Whip's threats, frozen contracts, and midnight visits — or win the floor by actually answering the grievance behind the revolt?",
     "left": {
       "id": "a",
       "label": "Crush the revolt with the Whip's methods.",
@@ -711,7 +711,7 @@
       "term-limits",
       "power"
     ],
-    "prompt": "Your jurists can draft an amendment scrapping term limits altogether, clearing the way for indefinite rule. The two-thirds majority is within reach. The adviser notes the obvious: it is also the clearest possible signal that you intend never to leave.",
+    "prompt": "Your jurists can draft an amendment scrapping term limits altogether, clearing the way for indefinite rule, and the two-thirds majority is within reach. The adviser notes the obvious: it is also the clearest signal that you intend never to leave.",
     "left": {
       "id": "a",
       "label": "Abolish term limits.",
@@ -748,7 +748,7 @@
       "rivals",
       "repression"
     ],
-    "prompt": "You have the legal pretext to ban a troublesome rival party outright — dissolve it, seize its offices, bar its symbol. It would erase a threat in a stroke. It would also tell every other party that the law is just your hammer.",
+    "prompt": "You have the legal pretext to ban a troublesome rival party outright — dissolve it, seize its offices, bar its symbol. It would erase a threat in a stroke — and tell every other party that the law is just your hammer.",
     "left": {
       "id": "a",
       "label": "Ban the rival party.",
@@ -784,7 +784,7 @@
       "patrons",
       "graft"
     ],
-    "prompt": "The industrialist who has bankrolled three of your campaigns now wants his return: a state bank licence, a tax holiday, and a port concession. The treasurer reminds you the next campaign cannot be fought without him.",
+    "prompt": "The industrialist who bankrolled three of your campaigns now wants his return: a state bank licence, a tax holiday, and a port concession. The treasurer reminds you the next campaign cannot be fought without him.",
     "left": {
       "id": "a",
       "label": "Grant the patron his rewards.",
@@ -821,7 +821,7 @@
       "extortion",
       "control"
     ],
-    "prompt": "Your most effective ward boss runs his neighbourhood through extortion, land-grabbing, and a leash on the local police. He delivers turnout like clockwork. A rival within the party says he is a scandal waiting to detonate.",
+    "prompt": "Your most effective ward boss runs his neighbourhood through extortion, land-grabbing, and a leash on the local police, and delivers turnout like clockwork. A rival within the party says he is a scandal waiting to detonate.",
     "left": {
       "id": "a",
       "label": "Keep the strongman and his turnout.",
@@ -857,7 +857,7 @@
       "representation",
       "reserved-seats"
     ],
-    "prompt": "The reserved women's seats are yours to fill. The wing chief urges you to seat genuine grassroots women organisers; the fixers want them handed to wives and daughters of male donors as a courtesy. The seats are a signal either way.",
+    "prompt": "The reserved women's seats are yours to fill. The wing chief urges genuine grassroots women organisers; the fixers want them handed to wives and daughters of male donors as a courtesy. The seats are a signal either way.",
     "left": {
       "id": "a",
       "label": "Reward donors' kin with the seats.",
@@ -895,7 +895,7 @@
       "loyalty",
       "betrayal"
     ],
-    "prompt": "One of your own MPs — popular, principled, and increasingly loud about corruption — is being courted by the opposition. The Whip offers two routes: ruin him pre-emptively with a leaked file, or win him back with a real hearing for his complaints.",
+    "prompt": "One of your own MPs — popular, principled, increasingly loud about corruption — is being courted by the opposition. The Whip offers two routes: ruin him pre-emptively with a leaked file, or win him back with a real hearing.",
     "left": {
       "id": "a",
       "label": "Pre-empt him with a smear file.",
@@ -932,7 +932,7 @@
       "spectacle",
       "mobilisation"
     ],
-    "prompt": "The party's national council is your chance for a million-strong show of force in the capital. The coordinator wants every district to bus in cadres — paid, fed, and housed at the party's cost — to fill the maidan and overawe rivals.",
+    "prompt": "The party's national council is your chance for a million-strong show of force in the capital. The coordinator wants every district to bus in cadres — paid, fed, and housed at party cost — to fill the maidan and overawe rivals.",
     "left": {
       "id": "a",
       "label": "Stage the million-strong spectacle.",
@@ -969,7 +969,7 @@
       "execution",
       "timing"
     ],
-    "prompt": "A war-criminal's final appeal is exhausted and the gallows wait. Carrying out the sentence on the eve of the election would electrify your base and dare the opposition to defend a collaborator. The prosecutor asks: justice on its own clock, or yours?",
+    "prompt": "A war-criminal's final appeal is exhausted and the gallows wait. Carrying out the sentence on the eve of the election would electrify your base and dare the opposition to defend a collaborator. Justice on its own clock, or yours?",
     "left": {
       "id": "a",
       "label": "Time the execution for maximum advantage.",
@@ -1006,7 +1006,7 @@
       "dynasty",
       "naming"
     ],
-    "prompt": "A proposal lands to rename the largest airport, a university, and a string of bridges after your family's founding figures. It would stamp the dynasty on the map for generations. Critics call it the cult swallowing the state.",
+    "prompt": "A proposal lands to rename the largest airport, a university, and a string of bridges after your family's founding figures, stamping the dynasty on the map for generations. Critics call it the cult swallowing the state.",
     "left": {
       "id": "a",
       "label": "Approve the renamings.",
@@ -1043,7 +1043,7 @@
       "election-day",
       "violence"
     ],
-    "prompt": "On polling day, your cadres in a contested district can seize the booths in the last hour, eject the rival's agents, and stuff the boxes. The coordinator says it locks twelve seats. It also produces twelve seats no one will believe.",
+    "prompt": "On polling day, your cadres in a contested district can seize the booths in the last hour, eject the rival's agents, and stuff the boxes. The coordinator says it locks twelve seats — twelve seats no one will believe.",
     "left": {
       "id": "a",
       "label": "Order the booth captures.",
@@ -1117,7 +1117,7 @@
       "parliament",
       "fairness"
     ],
-    "prompt": "The Speaker's chair is yours to fill. A partisan Speaker would gag the opposition, ram bills through, and rule every point of order your way. A genuinely neutral one would let the house breathe — and occasionally let your rivals land a blow.",
+    "prompt": "The Speaker's chair is yours to fill. A partisan Speaker would gag the opposition, ram bills through, and rule every point of order your way. A neutral one would let the house breathe — and occasionally let your rivals land a blow.",
     "left": {
       "id": "a",
       "label": "Install a partisan Speaker.",
@@ -1153,7 +1153,7 @@
       "funding",
       "foreign"
     ],
-    "prompt": "Your overseas chapters can funnel large, lightly-documented donations home through hundi channels. The secretary calls it patriotic generosity; the law calls it illegal foreign funding. It would fatten the chest and tie you to money you cannot explain.",
+    "prompt": "Your overseas chapters can funnel large, lightly-documented donations home through hundi channels. The secretary calls it patriotic generosity; the law calls it illegal foreign funding that ties you to money you cannot explain.",
     "left": {
       "id": "a",
       "label": "Accept the diaspora hundi money.",
@@ -1190,7 +1190,7 @@
       "secularism",
       "vote-bank"
     ],
-    "prompt": "The Hindu and minority vote has long been a reliable bloc for you against the religious right — but only if you protect it. After a spate of temple attacks, the convenor warns that token sympathy will not hold them; visible protection will, at a cost with the majority bloc.",
+    "prompt": "The Hindu and minority vote has long been a reliable bloc for you against the religious right — but only if you protect it. After a spate of temple attacks, the convenor warns that token sympathy will not hold them; visible protection will, at a cost with the majority.",
     "left": {
       "id": "a",
       "label": "Offer words, avoid antagonising the majority.",
@@ -1227,7 +1227,7 @@
       "election",
       "manipulation"
     ],
-    "prompt": "To make an uncontested vote look competitive, the director proposes fielding 'independent' dummy candidates loyal to you — fake opposition to manufacture the appearance of a real race after the true opposition boycotts.",
+    "prompt": "To make an uncontested vote look competitive, the director proposes fielding 'independent' dummy candidates loyal to you — fake opposition to manufacture the look of a real race after the true opposition boycotts.",
     "left": {
       "id": "a",
       "label": "Field the dummy candidates.",
@@ -1263,7 +1263,7 @@
       "purge",
       "patronage"
     ],
-    "prompt": "The bureaucracy is full of officers who served the last government. The secretary offers a sweeping reshuffle — sideline the suspect, promote the loyal — to make the machine answer to you alone. It would be efficient, and it would gut the service's neutrality.",
+    "prompt": "The bureaucracy is full of officers who served the last government. The secretary offers a sweeping reshuffle — sideline the suspect, promote the loyal — to make the machine answer to you alone. Efficient — and it would gut the service's neutrality.",
     "left": {
       "id": "a",
       "label": "Purge and pack the civil service.",
@@ -1299,7 +1299,7 @@
       "martyrs",
       "narrative"
     ],
-    "prompt": "The anniversary of the party's founding massacre approaches. The historian wants the commemoration weaponised — every speech aimed at branding today's opposition as the heirs of the killers. It rouses the faithful and poisons the well further.",
+    "prompt": "The anniversary of the party's founding massacre approaches. The historian wants the commemoration weaponised — every speech branding today's opposition as the heirs of the killers. It rouses the faithful and poisons the well further.",
     "left": {
       "id": "a",
       "label": "Weaponise the commemoration.",
@@ -1336,7 +1336,7 @@
       "appointments",
       "independence"
     ],
-    "prompt": "Two seats on the apex court are vacant and a major case on your government's legality is pending. The minister can elevate two reliable judges in time to hear it — or appoint on seniority and merit and let the case fall where it may.",
+    "prompt": "Two seats on the apex court are vacant and a major case on your government's legality is pending. Elevate two reliable judges in time to hear it, or appoint on seniority and merit and let the case fall where it may?",
     "left": {
       "id": "a",
       "label": "Pack the bench before the case.",
@@ -1372,7 +1372,7 @@
       "accountability",
       "local"
     ],
-    "prompt": "The grassroots of a key district are in open revolt against their sitting MP — your man — for years of arrogance and graft. They threaten to sit out the campaign. You can back the incumbent and his machine, or back the workers and dump him.",
+    "prompt": "The grassroots of a key district are in open revolt against their sitting MP — your man — for years of arrogance and graft, and threaten to sit out the campaign. Back the incumbent and his machine, or back the workers and dump him?",
     "left": {
       "id": "a",
       "label": "Stand by the incumbent.",
@@ -1410,7 +1410,7 @@
       "patronage",
       "youth"
     ],
-    "prompt": "Tens of thousands of government jobs are about to be advertised. The minister can quietly reserve a large share for party families and youth-wing cadres — buying a generation of loyalty — or run them on open merit and let the chips fall.",
+    "prompt": "Tens of thousands of government jobs are about to be advertised. Quietly reserve a large share for party families and youth-wing cadres — buying a generation of loyalty — or run them on open merit and let the chips fall?",
     "left": {
       "id": "a",
       "label": "Reserve the jobs for the faithful.",
@@ -1448,7 +1448,7 @@
       "rivals",
       "unity"
     ],
-    "prompt": "A senior leader who broke with you years ago — taking a faction with him — now seeks to return. He brings votes and organisers, but also ambition and a grudge. The Secretary asks whether to welcome him or let him rot outside.",
+    "prompt": "A senior leader who broke with you years ago — taking a faction with him — now seeks to return. He brings votes and organisers, but also ambition and a grudge. Welcome him back, or let him rot outside?",
     "left": {
       "id": "a",
       "label": "Welcome him back with honours.",
@@ -1522,7 +1522,7 @@
       "boycott",
       "legitimacy"
     ],
-    "prompt": "With the opposition boycotting parliament entirely, you can ram through a year's worth of contentious bills against empty benches — no debate, no scrutiny. The leader of the house calls it efficient; the press calls it one-party rule by another name.",
+    "prompt": "With the opposition boycotting parliament entirely, you can ram through a year's worth of contentious bills against empty benches — no debate, no scrutiny. The leader of the house calls it efficient; the press calls it one-party rule.",
     "left": {
       "id": "a",
       "label": "Pass the bills against empty benches.",
@@ -1558,7 +1558,7 @@
       "election",
       "trust"
     ],
-    "prompt": "The Commission wants to roll out electronic voting machines nationwide. Your technicians can configure them to be auditable and transparent — or quietly opaque, with no paper trail to contradict the reported count. The opposition already distrusts the boxes.",
+    "prompt": "The Commission wants to roll out electronic voting machines nationwide. Your technicians can make them auditable and transparent — or quietly opaque, with no paper trail to contradict the reported count. The opposition already distrusts the boxes.",
     "left": {
       "id": "a",
       "label": "Deploy opaque machines, no paper trail.",
@@ -1595,7 +1595,7 @@
       "polling",
       "agents"
     ],
-    "prompt": "The chief proposes a quiet campaign of pressure on the opposition's polling agents in the marginals — late-night visits, false cases filed, families warned — so their booths go unwatched on the day. No watcher, no challenge.",
+    "prompt": "The chief proposes a quiet campaign of pressure on the opposition's polling agents in the marginals — late-night visits, false cases, families warned — so their booths go unwatched on the day. No watcher, no challenge.",
     "left": {
       "id": "a",
       "label": "Approve the intimidation campaign.",
@@ -1631,7 +1631,7 @@
       "poaching",
       "majority"
     ],
-    "prompt": "A charismatic opposition MP — clean, articulate, a future leader on their side — is privately willing to cross to you, for a ministry and a free hand in his district. Poaching him weakens them and strengthens you, but signals that everything is for sale.",
+    "prompt": "A charismatic opposition MP — clean, articulate, a future leader on their side — will privately cross to you for a ministry and a free hand in his district. Poaching him weakens them and strengthens you, but signals that everything is for sale.",
     "left": {
       "id": "a",
       "label": "Poach him with a ministry and a free hand.",
@@ -1668,7 +1668,7 @@
       "symbol",
       "advantage"
     ],
-    "prompt": "The liaison can rig the small things that move the illiterate vote: your symbol first on every ballot, the opposition's buried, your candidates listed at the top. Tiny thumbs on the scale, individually deniable, collectively decisive.",
+    "prompt": "The liaison can rig the small things that move the illiterate vote: your symbol first on every ballot, the opposition's buried, your candidates at the top. Tiny thumbs on the scale, individually deniable, collectively decisive.",
     "left": {
       "id": "a",
       "label": "Stack the ballot in your favour.",
@@ -1704,7 +1704,7 @@
       "dhaka",
       "election"
     ],
-    "prompt": "The capital's mayoral race is a referendum on your rule, and your candidate is a lacklustre loyalist. The manager can pour state resources into rigging it safe, or you can swap in a genuinely popular outsider who might owe you less.",
+    "prompt": "The capital's mayoral race is a referendum on your rule, and your candidate is a lacklustre loyalist. Pour state resources into rigging it safe, or swap in a genuinely popular outsider who might owe you less?",
     "left": {
       "id": "a",
       "label": "Rig the loyalist's win with state muscle.",
@@ -1742,7 +1742,7 @@
       "arson",
       "escalation"
     ],
-    "prompt": "A renewed blockade has turned lethal — buses torched with passengers inside, a child among the dead. The coordinator wants to answer fire with fire and send your cadres to torch the opposition's offices in return. The cycle would consume the season.",
+    "prompt": "A renewed blockade has turned lethal — buses torched with passengers inside, a child among the dead. The coordinator wants to answer fire with fire and send your cadres to torch the opposition's offices. The cycle would consume the season.",
     "left": {
       "id": "a",
       "label": "Retaliate in kind against their offices.",
@@ -1780,7 +1780,7 @@
       "founder",
       "cult"
     ],
-    "prompt": "A grand mausoleum-museum complex for the party's founder is proposed at vast expense, to be the obligatory pilgrimage of every schoolchild and official. The historian calls it national memory; critics call it the cult cast in marble.",
+    "prompt": "A grand mausoleum-museum complex for the party's founder is proposed at vast expense, the obligatory pilgrimage of every schoolchild and official. The historian calls it national memory; critics call it the cult cast in marble.",
     "left": {
       "id": "a",
       "label": "Build the grand complex.",
@@ -1818,7 +1818,7 @@
       "garments",
       "wages"
     ],
-    "prompt": "Your party's labour wing wants to lead the garment workers' wage agitation — a million votes if you deliver, but a collision with the factory owners who fund you. The secretary asks whose side the party is really on.",
+    "prompt": "Your party's labour wing wants to lead the garment workers' wage agitation — a million votes if you deliver, but a collision with the factory owners who fund you. Whose side is the party really on?",
     "left": {
       "id": "a",
       "label": "Side with the factory owners.",
@@ -1856,7 +1856,7 @@
       "barometer",
       "risk"
     ],
-    "prompt": "A by-election in a swing seat is a live test of your standing. The director can sandbag it with the usual machinery for a safe win that tells you nothing, or let it run clean as an honest barometer — and risk a humiliating loss that emboldens the opposition.",
+    "prompt": "A by-election in a swing seat is a live test of your standing. Sandbag it with the usual machinery for a safe win that tells you nothing, or let it run clean as an honest barometer — and risk a humiliating loss that emboldens the opposition?",
     "left": {
       "id": "a",
       "label": "Sandbag the by-election safe.",
@@ -1892,7 +1892,7 @@
       "press",
       "speech"
     ],
-    "prompt": "A prominent editor has accused your government of corruption in print. The minister can have him hauled up for contempt and sedition, jailing him and chilling the rest — or you can answer the charge with evidence and let him print.",
+    "prompt": "A prominent editor has accused your government of corruption in print. Have him hauled up for contempt and sedition, jailing him and chilling the rest — or answer the charge with evidence and let him print?",
     "left": {
       "id": "a",
       "label": "Jail the editor for contempt.",
@@ -1929,7 +1929,7 @@
       "discipline",
       "law"
     ],
-    "prompt": "Article 70 already lets you expel any MP who votes against the party line, making your benches utterly obedient. The adviser proposes tightening it further, criminalising even abstention. It would end dissent — and end parliament as anything but a chorus.",
+    "prompt": "Article 70 already lets you expel any MP who votes against the party line, making your benches utterly obedient. The adviser proposes tightening it further, criminalising even abstention — ending dissent, and parliament as anything but a chorus.",
     "left": {
       "id": "a",
       "label": "Tighten the law against all dissent.",
@@ -1965,7 +1965,7 @@
       "allies",
       "arithmetic"
     ],
-    "prompt": "Seat-sharing talks with your allies are deadlocked. You can bully the small partners into accepting scraps — keeping the lion's share for your own candidates — or share generously to keep the alliance genuinely broad and grateful.",
+    "prompt": "Seat-sharing talks with your allies are deadlocked. Bully the small partners into accepting scraps — keeping the lion's share for your own candidates — or share generously to keep the alliance genuinely broad and grateful?",
     "left": {
       "id": "a",
       "label": "Keep the lion's share for your own.",
@@ -2040,7 +2040,7 @@
       "election",
       "legitimacy"
     ],
-    "prompt": "Foreign and domestic election observers have applied for accreditation. You can stall and restrict them — limiting where they go, what they see — to keep the managed parts of the vote out of frame, or accredit them fully and run a vote that can bear watching.",
+    "prompt": "Foreign and domestic election observers have applied for accreditation. Stall and restrict them — limiting where they go and what they see — to keep the managed parts of the vote out of frame, or accredit them fully and run a vote that can bear watching?",
     "left": {
       "id": "a",
       "label": "Restrict and stall the observers.",
@@ -2076,7 +2076,7 @@
       "lawfare",
       "selective"
     ],
-    "prompt": "The graft watchdog is yours to aim. The chair awaits a target list: pursue only the opposition and your own clean rivals, or let the Commission investigate without fear or favour — including, inevitably, your own ministers.",
+    "prompt": "The graft watchdog is yours to aim. The chair awaits a target list: pursue only the opposition and your clean rivals, or let the Commission investigate without fear or favour — including, inevitably, your own ministers.",
     "left": {
       "id": "a",
       "label": "Aim the Commission at rivals only.",
@@ -2114,7 +2114,7 @@
       "constitution",
       "power"
     ],
-    "prompt": "You can amend away the caretaker-government provision permanently, ensuring every future election is held under a sitting government — yours, for now. It locks in a structural advantage forever, and locks in the grievance that fuels every boycott.",
+    "prompt": "You can amend away the caretaker-government provision permanently, ensuring every future election is held under a sitting government — yours, for now. It locks in a structural advantage forever — and the grievance that fuels every boycott.",
     "left": {
       "id": "a",
       "label": "Abolish the caretaker system for good.",
@@ -2299,7 +2299,7 @@
       "health",
       "dynasty"
     ],
-    "prompt": "Your own health is failing faster than the public knows. The physician urges you to name and groom a successor now, while you can shape the transition — but doing so makes you a lame duck the moment it is announced, and the vultures will gather.",
+    "prompt": "Your own health is failing faster than the public knows. The physician urges you to name and groom a successor now, while you can shape the transition — but doing so makes you a lame duck the moment it is announced.",
     "left": {
       "id": "a",
       "label": "Conceal it; rule as though immortal.",
@@ -2337,7 +2337,7 @@
       "dispute",
       "credibility"
     ],
-    "prompt": "The opposition demands a recount in a flagship seat your candidate narrowly 'won'. The liaison can refuse on a technicality and let the result stand, or grant a transparent recount — which might overturn the seat and dent your majority.",
+    "prompt": "The opposition demands a recount in a flagship seat your candidate narrowly 'won'. Refuse on a technicality and let the result stand, or grant a transparent recount that might overturn the seat and dent your majority?",
     "left": {
       "id": "a",
       "label": "Refuse the recount on a technicality.",
@@ -2373,7 +2373,7 @@
       "national-day",
       "narrative"
     ],
-    "prompt": "The national-day broadcasts are yours to script. You can rewrite the founding story to centre your family and erase rivals' contributions — cementing the dynasty as the nation's sole author — or tell an inclusive history that shares the credit.",
+    "prompt": "The national-day broadcasts are yours to script. Rewrite the founding story to centre your family and erase rivals' contributions — cementing the dynasty as the nation's sole author — or tell an inclusive history that shares the credit?",
     "left": {
       "id": "a",
       "label": "Rewrite history around the family.",
@@ -2446,7 +2446,7 @@
       "plot",
       "loyalty"
     ],
-    "prompt": "Whispers reach you that two senior ministers are quietly sounding out the army and the opposition about a post-you future. The chief offers proof through surveillance — or you can confront them in the open and force their hand.",
+    "prompt": "Whispers reach you that two senior ministers are quietly sounding out the army and the opposition about a post-you future. Surveil them for proof, or confront them in the open and force their hand?",
     "left": {
       "id": "a",
       "label": "Surveil and quietly neutralise them.",
@@ -2484,7 +2484,7 @@
       "family",
       "corruption"
     ],
-    "prompt": "A corruption scandal has surfaced that leads, unmistakably, to a member of your own family. The Secretary can bury it with the usual machinery, or you can let an inquiry proceed and accept the wound to the dynasty's image.",
+    "prompt": "A corruption scandal has surfaced that leads, unmistakably, to a member of your own family. Bury it with the usual machinery, or let an inquiry proceed and accept the wound to the dynasty's image?",
     "left": {
       "id": "a",
       "label": "Bury the scandal.",
@@ -2522,7 +2522,7 @@
       "promises",
       "credibility"
     ],
-    "prompt": "The next manifesto is being drafted. The chair can load it with extravagant, undeliverable promises that thrill crowds and win the cycle — or write a sober, costed platform that under-promises and can actually be kept.",
+    "prompt": "The next manifesto is being drafted. Load it with extravagant, undeliverable promises that thrill crowds and win the cycle — or write a sober, costed platform that under-promises and can actually be kept?",
     "left": {
       "id": "a",
       "label": "Promise the moon to win the cycle.",
@@ -2559,7 +2559,7 @@
       "protest",
       "blame"
     ],
-    "prompt": "Your student wing attacked a peaceful protest on campus, and the footage is everywhere. The president wants you to back the cadres and blame 'outside agitators'; the reformers want the attackers disciplined and an apology issued.",
+    "prompt": "Your student wing attacked a peaceful protest on campus, and the footage is everywhere. The president wants you to back the cadres and blame 'outside agitators'; the reformers want the attackers disciplined and an apology.",
     "left": {
       "id": "a",
       "label": "Back the cadres, blame outsiders.",
@@ -2597,7 +2597,7 @@
       "opposition",
       "reconciliation"
     ],
-    "prompt": "Through a respected intermediary, the opposition offers talks: end the boycott, accept your term, in exchange for electoral reforms and the release of jailed activists. The hardliners call it a trap; the statesman calls it the only exit from a deepening crisis.",
+    "prompt": "Through a respected intermediary, the opposition offers talks: end the boycott and accept your term, in exchange for electoral reforms and the release of jailed activists. The hardliners call it a trap; the statesman calls it the only exit from a deepening crisis.",
     "left": {
       "id": "a",
       "label": "Refuse the talks, govern alone.",
@@ -2670,7 +2670,7 @@
       "rules",
       "control"
     ],
-    "prompt": "With the rules settled, a charismatic provincial leader has won a groundswell of delegates and could challenge your chosen slate on the congress floor. You can disqualify him on a procedural pretext, or let the floor decide.",
+    "prompt": "With the rules settled, a charismatic provincial leader has won a groundswell of delegates and could challenge your chosen slate on the congress floor. Disqualify him on a procedural pretext, or let the floor decide?",
     "left": {
       "id": "a",
       "label": "Disqualify him on a pretext.",
@@ -2708,7 +2708,7 @@
       "press",
       "intimidation"
     ],
-    "prompt": "The secretary proposes blanketing critical journalists and opposition figures with dozens of defamation suits across distant districts — not to win them, but to bury the targets in travel, lawyers, and fear. It is harassment dressed as law.",
+    "prompt": "The secretary proposes blanketing critical journalists and opposition figures with dozens of defamation suits across distant districts — not to win, but to bury the targets in travel, lawyers, and fear. It is harassment dressed as law.",
     "left": {
       "id": "a",
       "label": "Launch the blanket defamation suits.",
@@ -2744,7 +2744,7 @@
       "press",
       "intimidation"
     ],
-    "prompt": "One suit went ahead anyway, filed by an overzealous local leader, and a young reporter now sits in jail awaiting a hearing months away. The case is a national embarrassment. You can let it grind on, or intervene to free her.",
+    "prompt": "One suit went ahead anyway, filed by an overzealous local leader, and a young reporter now sits in jail awaiting a hearing months away — a national embarrassment. Let it grind on, or intervene to free her?",
     "left": {
       "id": "a",
       "label": "Let the case grind on.",
@@ -2780,7 +2780,7 @@
       "constituencies",
       "advantage"
     ],
-    "prompt": "The constituency boundaries are due for redrawing, and the commissioner can carve them to pack your opponents into a few seats and spread your voters thinly across many — a quiet, permanent advantage few will notice and none can easily prove.",
+    "prompt": "The constituency boundaries are due for redrawing, and the commissioner can pack your opponents into a few seats and spread your voters thinly across many — a quiet, permanent advantage few will notice and none can easily prove.",
     "left": {
       "id": "a",
       "label": "Gerrymander the boundaries to your advantage.",
@@ -3146,7 +3146,7 @@
       "faction",
       "discipline"
     ],
-    "prompt": "A heavyweight regional leader threatens to break away and form a rival party, taking a chunk of your organisation with him. The Secretary can crush him pre-emptively with expulsions and cases, or accommodate his demands to keep the tent whole.",
+    "prompt": "A heavyweight regional leader threatens to break away and form a rival party, taking a chunk of your organisation with him. Crush him pre-emptively with expulsions and cases, or accommodate his demands to keep the tent whole?",
     "left": {
       "id": "a",
       "label": "Crush him before he can split.",
@@ -3183,7 +3183,7 @@
       "left",
       "ideology"
     ],
-    "prompt": "A small but disciplined leftist party offers an alliance — useful street muscle and intellectual credibility — but its price is a swing left on labour, land, and privatisation that would spook your business donors. The manager weighs muscle against money.",
+    "prompt": "A small but disciplined leftist party offers an alliance — useful street muscle and intellectual credibility — but its price is a swing left on labour, land, and privatisation that would spook your business donors. Muscle, or money?",
     "left": {
       "id": "a",
       "label": "Ally with the left, swing on policy.",
@@ -3220,7 +3220,7 @@
       "collaborators",
       "1971"
     ],
-    "prompt": "You can move to ban outright the religious party whose leaders collaborated in the 1971 atrocities — a genuine reckoning that also conveniently removes an opposition ally. The prosecutor notes the line between justice and political weapon is thin here.",
+    "prompt": "You can move to ban outright the religious party whose leaders collaborated in the 1971 atrocities — a genuine reckoning that also conveniently removes an opposition ally. The line between justice and political weapon is thin here.",
     "left": {
       "id": "a",
       "label": "Ban the collaborators' party.",
@@ -3257,7 +3257,7 @@
       "patronage",
       "graft"
     ],
-    "prompt": "The rural food-for-work and infrastructure funds are channelled through MPs who skim them and steer the projects to their own villages. The coordinator can keep the lucrative system or route the funds through transparent local government instead.",
+    "prompt": "The rural food-for-work and infrastructure funds are channelled through MPs who skim them and steer the projects to their own villages. Keep the lucrative system, or route the funds through transparent local government?",
     "left": {
       "id": "a",
       "label": "Keep the funds in the MPs' hands.",
@@ -3294,7 +3294,7 @@
       "imams",
       "influence"
     ],
-    "prompt": "The state can fund imam allowances and pack the mosque management committees with your loyalists — turning the Friday pulpit into a quiet ally — or keep the mosques independent of the party's reach. The secretary says the pulpit moves more votes than any rally.",
+    "prompt": "The state can fund imam allowances and pack the mosque management committees with your loyalists — turning the Friday pulpit into a quiet ally — or keep the mosques independent. The secretary says the pulpit moves more votes than any rally.",
     "left": {
       "id": "a",
       "label": "Capture the mosque committees.",
@@ -3368,7 +3368,7 @@
       "reckoning",
       "past"
     ],
-    "prompt": "Pressure mounts for a truth commission into the abuses of the previous government — a genuine reckoning that would also, inconveniently, set a precedent for examining yours one day. The adviser asks how far to let it look.",
+    "prompt": "Pressure mounts for a truth commission into the abuses of the previous government — a genuine reckoning that would also, inconveniently, set a precedent for examining yours one day. How far do you let it look?",
     "left": {
       "id": "a",
       "label": "Launch a far-reaching truth commission.",
@@ -3405,7 +3405,7 @@
       "disclosure",
       "transparency"
     ],
-    "prompt": "A proposed law would force every party and candidate to disclose donors and spending — sunlight that cleans the system and exposes your own opaque, oversized war chest. The liaison asks whether to back it or quietly bury it.",
+    "prompt": "A proposed law would force every party and candidate to disclose donors and spending — sunlight that cleans the system and exposes your own opaque, oversized war chest. Back it, or quietly bury it?",
     "left": {
       "id": "a",
       "label": "Bury the disclosure law.",
@@ -3479,7 +3479,7 @@
       "status",
       "norms"
     ],
-    "prompt": "With a real opposition finally in parliament, you can either grant its leader the traditional status, perks, and consultative role — a sign of a maturing democracy — or strip the position bare to keep your rival small and dependent.",
+    "prompt": "With a real opposition finally in parliament, you can grant its leader the traditional status, perks, and consultative role — a sign of a maturing democracy — or strip the position bare to keep your rival small and dependent.",
     "left": {
       "id": "a",
       "label": "Strip the opposition leader's role bare.",
@@ -3515,7 +3515,7 @@
       "history",
       "wounds"
     ],
-    "prompt": "The anniversary of a dark episode your party once perpetrated approaches. The adviser offers two paths: a genuine acknowledgment and apology that could begin to heal an old wound, or the usual silence that lets sleeping guilt lie.",
+    "prompt": "The anniversary of a dark episode your party once perpetrated approaches. Offer a genuine acknowledgment and apology that could begin to heal an old wound, or keep the usual silence that lets sleeping guilt lie?",
     "left": {
       "id": "a",
       "label": "Acknowledge and apologise.",
@@ -3552,7 +3552,7 @@
       "polling",
       "access"
     ],
-    "prompt": "In the far chars, haors, and hills, reaching every voter with a polling station is costly and slow — and the officer notes those remote areas lean against you. He can fund full access for all, or quietly let the awkward, hostile pockets go under-served.",
+    "prompt": "In the far chars, haors, and hills, reaching every voter with a polling station is costly and slow — and those remote areas lean against you. Fund full access for all, or quietly let the awkward, hostile pockets go under-served?",
     "left": {
       "id": "a",
       "label": "Under-serve the hostile remote pockets.",
@@ -3881,7 +3881,7 @@
       "leak",
       "damage"
     ],
-    "prompt": "A draft of the manifesto has leaked, exposing an unpopular plan to cut a beloved subsidy that you meant to bury in the fine print. The chair asks whether to brazen it out and keep the plan, or disown the draft and reverse course.",
+    "prompt": "A draft of the manifesto has leaked, exposing an unpopular plan to cut a beloved subsidy you meant to bury in the fine print. Brazen it out and keep the plan, or disown the draft and reverse course?",
     "left": {
       "id": "a",
       "label": "Stand by the leaked plan.",
@@ -3917,7 +3917,7 @@
       "transport",
       "poll-day"
     ],
-    "prompt": "Your machine can lay on free transport to ferry your voters to the booths on polling day — legal turnout muscle in your strongholds — while quietly ensuring the buses never reach the opposition's wards. The officer asks how clean to keep it.",
+    "prompt": "Your machine can lay on free transport to ferry your voters to the booths on polling day — legal turnout muscle in your strongholds — while quietly ensuring the buses never reach the opposition's wards. How clean do you keep it?",
     "left": {
       "id": "a",
       "label": "Run partisan transport to your wards only.",
@@ -3953,7 +3953,7 @@
       "majority",
       "coalition"
     ],
-    "prompt": "Your new majority is wafer-thin and a confidence vote looms in the first week. The Whip can secure it by buying a few independents with quiet promises, or you can win it on your genuine numbers and govern honestly from a fragile base.",
+    "prompt": "Your new majority is wafer-thin and a confidence vote looms in the first week. Secure it by buying a few independents with quiet promises, or win it on your genuine numbers and govern honestly from a fragile base?",
     "left": {
       "id": "a",
       "label": "Buy the independents for a safe margin.",
@@ -3990,7 +3990,7 @@
       "powers",
       "rule"
     ],
-    "prompt": "Amid unrest, the secretary lays out the nuclear option: declare a state of emergency, suspend rights, rule by decree, and postpone the election. It would give you total control — and brand you, at home and abroad, as a ruler who tore up the rules to keep power.",
+    "prompt": "Amid unrest, the secretary lays out the nuclear option: declare a state of emergency, suspend rights, rule by decree, and postpone the election. Total control — and the brand, at home and abroad, of a ruler who tore up the rules to keep power.",
     "left": {
       "id": "a",
       "label": "Declare the state of emergency.",
@@ -4026,7 +4026,7 @@
       "professionals",
       "capture"
     ],
-    "prompt": "The bar association, medical council, and engineers' bodies hold prestigious elections that shape professional opinion. The coordinator wants to capture them with party panels and patronage; the alternative is to let the professionals govern themselves.",
+    "prompt": "The bar association, medical council, and engineers' bodies hold prestigious elections that shape professional opinion. Capture them with party panels and patronage, or let the professionals govern themselves?",
     "left": {
       "id": "a",
       "label": "Capture the professional bodies.",
@@ -4063,7 +4063,7 @@
       "judiciary",
       "poll"
     ],
-    "prompt": "If a neutral poll-time authority is to oversee the election, its chief would likely be the most recently retired chief justice. The adviser notes you could engineer the retirement timeline so that a pliable judge sits in that chair when it matters.",
+    "prompt": "If a neutral poll-time authority is to oversee the election, its chief would likely be the most recently retired chief justice. You could engineer the retirement timeline so that a pliable judge sits in that chair when it matters.",
     "left": {
       "id": "a",
       "label": "Engineer a pliable poll-time chief.",
@@ -4135,7 +4135,7 @@
       "programme",
       "compromise"
     ],
-    "prompt": "Your alliance must agree a common minimum programme, and the partners' wish-lists pull in opposite directions — secular reformers against the religious bloc, labour against business. The manager asks whether to paper over the cracks or force a coherent platform.",
+    "prompt": "Your alliance must agree a common minimum programme, and the partners' wish-lists pull in opposite directions — secular reformers against the religious bloc, labour against business. Paper over the cracks, or force a coherent platform?",
     "left": {
       "id": "a",
       "label": "Paper over the contradictions.",
@@ -4173,7 +4173,7 @@
       "restoration",
       "inclusion"
     ],
-    "prompt": "A party banned years ago — its grievance now a rallying cry — petitions to be restored to legal politics, promising to renounce violence. The adviser says readmitting it drains the poison of exclusion; the hardliners say it legitimises old enemies.",
+    "prompt": "A party banned years ago — its grievance now a rallying cry — petitions to be restored to legal politics, promising to renounce violence. Readmitting it drains the poison of exclusion; the hardliners say it legitimises old enemies.",
     "left": {
       "id": "a",
       "label": "Keep the party banned.",
@@ -4210,7 +4210,7 @@
       "gotv",
       "organisation"
     ],
-    "prompt": "Turnout is your friend where you are strong and your enemy where you are weak. The officer can run a blanket national get-out-the-vote drive that lifts everyone's turnout, or a surgical one that wakes your wards and lets the opposition's sleep.",
+    "prompt": "Turnout is your friend where you are strong and your enemy where you are weak. Run a blanket national get-out-the-vote drive that lifts everyone's turnout, or a surgical one that wakes your wards and lets the opposition's sleep?",
     "left": {
       "id": "a",
       "label": "Run the surgical, partisan GOTV.",
@@ -4246,7 +4246,7 @@
       "decentralisation",
       "power"
     ],
-    "prompt": "Real devolution — money and power pushed down to elected local councils — would transform governance and accountability, but it would also loosen your central grip and empower local leaders, some of them rivals. The secretary asks how far to let go.",
+    "prompt": "Real devolution — money and power pushed down to elected local councils — would transform governance and accountability, but loosen your central grip and empower local leaders, some of them rivals. How far do you let go?",
     "left": {
       "id": "a",
       "label": "Keep power centralised.",
@@ -4319,7 +4319,7 @@
       "transmission",
       "transparency"
     ],
-    "prompt": "A new app would transmit every polling station's count straight to a public dashboard in real time — radical transparency that makes tampering nearly impossible, and equally makes any managed result impossible to manage. The adviser awaits your verdict.",
+    "prompt": "A new app would transmit every polling station's count straight to a public dashboard in real time — radical transparency that makes tampering nearly impossible, and any managed result impossible to manage. The adviser awaits your verdict.",
     "left": {
       "id": "a",
       "label": "Deploy the public real-time results app.",
@@ -4355,7 +4355,7 @@
       "recognition",
       "votes"
     ],
-    "prompt": "The vast network of independent religious schools wants its degrees recognised as equal to university qualifications for government jobs — a huge bloc's long-held demand. The secretary says granting it wins the bloc; the secular establishment is appalled.",
+    "prompt": "The vast network of independent religious schools wants its degrees recognised as equal to university qualifications for government jobs — a huge bloc's long-held demand. Granting it wins the bloc; the secular establishment is appalled.",
     "left": {
       "id": "a",
       "label": "Recognise the religious degrees.",
@@ -4393,7 +4393,7 @@
       "data",
       "privacy"
     ],
-    "prompt": "Your canvassers can quietly log every household's religion, income, leanings, and grievances into a vast voter database — a powerful targeting tool, and an intrusive dossier on the private lives of millions assembled without consent.",
+    "prompt": "Your canvassers can quietly log every household's religion, income, leanings, and grievances into a vast voter database — a powerful targeting tool, and an intrusive dossier on the private lives of millions, assembled without consent.",
     "left": {
       "id": "a",
       "label": "Build the household database.",
@@ -4465,7 +4465,7 @@
       "rebellion",
       "policy"
     ],
-    "prompt": "A bloc of your own backbenchers, closer to the public mood than the cabinet, is in open revolt over a deeply unpopular bill. The Whip can break them with threats and patronage, or you can heed them and amend the bill they say is poison on the doorstep.",
+    "prompt": "A bloc of your own backbenchers, closer to the public mood than the cabinet, is in open revolt over a deeply unpopular bill. Break them with threats and patronage, or heed them and amend the bill they say is poison on the doorstep?",
     "left": {
       "id": "a",
       "label": "Break the rebellion, pass the bill.",
@@ -4501,7 +4501,7 @@
       "corporate",
       "influence"
     ],
-    "prompt": "A reform would cap corporate donations and require their disclosure — curbing the oligarchs' grip on policy, and choking the single biggest stream into your war chest. The treasurer warns the cut would hurt; the reformers say the influence is rotting the state.",
+    "prompt": "A reform would cap corporate donations and require their disclosure — curbing the oligarchs' grip on policy, and choking the biggest stream into your war chest. The treasurer warns the cut would hurt; the reformers say the influence is rotting the state.",
     "left": {
       "id": "a",
       "label": "Block the donation cap.",
@@ -4539,7 +4539,7 @@
       "transparency",
       "accountability"
     ],
-    "prompt": "A strengthened Right to Information law would force every office to open its files to any citizen who asks — a powerful anti-corruption tool, and a window into the very deals and decisions your government would rather keep dark. The commissioner awaits your stance.",
+    "prompt": "A strengthened Right to Information law would force every office to open its files to any citizen who asks — a powerful anti-corruption tool, and a window into the deals your government would rather keep dark. The commissioner awaits your stance.",
     "left": {
       "id": "a",
       "label": "Gut the Right to Information law.",
@@ -4576,7 +4576,7 @@
       "committee",
       "audit"
     ],
-    "prompt": "The parliamentary committee that scrutinises government spending is traditionally chaired by the opposition. You can deny them the chair and pack it with loyalists, neutering oversight, or honour the convention and let your own spending be examined.",
+    "prompt": "The parliamentary committee that scrutinises government spending is traditionally chaired by the opposition. Deny them the chair and pack it with loyalists, neutering oversight, or honour the convention and let your own spending be examined?",
     "left": {
       "id": "a",
       "label": "Pack the oversight committee with loyalists.",
@@ -4613,7 +4613,7 @@
       "service-voters",
       "fraud"
     ],
-    "prompt": "The postal ballots of soldiers, police, and officials posted away from home are easy to bundle and steer. The coordinator can quietly manage these service votes as a reliable bloc, or process them transparently like any other ballot.",
+    "prompt": "The postal ballots of soldiers, police, and officials posted away from home are easy to bundle and steer. Quietly manage these service votes as a reliable bloc, or process them transparently like any other ballot?",
     "left": {
       "id": "a",
       "label": "Manage the service ballots quietly.",
@@ -4649,7 +4649,7 @@
       "kingmaker",
       "deals"
     ],
-    "prompt": "The election has produced no majority, and a handful of independents and tiny parties now hold the balance. The manager can assemble a government by lavishing them with ministries and money, or attempt a leaner minority government on issue-by-issue support.",
+    "prompt": "The election has produced no majority, and a handful of independents and tiny parties now hold the balance. Assemble a government by lavishing them with ministries and money, or attempt a leaner minority government on issue-by-issue support?",
     "left": {
       "id": "a",
       "label": "Buy a majority with ministries and cash.",
@@ -4686,7 +4686,7 @@
       "reserved-seats",
       "reform"
     ],
-    "prompt": "Women's groups demand that the reserved parliamentary seats be filled by direct election rather than party nomination, giving women real mandates instead of appointed tokens. It empowers women — and strips you of dozens of safe, controllable seats.",
+    "prompt": "Women's groups demand the reserved parliamentary seats be filled by direct election rather than party nomination, giving women real mandates instead of appointed tokens. It empowers women — and strips you of dozens of safe, controllable seats.",
     "left": {
       "id": "a",
       "label": "Make the reserved seats directly elected.",
@@ -4724,7 +4724,7 @@
       "relocation",
       "suppression"
     ],
-    "prompt": "On the quiet, the officer can relocate polling stations in opposition strongholds to distant, hard-to-reach venues announced at the last minute — depressing their turnout without a single ballot touched. It is deniable, surgical voter suppression.",
+    "prompt": "On the quiet, the officer can relocate polling stations in opposition strongholds to distant venues announced at the last minute — depressing their turnout without a single ballot touched. It is deniable, surgical voter suppression.",
     "left": {
       "id": "a",
       "label": "Relocate the opposition's polling stations.",
@@ -4760,7 +4760,7 @@
       "courts",
       "result"
     ],
-    "prompt": "The opposition has filed election petitions challenging results in dozens of seats, with real evidence in some. The minister can have the captured courts dismiss them all en masse, or let the genuine cases be heard, risking the loss of a few seats.",
+    "prompt": "The opposition has filed election petitions challenging results in dozens of seats, with real evidence in some. Have the captured courts dismiss them all en masse, or let the genuine cases be heard, risking the loss of a few seats?",
     "left": {
       "id": "a",
       "label": "Have the courts dismiss all petitions.",
@@ -4796,7 +4796,7 @@
       "disinformation",
       "smear"
     ],
-    "prompt": "The cyber cell has produced a convincing deepfake of the opposition leader saying something inflammatory and disqualifying. Released days before the vote, it could end her — until, perhaps, it is debunked, and the forgery is traced back to you.",
+    "prompt": "The cyber cell has produced a convincing deepfake of the opposition leader saying something inflammatory and disqualifying. Released days before the vote, it could end her — until it is debunked, and the forgery is traced back to you.",
     "left": {
       "id": "a",
       "label": "Release the deepfake.",
@@ -4832,7 +4832,7 @@
       "succession",
       "seat"
     ],
-    "prompt": "A veteran MP from a safe seat has died, triggering a by-poll. His capable but independent-minded daughter wants the nomination on her own merit; the local fixer wants a pliable outsider who will owe you everything. The director needs the nominee.",
+    "prompt": "A veteran MP from a safe seat has died, triggering a by-poll. His capable but independent-minded daughter wants the nomination on her own merit; the local fixer wants a pliable outsider who will owe you everything. Who gets the nominee?",
     "left": {
       "id": "a",
       "label": "Nominate the pliable outsider.",
@@ -4870,7 +4870,7 @@
       "services",
       "corruption"
     ],
-    "prompt": "A digital one-stop service portal could let citizens get licences, certificates, and payments online — slashing the petty bribery that infests every counter. The clerks who live on those bribes, a vast and connected workforce, will quietly sabotage it.",
+    "prompt": "A digital one-stop service portal could let citizens get licences, certificates, and payments online — slashing the petty bribery that infests every counter. The clerks who live on those bribes, a vast workforce, will quietly sabotage it.",
     "left": {
       "id": "a",
       "label": "Push the digital service rollout hard.",
@@ -4907,7 +4907,7 @@
       "accountability",
       "norms"
     ],
-    "prompt": "Question hour, where ministers answer the house, has decayed into scripted softballs from your own backbenchers. You can revive it as real, unscripted scrutiny — sharpening your ministers but exposing their failings — or keep it the comfortable theatre it is.",
+    "prompt": "Question hour, where ministers answer the house, has decayed into scripted softballs from your own backbenchers. Revive it as real, unscripted scrutiny — sharpening your ministers but exposing their failings — or keep it the comfortable theatre it is?",
     "left": {
       "id": "a",
       "label": "Keep question hour scripted and safe.",
@@ -4944,7 +4944,7 @@
       "affiliation",
       "leverage"
     ],
-    "prompt": "You can bring the major trade unions under your party's wing — disciplined turnout and industrial muscle — at the price of either delivering on their wage demands or being seen to betray them. The secretary asks whether to court or keep your distance.",
+    "prompt": "You can bring the major trade unions under your party's wing — disciplined turnout and industrial muscle — at the price of either delivering on their wage demands or being seen to betray them. Court them, or keep your distance?",
     "left": {
       "id": "a",
       "label": "Bring the unions into the party fold.",
@@ -4981,7 +4981,7 @@
       "awareness",
       "turnout"
     ],
-    "prompt": "A neutral, state-funded voter-education drive would teach citizens their rights, how to spot fraud, and how to vote — strengthening democracy, and arming the very voters most likely to catch your machine cutting corners. The director asks whether to fund it.",
+    "prompt": "A neutral, state-funded voter-education drive would teach citizens their rights, how to spot fraud, and how to vote — strengthening democracy, and arming the very voters most likely to catch your machine cutting corners. Fund it?",
     "left": {
       "id": "a",
       "label": "Fund the neutral voter-education drive.",
@@ -5054,7 +5054,7 @@
       "voting",
       "fraud"
     ],
-    "prompt": "If overseas voting is introduced at embassies, the thin oversight abroad makes the ballots ripe for manufacturing. The secretary can quietly pad the diaspora vote at friendly missions, or insist the overseas count be observed as rigorously as any at home.",
+    "prompt": "If overseas voting is introduced at embassies, the thin oversight abroad makes the ballots ripe for manufacturing. Quietly pad the diaspora vote at friendly missions, or insist the overseas count be observed as rigorously as any at home?",
     "left": {
       "id": "a",
       "label": "Pad the overseas vote quietly.",
@@ -5090,7 +5090,7 @@
       "spoilers",
       "tactics"
     ],
-    "prompt": "In seats where your candidate is weak, the director proposes secretly funding 'independent' spoilers to split the opposition vote. It is cynical and effective, and a leak would expose you as manufacturing fake candidates to game the result.",
+    "prompt": "In seats where your candidate is weak, the director proposes secretly funding 'independent' spoilers to split the opposition vote. Cynical and effective — and a leak would expose you as manufacturing fake candidates to game the result.",
     "left": {
       "id": "a",
       "label": "Fund the spoiler independents.",
@@ -5126,7 +5126,7 @@
       "accountability",
       "graft"
     ],
-    "prompt": "The constitution provides for an ombudsman to investigate official corruption and maladministration — an office every government since independence has conveniently left unfilled. The adviser asks whether to finally appoint a real one, or keep the chair empty.",
+    "prompt": "The constitution provides for an ombudsman to investigate official corruption — an office every government since independence has conveniently left unfilled. Finally appoint a real one, or keep the chair empty?",
     "left": {
       "id": "a",
       "label": "Keep the ombudsman's chair empty.",
@@ -5164,7 +5164,7 @@
       "election-day",
       "neutrality"
     ],
-    "prompt": "Executive magistrates with mobile courts roam the polls on election day, and the coordinator can deploy them as a partisan instrument — harassing opposition agents, waving through your irregularities — or as genuinely neutral keepers of the peace.",
+    "prompt": "Executive magistrates with mobile courts roam the polls on election day. Deploy them as a partisan instrument — harassing opposition agents, waving through your irregularities — or as genuinely neutral keepers of the peace?",
     "left": {
       "id": "a",
       "label": "Deploy the magistrates as a partisan tool.",
@@ -5200,7 +5200,7 @@
       "purge",
       "disenfranchisement"
     ],
-    "prompt": "Tying the voter roll to the national ID database lets you purge 'unverifiable' voters — a clean-up that, applied selectively, can quietly strike opposition-leaning groups (the poor, migrants, minorities) off the list. The officer awaits your aim.",
+    "prompt": "Tying the voter roll to the national ID database lets you purge 'unverifiable' voters — a clean-up that, applied selectively, can quietly strike opposition-leaning groups, the poor, migrants, and minorities, off the list. The officer awaits your aim.",
     "left": {
       "id": "a",
       "label": "Purge selectively against opposition groups.",
@@ -5236,7 +5236,7 @@
       "outreach",
       "spending"
     ],
-    "prompt": "To win back the youth alienated by the quota unrest, the coordinator proposes a vast national youth festival — concerts, job fairs, sports — at considerable cost. The cynics call it a bribe; the optimists call it the only bridge left to a hostile generation.",
+    "prompt": "To win back the youth alienated by the quota unrest, the coordinator proposes a vast national youth festival — concerts, job fairs, sports — at considerable cost. The cynics call it a bribe; the optimists, the only bridge left to a hostile generation.",
     "left": {
       "id": "a",
       "label": "Fund the national youth festival.",
@@ -5272,7 +5272,7 @@
       "press",
       "intimidation"
     ],
-    "prompt": "An MP wants to haul a journalist before the house on a 'breach of privilege' for an unflattering report — a quasi-judicial summons that intimidates the whole press gallery. The minister asks whether to back the motion or quash it.",
+    "prompt": "An MP wants to haul a journalist before the house on a 'breach of privilege' for an unflattering report — a quasi-judicial summons that intimidates the whole press gallery. Back the motion, or quash it?",
     "left": {
       "id": "a",
       "label": "Back the privilege motion.",
@@ -5309,7 +5309,7 @@
       "conduct",
       "accountability"
     ],
-    "prompt": "Several ministers are visibly enriching themselves and their families on the public dime. The secretary proposes a real, enforced code of conduct with asset declarations and resignations for breaches — a clean-up that would gut some of your most loyal grandees.",
+    "prompt": "Several ministers are visibly enriching themselves and their families on the public dime. The secretary proposes a real, enforced code of conduct with asset declarations and resignations for breaches — which would gut some of your most loyal grandees.",
     "left": {
       "id": "a",
       "label": "Enforce a real ministerial code.",
@@ -5347,7 +5347,7 @@
       "cross-voting",
       "discipline"
     ],
-    "prompt": "The president is elected by parliament, and a faction of your MPs is flirting with backing a rival candidate to send you a message. The Whip can crush the cross-voting with threats, or let the secret ballot speak and read the result as a warning.",
+    "prompt": "The president is elected by parliament, and a faction of your MPs is flirting with backing a rival candidate to send you a message. Crush the cross-voting with threats, or let the secret ballot speak and read the result as a warning?",
     "left": {
       "id": "a",
       "label": "Crush the cross-voting with threats.",
@@ -5384,7 +5384,7 @@
       "cabinet",
       "balance"
     ],
-    "prompt": "A reshuffle looms, and you can either reward raw loyalty — keeping the faithful incompetents who will never plot — or promote on competence, building a cabinet that governs well but contains ambitious talents who might one day eclipse you.",
+    "prompt": "A reshuffle looms. Reward raw loyalty — keeping the faithful incompetents who will never plot — or promote on competence, building a cabinet that governs well but contains ambitious talents who might one day eclipse you?",
     "left": {
       "id": "a",
       "label": "Reshuffle for loyalty over competence.",
@@ -5458,7 +5458,7 @@
       "legitimacy",
       "gamble"
     ],
-    "prompt": "You called it, and the referendum is tainted by a low, suspicious turnout and a result too lopsided to believe. The director asks whether to trumpet the landslide as vindication or admit the obvious and temper your claims.",
+    "prompt": "You called it, and the referendum is tainted by a low, suspicious turnout and a result too lopsided to believe. Trumpet the landslide as vindication, or admit the obvious and temper your claims?",
     "left": {
       "id": "a",
       "label": "Trumpet the landslide as vindication.",
@@ -5496,7 +5496,7 @@
       "legitimacy",
       "gamble"
     ],
-    "prompt": "The referendum gambit, whatever its result, has emboldened the opposition to demand a real, internationally-observed election as the only true test. The director asks whether to concede the clean election or dig in behind the referendum's verdict.",
+    "prompt": "The referendum gambit, whatever its result, has emboldened the opposition to demand a real, internationally-observed election as the only true test. Concede the clean election, or dig in behind the referendum's verdict?",
     "left": {
       "id": "a",
       "label": "Dig in behind the referendum.",
@@ -5532,7 +5532,7 @@
       "caretaker",
       "legitimacy"
     ],
-    "prompt": "A term later, the same fault line tears open again. The opposition will boycott unless you hand the election to a neutral caretaker administration, as the old custom demanded. \"Concede the caretaker,\" the Secretary warns, \"and you might lose. Refuse, and you win a vote the world calls a sham.\"",
+    "prompt": "A term later, the same fault line tears open again. The opposition will boycott unless you hand the election to a neutral caretaker administration. \"Concede the caretaker,\" the Secretary warns, \"and you might lose. Refuse, and you win a vote the world calls a sham.\"",
     "left": {
       "id": "a",
       "label": "Refuse the caretaker, hold the vote under your government.",
@@ -5641,7 +5641,7 @@
       "blockade",
       "violence"
     ],
-    "prompt": "The crisis returns, and this time the cabinet is watching. The opposition has called a week of hartals and transport blockades; petrol bombs are landing on buses and the economy is freezing by the day. The coordinator wants to flood the streets with your own cadres to 'break' the blockade by force.",
+    "prompt": "The crisis returns, and this time the cabinet is watching. The opposition has called a week of hartals and transport blockades; petrol bombs are landing on buses and the economy is freezing. The coordinator wants to flood the streets with your own cadres to 'break' the blockade by force.",
     "left": {
       "id": "a",
       "label": "Deploy party cadres to break the blockade.",
@@ -5716,7 +5716,7 @@
       "alliance",
       "secularism"
     ],
-    "prompt": "Another year survived, and the reckoning circles back. A powerful religious movement offers its street power and its voters — in exchange for a blasphemy law, control of textbook content, and a quiet end to certain women's-rights reforms. The emissary smiles: \"We can fill any square in the country.\"",
+    "prompt": "Another year survived, and the reckoning circles back. A powerful religious movement offers its street power and its voters — in exchange for a blasphemy law, control of textbooks, and a quiet end to certain women's-rights reforms. The emissary smiles: \"We can fill any square in the country.\"",
     "left": {
       "id": "a",
       "label": "Take the alliance and its demands.",
@@ -5753,7 +5753,7 @@
       "tribunal",
       "justice"
     ],
-    "prompt": "The ground has shifted; the same demand arrives with new menace. The tribunal trying the 1971 war criminals is both a genuine reckoning and a useful weapon against today's opposition. The prosecutor asks how far to push — strict evidence and slow justice, or fast verdicts that thrill the base and decimate your rivals.",
+    "prompt": "The ground has shifted; the same demand arrives with new menace. The tribunal trying the 1971 war criminals is both a genuine reckoning and a useful weapon against today's opposition. How far do you push — strict evidence and slow justice, or fast verdicts that thrill the base and decimate your rivals?",
     "left": {
       "id": "a",
       "label": "Push fast, sweeping verdicts.",
@@ -5790,7 +5790,7 @@
       "campus",
       "extortion"
     ],
-    "prompt": "History rhymes: the conflict reopens deeper than last time. Your student wing controls the campuses through guest-room torture, tender extortion, and seat-control of the halls. The president wants more autonomy and more money. A reformist faction inside the party wants the wing reined in before it becomes a scandal.",
+    "prompt": "History rhymes: the conflict reopens deeper than last time. Your student wing controls the campuses through guest-room torture, tender extortion, and seat-control of the halls. The president wants more autonomy and money; a reformist faction wants the wing reined in before it becomes a scandal.",
     "left": {
       "id": "a",
       "label": "Empower the student wing further.",
@@ -5826,7 +5826,7 @@
       "dynasty",
       "loyalty"
     ],
-    "prompt": "Mid-reign, the old wound is torn afresh. The grey-haired council that has run the party for decades wants you to anoint your child as heir-apparent now, to 'preserve unity'. The reformers warn that a dynastic coronation will hollow the party of every talent who is not your blood.",
+    "prompt": "Mid-reign, the old wound is torn afresh. The grey-haired council that has run the party for decades wants you to anoint your child as heir-apparent now, to 'preserve unity'. The reformers warn a dynastic coronation will hollow the party of every talent who is not your blood.",
     "left": {
       "id": "a",
       "label": "Anoint your child as successor.",
@@ -5864,7 +5864,7 @@
       "courts",
       "lawfare"
     ],
-    "prompt": "The pressure you deferred has come due, larger now. A graft case decades old has finally ripened against the opposition leader. Convict her and she is barred from the next election; the bench will rule whichever way you nod. \"One judgment,\" the Attorney General murmurs, \"and your only rival watches the vote from a cell.\"",
+    "prompt": "The pressure you deferred has come due, larger now. A decades-old graft case has finally ripened against the opposition leader. Convict her and she is barred from the next election; the bench will rule whichever way you nod. \"One judgment,\" the Attorney General murmurs, \"and your only rival watches the vote from a cell.\"",
     "left": {
       "id": "a",
       "label": "Push the conviction and the ban.",
@@ -5900,7 +5900,7 @@
       "courts",
       "lawfare"
     ],
-    "prompt": "A later term, and the quarrel has hardened into a test. With the leader jailed, her elderly frame ailing in custody, the prison doctor warns that a death behind your bars would make her a martyr forever. Her family begs for hospital release; your hardliners call it weakness.",
+    "prompt": "A later term, and the quarrel has hardened into a test. With the leader jailed and ailing in custody, the prison doctor warns that a death behind your bars would make her a martyr forever. Her family begs for hospital release; your hardliners call it weakness.",
     "left": {
       "id": "a",
       "label": "Keep her confined, deny the release.",
@@ -6122,7 +6122,7 @@
       "disinformation",
       "online"
     ],
-    "prompt": "Deep into the reign, the issue demands a final-sounding answer. Your party's online cell wants a budget to flood the networks with fake personas — smearing critics, manufacturing trends, and burying inconvenient news under coordinated noise. The commander promises 'we win the feed before they wake up.'",
+    "prompt": "Deep into the reign, the issue demands a final-sounding answer. Your party's online cell wants a budget to flood the networks with fake personas — smearing critics, manufacturing trends, burying inconvenient news under coordinated noise. The commander promises 'we win the feed before they wake up.'",
     "left": {
       "id": "a",
       "label": "Fund the troll army.",
@@ -6158,7 +6158,7 @@
       "allies",
       "leverage"
     ],
-    "prompt": "The reckoning you postponed has matured into a crisis. Your largest junior partner threatens to walk unless it gets a deputy-premiership and three more ministries — a price that would let its leader posture as co-ruler. Lose them and your majority cracks; keep them and you feed a rival under your roof.",
+    "prompt": "The reckoning you postponed has matured into a crisis. Your largest junior partner threatens to walk unless it gets a deputy-premiership and three more ministries — a price that lets its leader posture as co-ruler. Lose them and your majority cracks; keep them and you feed a rival under your roof.",
     "left": {
       "id": "a",
       "label": "Pay the price and keep the coalition whole.",
@@ -6195,7 +6195,7 @@
       "no-confidence",
       "discipline"
     ],
-    "prompt": "A new chapter, the same antagonists, less room to manoeuvre. A no-confidence motion is on the order paper, and a dozen of your backbenchers are wavering. The Whip can break it with a mix of threats, frozen contracts, and midnight visits — or you can win the floor by actually answering the grievance behind the revolt.",
+    "prompt": "A new chapter, the same antagonists, less room to manoeuvre. A no-confidence motion is on the order paper, and a dozen of your backbenchers are wavering. Break it with the Whip's threats, frozen contracts, and midnight visits — or win the floor by actually answering the grievance behind the revolt?",
     "left": {
       "id": "a",
       "label": "Crush the revolt with the Whip's methods.",
@@ -6232,7 +6232,7 @@
       "term-limits",
       "power"
     ],
-    "prompt": "The old fault line widens; this time there is no quiet option. Your jurists can draft an amendment scrapping term limits altogether, clearing the way for indefinite rule. The two-thirds majority is within reach. The adviser notes the obvious: it is also the clearest possible signal that you intend never to leave.",
+    "prompt": "The old fault line widens; this time there is no quiet option. Your jurists can draft an amendment scrapping term limits altogether, clearing the way for indefinite rule, and the two-thirds majority is within reach. The adviser notes the obvious: it is also the clearest signal that you intend never to leave.",
     "left": {
       "id": "a",
       "label": "Abolish term limits.",
@@ -6269,7 +6269,7 @@
       "rivals",
       "repression"
     ],
-    "prompt": "Time has not healed it — the conflict comes back armed. You have the legal pretext to ban a troublesome rival party outright — dissolve it, seize its offices, bar its symbol. It would erase a threat in a stroke. It would also tell every other party that the law is just your hammer.",
+    "prompt": "Time has not healed it — the conflict comes back armed. You have the legal pretext to ban a troublesome rival party outright — dissolve it, seize its offices, bar its symbol. It would erase a threat in a stroke — and tell every other party that the law is just your hammer.",
     "left": {
       "id": "a",
       "label": "Ban the rival party.",
@@ -6305,7 +6305,7 @@
       "patrons",
       "graft"
     ],
-    "prompt": "Once again, and with the whole house holding its breath. The industrialist who has bankrolled three of your campaigns now wants his return: a state bank licence, a tax holiday, and a port concession. The treasurer reminds you the next campaign cannot be fought without him.",
+    "prompt": "Once again, and with the whole house holding its breath. The industrialist who bankrolled three of your campaigns now wants his return: a state bank licence, a tax holiday, and a port concession. The treasurer reminds you the next campaign cannot be fought without him.",
     "left": {
       "id": "a",
       "label": "Grant the patron his rewards.",
@@ -6342,7 +6342,7 @@
       "extortion",
       "control"
     ],
-    "prompt": "The matter resurfaces in a harder year, patience exhausted. Your most effective ward boss runs his neighbourhood through extortion, land-grabbing, and a leash on the local police. He delivers turnout like clockwork. A rival within the party says he is a scandal waiting to detonate.",
+    "prompt": "The matter resurfaces in a harder year, patience exhausted. Your most effective ward boss runs his neighbourhood through extortion, land-grabbing, and a leash on the local police, and delivers turnout like clockwork. A rival within the party says he is a scandal waiting to detonate.",
     "left": {
       "id": "a",
       "label": "Keep the strongman and his turnout.",
@@ -6378,7 +6378,7 @@
       "representation",
       "reserved-seats"
     ],
-    "prompt": "A later season of rule, the stakes now openly existential. The reserved women's seats are yours to fill. The wing chief urges you to seat genuine grassroots women organisers; the fixers want them handed to wives and daughters of male donors as a courtesy. The seats are a signal either way.",
+    "prompt": "A later season of rule, the stakes now openly existential. The reserved women's seats are yours to fill. The wing chief urges genuine grassroots women organisers; the fixers want them handed to wives and daughters of male donors as a courtesy. The seats are a signal either way.",
     "left": {
       "id": "a",
       "label": "Reward donors' kin with the seats.",
@@ -6416,7 +6416,7 @@
       "loyalty",
       "betrayal"
     ],
-    "prompt": "It comes around again, and the margin for error is gone. One of your own MPs — popular, principled, and increasingly loud about corruption — is being courted by the opposition. The Whip offers two routes: ruin him pre-emptively with a leaked file, or win him back with a real hearing for his complaints.",
+    "prompt": "It comes around again, and the margin for error is gone. One of your own MPs — popular, principled, increasingly loud about corruption — is being courted by the opposition. The Whip offers two routes: ruin him pre-emptively with a leaked file, or win him back with a real hearing.",
     "left": {
       "id": "a",
       "label": "Pre-empt him with a smear file.",
@@ -6453,7 +6453,7 @@
       "spectacle",
       "mobilisation"
     ],
-    "prompt": "The same demand, but the reign is older and the knives sharper. The party's national council is your chance for a million-strong show of force in the capital. The coordinator wants every district to bus in cadres — paid, fed, and housed at the party's cost — to fill the maidan and overawe rivals.",
+    "prompt": "The same demand, but the reign is older and the knives sharper. The party's national council is your chance for a million-strong show of force in the capital. The coordinator wants every district to bus in cadres — paid, fed, and housed at party cost — to fill the maidan and overawe rivals.",
     "left": {
       "id": "a",
       "label": "Stage the million-strong spectacle.",
@@ -6490,7 +6490,7 @@
       "execution",
       "timing"
     ],
-    "prompt": "Years deep, the unresolved returns to be resolved for good. A war-criminal's final appeal is exhausted and the gallows wait. Carrying out the sentence on the eve of the election would electrify your base and dare the opposition to defend a collaborator. The prosecutor asks: justice on its own clock, or yours?",
+    "prompt": "Years deep, the unresolved returns to be resolved for good. A war-criminal's final appeal is exhausted and the gallows wait. Carrying out the sentence on the eve of the election would electrify your base and dare the opposition to defend a collaborator. Justice on its own clock, or yours?",
     "left": {
       "id": "a",
       "label": "Time the execution for maximum advantage.",
@@ -6527,7 +6527,7 @@
       "dynasty",
       "naming"
     ],
-    "prompt": "The conflict reignites, and the world is watching this time. A proposal lands to rename the largest airport, a university, and a string of bridges after your family's founding figures. It would stamp the dynasty on the map for generations. Critics call it the cult swallowing the state.",
+    "prompt": "The conflict reignites, and the world is watching this time. A proposal lands to rename the largest airport, a university, and a string of bridges after your family's founding figures, stamping the dynasty on the map for generations. Critics call it the cult swallowing the state.",
     "left": {
       "id": "a",
       "label": "Approve the renamings.",
@@ -6564,7 +6564,7 @@
       "election-day",
       "violence"
     ],
-    "prompt": "A familiar crisis, escalated by everything you let slide. On polling day, your cadres in a contested district can seize the booths in the last hour, eject the rival's agents, and stuff the boxes. The coordinator says it locks twelve seats. It also produces twelve seats no one will believe.",
+    "prompt": "A familiar crisis, escalated by everything you let slide. On polling day, your cadres in a contested district can seize the booths in the last hour, eject the rival's agents, and stuff the boxes. The coordinator says it locks twelve seats — twelve seats no one will believe.",
     "left": {
       "id": "a",
       "label": "Order the booth captures.",
@@ -6638,7 +6638,7 @@
       "parliament",
       "fairness"
     ],
-    "prompt": "Late in the reign, the old question demands a heavier answer. The Speaker's chair is yours to fill. A partisan Speaker would gag the opposition, ram bills through, and rule every point of order your way. A genuinely neutral one would let the house breathe — and occasionally let your rivals land a blow.",
+    "prompt": "Late in the reign, the old question demands a heavier answer. The Speaker's chair is yours to fill. A partisan Speaker would gag the opposition, ram bills through, and rule every point of order your way. A neutral one would let the house breathe — and occasionally let your rivals land a blow.",
     "left": {
       "id": "a",
       "label": "Install a partisan Speaker.",
@@ -6674,7 +6674,7 @@
       "funding",
       "foreign"
     ],
-    "prompt": "It returns once more — and this round may be the one remembered. Your overseas chapters can funnel large, lightly-documented donations home through hundi channels. The secretary calls it patriotic generosity; the law calls it illegal foreign funding. It would fatten the chest and tie you to money you cannot explain.",
+    "prompt": "It returns once more — and this round may be the one remembered. Your overseas chapters can funnel large, lightly-documented donations home through hundi channels. The secretary calls it patriotic generosity; the law calls it illegal foreign funding that ties you to money you cannot explain.",
     "left": {
       "id": "a",
       "label": "Accept the diaspora hundi money.",
@@ -6711,7 +6711,7 @@
       "secularism",
       "vote-bank"
     ],
-    "prompt": "The reckoning circles back, grown teeth in the waiting. The Hindu and minority vote has long been a reliable bloc for you against the religious right — but only if you protect it. After a spate of temple attacks, the convenor warns that token sympathy will not hold them; visible protection will, at a cost with the majority bloc.",
+    "prompt": "The reckoning circles back, grown teeth in the waiting. The Hindu and minority vote has long been a reliable bloc for you against the religious right — but only if you protect it. After a spate of temple attacks, the convenor warns that token sympathy will not hold them; visible protection will, at a cost with the majority.",
     "left": {
       "id": "a",
       "label": "Offer words, avoid antagonising the majority.",
@@ -6748,7 +6748,7 @@
       "election",
       "manipulation"
     ],
-    "prompt": "Another term, the same antagonist, the stakes raised again. To make an uncontested vote look competitive, the director proposes fielding 'independent' dummy candidates loyal to you — fake opposition to manufacture the appearance of a real race after the true opposition boycotts.",
+    "prompt": "Another term, the same antagonist, the stakes raised again. To make an uncontested vote look competitive, the director proposes fielding 'independent' dummy candidates loyal to you — fake opposition to manufacture the look of a real race after the true opposition boycotts.",
     "left": {
       "id": "a",
       "label": "Field the dummy candidates.",
@@ -6784,7 +6784,7 @@
       "purge",
       "patronage"
     ],
-    "prompt": "The matter, long deferred, lands with the force of a verdict. The bureaucracy is full of officers who served the last government. The secretary offers a sweeping reshuffle — sideline the suspect, promote the loyal — to make the machine answer to you alone. It would be efficient, and it would gut the service's neutrality.",
+    "prompt": "The matter, long deferred, lands with the force of a verdict. The bureaucracy is full of officers who served the last government. The secretary offers a sweeping reshuffle — sideline the suspect, promote the loyal — to make the machine answer to you alone. Efficient — and it would gut the service's neutrality.",
     "left": {
       "id": "a",
       "label": "Purge and pack the civil service.",
@@ -6820,7 +6820,7 @@
       "martyrs",
       "narrative"
     ],
-    "prompt": "Years on and unhealed, the conflict returns to claim its answer. The anniversary of the party's founding massacre approaches. The historian wants the commemoration weaponised — every speech aimed at branding today's opposition as the heirs of the killers. It rouses the faithful and poisons the well further.",
+    "prompt": "Years on and unhealed, the conflict returns to claim its answer. The anniversary of the party's founding massacre approaches. The historian wants the commemoration weaponised — every speech branding today's opposition as the heirs of the killers. It rouses the faithful and poisons the well further.",
     "left": {
       "id": "a",
       "label": "Weaponise the commemoration.",
@@ -6857,7 +6857,7 @@
       "appointments",
       "independence"
     ],
-    "prompt": "The same fault line, the harder hour, the narrower path. Two seats on the apex court are vacant and a major case on your government's legality is pending. The minister can elevate two reliable judges in time to hear it — or appoint on seniority and merit and let the case fall where it may.",
+    "prompt": "The same fault line, the harder hour, the narrower path. Two seats on the apex court are vacant and a major case on your government's legality is pending. Elevate two reliable judges in time to hear it, or appoint on seniority and merit and let the case fall where it may?",
     "left": {
       "id": "a",
       "label": "Pack the bench before the case.",
@@ -6893,7 +6893,7 @@
       "accountability",
       "local"
     ],
-    "prompt": "It comes back sharpened by every season you survived. The grassroots of a key district are in open revolt against their sitting MP — your man — for years of arrogance and graft. They threaten to sit out the campaign. You can back the incumbent and his machine, or back the workers and dump him.",
+    "prompt": "It comes back sharpened by every season you survived. The grassroots of a key district are in open revolt against their sitting MP — your man — for years of arrogance and graft, and threaten to sit out the campaign. Back the incumbent and his machine, or back the workers and dump him?",
     "left": {
       "id": "a",
       "label": "Stand by the incumbent.",
@@ -6931,7 +6931,7 @@
       "patronage",
       "youth"
     ],
-    "prompt": "A later year of power, the old crisis now a true test of it. Tens of thousands of government jobs are about to be advertised. The minister can quietly reserve a large share for party families and youth-wing cadres — buying a generation of loyalty — or run them on open merit and let the chips fall.",
+    "prompt": "A later year of power, the old crisis now a true test of it. Tens of thousands of government jobs are about to be advertised. Quietly reserve a large share for party families and youth-wing cadres — buying a generation of loyalty — or run them on open merit and let the chips fall?",
     "left": {
       "id": "a",
       "label": "Reserve the jobs for the faithful.",
@@ -6969,7 +6969,7 @@
       "rivals",
       "unity"
     ],
-    "prompt": "The unresolved returns, and this time it will not be deferred. A senior leader who broke with you years ago — taking a faction with him — now seeks to return. He brings votes and organisers, but also ambition and a grudge. The Secretary asks whether to welcome him or let him rot outside.",
+    "prompt": "The unresolved returns, and this time it will not be deferred. A senior leader who broke with you years ago — taking a faction with him — now seeks to return. He brings votes and organisers, but also ambition and a grudge. Welcome him back, or let him rot outside?",
     "left": {
       "id": "a",
       "label": "Welcome him back with honours.",
@@ -7043,7 +7043,7 @@
       "boycott",
       "legitimacy"
     ],
-    "prompt": "Years into your rule, the matter you thought buried resurfaces — harder. With the opposition boycotting parliament entirely, you can ram through a year's worth of contentious bills against empty benches — no debate, no scrutiny. The leader of the house calls it efficient; the press calls it one-party rule by another name.",
+    "prompt": "Years into your rule, the matter you thought buried resurfaces — harder. With the opposition boycotting parliament entirely, you can ram through a year's worth of contentious bills against empty benches — no debate, no scrutiny. The leader of the house calls it efficient; the press calls it one-party rule.",
     "left": {
       "id": "a",
       "label": "Pass the bills against empty benches.",
@@ -7079,7 +7079,7 @@
       "election",
       "trust"
     ],
-    "prompt": "A new season of power, an old problem with sharper teeth. The Commission wants to roll out electronic voting machines nationwide. Your technicians can configure them to be auditable and transparent — or quietly opaque, with no paper trail to contradict the reported count. The opposition already distrusts the boxes.",
+    "prompt": "A new season of power, an old problem with sharper teeth. The Commission wants to roll out electronic voting machines nationwide. Your technicians can make them auditable and transparent — or quietly opaque, with no paper trail to contradict the reported count. The opposition already distrusts the boxes.",
     "left": {
       "id": "a",
       "label": "Deploy opaque machines, no paper trail.",
@@ -7116,7 +7116,7 @@
       "polling",
       "agents"
     ],
-    "prompt": "The crisis returns, and this time the cabinet is watching. The chief proposes a quiet campaign of pressure on the opposition's polling agents in the marginals — late-night visits, false cases filed, families warned — so their booths go unwatched on the day. No watcher, no challenge.",
+    "prompt": "The crisis returns, and this time the cabinet is watching. The chief proposes a quiet campaign of pressure on the opposition's polling agents in the marginals — late-night visits, false cases, families warned — so their booths go unwatched on the day. No watcher, no challenge.",
     "left": {
       "id": "a",
       "label": "Approve the intimidation campaign.",
@@ -7152,7 +7152,7 @@
       "poaching",
       "majority"
     ],
-    "prompt": "Once more the issue lands on your desk, the stakes higher than before. A charismatic opposition MP — clean, articulate, a future leader on their side — is privately willing to cross to you, for a ministry and a free hand in his district. Poaching him weakens them and strengthens you, but signals that everything is for sale.",
+    "prompt": "Once more the issue lands on your desk, the stakes higher than before. A charismatic opposition MP — clean, articulate, a future leader on their side — will privately cross to you for a ministry and a free hand in his district. Poaching him weakens them and strengthens you, but signals that everything is for sale.",
     "left": {
       "id": "a",
       "label": "Poach him with a ministry and a free hand.",
@@ -7189,7 +7189,7 @@
       "symbol",
       "advantage"
     ],
-    "prompt": "Another year survived, and the reckoning circles back. The liaison can rig the small things that move the illiterate vote: your symbol first on every ballot, the opposition's buried, your candidates listed at the top. Tiny thumbs on the scale, individually deniable, collectively decisive.",
+    "prompt": "Another year survived, and the reckoning circles back. The liaison can rig the small things that move the illiterate vote: your symbol first on every ballot, the opposition's buried, your candidates at the top. Tiny thumbs on the scale, individually deniable, collectively decisive.",
     "left": {
       "id": "a",
       "label": "Stack the ballot in your favour.",
@@ -7225,7 +7225,7 @@
       "dhaka",
       "election"
     ],
-    "prompt": "The ground has shifted; the same demand arrives with new menace. The capital's mayoral race is a referendum on your rule, and your candidate is a lacklustre loyalist. The manager can pour state resources into rigging it safe, or you can swap in a genuinely popular outsider who might owe you less.",
+    "prompt": "The ground has shifted; the same demand arrives with new menace. The capital's mayoral race is a referendum on your rule, and your candidate is a lacklustre loyalist. Pour state resources into rigging it safe, or swap in a genuinely popular outsider who might owe you less?",
     "left": {
       "id": "a",
       "label": "Rig the loyalist's win with state muscle.",
@@ -7263,7 +7263,7 @@
       "arson",
       "escalation"
     ],
-    "prompt": "History rhymes: the conflict reopens deeper than last time. A renewed blockade has turned lethal — buses torched with passengers inside, a child among the dead. The coordinator wants to answer fire with fire and send your cadres to torch the opposition's offices in return. The cycle would consume the season.",
+    "prompt": "History rhymes: the conflict reopens deeper than last time. A renewed blockade has turned lethal — buses torched with passengers inside, a child among the dead. The coordinator wants to answer fire with fire and send your cadres to torch the opposition's offices. The cycle would consume the season.",
     "left": {
       "id": "a",
       "label": "Retaliate in kind against their offices.",
@@ -7301,7 +7301,7 @@
       "founder",
       "cult"
     ],
-    "prompt": "Mid-reign, the old wound is torn afresh. A grand mausoleum-museum complex for the party's founder is proposed at vast expense, to be the obligatory pilgrimage of every schoolchild and official. The historian calls it national memory; critics call it the cult cast in marble.",
+    "prompt": "Mid-reign, the old wound is torn afresh. A grand mausoleum-museum complex for the party's founder is proposed at vast expense, the obligatory pilgrimage of every schoolchild and official. The historian calls it national memory; critics call it the cult cast in marble.",
     "left": {
       "id": "a",
       "label": "Build the grand complex.",
@@ -7339,7 +7339,7 @@
       "garments",
       "wages"
     ],
-    "prompt": "The pressure you deferred has come due, larger now. Your party's labour wing wants to lead the garment workers' wage agitation — a million votes if you deliver, but a collision with the factory owners who fund you. The secretary asks whose side the party is really on.",
+    "prompt": "The pressure you deferred has come due, larger now. Your party's labour wing wants to lead the garment workers' wage agitation — a million votes if you deliver, but a collision with the factory owners who fund you. Whose side is the party really on?",
     "left": {
       "id": "a",
       "label": "Side with the factory owners.",
@@ -7377,7 +7377,7 @@
       "barometer",
       "risk"
     ],
-    "prompt": "A later term, and the quarrel has hardened into a test. A by-election in a swing seat is a live test of your standing. The director can sandbag it with the usual machinery for a safe win that tells you nothing, or let it run clean as an honest barometer — and risk a humiliating loss that emboldens the opposition.",
+    "prompt": "A later term, and the quarrel has hardened into a test. A by-election in a swing seat is a live test of your standing. Sandbag it with the usual machinery for a safe win that tells you nothing, or let it run clean as an honest barometer — and risk a humiliating loss that emboldens the opposition?",
     "left": {
       "id": "a",
       "label": "Sandbag the by-election safe.",
@@ -7413,7 +7413,7 @@
       "press",
       "speech"
     ],
-    "prompt": "The country has changed, but this fault line has not — only worsened. A prominent editor has accused your government of corruption in print. The minister can have him hauled up for contempt and sedition, jailing him and chilling the rest — or you can answer the charge with evidence and let him print.",
+    "prompt": "The country has changed, but this fault line has not — only worsened. A prominent editor has accused your government of corruption in print. Have him hauled up for contempt and sedition, jailing him and chilling the rest — or answer the charge with evidence and let him print?",
     "left": {
       "id": "a",
       "label": "Jail the editor for contempt.",
@@ -7450,7 +7450,7 @@
       "discipline",
       "law"
     ],
-    "prompt": "It returns, as these things do, with the patience gone. Article 70 already lets you expel any MP who votes against the party line, making your benches utterly obedient. The adviser proposes tightening it further, criminalising even abstention. It would end dissent — and end parliament as anything but a chorus.",
+    "prompt": "It returns, as these things do, with the patience gone. Article 70 already lets you expel any MP who votes against the party line, making your benches utterly obedient. The adviser proposes tightening it further, criminalising even abstention — ending dissent, and parliament as anything but a chorus.",
     "left": {
       "id": "a",
       "label": "Tighten the law against all dissent.",
@@ -7486,7 +7486,7 @@
       "allies",
       "arithmetic"
     ],
-    "prompt": "Years on, the matter is no longer private; the press is already circling. Seat-sharing talks with your allies are deadlocked. You can bully the small partners into accepting scraps — keeping the lion's share for your own candidates — or share generously to keep the alliance genuinely broad and grateful.",
+    "prompt": "Years on, the matter is no longer private; the press is already circling. Seat-sharing talks with your allies are deadlocked. Bully the small partners into accepting scraps — keeping the lion's share for your own candidates — or share generously to keep the alliance genuinely broad and grateful?",
     "left": {
       "id": "a",
       "label": "Keep the lion's share for your own.",
@@ -7561,7 +7561,7 @@
       "election",
       "legitimacy"
     ],
-    "prompt": "Another monsoon, another return of an argument you cannot end. Foreign and domestic election observers have applied for accreditation. You can stall and restrict them — limiting where they go, what they see — to keep the managed parts of the vote out of frame, or accredit them fully and run a vote that can bear watching.",
+    "prompt": "Another monsoon, another return of an argument you cannot end. Foreign and domestic election observers have applied for accreditation. Stall and restrict them — limiting where they go and what they see — to keep the managed parts of the vote out of frame, or accredit them fully and run a vote that can bear watching?",
     "left": {
       "id": "a",
       "label": "Restrict and stall the observers.",
@@ -7597,7 +7597,7 @@
       "lawfare",
       "selective"
     ],
-    "prompt": "Deep into the reign, the issue demands a final-sounding answer. The graft watchdog is yours to aim. The chair awaits a target list: pursue only the opposition and your own clean rivals, or let the Commission investigate without fear or favour — including, inevitably, your own ministers.",
+    "prompt": "Deep into the reign, the issue demands a final-sounding answer. The graft watchdog is yours to aim. The chair awaits a target list: pursue only the opposition and your clean rivals, or let the Commission investigate without fear or favour — including, inevitably, your own ministers.",
     "left": {
       "id": "a",
       "label": "Aim the Commission at rivals only.",
@@ -7635,7 +7635,7 @@
       "constitution",
       "power"
     ],
-    "prompt": "The reckoning you postponed has matured into a crisis. You can amend away the caretaker-government provision permanently, ensuring every future election is held under a sitting government — yours, for now. It locks in a structural advantage forever, and locks in the grievance that fuels every boycott.",
+    "prompt": "The reckoning you postponed has matured into a crisis. You can amend away the caretaker-government provision permanently, ensuring every future election is held under a sitting government — yours, for now. It locks in a structural advantage forever — and the grievance that fuels every boycott.",
     "left": {
       "id": "a",
       "label": "Abolish the caretaker system for good.",
@@ -7820,7 +7820,7 @@
       "health",
       "dynasty"
     ],
-    "prompt": "The matter resurfaces in a harder year, patience exhausted. Your own health is failing faster than the public knows. The physician urges you to name and groom a successor now, while you can shape the transition — but doing so makes you a lame duck the moment it is announced, and the vultures will gather.",
+    "prompt": "The matter resurfaces in a harder year, patience exhausted. Your own health is failing faster than the public knows. The physician urges you to name and groom a successor now, while you can shape the transition — but doing so makes you a lame duck the moment it is announced.",
     "left": {
       "id": "a",
       "label": "Conceal it; rule as though immortal.",
@@ -7858,7 +7858,7 @@
       "dispute",
       "credibility"
     ],
-    "prompt": "A later season of rule, the stakes now openly existential. The opposition demands a recount in a flagship seat your candidate narrowly 'won'. The liaison can refuse on a technicality and let the result stand, or grant a transparent recount — which might overturn the seat and dent your majority.",
+    "prompt": "A later season of rule, the stakes now openly existential. The opposition demands a recount in a flagship seat your candidate narrowly 'won'. Refuse on a technicality and let the result stand, or grant a transparent recount that might overturn the seat and dent your majority?",
     "left": {
       "id": "a",
       "label": "Refuse the recount on a technicality.",
@@ -7894,7 +7894,7 @@
       "national-day",
       "narrative"
     ],
-    "prompt": "It comes around again, and the margin for error is gone. The national-day broadcasts are yours to script. You can rewrite the founding story to centre your family and erase rivals' contributions — cementing the dynasty as the nation's sole author — or tell an inclusive history that shares the credit.",
+    "prompt": "It comes around again, and the margin for error is gone. The national-day broadcasts are yours to script. Rewrite the founding story to centre your family and erase rivals' contributions — cementing the dynasty as the nation's sole author — or tell an inclusive history that shares the credit?",
     "left": {
       "id": "a",
       "label": "Rewrite history around the family.",
@@ -7967,7 +7967,7 @@
       "plot",
       "loyalty"
     ],
-    "prompt": "Years deep, the unresolved returns to be resolved for good. Whispers reach you that two senior ministers are quietly sounding out the army and the opposition about a post-you future. The chief offers proof through surveillance — or you can confront them in the open and force their hand.",
+    "prompt": "Years deep, the unresolved returns to be resolved for good. Whispers reach you that two senior ministers are quietly sounding out the army and the opposition about a post-you future. Surveil them for proof, or confront them in the open and force their hand?",
     "left": {
       "id": "a",
       "label": "Surveil and quietly neutralise them.",
@@ -8005,7 +8005,7 @@
       "family",
       "corruption"
     ],
-    "prompt": "The conflict reignites, and the world is watching this time. A corruption scandal has surfaced that leads, unmistakably, to a member of your own family. The Secretary can bury it with the usual machinery, or you can let an inquiry proceed and accept the wound to the dynasty's image.",
+    "prompt": "The conflict reignites, and the world is watching this time. A corruption scandal has surfaced that leads, unmistakably, to a member of your own family. Bury it with the usual machinery, or let an inquiry proceed and accept the wound to the dynasty's image?",
     "left": {
       "id": "a",
       "label": "Bury the scandal.",
@@ -8043,7 +8043,7 @@
       "promises",
       "credibility"
     ],
-    "prompt": "A familiar crisis, escalated by everything you let slide. The next manifesto is being drafted. The chair can load it with extravagant, undeliverable promises that thrill crowds and win the cycle — or write a sober, costed platform that under-promises and can actually be kept.",
+    "prompt": "A familiar crisis, escalated by everything you let slide. The next manifesto is being drafted. Load it with extravagant, undeliverable promises that thrill crowds and win the cycle — or write a sober, costed platform that under-promises and can actually be kept?",
     "left": {
       "id": "a",
       "label": "Promise the moon to win the cycle.",
@@ -8080,7 +8080,7 @@
       "protest",
       "blame"
     ],
-    "prompt": "The fault line cracks wider; the decision can no longer wait. Your student wing attacked a peaceful protest on campus, and the footage is everywhere. The president wants you to back the cadres and blame 'outside agitators'; the reformers want the attackers disciplined and an apology issued.",
+    "prompt": "The fault line cracks wider; the decision can no longer wait. Your student wing attacked a peaceful protest on campus, and the footage is everywhere. The president wants you to back the cadres and blame 'outside agitators'; the reformers want the attackers disciplined and an apology.",
     "left": {
       "id": "a",
       "label": "Back the cadres, blame outsiders.",
@@ -8118,7 +8118,7 @@
       "opposition",
       "reconciliation"
     ],
-    "prompt": "Late in the reign, the old question demands a heavier answer. Through a respected intermediary, the opposition offers talks: end the boycott, accept your term, in exchange for electoral reforms and the release of jailed activists. The hardliners call it a trap; the statesman calls it the only exit from a deepening crisis.",
+    "prompt": "Late in the reign, the old question demands a heavier answer. Through a respected intermediary, the opposition offers talks: end the boycott and accept your term, in exchange for electoral reforms and the release of jailed activists. The hardliners call it a trap; the statesman calls it the only exit from a deepening crisis.",
     "left": {
       "id": "a",
       "label": "Refuse the talks, govern alone.",
@@ -8191,7 +8191,7 @@
       "rules",
       "control"
     ],
-    "prompt": "The reckoning circles back, grown teeth in the waiting. With the rules settled, a charismatic provincial leader has won a groundswell of delegates and could challenge your chosen slate on the congress floor. You can disqualify him on a procedural pretext, or let the floor decide.",
+    "prompt": "The reckoning circles back, grown teeth in the waiting. With the rules settled, a charismatic provincial leader has won a groundswell of delegates and could challenge your chosen slate on the congress floor. Disqualify him on a procedural pretext, or let the floor decide?",
     "left": {
       "id": "a",
       "label": "Disqualify him on a pretext.",
@@ -8229,7 +8229,7 @@
       "press",
       "intimidation"
     ],
-    "prompt": "Another term, the same antagonist, the stakes raised again. The secretary proposes blanketing critical journalists and opposition figures with dozens of defamation suits across distant districts — not to win them, but to bury the targets in travel, lawyers, and fear. It is harassment dressed as law.",
+    "prompt": "Another term, the same antagonist, the stakes raised again. The secretary proposes blanketing critical journalists and opposition figures with dozens of defamation suits across distant districts — not to win, but to bury the targets in travel, lawyers, and fear. It is harassment dressed as law.",
     "left": {
       "id": "a",
       "label": "Launch the blanket defamation suits.",
@@ -8265,7 +8265,7 @@
       "press",
       "intimidation"
     ],
-    "prompt": "The matter, long deferred, lands with the force of a verdict. One suit went ahead anyway, filed by an overzealous local leader, and a young reporter now sits in jail awaiting a hearing months away. The case is a national embarrassment. You can let it grind on, or intervene to free her.",
+    "prompt": "The matter, long deferred, lands with the force of a verdict. One suit went ahead anyway, filed by an overzealous local leader, and a young reporter now sits in jail awaiting a hearing months away — a national embarrassment. Let it grind on, or intervene to free her?",
     "left": {
       "id": "a",
       "label": "Let the case grind on.",
@@ -8301,7 +8301,7 @@
       "constituencies",
       "advantage"
     ],
-    "prompt": "Years on and unhealed, the conflict returns to claim its answer. The constituency boundaries are due for redrawing, and the commissioner can carve them to pack your opponents into a few seats and spread your voters thinly across many — a quiet, permanent advantage few will notice and none can easily prove.",
+    "prompt": "Years on and unhealed, the conflict returns to claim its answer. The constituency boundaries are due for redrawing, and the commissioner can pack your opponents into a few seats and spread your voters thinly across many — a quiet, permanent advantage few will notice and none can easily prove.",
     "left": {
       "id": "a",
       "label": "Gerrymander the boundaries to your advantage.",
@@ -8667,7 +8667,7 @@
       "faction",
       "discipline"
     ],
-    "prompt": "Another year survived, and the reckoning circles back. A heavyweight regional leader threatens to break away and form a rival party, taking a chunk of your organisation with him. The Secretary can crush him pre-emptively with expulsions and cases, or accommodate his demands to keep the tent whole.",
+    "prompt": "Another year survived, and the reckoning circles back. A heavyweight regional leader threatens to break away and form a rival party, taking a chunk of your organisation with him. Crush him pre-emptively with expulsions and cases, or accommodate his demands to keep the tent whole?",
     "left": {
       "id": "a",
       "label": "Crush him before he can split.",
@@ -8704,7 +8704,7 @@
       "left",
       "ideology"
     ],
-    "prompt": "The ground has shifted; the same demand arrives with new menace. A small but disciplined leftist party offers an alliance — useful street muscle and intellectual credibility — but its price is a swing left on labour, land, and privatisation that would spook your business donors. The manager weighs muscle against money.",
+    "prompt": "The ground has shifted; the same demand arrives with new menace. A small but disciplined leftist party offers an alliance — useful street muscle and intellectual credibility — but its price is a swing left on labour, land, and privatisation that would spook your business donors. Muscle, or money?",
     "left": {
       "id": "a",
       "label": "Ally with the left, swing on policy.",
@@ -8741,7 +8741,7 @@
       "collaborators",
       "1971"
     ],
-    "prompt": "History rhymes: the conflict reopens deeper than last time. You can move to ban outright the religious party whose leaders collaborated in the 1971 atrocities — a genuine reckoning that also conveniently removes an opposition ally. The prosecutor notes the line between justice and political weapon is thin here.",
+    "prompt": "History rhymes: the conflict reopens deeper than last time. You can move to ban outright the religious party whose leaders collaborated in the 1971 atrocities — a genuine reckoning that also conveniently removes an opposition ally. The line between justice and political weapon is thin here.",
     "left": {
       "id": "a",
       "label": "Ban the collaborators' party.",
@@ -8778,7 +8778,7 @@
       "patronage",
       "graft"
     ],
-    "prompt": "Mid-reign, the old wound is torn afresh. The rural food-for-work and infrastructure funds are channelled through MPs who skim them and steer the projects to their own villages. The coordinator can keep the lucrative system or route the funds through transparent local government instead.",
+    "prompt": "Mid-reign, the old wound is torn afresh. The rural food-for-work and infrastructure funds are channelled through MPs who skim them and steer the projects to their own villages. Keep the lucrative system, or route the funds through transparent local government?",
     "left": {
       "id": "a",
       "label": "Keep the funds in the MPs' hands.",
@@ -8815,7 +8815,7 @@
       "imams",
       "influence"
     ],
-    "prompt": "The pressure you deferred has come due, larger now. The state can fund imam allowances and pack the mosque management committees with your loyalists — turning the Friday pulpit into a quiet ally — or keep the mosques independent of the party's reach. The secretary says the pulpit moves more votes than any rally.",
+    "prompt": "The pressure you deferred has come due, larger now. The state can fund imam allowances and pack the mosque management committees with your loyalists — turning the Friday pulpit into a quiet ally — or keep the mosques independent. The secretary says the pulpit moves more votes than any rally.",
     "left": {
       "id": "a",
       "label": "Capture the mosque committees.",
@@ -8889,7 +8889,7 @@
       "reckoning",
       "past"
     ],
-    "prompt": "The country has changed, but this fault line has not — only worsened. Pressure mounts for a truth commission into the abuses of the previous government — a genuine reckoning that would also, inconveniently, set a precedent for examining yours one day. The adviser asks how far to let it look.",
+    "prompt": "The country has changed, but this fault line has not — only worsened. Pressure mounts for a truth commission into the abuses of the previous government — a genuine reckoning that would also, inconveniently, set a precedent for examining yours one day. How far do you let it look?",
     "left": {
       "id": "a",
       "label": "Launch a far-reaching truth commission.",
@@ -8926,7 +8926,7 @@
       "disclosure",
       "transparency"
     ],
-    "prompt": "It returns, as these things do, with the patience gone. A proposed law would force every party and candidate to disclose donors and spending — sunlight that cleans the system and exposes your own opaque, oversized war chest. The liaison asks whether to back it or quietly bury it.",
+    "prompt": "It returns, as these things do, with the patience gone. A proposed law would force every party and candidate to disclose donors and spending — sunlight that cleans the system and exposes your own opaque, oversized war chest. Back it, or quietly bury it?",
     "left": {
       "id": "a",
       "label": "Bury the disclosure law.",
@@ -9000,7 +9000,7 @@
       "status",
       "norms"
     ],
-    "prompt": "The same knot, retied tighter, lands before you once more. With a real opposition finally in parliament, you can either grant its leader the traditional status, perks, and consultative role — a sign of a maturing democracy — or strip the position bare to keep your rival small and dependent.",
+    "prompt": "The same knot, retied tighter, lands before you once more. With a real opposition finally in parliament, you can grant its leader the traditional status, perks, and consultative role — a sign of a maturing democracy — or strip the position bare to keep your rival small and dependent.",
     "left": {
       "id": "a",
       "label": "Strip the opposition leader's role bare.",
@@ -9036,7 +9036,7 @@
       "history",
       "wounds"
     ],
-    "prompt": "Another monsoon, another return of an argument you cannot end. The anniversary of a dark episode your party once perpetrated approaches. The adviser offers two paths: a genuine acknowledgment and apology that could begin to heal an old wound, or the usual silence that lets sleeping guilt lie.",
+    "prompt": "Another monsoon, another return of an argument you cannot end. The anniversary of a dark episode your party once perpetrated approaches. Offer a genuine acknowledgment and apology that could begin to heal an old wound, or keep the usual silence that lets sleeping guilt lie?",
     "left": {
       "id": "a",
       "label": "Acknowledge and apologise.",
@@ -9073,7 +9073,7 @@
       "polling",
       "access"
     ],
-    "prompt": "Deep into the reign, the issue demands a final-sounding answer. In the far chars, haors, and hills, reaching every voter with a polling station is costly and slow — and the officer notes those remote areas lean against you. He can fund full access for all, or quietly let the awkward, hostile pockets go under-served.",
+    "prompt": "Deep into the reign, the issue demands a final-sounding answer. In the far chars, haors, and hills, reaching every voter with a polling station is costly and slow — and those remote areas lean against you. Fund full access for all, or quietly let the awkward, hostile pockets go under-served?",
     "left": {
       "id": "a",
       "label": "Under-serve the hostile remote pockets.",
@@ -9402,7 +9402,7 @@
       "leak",
       "damage"
     ],
-    "prompt": "The same demand, but the reign is older and the knives sharper. A draft of the manifesto has leaked, exposing an unpopular plan to cut a beloved subsidy that you meant to bury in the fine print. The chair asks whether to brazen it out and keep the plan, or disown the draft and reverse course.",
+    "prompt": "The same demand, but the reign is older and the knives sharper. A draft of the manifesto has leaked, exposing an unpopular plan to cut a beloved subsidy you meant to bury in the fine print. Brazen it out and keep the plan, or disown the draft and reverse course?",
     "left": {
       "id": "a",
       "label": "Stand by the leaked plan.",
@@ -9438,7 +9438,7 @@
       "transport",
       "poll-day"
     ],
-    "prompt": "Years deep, the unresolved returns to be resolved for good. Your machine can lay on free transport to ferry your voters to the booths on polling day — legal turnout muscle in your strongholds — while quietly ensuring the buses never reach the opposition's wards. The officer asks how clean to keep it.",
+    "prompt": "Years deep, the unresolved returns to be resolved for good. Your machine can lay on free transport to ferry your voters to the booths on polling day — legal turnout muscle in your strongholds — while quietly ensuring the buses never reach the opposition's wards. How clean do you keep it?",
     "left": {
       "id": "a",
       "label": "Run partisan transport to your wards only.",
@@ -9474,7 +9474,7 @@
       "majority",
       "coalition"
     ],
-    "prompt": "The conflict reignites, and the world is watching this time. Your new majority is wafer-thin and a confidence vote looms in the first week. The Whip can secure it by buying a few independents with quiet promises, or you can win it on your genuine numbers and govern honestly from a fragile base.",
+    "prompt": "The conflict reignites, and the world is watching this time. Your new majority is wafer-thin and a confidence vote looms in the first week. Secure it by buying a few independents with quiet promises, or win it on your genuine numbers and govern honestly from a fragile base?",
     "left": {
       "id": "a",
       "label": "Buy the independents for a safe margin.",
@@ -9511,7 +9511,7 @@
       "powers",
       "rule"
     ],
-    "prompt": "A familiar crisis, escalated by everything you let slide. Amid unrest, the secretary lays out the nuclear option: declare a state of emergency, suspend rights, rule by decree, and postpone the election. It would give you total control — and brand you, at home and abroad, as a ruler who tore up the rules to keep power.",
+    "prompt": "A familiar crisis, escalated by everything you let slide. Amid unrest, the secretary lays out the nuclear option: declare a state of emergency, suspend rights, rule by decree, and postpone the election. Total control — and the brand, at home and abroad, of a ruler who tore up the rules to keep power.",
     "left": {
       "id": "a",
       "label": "Declare the state of emergency.",
@@ -9547,7 +9547,7 @@
       "professionals",
       "capture"
     ],
-    "prompt": "The fault line cracks wider; the decision can no longer wait. The bar association, medical council, and engineers' bodies hold prestigious elections that shape professional opinion. The coordinator wants to capture them with party panels and patronage; the alternative is to let the professionals govern themselves.",
+    "prompt": "The fault line cracks wider; the decision can no longer wait. The bar association, medical council, and engineers' bodies hold prestigious elections that shape professional opinion. Capture them with party panels and patronage, or let the professionals govern themselves?",
     "left": {
       "id": "a",
       "label": "Capture the professional bodies.",
@@ -9584,7 +9584,7 @@
       "judiciary",
       "poll"
     ],
-    "prompt": "Late in the reign, the old question demands a heavier answer. If a neutral poll-time authority is to oversee the election, its chief would likely be the most recently retired chief justice. The adviser notes you could engineer the retirement timeline so that a pliable judge sits in that chair when it matters.",
+    "prompt": "Late in the reign, the old question demands a heavier answer. If a neutral poll-time authority is to oversee the election, its chief would likely be the most recently retired chief justice. You could engineer the retirement timeline so that a pliable judge sits in that chair when it matters.",
     "left": {
       "id": "a",
       "label": "Engineer a pliable poll-time chief.",
@@ -9656,7 +9656,7 @@
       "programme",
       "compromise"
     ],
-    "prompt": "The reckoning circles back, grown teeth in the waiting. Your alliance must agree a common minimum programme, and the partners' wish-lists pull in opposite directions — secular reformers against the religious bloc, labour against business. The manager asks whether to paper over the cracks or force a coherent platform.",
+    "prompt": "The reckoning circles back, grown teeth in the waiting. Your alliance must agree a common minimum programme, and the partners' wish-lists pull in opposite directions — secular reformers against the religious bloc, labour against business. Paper over the cracks, or force a coherent platform?",
     "left": {
       "id": "a",
       "label": "Paper over the contradictions.",
@@ -9694,7 +9694,7 @@
       "restoration",
       "inclusion"
     ],
-    "prompt": "Another term, the same antagonist, the stakes raised again. A party banned years ago — its grievance now a rallying cry — petitions to be restored to legal politics, promising to renounce violence. The adviser says readmitting it drains the poison of exclusion; the hardliners say it legitimises old enemies.",
+    "prompt": "Another term, the same antagonist, the stakes raised again. A party banned years ago — its grievance now a rallying cry — petitions to be restored to legal politics, promising to renounce violence. Readmitting it drains the poison of exclusion; the hardliners say it legitimises old enemies.",
     "left": {
       "id": "a",
       "label": "Keep the party banned.",
@@ -9731,7 +9731,7 @@
       "gotv",
       "organisation"
     ],
-    "prompt": "The matter, long deferred, lands with the force of a verdict. Turnout is your friend where you are strong and your enemy where you are weak. The officer can run a blanket national get-out-the-vote drive that lifts everyone's turnout, or a surgical one that wakes your wards and lets the opposition's sleep.",
+    "prompt": "The matter, long deferred, lands with the force of a verdict. Turnout is your friend where you are strong and your enemy where you are weak. Run a blanket national get-out-the-vote drive that lifts everyone's turnout, or a surgical one that wakes your wards and lets the opposition's sleep?",
     "left": {
       "id": "a",
       "label": "Run the surgical, partisan GOTV.",
@@ -9767,7 +9767,7 @@
       "decentralisation",
       "power"
     ],
-    "prompt": "Years on and unhealed, the conflict returns to claim its answer. Real devolution — money and power pushed down to elected local councils — would transform governance and accountability, but it would also loosen your central grip and empower local leaders, some of them rivals. The secretary asks how far to let go.",
+    "prompt": "Years on and unhealed, the conflict returns to claim its answer. Real devolution — money and power pushed down to elected local councils — would transform governance and accountability, but loosen your central grip and empower local leaders, some of them rivals. How far do you let go?",
     "left": {
       "id": "a",
       "label": "Keep power centralised.",
@@ -9840,7 +9840,7 @@
       "transmission",
       "transparency"
     ],
-    "prompt": "It comes back sharpened by every season you survived. A new app would transmit every polling station's count straight to a public dashboard in real time — radical transparency that makes tampering nearly impossible, and equally makes any managed result impossible to manage. The adviser awaits your verdict.",
+    "prompt": "It comes back sharpened by every season you survived. A new app would transmit every polling station's count straight to a public dashboard in real time — radical transparency that makes tampering nearly impossible, and any managed result impossible to manage. The adviser awaits your verdict.",
     "left": {
       "id": "a",
       "label": "Deploy the public real-time results app.",
@@ -9876,7 +9876,7 @@
       "recognition",
       "votes"
     ],
-    "prompt": "A later year of power, the old crisis now a true test of it. The vast network of independent religious schools wants its degrees recognised as equal to university qualifications for government jobs — a huge bloc's long-held demand. The secretary says granting it wins the bloc; the secular establishment is appalled.",
+    "prompt": "A later year of power, the old crisis now a true test of it. The vast network of independent religious schools wants its degrees recognised as equal to university qualifications for government jobs — a huge bloc's long-held demand. Granting it wins the bloc; the secular establishment is appalled.",
     "left": {
       "id": "a",
       "label": "Recognise the religious degrees.",
@@ -9914,7 +9914,7 @@
       "data",
       "privacy"
     ],
-    "prompt": "The unresolved returns, and this time it will not be deferred. Your canvassers can quietly log every household's religion, income, leanings, and grievances into a vast voter database — a powerful targeting tool, and an intrusive dossier on the private lives of millions assembled without consent.",
+    "prompt": "The unresolved returns, and this time it will not be deferred. Your canvassers can quietly log every household's religion, income, leanings, and grievances into a vast voter database — a powerful targeting tool, and an intrusive dossier on the private lives of millions, assembled without consent.",
     "left": {
       "id": "a",
       "label": "Build the household database.",
@@ -9986,7 +9986,7 @@
       "rebellion",
       "policy"
     ],
-    "prompt": "Years into your rule, the matter you thought buried resurfaces — harder. A bloc of your own backbenchers, closer to the public mood than the cabinet, is in open revolt over a deeply unpopular bill. The Whip can break them with threats and patronage, or you can heed them and amend the bill they say is poison on the doorstep.",
+    "prompt": "Years into your rule, the matter you thought buried resurfaces — harder. A bloc of your own backbenchers, closer to the public mood than the cabinet, is in open revolt over a deeply unpopular bill. Break them with threats and patronage, or heed them and amend the bill they say is poison on the doorstep?",
     "left": {
       "id": "a",
       "label": "Break the rebellion, pass the bill.",
@@ -10022,7 +10022,7 @@
       "corporate",
       "influence"
     ],
-    "prompt": "A new season of power, an old problem with sharper teeth. A reform would cap corporate donations and require their disclosure — curbing the oligarchs' grip on policy, and choking the single biggest stream into your war chest. The treasurer warns the cut would hurt; the reformers say the influence is rotting the state.",
+    "prompt": "A new season of power, an old problem with sharper teeth. A reform would cap corporate donations and require their disclosure — curbing the oligarchs' grip on policy, and choking the biggest stream into your war chest. The treasurer warns the cut would hurt; the reformers say the influence is rotting the state.",
     "left": {
       "id": "a",
       "label": "Block the donation cap.",
@@ -10060,7 +10060,7 @@
       "transparency",
       "accountability"
     ],
-    "prompt": "The crisis returns, and this time the cabinet is watching. A strengthened Right to Information law would force every office to open its files to any citizen who asks — a powerful anti-corruption tool, and a window into the very deals and decisions your government would rather keep dark. The commissioner awaits your stance.",
+    "prompt": "The crisis returns, and this time the cabinet is watching. A strengthened Right to Information law would force every office to open its files to any citizen who asks — a powerful anti-corruption tool, and a window into the deals your government would rather keep dark. The commissioner awaits your stance.",
     "left": {
       "id": "a",
       "label": "Gut the Right to Information law.",
@@ -10097,7 +10097,7 @@
       "committee",
       "audit"
     ],
-    "prompt": "Once more the issue lands on your desk, the stakes higher than before. The parliamentary committee that scrutinises government spending is traditionally chaired by the opposition. You can deny them the chair and pack it with loyalists, neutering oversight, or honour the convention and let your own spending be examined.",
+    "prompt": "Once more the issue lands on your desk, the stakes higher than before. The parliamentary committee that scrutinises government spending is traditionally chaired by the opposition. Deny them the chair and pack it with loyalists, neutering oversight, or honour the convention and let your own spending be examined?",
     "left": {
       "id": "a",
       "label": "Pack the oversight committee with loyalists.",
@@ -10134,7 +10134,7 @@
       "service-voters",
       "fraud"
     ],
-    "prompt": "Another year survived, and the reckoning circles back. The postal ballots of soldiers, police, and officials posted away from home are easy to bundle and steer. The coordinator can quietly manage these service votes as a reliable bloc, or process them transparently like any other ballot.",
+    "prompt": "Another year survived, and the reckoning circles back. The postal ballots of soldiers, police, and officials posted away from home are easy to bundle and steer. Quietly manage these service votes as a reliable bloc, or process them transparently like any other ballot?",
     "left": {
       "id": "a",
       "label": "Manage the service ballots quietly.",
@@ -10170,7 +10170,7 @@
       "kingmaker",
       "deals"
     ],
-    "prompt": "The ground has shifted; the same demand arrives with new menace. The election has produced no majority, and a handful of independents and tiny parties now hold the balance. The manager can assemble a government by lavishing them with ministries and money, or attempt a leaner minority government on issue-by-issue support.",
+    "prompt": "The ground has shifted; the same demand arrives with new menace. The election has produced no majority, and a handful of independents and tiny parties now hold the balance. Assemble a government by lavishing them with ministries and money, or attempt a leaner minority government on issue-by-issue support?",
     "left": {
       "id": "a",
       "label": "Buy a majority with ministries and cash.",
@@ -10207,7 +10207,7 @@
       "reserved-seats",
       "reform"
     ],
-    "prompt": "History rhymes: the conflict reopens deeper than last time. Women's groups demand that the reserved parliamentary seats be filled by direct election rather than party nomination, giving women real mandates instead of appointed tokens. It empowers women — and strips you of dozens of safe, controllable seats.",
+    "prompt": "History rhymes: the conflict reopens deeper than last time. Women's groups demand the reserved parliamentary seats be filled by direct election rather than party nomination, giving women real mandates instead of appointed tokens. It empowers women — and strips you of dozens of safe, controllable seats.",
     "left": {
       "id": "a",
       "label": "Make the reserved seats directly elected.",
@@ -10245,7 +10245,7 @@
       "relocation",
       "suppression"
     ],
-    "prompt": "Mid-reign, the old wound is torn afresh. On the quiet, the officer can relocate polling stations in opposition strongholds to distant, hard-to-reach venues announced at the last minute — depressing their turnout without a single ballot touched. It is deniable, surgical voter suppression.",
+    "prompt": "Mid-reign, the old wound is torn afresh. On the quiet, the officer can relocate polling stations in opposition strongholds to distant venues announced at the last minute — depressing their turnout without a single ballot touched. It is deniable, surgical voter suppression.",
     "left": {
       "id": "a",
       "label": "Relocate the opposition's polling stations.",
@@ -10281,7 +10281,7 @@
       "courts",
       "result"
     ],
-    "prompt": "The pressure you deferred has come due, larger now. The opposition has filed election petitions challenging results in dozens of seats, with real evidence in some. The minister can have the captured courts dismiss them all en masse, or let the genuine cases be heard, risking the loss of a few seats.",
+    "prompt": "The pressure you deferred has come due, larger now. The opposition has filed election petitions challenging results in dozens of seats, with real evidence in some. Have the captured courts dismiss them all en masse, or let the genuine cases be heard, risking the loss of a few seats?",
     "left": {
       "id": "a",
       "label": "Have the courts dismiss all petitions.",
@@ -10317,7 +10317,7 @@
       "disinformation",
       "smear"
     ],
-    "prompt": "A later term, and the quarrel has hardened into a test. The cyber cell has produced a convincing deepfake of the opposition leader saying something inflammatory and disqualifying. Released days before the vote, it could end her — until, perhaps, it is debunked, and the forgery is traced back to you.",
+    "prompt": "A later term, and the quarrel has hardened into a test. The cyber cell has produced a convincing deepfake of the opposition leader saying something inflammatory and disqualifying. Released days before the vote, it could end her — until it is debunked, and the forgery is traced back to you.",
     "left": {
       "id": "a",
       "label": "Release the deepfake.",
@@ -10353,7 +10353,7 @@
       "succession",
       "seat"
     ],
-    "prompt": "The country has changed, but this fault line has not — only worsened. A veteran MP from a safe seat has died, triggering a by-poll. His capable but independent-minded daughter wants the nomination on her own merit; the local fixer wants a pliable outsider who will owe you everything. The director needs the nominee.",
+    "prompt": "The country has changed, but this fault line has not — only worsened. A veteran MP from a safe seat has died, triggering a by-poll. His capable but independent-minded daughter wants the nomination on her own merit; the local fixer wants a pliable outsider who will owe you everything. Who gets the nominee?",
     "left": {
       "id": "a",
       "label": "Nominate the pliable outsider.",
@@ -10391,7 +10391,7 @@
       "services",
       "corruption"
     ],
-    "prompt": "It returns, as these things do, with the patience gone. A digital one-stop service portal could let citizens get licences, certificates, and payments online — slashing the petty bribery that infests every counter. The clerks who live on those bribes, a vast and connected workforce, will quietly sabotage it.",
+    "prompt": "It returns, as these things do, with the patience gone. A digital one-stop service portal could let citizens get licences, certificates, and payments online — slashing the petty bribery that infests every counter. The clerks who live on those bribes, a vast workforce, will quietly sabotage it.",
     "left": {
       "id": "a",
       "label": "Push the digital service rollout hard.",
@@ -10428,7 +10428,7 @@
       "accountability",
       "norms"
     ],
-    "prompt": "Years on, the matter is no longer private; the press is already circling. Question hour, where ministers answer the house, has decayed into scripted softballs from your own backbenchers. You can revive it as real, unscripted scrutiny — sharpening your ministers but exposing their failings — or keep it the comfortable theatre it is.",
+    "prompt": "Years on, the matter is no longer private; the press is already circling. Question hour, where ministers answer the house, has decayed into scripted softballs from your own backbenchers. Revive it as real, unscripted scrutiny — sharpening your ministers but exposing their failings — or keep it the comfortable theatre it is?",
     "left": {
       "id": "a",
       "label": "Keep question hour scripted and safe.",
@@ -10465,7 +10465,7 @@
       "affiliation",
       "leverage"
     ],
-    "prompt": "The same knot, retied tighter, lands before you once more. You can bring the major trade unions under your party's wing — disciplined turnout and industrial muscle — at the price of either delivering on their wage demands or being seen to betray them. The secretary asks whether to court or keep your distance.",
+    "prompt": "The same knot, retied tighter, lands before you once more. You can bring the major trade unions under your party's wing — disciplined turnout and industrial muscle — at the price of either delivering on their wage demands or being seen to betray them. Court them, or keep your distance?",
     "left": {
       "id": "a",
       "label": "Bring the unions into the party fold.",
@@ -10502,7 +10502,7 @@
       "awareness",
       "turnout"
     ],
-    "prompt": "Another monsoon, another return of an argument you cannot end. A neutral, state-funded voter-education drive would teach citizens their rights, how to spot fraud, and how to vote — strengthening democracy, and arming the very voters most likely to catch your machine cutting corners. The director asks whether to fund it.",
+    "prompt": "Another monsoon, another return of an argument you cannot end. A neutral, state-funded voter-education drive would teach citizens their rights, how to spot fraud, and how to vote — strengthening democracy, and arming the very voters most likely to catch your machine cutting corners. Fund it?",
     "left": {
       "id": "a",
       "label": "Fund the neutral voter-education drive.",
@@ -10575,7 +10575,7 @@
       "voting",
       "fraud"
     ],
-    "prompt": "The reckoning you postponed has matured into a crisis. If overseas voting is introduced at embassies, the thin oversight abroad makes the ballots ripe for manufacturing. The secretary can quietly pad the diaspora vote at friendly missions, or insist the overseas count be observed as rigorously as any at home.",
+    "prompt": "The reckoning you postponed has matured into a crisis. If overseas voting is introduced at embassies, the thin oversight abroad makes the ballots ripe for manufacturing. Quietly pad the diaspora vote at friendly missions, or insist the overseas count be observed as rigorously as any at home?",
     "left": {
       "id": "a",
       "label": "Pad the overseas vote quietly.",
@@ -10611,7 +10611,7 @@
       "spoilers",
       "tactics"
     ],
-    "prompt": "A new chapter, the same antagonists, less room to manoeuvre. In seats where your candidate is weak, the director proposes secretly funding 'independent' spoilers to split the opposition vote. It is cynical and effective, and a leak would expose you as manufacturing fake candidates to game the result.",
+    "prompt": "A new chapter, the same antagonists, less room to manoeuvre. In seats where your candidate is weak, the director proposes secretly funding 'independent' spoilers to split the opposition vote. Cynical and effective — and a leak would expose you as manufacturing fake candidates to game the result.",
     "left": {
       "id": "a",
       "label": "Fund the spoiler independents.",
@@ -10647,7 +10647,7 @@
       "accountability",
       "graft"
     ],
-    "prompt": "The old fault line widens; this time there is no quiet option. The constitution provides for an ombudsman to investigate official corruption and maladministration — an office every government since independence has conveniently left unfilled. The adviser asks whether to finally appoint a real one, or keep the chair empty.",
+    "prompt": "The old fault line widens; this time there is no quiet option. The constitution provides for an ombudsman to investigate official corruption — an office every government since independence has conveniently left unfilled. Finally appoint a real one, or keep the chair empty?",
     "left": {
       "id": "a",
       "label": "Keep the ombudsman's chair empty.",
@@ -10685,7 +10685,7 @@
       "election-day",
       "neutrality"
     ],
-    "prompt": "Time has not healed it — the conflict comes back armed. Executive magistrates with mobile courts roam the polls on election day, and the coordinator can deploy them as a partisan instrument — harassing opposition agents, waving through your irregularities — or as genuinely neutral keepers of the peace.",
+    "prompt": "Time has not healed it — the conflict comes back armed. Executive magistrates with mobile courts roam the polls on election day. Deploy them as a partisan instrument — harassing opposition agents, waving through your irregularities — or as genuinely neutral keepers of the peace?",
     "left": {
       "id": "a",
       "label": "Deploy the magistrates as a partisan tool.",
@@ -10721,7 +10721,7 @@
       "purge",
       "disenfranchisement"
     ],
-    "prompt": "Once again, and with the whole house holding its breath. Tying the voter roll to the national ID database lets you purge 'unverifiable' voters — a clean-up that, applied selectively, can quietly strike opposition-leaning groups (the poor, migrants, minorities) off the list. The officer awaits your aim.",
+    "prompt": "Once again, and with the whole house holding its breath. Tying the voter roll to the national ID database lets you purge 'unverifiable' voters — a clean-up that, applied selectively, can quietly strike opposition-leaning groups, the poor, migrants, and minorities, off the list. The officer awaits your aim.",
     "left": {
       "id": "a",
       "label": "Purge selectively against opposition groups.",
@@ -10757,7 +10757,7 @@
       "outreach",
       "spending"
     ],
-    "prompt": "The matter resurfaces in a harder year, patience exhausted. To win back the youth alienated by the quota unrest, the coordinator proposes a vast national youth festival — concerts, job fairs, sports — at considerable cost. The cynics call it a bribe; the optimists call it the only bridge left to a hostile generation.",
+    "prompt": "The matter resurfaces in a harder year, patience exhausted. To win back the youth alienated by the quota unrest, the coordinator proposes a vast national youth festival — concerts, job fairs, sports — at considerable cost. The cynics call it a bribe; the optimists, the only bridge left to a hostile generation.",
     "left": {
       "id": "a",
       "label": "Fund the national youth festival.",
@@ -10793,7 +10793,7 @@
       "press",
       "intimidation"
     ],
-    "prompt": "A later season of rule, the stakes now openly existential. An MP wants to haul a journalist before the house on a 'breach of privilege' for an unflattering report — a quasi-judicial summons that intimidates the whole press gallery. The minister asks whether to back the motion or quash it.",
+    "prompt": "A later season of rule, the stakes now openly existential. An MP wants to haul a journalist before the house on a 'breach of privilege' for an unflattering report — a quasi-judicial summons that intimidates the whole press gallery. Back the motion, or quash it?",
     "left": {
       "id": "a",
       "label": "Back the privilege motion.",
@@ -10830,7 +10830,7 @@
       "conduct",
       "accountability"
     ],
-    "prompt": "It comes around again, and the margin for error is gone. Several ministers are visibly enriching themselves and their families on the public dime. The secretary proposes a real, enforced code of conduct with asset declarations and resignations for breaches — a clean-up that would gut some of your most loyal grandees.",
+    "prompt": "It comes around again, and the margin for error is gone. Several ministers are visibly enriching themselves and their families on the public dime. The secretary proposes a real, enforced code of conduct with asset declarations and resignations for breaches — which would gut some of your most loyal grandees.",
     "left": {
       "id": "a",
       "label": "Enforce a real ministerial code.",
@@ -10868,7 +10868,7 @@
       "cross-voting",
       "discipline"
     ],
-    "prompt": "The same demand, but the reign is older and the knives sharper. The president is elected by parliament, and a faction of your MPs is flirting with backing a rival candidate to send you a message. The Whip can crush the cross-voting with threats, or let the secret ballot speak and read the result as a warning.",
+    "prompt": "The same demand, but the reign is older and the knives sharper. The president is elected by parliament, and a faction of your MPs is flirting with backing a rival candidate to send you a message. Crush the cross-voting with threats, or let the secret ballot speak and read the result as a warning?",
     "left": {
       "id": "a",
       "label": "Crush the cross-voting with threats.",
@@ -10905,7 +10905,7 @@
       "cabinet",
       "balance"
     ],
-    "prompt": "Years deep, the unresolved returns to be resolved for good. A reshuffle looms, and you can either reward raw loyalty — keeping the faithful incompetents who will never plot — or promote on competence, building a cabinet that governs well but contains ambitious talents who might one day eclipse you.",
+    "prompt": "Years deep, the unresolved returns to be resolved for good. A reshuffle looms. Reward raw loyalty — keeping the faithful incompetents who will never plot — or promote on competence, building a cabinet that governs well but contains ambitious talents who might one day eclipse you?",
     "left": {
       "id": "a",
       "label": "Reshuffle for loyalty over competence.",
@@ -10979,7 +10979,7 @@
       "legitimacy",
       "gamble"
     ],
-    "prompt": "A familiar crisis, escalated by everything you let slide. You called it, and the referendum is tainted by a low, suspicious turnout and a result too lopsided to believe. The director asks whether to trumpet the landslide as vindication or admit the obvious and temper your claims.",
+    "prompt": "A familiar crisis, escalated by everything you let slide. You called it, and the referendum is tainted by a low, suspicious turnout and a result too lopsided to believe. Trumpet the landslide as vindication, or admit the obvious and temper your claims?",
     "left": {
       "id": "a",
       "label": "Trumpet the landslide as vindication.",
@@ -11017,7 +11017,7 @@
       "legitimacy",
       "gamble"
     ],
-    "prompt": "The fault line cracks wider; the decision can no longer wait. The referendum gambit, whatever its result, has emboldened the opposition to demand a real, internationally-observed election as the only true test. The director asks whether to concede the clean election or dig in behind the referendum's verdict.",
+    "prompt": "The fault line cracks wider; the decision can no longer wait. The referendum gambit, whatever its result, has emboldened the opposition to demand a real, internationally-observed election as the only true test. Concede the clean election, or dig in behind the referendum's verdict?",
     "left": {
       "id": "a",
       "label": "Dig in behind the referendum.",
