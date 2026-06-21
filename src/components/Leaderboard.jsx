@@ -159,7 +159,9 @@ export default function Leaderboard({ open, onClose, currentUid, defaultMode = M
             days: shareRow.days,
             won: shareRow.won,
             average: typeof shareRow.average === 'number' ? shareRow.average : undefined,
-            displayName: shareRow.displayName,
+            displayName: shareRow.displayName || shareRow.username || undefined,
+            metrics: shareRow.metrics, // present on runs recorded after this update
+            title: shareRow.title,
           }
         }
       />

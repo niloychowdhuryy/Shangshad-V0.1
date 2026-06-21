@@ -84,6 +84,9 @@ export function useGameState(user, startMode = 'continue', gameMode) {
       // average days-per-removal stat.
       const deaths = state.deaths.length;
       const identity = leaderboardIdentity(loadProfile(user)); // honours the privacy toggle
+      // Store the final pillars + leader title so a shared card from the
+      // leaderboard can be rebuilt as richly as the end-screen card.
+      const endTitle = evaluateLegacy(state.metrics, state.day).title;
       submitScore({
         uid: user.uid,
         ...identity, // displayName, username, photoURL, avatarSeed, publicProfile
@@ -93,6 +96,8 @@ export function useGameState(user, startMode = 'continue', gameMode) {
         avgPerRemoval: Number(daysPerRemoval(state).toFixed(1)),
         average: Number(metricAverage(state.metrics).toFixed(1)),
         won: state.status === STATUS.WON,
+        metrics: { ...state.metrics }, // 6 pillar values for the share card
+        title: endTitle, // leader verdict, e.g. "The Pragmatist"
       }).catch((e) => console.warn('[shangshad] score submit failed:', e));
 
       // ── Meta-progression: record the leader title + unlock achievements ──
