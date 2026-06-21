@@ -18,8 +18,10 @@ import TutorialOverlay from '../components/TutorialOverlay.jsx';
 import { loadProfile, saveProfile } from '../game/profile.js';
 import { BRAND } from '../game/brand.js';
 import { LocationIcon, IconRank, IconHome, IconChevronLeft, IconAlert, IconSleep, IconFavor, IconTrade } from '../components/icons/Icons.jsx';
+import { useT, LanguageToggle } from '../i18n/i18n.jsx';
 
 export default function GameScreen({ user, startMode = 'continue', gameMode, onExit }) {
+  const { t } = useT();
   const g = useGameState(user, startMode, gameMode);
   const { state } = g;
   const isCampaign = state.mode === MODES.CAMPAIGN;
@@ -188,7 +190,10 @@ export default function GameScreen({ user, startMode = 'continue', gameMode, onE
     >
       <header className="flex items-end justify-between">
         <div>
-          <div className="hud-label">Day</div>
+          <div className="flex items-center gap-2">
+            <div className="hud-label">{t('day')}</div>
+            <LanguageToggle />
+          </div>
           <div className="font-mono text-2xl font-bold leading-none tabular-nums text-parchment">
             {String(state.day).padStart(4, '0')}
             <span className="ml-1 text-xs font-normal text-parchment/35">/ {FINAL_DAY}</span>
@@ -226,12 +231,12 @@ export default function GameScreen({ user, startMode = 'continue', gameMode, onE
           style={allLocked ? { color: '#16c79a', boxShadow: '0 0 16px -4px #16c79a' } : undefined}
         >
           <IconSleep size={18} />
-          <span className="hud-label leading-none">Sleep</span>
+          <span className="hud-label leading-none">{t('sleep')}</span>
         </button>
 
         <button ref={favorsRef} className="relative flex flex-col items-center gap-0.5 rounded-md border border-line/60 bg-steel/40 py-2 text-parchment/80 transition active:scale-95" title="Favors" onClick={() => setFavorsOpen(true)}>
           <IconFavor size={18} />
-          <span className="hud-label leading-none">Favors</span>
+          <span className="hud-label leading-none">{t('favors')}</span>
           {state.unlockedFavors.length > 0 && (
             <span className="absolute -right-1 -top-1 grid h-4 min-w-4 place-items-center rounded-full bg-accent px-1 font-mono text-[9px] font-bold text-ink">
               {state.unlockedFavors.length}
@@ -241,17 +246,17 @@ export default function GameScreen({ user, startMode = 'continue', gameMode, onE
 
         <button className="flex flex-col items-center gap-0.5 rounded-md border border-line/60 bg-steel/40 py-2 text-parchment/80 transition active:scale-95" title="Lobbying · trade pillar points" onClick={() => setTradeOpen(true)}>
           <IconTrade size={18} />
-          <span className="hud-label leading-none">Lobbying</span>
+          <span className="hud-label leading-none">{t('lobbying')}</span>
         </button>
 
         <button className="flex flex-col items-center gap-0.5 rounded-md border border-line/60 bg-steel/40 py-2 text-parchment/80 transition active:scale-95" title="Standings · leaderboard" onClick={() => setBoardOpen(true)}>
           <IconRank size={18} />
-          <span className="hud-label leading-none">Standings</span>
+          <span className="hud-label leading-none">{t('standings')}</span>
         </button>
 
         <button className="flex flex-col items-center gap-0.5 rounded-md border border-line/60 bg-steel/40 py-2 text-parchment/80 transition active:scale-95" title="Main menu" onClick={onExit}>
           <IconHome size={18} />
-          <span className="hud-label leading-none">Home</span>
+          <span className="hud-label leading-none">{t('home')}</span>
         </button>
       </div>
 

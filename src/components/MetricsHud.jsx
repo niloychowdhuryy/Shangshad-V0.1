@@ -1,6 +1,7 @@
 import { metricRows } from '../game/selectors.js';
 import { OVERFLOW_THRESHOLD } from '../game/constants.js';
 import { MetricIcon } from './icons/Icons.jsx';
+import { useT } from '../i18n/i18n.jsx';
 
 const OVERFLOW_COLOR = '#ffae34'; // amber — "too much of a good thing"
 const UP_COLOR = '#34d399'; // green — pillar rose this answer
@@ -11,6 +12,7 @@ const DOWN_COLOR = '#ff5470'; // red — pillar fell this answer
 // `deltas` = { id: change } from the LAST answer; shown as a coloured +n / −n
 //            beside the value until the next answer (unaffected pillars show none).
 export default function MetricsHud({ metrics, glow = new Set(), deltas = {} }) {
+  const { t } = useT();
   const rows = metricRows(metrics);
   return (
     <div className="panel grid grid-cols-6 gap-px overflow-hidden bg-line/40 p-px">
@@ -72,14 +74,14 @@ export default function MetricsHud({ metrics, glow = new Set(), deltas = {} }) {
 
             {/* The pillar name always stays; an OVERFLOW badge marks it beneath when overflowing. */}
             <span className="font-tech text-[8px] font-semibold uppercase leading-none tracking-wide text-parchment/70">
-              {m.short}
+              {t(m.short)}
             </span>
             {overflow && (
               <span
                 className="mt-0.5 animate-pulse rounded-[2px] px-1 font-mono text-[7px] font-bold uppercase leading-none tracking-[0.12em]"
                 style={{ color: '#06100b', backgroundColor: OVERFLOW_COLOR }}
               >
-                Overflow
+                {t('overflow')}
               </span>
             )}
           </div>

@@ -1,5 +1,6 @@
 import { affectedMetricIds, formatDelta, metricMeta } from '../game/selectors.js';
 import { MetricIcon } from './icons/Icons.jsx';
+import { useTranslatedCard, useT } from '../i18n/i18n.jsx';
 
 // One decision card with two choices (left / right, à la Reigns).
 //
@@ -68,7 +69,9 @@ function ChoiceButton({ choice, side, insightActive, difficultyFactor = 1, selec
   );
 }
 
-export default function CardView({ card, insightActive, difficultyFactor = 1, selectedSide = null, onHoverSide, onAnswer, decisionLabel = 'Your decision matters' }) {
+export default function CardView({ card, insightActive, difficultyFactor = 1, selectedSide = null, onHoverSide, onAnswer, decisionLabel }) {
+  const { t } = useT();
+  const view = useTranslatedCard(card); // English, or Bangla once auto-translated
   const clear = () => onHoverSide?.([]);
   const hover = (ids) => onHoverSide?.(ids);
 
@@ -95,14 +98,14 @@ export default function CardView({ card, insightActive, difficultyFactor = 1, se
 
       {/* small framing line above the question */}
       <div className="text-center font-mono text-[9px] uppercase tracking-[0.3em] text-accent/70">
-        {decisionLabel}
+        {decisionLabel || t('decisionMatters')}
       </div>
 
-      <p className="font-serif text-[15px] leading-relaxed text-parchment/90">{card.prompt}</p>
+      <p className="font-serif text-[15px] leading-relaxed text-parchment/90">{view.prompt}</p>
 
       <div className="flex flex-col gap-2 sm:flex-row">
-        <ChoiceButton choice={card.left} side="left" insightActive={insightActive} difficultyFactor={difficultyFactor} selected={selectedSide === 'left'} locked={!!selectedSide} onHover={hover} onLeave={clear} onPick={onAnswer} />
-        <ChoiceButton choice={card.right} side="right" insightActive={insightActive} difficultyFactor={difficultyFactor} selected={selectedSide === 'right'} locked={!!selectedSide} onHover={hover} onLeave={clear} onPick={onAnswer} />
+        <ChoiceButton choice={view.left} side="left" insightActive={insightActive} difficultyFactor={difficultyFactor} selected={selectedSide === 'left'} locked={!!selectedSide} onHover={hover} onLeave={clear} onPick={onAnswer} />
+        <ChoiceButton choice={view.right} side="right" insightActive={insightActive} difficultyFactor={difficultyFactor} selected={selectedSide === 'right'} locked={!!selectedSide} onHover={hover} onLeave={clear} onPick={onAnswer} />
       </div>
     </div>
   );

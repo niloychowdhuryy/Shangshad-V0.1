@@ -2,11 +2,13 @@ import { useState } from 'react';
 import { signOut, linkGoogle, linkFacebook, linkedProviderIds } from '../firebase/auth.js';
 import { OFFLINE_MODE } from '../firebase/config.js';
 import Avatar from './Avatar.jsx';
+import { useT, LanguageToggle } from '../i18n/i18n.jsx';
 import { IconClose, IconUser, IconLink, IconPower } from './icons/Icons.jsx';
 
 // Profile & privacy settings. The privacy toggle controls what the leaderboard
 // shows: real name + photo, or just the username + a generated avatar.
 export default function SettingsPanel({ open, onClose, user, profile, onSave }) {
+  const { t } = useT();
   const [username, setUsername] = useState(profile.username || '');
   const [pub, setPub] = useState(!!profile.publicProfile);
   const [tut, setTut] = useState(profile.tutorialEnabled !== false);
@@ -110,6 +112,15 @@ export default function SettingsPanel({ open, onClose, user, profile, onSave }) 
             <span className={`absolute top-0.5 h-5 w-5 rounded-full bg-white transition-all ${tut ? 'left-[22px]' : 'left-0.5'}`} />
           </span>
         </button>
+
+        {/* Language */}
+        <div className="mb-3 flex w-full items-center justify-between rounded-md border border-line/60 bg-white/[0.02] px-3 py-2.5">
+          <span className="pr-3">
+            <span className="block font-tech text-sm text-parchment">{t('language')}</span>
+            <span className="block font-tech text-[11px] leading-snug text-parchment/55">{t('languageHint')}</span>
+          </span>
+          <LanguageToggle />
+        </div>
 
         {/* Linked accounts */}
         <div className="mb-4">
