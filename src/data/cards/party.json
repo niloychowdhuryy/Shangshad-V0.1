@@ -11,7 +11,7 @@
       "caretaker",
       "legitimacy"
     ],
-    "prompt": "Your helper says you must let a fair, neutral team run the election, or the other side will quit and say you cheated.",
+    "prompt": "Honourable leader! Your helper says you must let a fair, neutral team run the election, or the other side will quit and say you cheated.",
     "left": {
       "id": "a",
       "label": "Refuse and run the election yourself.",
@@ -47,7 +47,7 @@
       "caretaker",
       "legitimacy"
     ],
-    "prompt": "The votes are close. You can secretly change the counting to make sure you win, but people might notice.",
+    "prompt": "Sir, urgent news. The votes are close. You can secretly change the counting to make sure you win, but people might notice.",
     "left": {
       "id": "a",
       "label": "Secretly change the votes to win.",
@@ -84,7 +84,7 @@
       "institutions",
       "appointments"
     ],
-    "prompt": "You get to pick the new voting judges. You can pick your friends who will let you win, or honest people who might rule against you.",
+    "prompt": "Sir, forgive me — You get to pick the new voting judges. You can pick your friends who will let you win, or honest people who might rule against you.",
     "left": {
       "id": "a",
       "label": "Pick your friends to be the judges.",
@@ -120,7 +120,7 @@
       "blockade",
       "violence"
     ],
-    "prompt": "Your enemies are blocking the roads. You can send your own fighters to stop them, but it will be very violent.",
+    "prompt": "A word, sir! Your enemies are blocking the roads. You can send your own fighters to stop them, but it will be very violent.",
     "left": {
       "id": "a",
       "label": "Send your fighters to stop them.",
@@ -158,7 +158,7 @@
       "coalition",
       "horse-trading"
     ],
-    "prompt": "You are losing votes. You can secretly promise bad politicians jobs and safety if they switch to your team.",
+    "prompt": "Sir, we have a problem. You are losing votes. You can secretly promise bad politicians jobs and safety if they switch to your team.",
     "left": {
       "id": "a",
       "label": "Buy their votes with jobs and safety.",
@@ -195,7 +195,7 @@
       "alliance",
       "secularism"
     ],
-    "prompt": "A powerful religious group will help you win, but only if you make strict religious laws and take away women's rights.",
+    "prompt": "Sir! A powerful religious group will help you win, but only if you make strict religious laws and take away women's rights.",
     "left": {
       "id": "a",
       "label": "Take their help and make the strict laws.",
@@ -232,7 +232,7 @@
       "tribunal",
       "justice"
     ],
-    "prompt": "You are putting old war criminals on trial. You can rush the trials to punish them fast, or go slowly to be totally fair.",
+    "prompt": "Mr. Prime Minister, sir! You are putting old war criminals on trial. You can rush the trials to punish them fast, or go slowly to be totally fair.",
     "left": {
       "id": "a",
       "label": "Rush the trials to punish them fast.",
@@ -269,7 +269,7 @@
       "campus",
       "extortion"
     ],
-    "prompt": "Your student group is bullying kids at school. They want more power, but some say you need to stop their bullying.",
+    "prompt": "Your Excellency! Your student group is bullying kids at school. They want more power, but some say you need to stop their bullying.",
     "left": {
       "id": "a",
       "label": "Give your student group more power.",
@@ -305,7 +305,7 @@
       "dynasty",
       "loyalty"
     ],
-    "prompt": "The older leaders want you to name your child as the next boss right now. Others say you should pick the smartest person, not just your family.",
+    "prompt": "Prime Minister! The older leaders want you to name your child as the next boss right now. Others say you should pick the smartest person, not just your family.",
     "left": {
       "id": "a",
       "label": "Name your child as the next boss.",
@@ -343,7 +343,7 @@
       "courts",
       "lawfare"
     ],
-    "prompt": "A judge will put your biggest enemy in jail for an old crime if you want. This means she can't run against you in the election.",
+    "prompt": "Sir — A judge will put your biggest enemy in jail for an old crime if you want. This means she can't run against you in the election.",
     "left": {
       "id": "a",
       "label": "Have the judge put her in jail.",
@@ -379,7 +379,7 @@
       "courts",
       "lawfare"
     ],
-    "prompt": "Your enemy is very sick in jail. If she dies there, everyone will hate you. Her family begs to take her to a hospital.",
+    "prompt": "Honourable leader! Your enemy is very sick in jail. If she dies there, everyone will hate you. Her family begs to take her to a hospital.",
     "left": {
       "id": "a",
       "label": "Keep her locked in the jail.",
@@ -415,7 +415,7 @@
       "election",
       "censorship"
     ],
-    "prompt": "You can turn off the internet on voting day so no one can see if you cheat.",
+    "prompt": "Sir, urgent news. You can turn off the internet on voting day so no one can see if you cheat.",
     "left": {
       "id": "a",
       "label": "Turn off the internet on voting day.",
@@ -452,7 +452,7 @@
       "patronage",
       "money"
     ],
-    "prompt": "A helper wants to hand out secret envelopes of cash and free things to poor people the night before the vote to make them pick you.",
+    "prompt": "Sir, forgive me — A helper wants to hand out secret envelopes of cash and free things to poor people the night before the vote to make them pick you.",
     "left": {
       "id": "a",
       "label": "Give out the secret cash and free things.",
@@ -490,7 +490,7 @@
       "fraud",
       "ghosts"
     ],
-    "prompt": "The voting list has thousands of fake names and dead people on it. You can use these fake names to cheat and get more votes.",
+    "prompt": "A word, sir! The voting list has thousands of fake names and dead people on it. You can use these fake names to cheat and get more votes.",
     "left": {
       "id": "a",
       "label": "Keep the fake names to get more votes.",
@@ -526,7 +526,7 @@
       "candidates",
       "money"
     ],
-    "prompt": "Many people want to be on your team. You can let the richest people buy their spots, or pick the people who work the hardest.",
+    "prompt": "Sir, we have a problem. Many people want to be on your team. You can let the richest people buy their spots, or pick the people who work the hardest.",
     "left": {
       "id": "a",
       "label": "Let the richest people buy the spots.",
@@ -564,7 +564,7 @@
       "propaganda",
       "press"
     ],
-    "prompt": "A rich friend offers to buy all the TV stations so they only say nice things about you and ignore your mistakes.",
+    "prompt": "Sir! A rich friend offers to buy all the TV stations so they only say nice things about you and ignore your mistakes.",
     "left": {
       "id": "a",
       "label": "Let him buy the TV stations.",
@@ -601,7 +601,7 @@
       "disinformation",
       "online"
     ],
-    "prompt": "Your computer team wants to make thousands of fake internet accounts to spread lies about your enemies and trick people.",
+    "prompt": "Mr. Prime Minister, sir! Your computer team wants to make thousands of fake internet accounts to spread lies about your enemies and trick people.",
     "left": {
       "id": "a",
       "label": "Pay the computer team to spread lies.",
@@ -637,7 +637,7 @@
       "allies",
       "leverage"
     ],
-    "prompt": "Your partner team threatens to leave unless you give them big jobs. If they leave, you might lose your power.",
+    "prompt": "Your Excellency! Your partner team threatens to leave unless you give them big jobs. If they leave, you might lose your power.",
     "left": {
       "id": "a",
       "label": "Give them the big jobs so they stay.",
@@ -674,7 +674,7 @@
       "no-confidence",
       "discipline"
     ],
-    "prompt": "Some of your own teammates might vote against you because they are angry. You can scare them into obeying, or actually fix what they are angry about.",
+    "prompt": "Prime Minister! Some of your own teammates might vote against you because they are angry. You can scare them into obeying, or actually fix what they are angry about.",
     "left": {
       "id": "a",
       "label": "Scare them into obeying you.",
@@ -711,7 +711,7 @@
       "term-limits",
       "power"
     ],
-    "prompt": "You can change the rules so you are allowed to be the boss forever. But this shows everyone you never plan to leave.",
+    "prompt": "Sir — You can change the rules so you are allowed to be the boss forever. But this shows everyone you never plan to leave.",
     "left": {
       "id": "a",
       "label": "Change the rules to be boss forever.",
@@ -748,7 +748,7 @@
       "rivals",
       "repression"
     ],
-    "prompt": "You have a sneaky excuse to completely ban the enemy team so they can't run against you at all.",
+    "prompt": "Honourable leader! You have a sneaky excuse to completely ban the enemy team so they can't run against you at all.",
     "left": {
       "id": "a",
       "label": "Ban the enemy team.",
@@ -784,7 +784,7 @@
       "patrons",
       "graft"
     ],
-    "prompt": "A rich man who gave you a lot of money now wants special favors, like a free bank. You need his money for the next election.",
+    "prompt": "Sir, urgent news. A rich man who gave you a lot of money now wants special favors, like a free bank. You need his money for the next election.",
     "left": {
       "id": "a",
       "label": "Give him the special favors.",
@@ -821,7 +821,7 @@
       "extortion",
       "control"
     ],
-    "prompt": "Your best helper wins lots of votes, but he does it by being a scary bully and stealing from people.",
+    "prompt": "Sir, forgive me — Your best helper wins lots of votes, but he does it by being a scary bully and stealing from people.",
     "left": {
       "id": "a",
       "label": "Keep the bully because he gets you votes.",
@@ -857,7 +857,7 @@
       "representation",
       "reserved-seats"
     ],
-    "prompt": "You get to pick women for special government seats. You can pick hard-working leaders, or just pick the wives of your rich friends.",
+    "prompt": "A word, sir! You get to pick women for special government seats. You can pick hard-working leaders, or just pick the wives of your rich friends.",
     "left": {
       "id": "a",
       "label": "Pick the wives of your rich friends.",
@@ -895,7 +895,7 @@
       "loyalty",
       "betrayal"
     ],
-    "prompt": "A good guy on your team might leave to join the enemies. You can ruin his life with a fake secret, or talk to him nicely to keep him.",
+    "prompt": "Sir, we have a problem. A good guy on your team might leave to join the enemies. You can ruin his life with a fake secret, or talk to him nicely to keep him.",
     "left": {
       "id": "a",
       "label": "Ruin his life with a fake secret.",
@@ -932,7 +932,7 @@
       "spectacle",
       "mobilisation"
     ],
-    "prompt": "You can spend a giant amount of money to bus a million people to the city just to cheer for you and look powerful.",
+    "prompt": "Sir! You can spend a giant amount of money to bus a million people to the city just to cheer for you and look powerful.",
     "left": {
       "id": "a",
       "label": "Spend the money for the giant cheering crowd.",
@@ -969,7 +969,7 @@
       "execution",
       "timing"
     ],
-    "prompt": "You can hang a bad war criminal right before the election to make your fans cheer.",
+    "prompt": "Mr. Prime Minister, sir! You can hang a bad war criminal right before the election to make your fans cheer.",
     "left": {
       "id": "a",
       "label": "Hang the criminal right before the election.",
@@ -1006,7 +1006,7 @@
       "dynasty",
       "naming"
     ],
-    "prompt": "Your friends want to name the airport, schools, and bridges after your family so no one ever forgets you.",
+    "prompt": "Your Excellency! Your friends want to name the airport, schools, and bridges after your family so no one ever forgets you.",
     "left": {
       "id": "a",
       "label": "Say yes and name everything after your family.",
@@ -1043,7 +1043,7 @@
       "election-day",
       "violence"
     ],
-    "prompt": "On voting day, your team can secretly kick out the other team's checkers and stuff the boxes with fake votes for you.",
+    "prompt": "Prime Minister! On voting day, your team can secretly kick out the other team's checkers and stuff the boxes with fake votes for you.",
     "left": {
       "id": "a",
       "label": "Tell your team to stuff the boxes with fake votes.",
@@ -1079,7 +1079,7 @@
       "renewal",
       "loyalty"
     ],
-    "prompt": "The very old leaders won't give up their jobs to the younger, smarter people. If you force them out, they will be mad.",
+    "prompt": "Sir — The very old leaders won't give up their jobs to the younger, smarter people. If you force them out, they will be mad.",
     "left": {
       "id": "a",
       "label": "Let the old leaders keep their jobs.",
@@ -1117,7 +1117,7 @@
       "parliament",
       "fairness"
     ],
-    "prompt": "You get to pick the referee for the big government meetings. You can pick your friend who always lets you win, or a fair person.",
+    "prompt": "Honourable leader! You get to pick the referee for the big government meetings. You can pick your friend who always lets you win, or a fair person.",
     "left": {
       "id": "a",
       "label": "Pick your friend who always lets you win.",
@@ -1153,7 +1153,7 @@
       "funding",
       "foreign"
     ],
-    "prompt": "Your friends in other countries want to send you lots of secret money for your campaign. It is illegal to take secret foreign money.",
+    "prompt": "Sir, urgent news. Your friends in other countries want to send you lots of secret money for your campaign. It is illegal to take secret foreign money.",
     "left": {
       "id": "a",
       "label": "Take the secret foreign money.",
@@ -1190,7 +1190,7 @@
       "secularism",
       "vote-bank"
     ],
-    "prompt": "Small religious groups always vote for you, but they are being attacked. They want you to protect them loudly, which might upset the big groups.",
+    "prompt": "Sir, forgive me — Small religious groups always vote for you, but they are being attacked. They want you to protect them loudly, which might upset the big groups.",
     "left": {
       "id": "a",
       "label": "Just say sorry, but don't upset the big groups.",
@@ -1227,7 +1227,7 @@
       "election",
       "manipulation"
     ],
-    "prompt": "Your enemies are quitting the election. You can pay fake \"enemies\" to run against you so it looks like a real game.",
+    "prompt": "A word, sir! Your enemies are quitting the election. You can pay fake \"enemies\" to run against you so it looks like a real game.",
     "left": {
       "id": "a",
       "label": "Pay fake enemies to run against you.",
@@ -1263,7 +1263,7 @@
       "purge",
       "patronage"
     ],
-    "prompt": "You can fire all the government workers who used to work for the old boss and replace them with your own fans.",
+    "prompt": "Sir, we have a problem. You can fire all the government workers who used to work for the old boss and replace them with your own fans.",
     "left": {
       "id": "a",
       "label": "Fire them and hire only your fans.",
@@ -1299,7 +1299,7 @@
       "martyrs",
       "narrative"
     ],
-    "prompt": "A helper wants to change the history books to make the enemy team look like killers, just to make your team look better.",
+    "prompt": "Sir! A helper wants to change the history books to make the enemy team look like killers, just to make your team look better.",
     "left": {
       "id": "a",
       "label": "Change the history books to make them look bad.",
@@ -1336,7 +1336,7 @@
       "appointments",
       "independence"
     ],
-    "prompt": "You get to pick two big judges before a big court case about you. You can pick your friends to make sure you win.",
+    "prompt": "Mr. Prime Minister, sir! You get to pick two big judges before a big court case about you. You can pick your friends to make sure you win.",
     "left": {
       "id": "a",
       "label": "Pick your friends as the judges.",
@@ -1372,7 +1372,7 @@
       "accountability",
       "local"
     ],
-    "prompt": "People hate one of your politicians because he is mean and steals. You can protect him, or fire him and listen to the people.",
+    "prompt": "Your Excellency! People hate one of your politicians because he is mean and steals. You can protect him, or fire him and listen to the people.",
     "left": {
       "id": "a",
       "label": "Protect the mean politician.",
@@ -1410,7 +1410,7 @@
       "patronage",
       "youth"
     ],
-    "prompt": "You are hiring thousands of new government workers. You can secretly give all the jobs to your fans, or give them to the smartest people.",
+    "prompt": "Prime Minister! You are hiring thousands of new government workers. You can secretly give all the jobs to your fans, or give them to the smartest people.",
     "left": {
       "id": "a",
       "label": "Secretly give the jobs to your fans.",
@@ -1448,7 +1448,7 @@
       "rivals",
       "unity"
     ],
-    "prompt": "An old leader who left your team angry wants to come back. He brings lots of votes but also lots of drama.",
+    "prompt": "Sir — An old leader who left your team angry wants to come back. He brings lots of votes but also lots of drama.",
     "left": {
       "id": "a",
       "label": "Welcome him back for the votes.",
@@ -1485,7 +1485,7 @@
       "blasphemy",
       "alliance"
     ],
-    "prompt": "A strict religious group wants you to hang a man for his beliefs and ban a nice charity. They will help you win if you do it.",
+    "prompt": "Honourable leader! A strict religious group wants you to hang a man for his beliefs and ban a nice charity. They will help you win if you do it.",
     "left": {
       "id": "a",
       "label": "Do what they want to get their help.",
@@ -1522,7 +1522,7 @@
       "boycott",
       "legitimacy"
     ],
-    "prompt": "The enemy team is not at the meeting. You can quickly pass all your new rules without anyone arguing with you.",
+    "prompt": "Sir, urgent news. The enemy team is not at the meeting. You can quickly pass all your new rules without anyone arguing with you.",
     "left": {
       "id": "a",
       "label": "Pass all the rules quickly while they are gone.",
@@ -1558,7 +1558,7 @@
       "election",
       "trust"
     ],
-    "prompt": "You are getting new voting machines. You can make them secret so no one can check the math, which makes it easy to cheat.",
+    "prompt": "Sir, forgive me — You are getting new voting machines. You can make them secret so no one can check the math, which makes it easy to cheat.",
     "left": {
       "id": "a",
       "label": "Use the secret machines so you can cheat.",
@@ -1595,7 +1595,7 @@
       "polling",
       "agents"
     ],
-    "prompt": "A guard suggests scaring the other team's checkers the night before the vote, so they don't show up and you can cheat easily.",
+    "prompt": "A word, sir! A guard suggests scaring the other team's checkers the night before the vote, so they don't show up and you can cheat easily.",
     "left": {
       "id": "a",
       "label": "Scare the checkers away.",
@@ -1631,7 +1631,7 @@
       "poaching",
       "majority"
     ],
-    "prompt": "You can bribe a smart, young enemy leader to join your team by offering him a big job. This makes you look powerful but unfair.",
+    "prompt": "Sir, we have a problem. You can bribe a smart, young enemy leader to join your team by offering him a big job. This makes you look powerful but unfair.",
     "left": {
       "id": "a",
       "label": "Bribe him to join your team.",
@@ -1668,7 +1668,7 @@
       "symbol",
       "advantage"
     ],
-    "prompt": "You can secretly trick the voting papers so your name is always at the top and easy to find, making you win more.",
+    "prompt": "Sir! You can secretly trick the voting papers so your name is always at the top and easy to find, making you win more.",
     "left": {
       "id": "a",
       "label": "Trick the voting papers.",
@@ -1704,7 +1704,7 @@
       "dhaka",
       "election"
     ],
-    "prompt": "Your friend is running for mayor but people don't like him. You can cheat to make him win, or replace him with someone people actually like.",
+    "prompt": "Mr. Prime Minister, sir! Your friend is running for mayor but people don't like him. You can cheat to make him win, or replace him with someone people actually like.",
     "left": {
       "id": "a",
       "label": "Cheat to make your friend win.",
@@ -1742,7 +1742,7 @@
       "arson",
       "escalation"
     ],
-    "prompt": "Your enemies burned a bus. Your team wants to go burn down their buildings to get revenge.",
+    "prompt": "Your Excellency! Your enemies burned a bus. Your team wants to go burn down their buildings to get revenge.",
     "left": {
       "id": "a",
       "label": "Let your team burn down their buildings.",
@@ -1780,7 +1780,7 @@
       "founder",
       "cult"
     ],
-    "prompt": "Your friends want to build a giant, super expensive museum just to talk about how great your family is.",
+    "prompt": "Prime Minister! Your friends want to build a giant, super expensive museum just to talk about how great your family is.",
     "left": {
       "id": "a",
       "label": "Build the giant, expensive museum.",
@@ -1818,7 +1818,7 @@
       "garments",
       "wages"
     ],
-    "prompt": "Factory workers want better pay. If you help them, they will vote for you, but the rich factory owners will be furious.",
+    "prompt": "Sir — Factory workers want better pay. If you help them, they will vote for you, but the rich factory owners will be furious.",
     "left": {
       "id": "a",
       "label": "Help the rich factory owners.",
@@ -1856,7 +1856,7 @@
       "barometer",
       "risk"
     ],
-    "prompt": "There is a small vote happening. You can cheat to win easily, or play fair and risk losing to see how people really feel.",
+    "prompt": "Honourable leader! There is a small vote happening. You can cheat to win easily, or play fair and risk losing to see how people really feel.",
     "left": {
       "id": "a",
       "label": "Cheat to win the small vote safely.",
@@ -1892,7 +1892,7 @@
       "press",
       "speech"
     ],
-    "prompt": "A news writer called you a thief. You can throw him in jail to scare everyone, or just show proof that he is wrong.",
+    "prompt": "Sir, urgent news. A news writer called you a thief. You can throw him in jail to scare everyone, or just show proof that he is wrong.",
     "left": {
       "id": "a",
       "label": "Throw the writer in jail.",
@@ -1929,7 +1929,7 @@
       "discipline",
       "law"
     ],
-    "prompt": "You can make a strict rule that anyone on your team who disagrees with you goes to jail. This stops all arguing.",
+    "prompt": "Sir, forgive me — You can make a strict rule that anyone on your team who disagrees with you goes to jail. This stops all arguing.",
     "left": {
       "id": "a",
       "label": "Make the strict rule to stop arguing.",
@@ -1965,7 +1965,7 @@
       "allies",
       "arithmetic"
     ],
-    "prompt": "Your smaller partner teams want to run in the election too. You can bully them into taking the worst spots, or be generous.",
+    "prompt": "A word, sir! Your smaller partner teams want to run in the election too. You can bully them into taking the worst spots, or be generous.",
     "left": {
       "id": "a",
       "label": "Bully them and keep the best spots for yourself.",
@@ -2003,7 +2003,7 @@
       "funeral",
       "mobilisation"
     ],
-    "prompt": "One of your young helpers died fighting the enemy. Your team wants to carry his body through the city to make everyone angry and start a huge fight.",
+    "prompt": "Sir, we have a problem. One of your young helpers died fighting the enemy. Your team wants to carry his body through the city to make everyone angry and start a huge fight.",
     "left": {
       "id": "a",
       "label": "Have the big, angry parade.",
@@ -2040,7 +2040,7 @@
       "election",
       "legitimacy"
     ],
-    "prompt": "People from other countries want to watch your election to make sure it's fair. You can hide the cheating parts from them, or let them see everything.",
+    "prompt": "Sir! People from other countries want to watch your election to make sure it's fair. You can hide the cheating parts from them, or let them see everything.",
     "left": {
       "id": "a",
       "label": "Hide things and make it hard for them to watch.",
@@ -2076,7 +2076,7 @@
       "lawfare",
       "selective"
     ],
-    "prompt": "The police who catch thieves work for you. You can tell them to only arrest your enemies, or tell them to arrest anyone who steals, even your friends.",
+    "prompt": "Mr. Prime Minister, sir! The police who catch thieves work for you. You can tell them to only arrest your enemies, or tell them to arrest anyone who steals, even your friends.",
     "left": {
       "id": "a",
       "label": "Tell them to only arrest your enemies.",
@@ -2114,7 +2114,7 @@
       "constitution",
       "power"
     ],
-    "prompt": "You can make a rule that your team always stays in charge during elections, which makes it super easy to win every time.",
+    "prompt": "Your Excellency! You can make a rule that your team always stays in charge during elections, which makes it super easy to win every time.",
     "left": {
       "id": "a",
       "label": "Make the rule so you always stay in charge.",
@@ -2150,7 +2150,7 @@
       "black-money",
       "audit"
     ],
-    "prompt": "You have a giant pile of secret cash for the election. You can lie about where you got it, or only use honest money and have less to spend.",
+    "prompt": "Prime Minister! You have a giant pile of secret cash for the election. You can lie about where you got it, or only use honest money and have less to spend.",
     "left": {
       "id": "a",
       "label": "Lie about the money and hide it.",
@@ -2187,7 +2187,7 @@
       "nepotism",
       "nominations"
     ],
-    "prompt": "Your whole family wants to be politicians now because you are the boss. People might think you are just giving jobs to your relatives.",
+    "prompt": "Sir — Your whole family wants to be politicians now because you are the boss. People might think you are just giving jobs to your relatives.",
     "left": {
       "id": "a",
       "label": "Give your family the easy jobs.",
@@ -2225,7 +2225,7 @@
       "indigenous",
       "accord"
     ],
-    "prompt": "People in the hills want you to keep an old promise to protect them. But the army and new settlers want to take their land.",
+    "prompt": "Honourable leader! People in the hills want you to keep an old promise to protect them. But the army and new settlers want to take their land.",
     "left": {
       "id": "a",
       "label": "Help the army and the new settlers.",
@@ -2263,7 +2263,7 @@
       "count",
       "delay"
     ],
-    "prompt": "The votes are coming in. You can pause the TV news to secretly change some numbers so you win, or show the honest truth instantly.",
+    "prompt": "Sir, urgent news. The votes are coming in. You can pause the TV news to secretly change some numbers so you win, or show the honest truth instantly.",
     "left": {
       "id": "a",
       "label": "Pause the news to secretly change numbers.",
@@ -2299,7 +2299,7 @@
       "health",
       "dynasty"
     ],
-    "prompt": "You are very sick but no one knows. You can pick the next leader now, but people might stop listening to you early.",
+    "prompt": "Sir, forgive me — You are very sick but no one knows. You can pick the next leader now, but people might stop listening to you early.",
     "left": {
       "id": "a",
       "label": "Hide it and pretend you are perfectly fine.",
@@ -2337,7 +2337,7 @@
       "dispute",
       "credibility"
     ],
-    "prompt": "The enemy wants to recount the votes because they think you cheated in one town. You can say no using a silly rule, or let them recount and risk losing.",
+    "prompt": "A word, sir! The enemy wants to recount the votes because they think you cheated in one town. You can say no using a silly rule, or let them recount and risk losing.",
     "left": {
       "id": "a",
       "label": "Say no and keep the win.",
@@ -2373,7 +2373,7 @@
       "national-day",
       "narrative"
     ],
-    "prompt": "You can change the school books so they only talk about how amazing your family is and ignore all the other heroes.",
+    "prompt": "Sir, we have a problem. You can change the school books so they only talk about how amazing your family is and ignore all the other heroes.",
     "left": {
       "id": "a",
       "label": "Change the books to only praise your family.",
@@ -2410,7 +2410,7 @@
       "recruitment",
       "loyalty"
     ],
-    "prompt": "You are hiring new police. You can only hire people who promise to vote for you, or hire the strongest, smartest people.",
+    "prompt": "Sir! You are hiring new police. You can only hire people who promise to vote for you, or hire the strongest, smartest people.",
     "left": {
       "id": "a",
       "label": "Only hire people who promise to vote for you.",
@@ -2446,7 +2446,7 @@
       "plot",
       "loyalty"
     ],
-    "prompt": "Two of your friends are secretly talking to the army about taking your job. You can spy on them secretly, or yell at them right now.",
+    "prompt": "Mr. Prime Minister, sir! Two of your friends are secretly talking to the army about taking your job. You can spy on them secretly, or yell at them right now.",
     "left": {
       "id": "a",
       "label": "Spy on them secretly to stop them.",
@@ -2484,7 +2484,7 @@
       "family",
       "corruption"
     ],
-    "prompt": "Someone in your family got caught stealing. You can hide the secret, or let the police arrest them like anyone else.",
+    "prompt": "Your Excellency! Someone in your family got caught stealing. You can hide the secret, or let the police arrest them like anyone else.",
     "left": {
       "id": "a",
       "label": "Hide the secret to protect your family.",
@@ -2522,7 +2522,7 @@
       "promises",
       "credibility"
     ],
-    "prompt": "You are writing your promises for the election. You can promise crazy, impossible things to get votes, or be honest about what you can actually do.",
+    "prompt": "Prime Minister! You are writing your promises for the election. You can promise crazy, impossible things to get votes, or be honest about what you can actually do.",
     "left": {
       "id": "a",
       "label": "Promise impossible things to win.",
@@ -2559,7 +2559,7 @@
       "protest",
       "blame"
     ],
-    "prompt": "Your student helpers beat up peaceful kids on video. They want you to lie and say the peaceful kids started it.",
+    "prompt": "Sir — Your student helpers beat up peaceful kids on video. They want you to lie and say the peaceful kids started it.",
     "left": {
       "id": "a",
       "label": "Lie and protect your student helpers.",
@@ -2597,7 +2597,7 @@
       "opposition",
       "reconciliation"
     ],
-    "prompt": "Your enemies offer to stop fighting if you let their friends out of jail and make fairer rules.",
+    "prompt": "Honourable leader! Your enemies offer to stop fighting if you let their friends out of jail and make fairer rules.",
     "left": {
       "id": "a",
       "label": "Say no and keep fighting them.",
@@ -2633,7 +2633,7 @@
       "rules",
       "control"
     ],
-    "prompt": "You can change your team's rules so you never have to vote for a leader again, meaning you are the boss forever.",
+    "prompt": "Sir, urgent news. You can change your team's rules so you never have to vote for a leader again, meaning you are the boss forever.",
     "left": {
       "id": "a",
       "label": "Change the rules to be boss forever.",
@@ -2670,7 +2670,7 @@
       "rules",
       "control"
     ],
-    "prompt": "A very popular guy on your team might win a vote against your favorite friend. You can kick him out for a fake reason so your friend wins.",
+    "prompt": "Sir, forgive me — A very popular guy on your team might win a vote against your favorite friend. You can kick him out for a fake reason so your friend wins.",
     "left": {
       "id": "a",
       "label": "Kick him out for a fake reason.",
@@ -2708,7 +2708,7 @@
       "press",
       "intimidation"
     ],
-    "prompt": "You can file hundreds of fake lawsuits against reporters and enemies to keep them busy and scared in court forever.",
+    "prompt": "A word, sir! You can file hundreds of fake lawsuits against reporters and enemies to keep them busy and scared in court forever.",
     "left": {
       "id": "a",
       "label": "File the fake lawsuits to scare them.",
@@ -2744,7 +2744,7 @@
       "press",
       "intimidation"
     ],
-    "prompt": "One of those fake lawsuits got a young reporter thrown in jail for a long time.",
+    "prompt": "Sir, we have a problem. One of those fake lawsuits got a young reporter thrown in jail for a long time.",
     "left": {
       "id": "a",
       "label": "Leave her in jail.",
@@ -2780,7 +2780,7 @@
       "constituencies",
       "advantage"
     ],
-    "prompt": "You can redraw the map for the election to trap all your enemies in one area, making it super easy for you to win the rest.",
+    "prompt": "Sir! You can redraw the map for the election to trap all your enemies in one area, making it super easy for you to win the rest.",
     "left": {
       "id": "a",
       "label": "Redraw the map to cheat and win.",
@@ -2816,7 +2816,7 @@
       "patronage",
       "spending"
     ],
-    "prompt": "Local leaders want you to create brand new towns on the map just so they can get new jobs and money.",
+    "prompt": "Mr. Prime Minister, sir! Local leaders want you to create brand new towns on the map just so they can get new jobs and money.",
     "left": {
       "id": "a",
       "label": "Create the new towns to give them jobs.",
@@ -2853,7 +2853,7 @@
       "relief-cards",
       "votes"
     ],
-    "prompt": "Politicians are only giving free food to people who vote for them, and letting the others starve.",
+    "prompt": "Your Excellency! Politicians are only giving free food to people who vote for them, and letting the others starve.",
     "left": {
       "id": "a",
       "label": "Let them keep using food to buy votes.",
@@ -2890,7 +2890,7 @@
       "election",
       "local"
     ],
-    "prompt": "Small city elections are happening. You can rig them quietly to make sure you win, or let people vote freely as a test.",
+    "prompt": "Prime Minister! Small city elections are happening. You can rig them quietly to make sure you win, or let people vote freely as a test.",
     "left": {
       "id": "a",
       "label": "Rig the elections quietly.",
@@ -2926,7 +2926,7 @@
       "data",
       "manipulation"
     ],
-    "prompt": "You are counting all the people in the country. A helper says you can change the math to favor your towns for more money.",
+    "prompt": "Sir — You are counting all the people in the country. A helper says you can change the math to favor your towns for more money.",
     "left": {
       "id": "a",
       "label": "Change the math to get more money for your towns.",
@@ -2963,7 +2963,7 @@
       "freedom-fighters",
       "merit"
     ],
-    "prompt": "A rule gives the best jobs to kids of old war heroes, making normal young people furious. You can keep the rule or change it to be fair.",
+    "prompt": "Honourable leader! A rule gives the best jobs to kids of old war heroes, making normal young people furious. You can keep the rule or change it to be fair.",
     "left": {
       "id": "a",
       "label": "Keep giving the best jobs to the heroes' kids.",
@@ -3001,7 +3001,7 @@
       "union",
       "democracy"
     ],
-    "prompt": "School groups haven't voted for their leaders in years, so your bullies run everything. You can let them vote, but your bullies might lose.",
+    "prompt": "Sir, urgent news. School groups haven't voted for their leaders in years, so your bullies run everything. You can let them vote, but your bullies might lose.",
     "left": {
       "id": "a",
       "label": "Keep the voting stopped so your bullies stay in charge.",
@@ -3037,7 +3037,7 @@
       "endorsement",
       "rural"
     ],
-    "prompt": "A famous religious leader will tell millions of people to vote for you, but only if you give his group a lot of money and ignore their secrets.",
+    "prompt": "Sir, forgive me — A famous religious leader will tell millions of people to vote for you, but only if you give his group a lot of money and ignore their secrets.",
     "left": {
       "id": "a",
       "label": "Give him the money to get the votes.",
@@ -3074,7 +3074,7 @@
       "labour",
       "wages"
     ],
-    "prompt": "The poor people picking tea want better pay. If you help them, the rich tea farm owners who usually help you will be mad.",
+    "prompt": "A word, sir! The poor people picking tea want better pay. If you help them, the rich tea farm owners who usually help you will be mad.",
     "left": {
       "id": "a",
       "label": "Side with the rich tea farm owners.",
@@ -3110,7 +3110,7 @@
       "system",
       "reform"
     ],
-    "prompt": "People want a new voting system that is completely fair. But if it is completely fair, you won't win as easily anymore.",
+    "prompt": "Sir, we have a problem. People want a new voting system that is completely fair. But if it is completely fair, you won't win as easily anymore.",
     "left": {
       "id": "a",
       "label": "Keep the old rules so you keep winning easily.",
@@ -3146,7 +3146,7 @@
       "faction",
       "discipline"
     ],
-    "prompt": "A big leader on your team is mad and wants to start his own team. You can arrest him to stop him, or give him what he wants so he stays.",
+    "prompt": "Sir! A big leader on your team is mad and wants to start his own team. You can arrest him to stop him, or give him what he wants so he stays.",
     "left": {
       "id": "a",
       "label": "Arrest him before he leaves.",
@@ -3183,7 +3183,7 @@
       "left",
       "ideology"
     ],
-    "prompt": "A small, smart group wants to join you. They will help you look good, but they want you to be nicer to workers, which will anger your rich friends.",
+    "prompt": "Mr. Prime Minister, sir! A small, smart group wants to join you. They will help you look good, but they want you to be nicer to workers, which will anger your rich friends.",
     "left": {
       "id": "a",
       "label": "Join with them and help the workers.",
@@ -3220,7 +3220,7 @@
       "collaborators",
       "1971"
     ],
-    "prompt": "You can ban an old religious team for bad things they did in a war long ago. It is fair, but it also magically gets rid of your enemies today.",
+    "prompt": "Your Excellency! You can ban an old religious team for bad things they did in a war long ago. It is fair, but it also magically gets rid of your enemies today.",
     "left": {
       "id": "a",
       "label": "Ban the old team forever.",
@@ -3257,7 +3257,7 @@
       "patronage",
       "graft"
     ],
-    "prompt": "Politicians are stealing the money meant for building village roads. You can take the money away and give it to honest local councils instead.",
+    "prompt": "Prime Minister! Politicians are stealing the money meant for building village roads. You can take the money away and give it to honest local councils instead.",
     "left": {
       "id": "a",
       "label": "Let the politicians keep handling the money.",
@@ -3294,7 +3294,7 @@
       "imams",
       "influence"
     ],
-    "prompt": "You can pay religious leaders to say nice things about you during their prayers. This tricks people into voting for you.",
+    "prompt": "Sir — You can pay religious leaders to say nice things about you during their prayers. This tricks people into voting for you.",
     "left": {
       "id": "a",
       "label": "Pay the religious leaders to say nice things.",
@@ -3331,7 +3331,7 @@
       "speech",
       "opposition"
     ],
-    "prompt": "Protesters made up a funny song making fun of you. You can arrest them and put them in jail for it.",
+    "prompt": "Honourable leader! Protesters made up a funny song making fun of you. You can arrest them and put them in jail for it.",
     "left": {
       "id": "a",
       "label": "Arrest them for making fun of you.",
@@ -3368,7 +3368,7 @@
       "reckoning",
       "past"
     ],
-    "prompt": "People want to investigate the old bosses for stealing. If you do, people might want to investigate you someday too.",
+    "prompt": "Sir, urgent news. People want to investigate the old bosses for stealing. If you do, people might want to investigate you someday too.",
     "left": {
       "id": "a",
       "label": "Investigate everything deeply.",
@@ -3405,7 +3405,7 @@
       "disclosure",
       "transparency"
     ],
-    "prompt": "A new rule would force you to tell everyone exactly where you get your campaign money. It ruins your secret cash.",
+    "prompt": "Sir, forgive me — A new rule would force you to tell everyone exactly where you get your campaign money. It ruins your secret cash.",
     "left": {
       "id": "a",
       "label": "Stop the rule and keep your money secret.",
@@ -3442,7 +3442,7 @@
       "voting-age",
       "franchise"
     ],
-    "prompt": "You can let young kids vote. But right now, young kids are angry at you and will probably vote for the other team.",
+    "prompt": "A word, sir! You can let young kids vote. But right now, young kids are angry at you and will probably vote for the other team.",
     "left": {
       "id": "a",
       "label": "Let the young kids vote.",
@@ -3479,7 +3479,7 @@
       "status",
       "norms"
     ],
-    "prompt": "You can give the leader of the enemy team a nice office and treat them with respect, or take everything away to make them look weak.",
+    "prompt": "Sir, we have a problem. You can give the leader of the enemy team a nice office and treat them with respect, or take everything away to make them look weak.",
     "left": {
       "id": "a",
       "label": "Take everything away to make them look weak.",
@@ -3515,7 +3515,7 @@
       "history",
       "wounds"
     ],
-    "prompt": "A long time ago, your team did a very bad thing. You can say sorry and heal people's feelings, or stay quiet like always.",
+    "prompt": "Sir! A long time ago, your team did a very bad thing. You can say sorry and heal people's feelings, or stay quiet like always.",
     "left": {
       "id": "a",
       "label": "Say sorry for the bad thing.",
@@ -3552,7 +3552,7 @@
       "polling",
       "access"
     ],
-    "prompt": "People living far out in the hills mostly vote for your enemies. You can conveniently \"forget\" to put voting booths near them so they can't vote.",
+    "prompt": "Mr. Prime Minister, sir! People living far out in the hills mostly vote for your enemies. You can conveniently \"forget\" to put voting booths near them so they can't vote.",
     "left": {
       "id": "a",
       "label": "Forget to put voting booths near them.",
@@ -3588,7 +3588,7 @@
       "senate",
       "structure"
     ],
-    "prompt": "You can create a special new group of leaders and fill it with your friends. They will make sure no one can ever change your rules.",
+    "prompt": "Your Excellency! You can create a special new group of leaders and fill it with your friends. They will make sure no one can ever change your rules.",
     "left": {
       "id": "a",
       "label": "Create the new group and fill it with friends.",
@@ -3625,7 +3625,7 @@
       "compensation",
       "victims"
     ],
-    "prompt": "Your fans started a fight on voting day and people died. You can investigate honestly and pay the families, or secretly pay a little to hide it.",
+    "prompt": "Prime Minister! Your fans started a fight on voting day and people died. You can investigate honestly and pay the families, or secretly pay a little to hide it.",
     "left": {
       "id": "a",
       "label": "Investigate honestly and pay the families fairly.",
@@ -3662,7 +3662,7 @@
       "micro-targeting",
       "consultants"
     ],
-    "prompt": "A tricky company wants to spy on everyone's phones to figure out how to brainwash them into voting for you.",
+    "prompt": "Sir — A tricky company wants to spy on everyone's phones to figure out how to brainwash them into voting for you.",
     "left": {
       "id": "a",
       "label": "Hire the tricky company to brainwash people.",
@@ -3699,7 +3699,7 @@
       "scrutiny",
       "disqualification"
     ],
-    "prompt": "You can throw away the voting papers for the enemy team just because they missed a comma or spelled a word wrong.",
+    "prompt": "Honourable leader! You can throw away the voting papers for the enemy team just because they missed a comma or spelled a word wrong.",
     "left": {
       "id": "a",
       "label": "Throw away their papers for tiny mistakes.",
@@ -3735,7 +3735,7 @@
       "timing",
       "advantage"
     ],
-    "prompt": "You just did something popular. You can call a surprise election right now to win before people realize the country is running out of money.",
+    "prompt": "Sir, urgent news. You just did something popular. You can call a surprise election right now to win before people realize the country is running out of money.",
     "left": {
       "id": "a",
       "label": "Call the surprise election right now.",
@@ -3771,7 +3771,7 @@
       "dissent",
       "expulsion"
     ],
-    "prompt": "One of your teammates voted against a bad rule you made. You can kick him out completely to scare everyone else into obeying.",
+    "prompt": "Sir, forgive me — One of your teammates voted against a bad rule you made. You can kick him out completely to scare everyone else into obeying.",
     "left": {
       "id": "a",
       "label": "Kick him out completely.",
@@ -3808,7 +3808,7 @@
       "ceremonial",
       "loyalty"
     ],
-    "prompt": "You get to pick the President. You can pick a yes-man who does whatever you say, or a smart, fair person who might argue with you.",
+    "prompt": "A word, sir! You get to pick the President. You can pick a yes-man who does whatever you say, or a smart, fair person who might argue with you.",
     "left": {
       "id": "a",
       "label": "Pick the yes-man.",
@@ -3845,7 +3845,7 @@
       "absorption",
       "growth"
     ],
-    "prompt": "A small team wants to join yours. They have lots of voters, but they will demand big jobs and cause drama.",
+    "prompt": "Sir, we have a problem. A small team wants to join yours. They have lots of voters, but they will demand big jobs and cause drama.",
     "left": {
       "id": "a",
       "label": "Let them join your team.",
@@ -3881,7 +3881,7 @@
       "leak",
       "damage"
     ],
-    "prompt": "A secret plan to cut people's favorite free things leaked online. You can admit it's true, or lie and say the paper is fake and you changed your mind.",
+    "prompt": "Sir! A secret plan to cut people's favorite free things leaked online. You can admit it's true, or lie and say the paper is fake and you changed your mind.",
     "left": {
       "id": "a",
       "label": "Admit it is true.",
@@ -3917,7 +3917,7 @@
       "transport",
       "poll-day"
     ],
-    "prompt": "On voting day, you can send free buses only for the people voting for you, and leave the enemy voters stranded.",
+    "prompt": "Mr. Prime Minister, sir! On voting day, you can send free buses only for the people voting for you, and leave the enemy voters stranded.",
     "left": {
       "id": "a",
       "label": "Send free buses only for your voters.",
@@ -3953,7 +3953,7 @@
       "majority",
       "coalition"
     ],
-    "prompt": "You are almost losing. You can secretly bribe a few independent politicians to win, or play fair and risk losing your power.",
+    "prompt": "Your Excellency! You are almost losing. You can secretly bribe a few independent politicians to win, or play fair and risk losing your power.",
     "left": {
       "id": "a",
       "label": "Bribe them to win safely.",
@@ -3990,7 +3990,7 @@
       "powers",
       "rule"
     ],
-    "prompt": "You can declare a \"State of Emergency.\" This pauses all rules and lets you do whatever you want forever, but everyone will know you are a dictator.",
+    "prompt": "Prime Minister! You can declare a \"State of Emergency.\" This pauses all rules and lets you do whatever you want forever, but everyone will know you are a dictator.",
     "left": {
       "id": "a",
       "label": "Declare a State of Emergency.",
@@ -4026,7 +4026,7 @@
       "professionals",
       "capture"
     ],
-    "prompt": "Doctors and lawyers have their own groups. You can rig their votes so your friends are in charge of them too.",
+    "prompt": "Sir — Doctors and lawyers have their own groups. You can rig their votes so your friends are in charge of them too.",
     "left": {
       "id": "a",
       "label": "Rig their votes so your friends are in charge.",
@@ -4063,7 +4063,7 @@
       "judiciary",
       "poll"
     ],
-    "prompt": "You can make sure a friendly judge is the one watching the election so you can't lose.",
+    "prompt": "Honourable leader! You can make sure a friendly judge is the one watching the election so you can't lose.",
     "left": {
       "id": "a",
       "label": "Make sure your friendly judge is watching.",
@@ -4099,7 +4099,7 @@
       "endorsement",
       "image"
     ],
-    "prompt": "A super famous movie star wants to run on your team. He is clueless about laws, but everyone will vote for him because he's famous.",
+    "prompt": "Sir, urgent news. A super famous movie star wants to run on your team. He is clueless about laws, but everyone will vote for him because he's famous.",
     "left": {
       "id": "a",
       "label": "Let the clueless movie star run for your team.",
@@ -4135,7 +4135,7 @@
       "programme",
       "compromise"
     ],
-    "prompt": "Your partner teams want opposite things. You can lie to both of them to keep them happy, or pick a side and make one team very angry.",
+    "prompt": "Sir, forgive me — Your partner teams want opposite things. You can lie to both of them to keep them happy, or pick a side and make one team very angry.",
     "left": {
       "id": "a",
       "label": "Lie to both to keep them happy.",
@@ -4173,7 +4173,7 @@
       "restoration",
       "inclusion"
     ],
-    "prompt": "A group that was banned a long time ago wants to come back and promises to be good.",
+    "prompt": "A word, sir! A group that was banned a long time ago wants to come back and promises to be good.",
     "left": {
       "id": "a",
       "label": "Keep them banned forever.",
@@ -4210,7 +4210,7 @@
       "gotv",
       "organisation"
     ],
-    "prompt": "You can try to get everyone in the country to vote, or only wake up the people who like you and let the others sleep.",
+    "prompt": "Sir, we have a problem. You can try to get everyone in the country to vote, or only wake up the people who like you and let the others sleep.",
     "left": {
       "id": "a",
       "label": "Only wake up your friends to vote.",
@@ -4246,7 +4246,7 @@
       "decentralisation",
       "power"
     ],
-    "prompt": "You can give small towns the money and power to fix their own problems. It helps them, but makes you less powerful.",
+    "prompt": "Sir! You can give small towns the money and power to fix their own problems. It helps them, but makes you less powerful.",
     "left": {
       "id": "a",
       "label": "Keep all the power for yourself.",
@@ -4282,7 +4282,7 @@
       "law",
       "speech"
     ],
-    "prompt": "You can make a law that anyone who doesn't salute the flag perfectly goes to jail. This is a great excuse to arrest complainers.",
+    "prompt": "Mr. Prime Minister, sir! You can make a law that anyone who doesn't salute the flag perfectly goes to jail. This is a great excuse to arrest complainers.",
     "left": {
       "id": "a",
       "label": "Make the strict flag law.",
@@ -4319,7 +4319,7 @@
       "transmission",
       "transparency"
     ],
-    "prompt": "A new app lets everyone see the votes being counted instantly on their phones. This makes it impossible for you to cheat.",
+    "prompt": "Your Excellency! A new app lets everyone see the votes being counted instantly on their phones. This makes it impossible for you to cheat.",
     "left": {
       "id": "a",
       "label": "Use the app to prove you are fair.",
@@ -4355,7 +4355,7 @@
       "recognition",
       "votes"
     ],
-    "prompt": "Religious schools want their easy tests to count the same as hard college tests for getting jobs. If you say yes, they will vote for you.",
+    "prompt": "Prime Minister! Religious schools want their easy tests to count the same as hard college tests for getting jobs. If you say yes, they will vote for you.",
     "left": {
       "id": "a",
       "label": "Say yes so they vote for you.",
@@ -4393,7 +4393,7 @@
       "data",
       "privacy"
     ],
-    "prompt": "Your helpers can secretly knock on doors and make lists of everyone's secrets and religion to figure out how to trick them.",
+    "prompt": "Sir — Your helpers can secretly knock on doors and make lists of everyone's secrets and religion to figure out how to trick them.",
     "left": {
       "id": "a",
       "label": "Tell them to make the secret lists.",
@@ -4429,7 +4429,7 @@
       "parliament",
       "tactic"
     ],
-    "prompt": "You can cancel the government early to trick your enemies before they are ready for the election.",
+    "prompt": "Honourable leader! You can cancel the government early to trick your enemies before they are ready for the election.",
     "left": {
       "id": "a",
       "label": "Cancel early to trick them.",
@@ -4465,7 +4465,7 @@
       "rebellion",
       "policy"
     ],
-    "prompt": "Your own team is refusing to vote for a terrible rule you made. You can bully them into voting yes, or listen to them and fix the rule.",
+    "prompt": "Sir, urgent news. Your own team is refusing to vote for a terrible rule you made. You can bully them into voting yes, or listen to them and fix the rule.",
     "left": {
       "id": "a",
       "label": "Bully them into voting yes.",
@@ -4501,7 +4501,7 @@
       "corporate",
       "influence"
     ],
-    "prompt": "A new rule will limit how much money rich people can give you. This makes things fairer, but you will be much poorer for the election.",
+    "prompt": "Sir, forgive me — A new rule will limit how much money rich people can give you. This makes things fairer, but you will be much poorer for the election.",
     "left": {
       "id": "a",
       "label": "Stop the rule so you get the rich people's money.",
@@ -4539,7 +4539,7 @@
       "transparency",
       "accountability"
     ],
-    "prompt": "A new rule lets any normal person read the government's secret papers. This stops stealing, but means people will see your mistakes.",
+    "prompt": "A word, sir! A new rule lets any normal person read the government's secret papers. This stops stealing, but means people will see your mistakes.",
     "left": {
       "id": "a",
       "label": "Stop the rule to keep your secrets.",
@@ -4576,7 +4576,7 @@
       "committee",
       "audit"
     ],
-    "prompt": "The team checking the government's spending is usually run by your enemies to keep things honest. You can put your friends in charge to hide your stealing.",
+    "prompt": "Sir, we have a problem. The team checking the government's spending is usually run by your enemies to keep things honest. You can put your friends in charge to hide your stealing.",
     "left": {
       "id": "a",
       "label": "Put your friends in charge of checking the spending.",
@@ -4613,7 +4613,7 @@
       "service-voters",
       "fraud"
     ],
-    "prompt": "Soldiers voting by mail are easy to trick. You can secretly change all their votes to be for you.",
+    "prompt": "Sir! Soldiers voting by mail are easy to trick. You can secretly change all their votes to be for you.",
     "left": {
       "id": "a",
       "label": "Secretly change the soldiers' votes.",
@@ -4649,7 +4649,7 @@
       "kingmaker",
       "deals"
     ],
-    "prompt": "No one won the election entirely. You can buy a few small teams with giant bags of money to win, or try to run the country carefully with less power.",
+    "prompt": "Mr. Prime Minister, sir! No one won the election entirely. You can buy a few small teams with giant bags of money to win, or try to run the country carefully with less power.",
     "left": {
       "id": "a",
       "label": "Buy the small teams with money and jobs.",
@@ -4686,7 +4686,7 @@
       "reserved-seats",
       "reform"
     ],
-    "prompt": "Women want to actually be voted into the special seats, instead of you just picking them. If you let them, you can't control who gets the seats.",
+    "prompt": "Your Excellency! Women want to actually be voted into the special seats, instead of you just picking them. If you let them, you can't control who gets the seats.",
     "left": {
       "id": "a",
       "label": "Let the women be voted in fairly.",
@@ -4724,7 +4724,7 @@
       "relocation",
       "suppression"
     ],
-    "prompt": "You can secretly move the voting boxes in the enemy's towns far away right before the vote, so they can't walk there in time.",
+    "prompt": "Prime Minister! You can secretly move the voting boxes in the enemy's towns far away right before the vote, so they can't walk there in time.",
     "left": {
       "id": "a",
       "label": "Move the boxes far away to trick them.",
@@ -4760,7 +4760,7 @@
       "courts",
       "result"
     ],
-    "prompt": "Your enemies went to court with proof that you cheated. You can tell the judges to throw all the proof in the trash without looking at it.",
+    "prompt": "Sir — Your enemies went to court with proof that you cheated. You can tell the judges to throw all the proof in the trash without looking at it.",
     "left": {
       "id": "a",
       "label": "Tell the judges to throw the proof in the trash.",
@@ -4796,7 +4796,7 @@
       "disinformation",
       "smear"
     ],
-    "prompt": "Your computer team made a fake, realistic video of your enemy saying something terrible. You can show it to everyone to ruin her, but it is a lie.",
+    "prompt": "Honourable leader! Your computer team made a fake, realistic video of your enemy saying something terrible. You can show it to everyone to ruin her, but it is a lie.",
     "left": {
       "id": "a",
       "label": "Show everyone the fake video.",
@@ -4832,7 +4832,7 @@
       "succession",
       "seat"
     ],
-    "prompt": "An old politician died. You can give his job to his very smart daughter, or to a mindless helper who will just do whatever you say.",
+    "prompt": "Sir, urgent news. An old politician died. You can give his job to his very smart daughter, or to a mindless helper who will just do whatever you say.",
     "left": {
       "id": "a",
       "label": "Give the job to the mindless helper.",
@@ -4870,7 +4870,7 @@
       "services",
       "corruption"
     ],
-    "prompt": "You can use computers so people don't have to pay bribes to government workers anymore. The workers will be very mad they lost their extra money.",
+    "prompt": "Sir, forgive me — You can use computers so people don't have to pay bribes to government workers anymore. The workers will be very mad they lost their extra money.",
     "left": {
       "id": "a",
       "label": "Use the computers to stop the bribes.",
@@ -4907,7 +4907,7 @@
       "accountability",
       "norms"
     ],
-    "prompt": "In meetings, people only ask you fake, easy questions to make you look smart. You can let them ask real, hard questions to prove you are a good leader.",
+    "prompt": "A word, sir! In meetings, people only ask you fake, easy questions to make you look smart. You can let them ask real, hard questions to prove you are a good leader.",
     "left": {
       "id": "a",
       "label": "Keep only answering the fake, easy questions.",
@@ -4944,7 +4944,7 @@
       "affiliation",
       "leverage"
     ],
-    "prompt": "You can make the big worker groups join your team. They will vote for you, but you will have to actually give them what they want later.",
+    "prompt": "Sir, we have a problem. You can make the big worker groups join your team. They will vote for you, but you will have to actually give them what they want later.",
     "left": {
       "id": "a",
       "label": "Make them join your team.",
@@ -4981,7 +4981,7 @@
       "awareness",
       "turnout"
     ],
-    "prompt": "You can pay to teach people how to spot election cheating. But if they learn, they might catch you cheating.",
+    "prompt": "Sir! You can pay to teach people how to spot election cheating. But if they learn, they might catch you cheating.",
     "left": {
       "id": "a",
       "label": "Teach people how to spot cheating.",
@@ -5017,7 +5017,7 @@
       "violence",
       "amnesty"
     ],
-    "prompt": "Many of your helpers beat people up in the past. You can magically erase all their crimes to thank them for helping you.",
+    "prompt": "Mr. Prime Minister, sir! Many of your helpers beat people up in the past. You can magically erase all their crimes to thank them for helping you.",
     "left": {
       "id": "a",
       "label": "Erase their crimes so they don't go to jail.",
@@ -5054,7 +5054,7 @@
       "voting",
       "fraud"
     ],
-    "prompt": "Your people in other countries are voting. Since no one is watching, you can easily sneak a bunch of fake votes in for yourself.",
+    "prompt": "Your Excellency! Your people in other countries are voting. Since no one is watching, you can easily sneak a bunch of fake votes in for yourself.",
     "left": {
       "id": "a",
       "label": "Sneak in the fake votes.",
@@ -5090,7 +5090,7 @@
       "spoilers",
       "tactics"
     ],
-    "prompt": "You can secretly pay fake politicians to run in the election just to confuse people and steal votes from your real enemy.",
+    "prompt": "Prime Minister! You can secretly pay fake politicians to run in the election just to confuse people and steal votes from your real enemy.",
     "left": {
       "id": "a",
       "label": "Pay the fake politicians to confuse people.",
@@ -5126,7 +5126,7 @@
       "accountability",
       "graft"
     ],
-    "prompt": "The rules say there should be a special policeman who arrests government leaders who steal. No one has ever hired him. You can hire him now.",
+    "prompt": "Sir — The rules say there should be a special policeman who arrests government leaders who steal. No one has ever hired him. You can hire him now.",
     "left": {
       "id": "a",
       "label": "Do not hire him, to keep your leaders safe.",
@@ -5164,7 +5164,7 @@
       "election-day",
       "neutrality"
     ],
-    "prompt": "Special judges are driving around on voting day. You can tell them to bully your enemies, or tell them to just keep everyone safe.",
+    "prompt": "Honourable leader! Special judges are driving around on voting day. You can tell them to bully your enemies, or tell them to just keep everyone safe.",
     "left": {
       "id": "a",
       "label": "Tell them to bully your enemies.",
@@ -5200,7 +5200,7 @@
       "purge",
       "disenfranchisement"
     ],
-    "prompt": "You can use computers to erase poor people and minorities from the voting list so they can't vote against you.",
+    "prompt": "Sir, urgent news. You can use computers to erase poor people and minorities from the voting list so they can't vote against you.",
     "left": {
       "id": "a",
       "label": "Erase them from the list secretly.",
@@ -5236,7 +5236,7 @@
       "outreach",
       "spending"
     ],
-    "prompt": "Young people are very angry at you. You can throw a giant, expensive festival with concerts to trick them into liking you again.",
+    "prompt": "Sir, forgive me — Young people are very angry at you. You can throw a giant, expensive festival with concerts to trick them into liking you again.",
     "left": {
       "id": "a",
       "label": "Throw the giant, expensive festival.",
@@ -5272,7 +5272,7 @@
       "press",
       "intimidation"
     ],
-    "prompt": "Your friend wants to drag a news reporter into a scary government meeting to yell at him for writing a mean story.",
+    "prompt": "A word, sir! Your friend wants to drag a news reporter into a scary government meeting to yell at him for writing a mean story.",
     "left": {
       "id": "a",
       "label": "Let your friend drag the reporter in.",
@@ -5309,7 +5309,7 @@
       "conduct",
       "accountability"
     ],
-    "prompt": "Your leaders are obviously stealing money. You can force them to show their bank accounts and fire the thieves.",
+    "prompt": "Sir, we have a problem. Your leaders are obviously stealing money. You can force them to show their bank accounts and fire the thieves.",
     "left": {
       "id": "a",
       "label": "Force them to show their accounts and fire them.",
@@ -5347,7 +5347,7 @@
       "cross-voting",
       "discipline"
     ],
-    "prompt": "You are voting for the President. Some of your friends want to vote for the wrong person as a joke. You can threaten them so they don't.",
+    "prompt": "Sir! You are voting for the President. Some of your friends want to vote for the wrong person as a joke. You can threaten them so they don't.",
     "left": {
       "id": "a",
       "label": "Threaten them so they vote for your person.",
@@ -5384,7 +5384,7 @@
       "cabinet",
       "balance"
     ],
-    "prompt": "You have to switch your helpers around. You can pick the helpers who are dumb but loyal, or the very smart ones who might try to take your job.",
+    "prompt": "Mr. Prime Minister, sir! You have to switch your helpers around. You can pick the helpers who are dumb but loyal, or the very smart ones who might try to take your job.",
     "left": {
       "id": "a",
       "label": "Pick the dumb, loyal helpers.",
@@ -5422,7 +5422,7 @@
       "legitimacy",
       "gamble"
     ],
-    "prompt": "People don't believe you won fairly. You can ask the whole country to vote \"Yes\" or \"No\" on if they want you to stay. It's a huge gamble.",
+    "prompt": "Your Excellency! People don't believe you won fairly. You can ask the whole country to vote \"Yes\" or \"No\" on if they want you to stay. It's a huge gamble.",
     "left": {
       "id": "a",
       "label": "Ask the country to vote \"Yes\" or \"No\".",
@@ -5458,7 +5458,7 @@
       "legitimacy",
       "gamble"
     ],
-    "prompt": "You did the \"Yes\" or \"No\" vote, but hardly anyone showed up, and the numbers are obviously fake.",
+    "prompt": "Prime Minister! You did the \"Yes\" or \"No\" vote, but hardly anyone showed up, and the numbers are obviously fake.",
     "left": {
       "id": "a",
       "label": "Brag loudly that everyone loves you.",
@@ -5496,7 +5496,7 @@
       "legitimacy",
       "gamble"
     ],
-    "prompt": "Because of the messy vote, your enemies demand a totally fair, watched election. If you say yes, you might lose your job.",
+    "prompt": "Sir — Because of the messy vote, your enemies demand a totally fair, watched election. If you say yes, you might lose your job.",
     "left": {
       "id": "a",
       "label": "Ignore them and stay the boss.",
@@ -5532,7 +5532,7 @@
       "caretaker",
       "legitimacy"
     ],
-    "prompt": "A term later, the same fault line tears open again. Your helper says you must let a fair, neutral team run the election, or the other side will quit and say you cheated.",
+    "prompt": "A term later, the same fault line tears open again. Honourable leader! Your helper says you must let a fair, neutral team run the election, or the other side will quit and say you cheated.",
     "left": {
       "id": "a",
       "label": "Refuse and run the election yourself.",
@@ -5568,7 +5568,7 @@
       "caretaker",
       "legitimacy"
     ],
-    "prompt": "Years into your rule, the matter you thought buried resurfaces — harder. The votes are close. You can secretly change the counting to make sure you win, but people might notice.",
+    "prompt": "Years into your rule, the matter you thought buried resurfaces — harder. Sir, urgent news. The votes are close. You can secretly change the counting to make sure you win, but people might notice.",
     "left": {
       "id": "a",
       "label": "Secretly change the votes to win.",
@@ -5605,7 +5605,7 @@
       "institutions",
       "appointments"
     ],
-    "prompt": "A new season of power, an old problem with sharper teeth. You get to pick the new voting judges. You can pick your friends who will let you win, or honest people who might rule against you.",
+    "prompt": "A new season of power, an old problem with sharper teeth. Sir, forgive me — You get to pick the new voting judges. You can pick your friends who will let you win, or honest people who might rule against you.",
     "left": {
       "id": "a",
       "label": "Pick your friends to be the judges.",
@@ -5641,7 +5641,7 @@
       "blockade",
       "violence"
     ],
-    "prompt": "The crisis returns, and this time the cabinet is watching. Your enemies are blocking the roads. You can send your own fighters to stop them, but it will be very violent.",
+    "prompt": "The crisis returns, and this time the cabinet is watching. A word, sir! Your enemies are blocking the roads. You can send your own fighters to stop them, but it will be very violent.",
     "left": {
       "id": "a",
       "label": "Send your fighters to stop them.",
@@ -5679,7 +5679,7 @@
       "coalition",
       "horse-trading"
     ],
-    "prompt": "Once more the issue lands on your desk, the stakes higher than before. You are losing votes. You can secretly promise bad politicians jobs and safety if they switch to your team.",
+    "prompt": "Once more the issue lands on your desk, the stakes higher than before. Sir, we have a problem. You are losing votes. You can secretly promise bad politicians jobs and safety if they switch to your team.",
     "left": {
       "id": "a",
       "label": "Buy their votes with jobs and safety.",
@@ -5716,7 +5716,7 @@
       "alliance",
       "secularism"
     ],
-    "prompt": "Another year survived, and the reckoning circles back. A powerful religious group will help you win, but only if you make strict religious laws and take away women's rights.",
+    "prompt": "Another year survived, and the reckoning circles back. Sir! A powerful religious group will help you win, but only if you make strict religious laws and take away women's rights.",
     "left": {
       "id": "a",
       "label": "Take their help and make the strict laws.",
@@ -5753,7 +5753,7 @@
       "tribunal",
       "justice"
     ],
-    "prompt": "The ground has shifted; the same demand arrives with new menace. You are putting old war criminals on trial. You can rush the trials to punish them fast, or go slowly to be totally fair.",
+    "prompt": "The ground has shifted; the same demand arrives with new menace. Mr. Prime Minister, sir! You are putting old war criminals on trial. You can rush the trials to punish them fast, or go slowly to be totally fair.",
     "left": {
       "id": "a",
       "label": "Rush the trials to punish them fast.",
@@ -5790,7 +5790,7 @@
       "campus",
       "extortion"
     ],
-    "prompt": "History rhymes: the conflict reopens deeper than last time. Your student group is bullying kids at school. They want more power, but some say you need to stop their bullying.",
+    "prompt": "History rhymes: the conflict reopens deeper than last time. Your Excellency! Your student group is bullying kids at school. They want more power, but some say you need to stop their bullying.",
     "left": {
       "id": "a",
       "label": "Give your student group more power.",
@@ -5826,7 +5826,7 @@
       "dynasty",
       "loyalty"
     ],
-    "prompt": "Mid-reign, the old wound is torn afresh. The older leaders want you to name your child as the next boss right now. Others say you should pick the smartest person, not just your family.",
+    "prompt": "Mid-reign, the old wound is torn afresh. Prime Minister! The older leaders want you to name your child as the next boss right now. Others say you should pick the smartest person, not just your family.",
     "left": {
       "id": "a",
       "label": "Name your child as the next boss.",
@@ -5864,7 +5864,7 @@
       "courts",
       "lawfare"
     ],
-    "prompt": "The pressure you deferred has come due, larger now. A judge will put your biggest enemy in jail for an old crime if you want. This means she can't run against you in the election.",
+    "prompt": "The pressure you deferred has come due, larger now. Sir — A judge will put your biggest enemy in jail for an old crime if you want. This means she can't run against you in the election.",
     "left": {
       "id": "a",
       "label": "Have the judge put her in jail.",
@@ -5900,7 +5900,7 @@
       "courts",
       "lawfare"
     ],
-    "prompt": "A later term, and the quarrel has hardened into a test. Your enemy is very sick in jail. If she dies there, everyone will hate you. Her family begs to take her to a hospital.",
+    "prompt": "A later term, and the quarrel has hardened into a test. Honourable leader! Your enemy is very sick in jail. If she dies there, everyone will hate you. Her family begs to take her to a hospital.",
     "left": {
       "id": "a",
       "label": "Keep her locked in the jail.",
@@ -5936,7 +5936,7 @@
       "election",
       "censorship"
     ],
-    "prompt": "The country has changed, but this fault line has not — only worsened. You can turn off the internet on voting day so no one can see if you cheat.",
+    "prompt": "The country has changed, but this fault line has not — only worsened. Sir, urgent news. You can turn off the internet on voting day so no one can see if you cheat.",
     "left": {
       "id": "a",
       "label": "Turn off the internet on voting day.",
@@ -5973,7 +5973,7 @@
       "patronage",
       "money"
     ],
-    "prompt": "It returns, as these things do, with the patience gone. A helper wants to hand out secret envelopes of cash and free things to poor people the night before the vote to make them pick you.",
+    "prompt": "It returns, as these things do, with the patience gone. Sir, forgive me — A helper wants to hand out secret envelopes of cash and free things to poor people the night before the vote to make them pick you.",
     "left": {
       "id": "a",
       "label": "Give out the secret cash and free things.",
@@ -6011,7 +6011,7 @@
       "fraud",
       "ghosts"
     ],
-    "prompt": "Years on, the matter is no longer private; the press is already circling. The voting list has thousands of fake names and dead people on it. You can use these fake names to cheat and get more votes.",
+    "prompt": "Years on, the matter is no longer private; the press is already circling. A word, sir! The voting list has thousands of fake names and dead people on it. You can use these fake names to cheat and get more votes.",
     "left": {
       "id": "a",
       "label": "Keep the fake names to get more votes.",
@@ -6047,7 +6047,7 @@
       "candidates",
       "money"
     ],
-    "prompt": "The same knot, retied tighter, lands before you once more. Many people want to be on your team. You can let the richest people buy their spots, or pick the people who work the hardest.",
+    "prompt": "The same knot, retied tighter, lands before you once more. Sir, we have a problem. Many people want to be on your team. You can let the richest people buy their spots, or pick the people who work the hardest.",
     "left": {
       "id": "a",
       "label": "Let the richest people buy the spots.",
@@ -6085,7 +6085,7 @@
       "propaganda",
       "press"
     ],
-    "prompt": "Another monsoon, another return of an argument you cannot end. A rich friend offers to buy all the TV stations so they only say nice things about you and ignore your mistakes.",
+    "prompt": "Another monsoon, another return of an argument you cannot end. Sir! A rich friend offers to buy all the TV stations so they only say nice things about you and ignore your mistakes.",
     "left": {
       "id": "a",
       "label": "Let him buy the TV stations.",
@@ -6122,7 +6122,7 @@
       "disinformation",
       "online"
     ],
-    "prompt": "Deep into the reign, the issue demands a final-sounding answer. Your computer team wants to make thousands of fake internet accounts to spread lies about your enemies and trick people.",
+    "prompt": "Deep into the reign, the issue demands a final-sounding answer. Mr. Prime Minister, sir! Your computer team wants to make thousands of fake internet accounts to spread lies about your enemies and trick people.",
     "left": {
       "id": "a",
       "label": "Pay the computer team to spread lies.",
@@ -6158,7 +6158,7 @@
       "allies",
       "leverage"
     ],
-    "prompt": "The reckoning you postponed has matured into a crisis. Your partner team threatens to leave unless you give them big jobs. If they leave, you might lose your power.",
+    "prompt": "The reckoning you postponed has matured into a crisis. Your Excellency! Your partner team threatens to leave unless you give them big jobs. If they leave, you might lose your power.",
     "left": {
       "id": "a",
       "label": "Give them the big jobs so they stay.",
@@ -6195,7 +6195,7 @@
       "no-confidence",
       "discipline"
     ],
-    "prompt": "A new chapter, the same antagonists, less room to manoeuvre. Some of your own teammates might vote against you because they are angry. You can scare them into obeying, or actually fix what they are angry about.",
+    "prompt": "A new chapter, the same antagonists, less room to manoeuvre. Prime Minister! Some of your own teammates might vote against you because they are angry. You can scare them into obeying, or actually fix what they are angry about.",
     "left": {
       "id": "a",
       "label": "Scare them into obeying you.",
@@ -6232,7 +6232,7 @@
       "term-limits",
       "power"
     ],
-    "prompt": "The old fault line widens; this time there is no quiet option. You can change the rules so you are allowed to be the boss forever. But this shows everyone you never plan to leave.",
+    "prompt": "The old fault line widens; this time there is no quiet option. Sir — You can change the rules so you are allowed to be the boss forever. But this shows everyone you never plan to leave.",
     "left": {
       "id": "a",
       "label": "Change the rules to be boss forever.",
@@ -6269,7 +6269,7 @@
       "rivals",
       "repression"
     ],
-    "prompt": "Time has not healed it — the conflict comes back armed. You have a sneaky excuse to completely ban the enemy team so they can't run against you at all.",
+    "prompt": "Time has not healed it — the conflict comes back armed. Honourable leader! You have a sneaky excuse to completely ban the enemy team so they can't run against you at all.",
     "left": {
       "id": "a",
       "label": "Ban the enemy team.",
@@ -6305,7 +6305,7 @@
       "patrons",
       "graft"
     ],
-    "prompt": "Once again, and with the whole house holding its breath. A rich man who gave you a lot of money now wants special favors, like a free bank. You need his money for the next election.",
+    "prompt": "Once again, and with the whole house holding its breath. Sir, urgent news. A rich man who gave you a lot of money now wants special favors, like a free bank. You need his money for the next election.",
     "left": {
       "id": "a",
       "label": "Give him the special favors.",
@@ -6342,7 +6342,7 @@
       "extortion",
       "control"
     ],
-    "prompt": "The matter resurfaces in a harder year, patience exhausted. Your best helper wins lots of votes, but he does it by being a scary bully and stealing from people.",
+    "prompt": "The matter resurfaces in a harder year, patience exhausted. Sir, forgive me — Your best helper wins lots of votes, but he does it by being a scary bully and stealing from people.",
     "left": {
       "id": "a",
       "label": "Keep the bully because he gets you votes.",
@@ -6378,7 +6378,7 @@
       "representation",
       "reserved-seats"
     ],
-    "prompt": "A later season of rule, the stakes now openly existential. You get to pick women for special government seats. You can pick hard-working leaders, or just pick the wives of your rich friends.",
+    "prompt": "A later season of rule, the stakes now openly existential. A word, sir! You get to pick women for special government seats. You can pick hard-working leaders, or just pick the wives of your rich friends.",
     "left": {
       "id": "a",
       "label": "Pick the wives of your rich friends.",
@@ -6416,7 +6416,7 @@
       "loyalty",
       "betrayal"
     ],
-    "prompt": "It comes around again, and the margin for error is gone. A good guy on your team might leave to join the enemies. You can ruin his life with a fake secret, or talk to him nicely to keep him.",
+    "prompt": "It comes around again, and the margin for error is gone. Sir, we have a problem. A good guy on your team might leave to join the enemies. You can ruin his life with a fake secret, or talk to him nicely to keep him.",
     "left": {
       "id": "a",
       "label": "Ruin his life with a fake secret.",
@@ -6453,7 +6453,7 @@
       "spectacle",
       "mobilisation"
     ],
-    "prompt": "The same demand, but the reign is older and the knives sharper. You can spend a giant amount of money to bus a million people to the city just to cheer for you and look powerful.",
+    "prompt": "The same demand, but the reign is older and the knives sharper. Sir! You can spend a giant amount of money to bus a million people to the city just to cheer for you and look powerful.",
     "left": {
       "id": "a",
       "label": "Spend the money for the giant cheering crowd.",
@@ -6490,7 +6490,7 @@
       "execution",
       "timing"
     ],
-    "prompt": "Years deep, the unresolved returns to be resolved for good. You can hang a bad war criminal right before the election to make your fans cheer.",
+    "prompt": "Years deep, the unresolved returns to be resolved for good. Mr. Prime Minister, sir! You can hang a bad war criminal right before the election to make your fans cheer.",
     "left": {
       "id": "a",
       "label": "Hang the criminal right before the election.",
@@ -6527,7 +6527,7 @@
       "dynasty",
       "naming"
     ],
-    "prompt": "The conflict reignites, and the world is watching this time. Your friends want to name the airport, schools, and bridges after your family so no one ever forgets you.",
+    "prompt": "The conflict reignites, and the world is watching this time. Your Excellency! Your friends want to name the airport, schools, and bridges after your family so no one ever forgets you.",
     "left": {
       "id": "a",
       "label": "Say yes and name everything after your family.",
@@ -6564,7 +6564,7 @@
       "election-day",
       "violence"
     ],
-    "prompt": "A familiar crisis, escalated by everything you let slide. On voting day, your team can secretly kick out the other team's checkers and stuff the boxes with fake votes for you.",
+    "prompt": "A familiar crisis, escalated by everything you let slide. Prime Minister! On voting day, your team can secretly kick out the other team's checkers and stuff the boxes with fake votes for you.",
     "left": {
       "id": "a",
       "label": "Tell your team to stuff the boxes with fake votes.",
@@ -6600,7 +6600,7 @@
       "renewal",
       "loyalty"
     ],
-    "prompt": "The fault line cracks wider; the decision can no longer wait. The very old leaders won't give up their jobs to the younger, smarter people. If you force them out, they will be mad.",
+    "prompt": "The fault line cracks wider; the decision can no longer wait. Sir — The very old leaders won't give up their jobs to the younger, smarter people. If you force them out, they will be mad.",
     "left": {
       "id": "a",
       "label": "Let the old leaders keep their jobs.",
@@ -6638,7 +6638,7 @@
       "parliament",
       "fairness"
     ],
-    "prompt": "Late in the reign, the old question demands a heavier answer. You get to pick the referee for the big government meetings. You can pick your friend who always lets you win, or a fair person.",
+    "prompt": "Late in the reign, the old question demands a heavier answer. Honourable leader! You get to pick the referee for the big government meetings. You can pick your friend who always lets you win, or a fair person.",
     "left": {
       "id": "a",
       "label": "Pick your friend who always lets you win.",
@@ -6674,7 +6674,7 @@
       "funding",
       "foreign"
     ],
-    "prompt": "It returns once more — and this round may be the one remembered. Your friends in other countries want to send you lots of secret money for your campaign. It is illegal to take secret foreign money.",
+    "prompt": "It returns once more — and this round may be the one remembered. Sir, urgent news. Your friends in other countries want to send you lots of secret money for your campaign. It is illegal to take secret foreign money.",
     "left": {
       "id": "a",
       "label": "Take the secret foreign money.",
@@ -6711,7 +6711,7 @@
       "secularism",
       "vote-bank"
     ],
-    "prompt": "The reckoning circles back, grown teeth in the waiting. Small religious groups always vote for you, but they are being attacked. They want you to protect them loudly, which might upset the big groups.",
+    "prompt": "The reckoning circles back, grown teeth in the waiting. Sir, forgive me — Small religious groups always vote for you, but they are being attacked. They want you to protect them loudly, which might upset the big groups.",
     "left": {
       "id": "a",
       "label": "Just say sorry, but don't upset the big groups.",
@@ -6748,7 +6748,7 @@
       "election",
       "manipulation"
     ],
-    "prompt": "Another term, the same antagonist, the stakes raised again. Your enemies are quitting the election. You can pay fake \"enemies\" to run against you so it looks like a real game.",
+    "prompt": "Another term, the same antagonist, the stakes raised again. A word, sir! Your enemies are quitting the election. You can pay fake \"enemies\" to run against you so it looks like a real game.",
     "left": {
       "id": "a",
       "label": "Pay fake enemies to run against you.",
@@ -6784,7 +6784,7 @@
       "purge",
       "patronage"
     ],
-    "prompt": "The matter, long deferred, lands with the force of a verdict. You can fire all the government workers who used to work for the old boss and replace them with your own fans.",
+    "prompt": "The matter, long deferred, lands with the force of a verdict. Sir, we have a problem. You can fire all the government workers who used to work for the old boss and replace them with your own fans.",
     "left": {
       "id": "a",
       "label": "Fire them and hire only your fans.",
@@ -6820,7 +6820,7 @@
       "martyrs",
       "narrative"
     ],
-    "prompt": "Years on and unhealed, the conflict returns to claim its answer. A helper wants to change the history books to make the enemy team look like killers, just to make your team look better.",
+    "prompt": "Years on and unhealed, the conflict returns to claim its answer. Sir! A helper wants to change the history books to make the enemy team look like killers, just to make your team look better.",
     "left": {
       "id": "a",
       "label": "Change the history books to make them look bad.",
@@ -6857,7 +6857,7 @@
       "appointments",
       "independence"
     ],
-    "prompt": "The same fault line, the harder hour, the narrower path. You get to pick two big judges before a big court case about you. You can pick your friends to make sure you win.",
+    "prompt": "The same fault line, the harder hour, the narrower path. Mr. Prime Minister, sir! You get to pick two big judges before a big court case about you. You can pick your friends to make sure you win.",
     "left": {
       "id": "a",
       "label": "Pick your friends as the judges.",
@@ -6893,7 +6893,7 @@
       "accountability",
       "local"
     ],
-    "prompt": "It comes back sharpened by every season you survived. People hate one of your politicians because he is mean and steals. You can protect him, or fire him and listen to the people.",
+    "prompt": "It comes back sharpened by every season you survived. Your Excellency! People hate one of your politicians because he is mean and steals. You can protect him, or fire him and listen to the people.",
     "left": {
       "id": "a",
       "label": "Protect the mean politician.",
@@ -6931,7 +6931,7 @@
       "patronage",
       "youth"
     ],
-    "prompt": "A later year of power, the old crisis now a true test of it. You are hiring thousands of new government workers. You can secretly give all the jobs to your fans, or give them to the smartest people.",
+    "prompt": "A later year of power, the old crisis now a true test of it. Prime Minister! You are hiring thousands of new government workers. You can secretly give all the jobs to your fans, or give them to the smartest people.",
     "left": {
       "id": "a",
       "label": "Secretly give the jobs to your fans.",
@@ -6969,7 +6969,7 @@
       "rivals",
       "unity"
     ],
-    "prompt": "The unresolved returns, and this time it will not be deferred. An old leader who left your team angry wants to come back. He brings lots of votes but also lots of drama.",
+    "prompt": "The unresolved returns, and this time it will not be deferred. Sir — An old leader who left your team angry wants to come back. He brings lots of votes but also lots of drama.",
     "left": {
       "id": "a",
       "label": "Welcome him back for the votes.",
@@ -7006,7 +7006,7 @@
       "blasphemy",
       "alliance"
     ],
-    "prompt": "A term later, the same fault line tears open again. A strict religious group wants you to hang a man for his beliefs and ban a nice charity. They will help you win if you do it.",
+    "prompt": "A term later, the same fault line tears open again. Honourable leader! A strict religious group wants you to hang a man for his beliefs and ban a nice charity. They will help you win if you do it.",
     "left": {
       "id": "a",
       "label": "Do what they want to get their help.",
@@ -7043,7 +7043,7 @@
       "boycott",
       "legitimacy"
     ],
-    "prompt": "Years into your rule, the matter you thought buried resurfaces — harder. The enemy team is not at the meeting. You can quickly pass all your new rules without anyone arguing with you.",
+    "prompt": "Years into your rule, the matter you thought buried resurfaces — harder. Sir, urgent news. The enemy team is not at the meeting. You can quickly pass all your new rules without anyone arguing with you.",
     "left": {
       "id": "a",
       "label": "Pass all the rules quickly while they are gone.",
@@ -7079,7 +7079,7 @@
       "election",
       "trust"
     ],
-    "prompt": "A new season of power, an old problem with sharper teeth. You are getting new voting machines. You can make them secret so no one can check the math, which makes it easy to cheat.",
+    "prompt": "A new season of power, an old problem with sharper teeth. Sir, forgive me — You are getting new voting machines. You can make them secret so no one can check the math, which makes it easy to cheat.",
     "left": {
       "id": "a",
       "label": "Use the secret machines so you can cheat.",
@@ -7116,7 +7116,7 @@
       "polling",
       "agents"
     ],
-    "prompt": "The crisis returns, and this time the cabinet is watching. A guard suggests scaring the other team's checkers the night before the vote, so they don't show up and you can cheat easily.",
+    "prompt": "The crisis returns, and this time the cabinet is watching. A word, sir! A guard suggests scaring the other team's checkers the night before the vote, so they don't show up and you can cheat easily.",
     "left": {
       "id": "a",
       "label": "Scare the checkers away.",
@@ -7152,7 +7152,7 @@
       "poaching",
       "majority"
     ],
-    "prompt": "Once more the issue lands on your desk, the stakes higher than before. You can bribe a smart, young enemy leader to join your team by offering him a big job. This makes you look powerful but unfair.",
+    "prompt": "Once more the issue lands on your desk, the stakes higher than before. Sir, we have a problem. You can bribe a smart, young enemy leader to join your team by offering him a big job. This makes you look powerful but unfair.",
     "left": {
       "id": "a",
       "label": "Bribe him to join your team.",
@@ -7189,7 +7189,7 @@
       "symbol",
       "advantage"
     ],
-    "prompt": "Another year survived, and the reckoning circles back. You can secretly trick the voting papers so your name is always at the top and easy to find, making you win more.",
+    "prompt": "Another year survived, and the reckoning circles back. Sir! You can secretly trick the voting papers so your name is always at the top and easy to find, making you win more.",
     "left": {
       "id": "a",
       "label": "Trick the voting papers.",
@@ -7225,7 +7225,7 @@
       "dhaka",
       "election"
     ],
-    "prompt": "The ground has shifted; the same demand arrives with new menace. Your friend is running for mayor but people don't like him. You can cheat to make him win, or replace him with someone people actually like.",
+    "prompt": "The ground has shifted; the same demand arrives with new menace. Mr. Prime Minister, sir! Your friend is running for mayor but people don't like him. You can cheat to make him win, or replace him with someone people actually like.",
     "left": {
       "id": "a",
       "label": "Cheat to make your friend win.",
@@ -7263,7 +7263,7 @@
       "arson",
       "escalation"
     ],
-    "prompt": "History rhymes: the conflict reopens deeper than last time. Your enemies burned a bus. Your team wants to go burn down their buildings to get revenge.",
+    "prompt": "History rhymes: the conflict reopens deeper than last time. Your Excellency! Your enemies burned a bus. Your team wants to go burn down their buildings to get revenge.",
     "left": {
       "id": "a",
       "label": "Let your team burn down their buildings.",
@@ -7301,7 +7301,7 @@
       "founder",
       "cult"
     ],
-    "prompt": "Mid-reign, the old wound is torn afresh. Your friends want to build a giant, super expensive museum just to talk about how great your family is.",
+    "prompt": "Mid-reign, the old wound is torn afresh. Prime Minister! Your friends want to build a giant, super expensive museum just to talk about how great your family is.",
     "left": {
       "id": "a",
       "label": "Build the giant, expensive museum.",
@@ -7339,7 +7339,7 @@
       "garments",
       "wages"
     ],
-    "prompt": "The pressure you deferred has come due, larger now. Factory workers want better pay. If you help them, they will vote for you, but the rich factory owners will be furious.",
+    "prompt": "The pressure you deferred has come due, larger now. Sir — Factory workers want better pay. If you help them, they will vote for you, but the rich factory owners will be furious.",
     "left": {
       "id": "a",
       "label": "Help the rich factory owners.",
@@ -7377,7 +7377,7 @@
       "barometer",
       "risk"
     ],
-    "prompt": "A later term, and the quarrel has hardened into a test. There is a small vote happening. You can cheat to win easily, or play fair and risk losing to see how people really feel.",
+    "prompt": "A later term, and the quarrel has hardened into a test. Honourable leader! There is a small vote happening. You can cheat to win easily, or play fair and risk losing to see how people really feel.",
     "left": {
       "id": "a",
       "label": "Cheat to win the small vote safely.",
@@ -7413,7 +7413,7 @@
       "press",
       "speech"
     ],
-    "prompt": "The country has changed, but this fault line has not — only worsened. A news writer called you a thief. You can throw him in jail to scare everyone, or just show proof that he is wrong.",
+    "prompt": "The country has changed, but this fault line has not — only worsened. Sir, urgent news. A news writer called you a thief. You can throw him in jail to scare everyone, or just show proof that he is wrong.",
     "left": {
       "id": "a",
       "label": "Throw the writer in jail.",
@@ -7450,7 +7450,7 @@
       "discipline",
       "law"
     ],
-    "prompt": "It returns, as these things do, with the patience gone. You can make a strict rule that anyone on your team who disagrees with you goes to jail. This stops all arguing.",
+    "prompt": "It returns, as these things do, with the patience gone. Sir, forgive me — You can make a strict rule that anyone on your team who disagrees with you goes to jail. This stops all arguing.",
     "left": {
       "id": "a",
       "label": "Make the strict rule to stop arguing.",
@@ -7486,7 +7486,7 @@
       "allies",
       "arithmetic"
     ],
-    "prompt": "Years on, the matter is no longer private; the press is already circling. Your smaller partner teams want to run in the election too. You can bully them into taking the worst spots, or be generous.",
+    "prompt": "Years on, the matter is no longer private; the press is already circling. A word, sir! Your smaller partner teams want to run in the election too. You can bully them into taking the worst spots, or be generous.",
     "left": {
       "id": "a",
       "label": "Bully them and keep the best spots for yourself.",
@@ -7524,7 +7524,7 @@
       "funeral",
       "mobilisation"
     ],
-    "prompt": "The same knot, retied tighter, lands before you once more. One of your young helpers died fighting the enemy. Your team wants to carry his body through the city to make everyone angry and start a huge fight.",
+    "prompt": "The same knot, retied tighter, lands before you once more. Sir, we have a problem. One of your young helpers died fighting the enemy. Your team wants to carry his body through the city to make everyone angry and start a huge fight.",
     "left": {
       "id": "a",
       "label": "Have the big, angry parade.",
@@ -7561,7 +7561,7 @@
       "election",
       "legitimacy"
     ],
-    "prompt": "Another monsoon, another return of an argument you cannot end. People from other countries want to watch your election to make sure it's fair. You can hide the cheating parts from them, or let them see everything.",
+    "prompt": "Another monsoon, another return of an argument you cannot end. Sir! People from other countries want to watch your election to make sure it's fair. You can hide the cheating parts from them, or let them see everything.",
     "left": {
       "id": "a",
       "label": "Hide things and make it hard for them to watch.",
@@ -7597,7 +7597,7 @@
       "lawfare",
       "selective"
     ],
-    "prompt": "Deep into the reign, the issue demands a final-sounding answer. The police who catch thieves work for you. You can tell them to only arrest your enemies, or tell them to arrest anyone who steals, even your friends.",
+    "prompt": "Deep into the reign, the issue demands a final-sounding answer. Mr. Prime Minister, sir! The police who catch thieves work for you. You can tell them to only arrest your enemies, or tell them to arrest anyone who steals, even your friends.",
     "left": {
       "id": "a",
       "label": "Tell them to only arrest your enemies.",
@@ -7635,7 +7635,7 @@
       "constitution",
       "power"
     ],
-    "prompt": "The reckoning you postponed has matured into a crisis. You can make a rule that your team always stays in charge during elections, which makes it super easy to win every time.",
+    "prompt": "The reckoning you postponed has matured into a crisis. Your Excellency! You can make a rule that your team always stays in charge during elections, which makes it super easy to win every time.",
     "left": {
       "id": "a",
       "label": "Make the rule so you always stay in charge.",
@@ -7671,7 +7671,7 @@
       "black-money",
       "audit"
     ],
-    "prompt": "A new chapter, the same antagonists, less room to manoeuvre. You have a giant pile of secret cash for the election. You can lie about where you got it, or only use honest money and have less to spend.",
+    "prompt": "A new chapter, the same antagonists, less room to manoeuvre. Prime Minister! You have a giant pile of secret cash for the election. You can lie about where you got it, or only use honest money and have less to spend.",
     "left": {
       "id": "a",
       "label": "Lie about the money and hide it.",
@@ -7708,7 +7708,7 @@
       "nepotism",
       "nominations"
     ],
-    "prompt": "The old fault line widens; this time there is no quiet option. Your whole family wants to be politicians now because you are the boss. People might think you are just giving jobs to your relatives.",
+    "prompt": "The old fault line widens; this time there is no quiet option. Sir — Your whole family wants to be politicians now because you are the boss. People might think you are just giving jobs to your relatives.",
     "left": {
       "id": "a",
       "label": "Give your family the easy jobs.",
@@ -7746,7 +7746,7 @@
       "indigenous",
       "accord"
     ],
-    "prompt": "Time has not healed it — the conflict comes back armed. People in the hills want you to keep an old promise to protect them. But the army and new settlers want to take their land.",
+    "prompt": "Time has not healed it — the conflict comes back armed. Honourable leader! People in the hills want you to keep an old promise to protect them. But the army and new settlers want to take their land.",
     "left": {
       "id": "a",
       "label": "Help the army and the new settlers.",
@@ -7784,7 +7784,7 @@
       "count",
       "delay"
     ],
-    "prompt": "Once again, and with the whole house holding its breath. The votes are coming in. You can pause the TV news to secretly change some numbers so you win, or show the honest truth instantly.",
+    "prompt": "Once again, and with the whole house holding its breath. Sir, urgent news. The votes are coming in. You can pause the TV news to secretly change some numbers so you win, or show the honest truth instantly.",
     "left": {
       "id": "a",
       "label": "Pause the news to secretly change numbers.",
@@ -7820,7 +7820,7 @@
       "health",
       "dynasty"
     ],
-    "prompt": "The matter resurfaces in a harder year, patience exhausted. You are very sick but no one knows. You can pick the next leader now, but people might stop listening to you early.",
+    "prompt": "The matter resurfaces in a harder year, patience exhausted. Sir, forgive me — You are very sick but no one knows. You can pick the next leader now, but people might stop listening to you early.",
     "left": {
       "id": "a",
       "label": "Hide it and pretend you are perfectly fine.",
@@ -7858,7 +7858,7 @@
       "dispute",
       "credibility"
     ],
-    "prompt": "A later season of rule, the stakes now openly existential. The enemy wants to recount the votes because they think you cheated in one town. You can say no using a silly rule, or let them recount and risk losing.",
+    "prompt": "A later season of rule, the stakes now openly existential. A word, sir! The enemy wants to recount the votes because they think you cheated in one town. You can say no using a silly rule, or let them recount and risk losing.",
     "left": {
       "id": "a",
       "label": "Say no and keep the win.",
@@ -7894,7 +7894,7 @@
       "national-day",
       "narrative"
     ],
-    "prompt": "It comes around again, and the margin for error is gone. You can change the school books so they only talk about how amazing your family is and ignore all the other heroes.",
+    "prompt": "It comes around again, and the margin for error is gone. Sir, we have a problem. You can change the school books so they only talk about how amazing your family is and ignore all the other heroes.",
     "left": {
       "id": "a",
       "label": "Change the books to only praise your family.",
@@ -7931,7 +7931,7 @@
       "recruitment",
       "loyalty"
     ],
-    "prompt": "The same demand, but the reign is older and the knives sharper. You are hiring new police. You can only hire people who promise to vote for you, or hire the strongest, smartest people.",
+    "prompt": "The same demand, but the reign is older and the knives sharper. Sir! You are hiring new police. You can only hire people who promise to vote for you, or hire the strongest, smartest people.",
     "left": {
       "id": "a",
       "label": "Only hire people who promise to vote for you.",
@@ -7967,7 +7967,7 @@
       "plot",
       "loyalty"
     ],
-    "prompt": "Years deep, the unresolved returns to be resolved for good. Two of your friends are secretly talking to the army about taking your job. You can spy on them secretly, or yell at them right now.",
+    "prompt": "Years deep, the unresolved returns to be resolved for good. Mr. Prime Minister, sir! Two of your friends are secretly talking to the army about taking your job. You can spy on them secretly, or yell at them right now.",
     "left": {
       "id": "a",
       "label": "Spy on them secretly to stop them.",
@@ -8005,7 +8005,7 @@
       "family",
       "corruption"
     ],
-    "prompt": "The conflict reignites, and the world is watching this time. Someone in your family got caught stealing. You can hide the secret, or let the police arrest them like anyone else.",
+    "prompt": "The conflict reignites, and the world is watching this time. Your Excellency! Someone in your family got caught stealing. You can hide the secret, or let the police arrest them like anyone else.",
     "left": {
       "id": "a",
       "label": "Hide the secret to protect your family.",
@@ -8043,7 +8043,7 @@
       "promises",
       "credibility"
     ],
-    "prompt": "A familiar crisis, escalated by everything you let slide. You are writing your promises for the election. You can promise crazy, impossible things to get votes, or be honest about what you can actually do.",
+    "prompt": "A familiar crisis, escalated by everything you let slide. Prime Minister! You are writing your promises for the election. You can promise crazy, impossible things to get votes, or be honest about what you can actually do.",
     "left": {
       "id": "a",
       "label": "Promise impossible things to win.",
@@ -8080,7 +8080,7 @@
       "protest",
       "blame"
     ],
-    "prompt": "The fault line cracks wider; the decision can no longer wait. Your student helpers beat up peaceful kids on video. They want you to lie and say the peaceful kids started it.",
+    "prompt": "The fault line cracks wider; the decision can no longer wait. Sir — Your student helpers beat up peaceful kids on video. They want you to lie and say the peaceful kids started it.",
     "left": {
       "id": "a",
       "label": "Lie and protect your student helpers.",
@@ -8118,7 +8118,7 @@
       "opposition",
       "reconciliation"
     ],
-    "prompt": "Late in the reign, the old question demands a heavier answer. Your enemies offer to stop fighting if you let their friends out of jail and make fairer rules.",
+    "prompt": "Late in the reign, the old question demands a heavier answer. Honourable leader! Your enemies offer to stop fighting if you let their friends out of jail and make fairer rules.",
     "left": {
       "id": "a",
       "label": "Say no and keep fighting them.",
@@ -8154,7 +8154,7 @@
       "rules",
       "control"
     ],
-    "prompt": "It returns once more — and this round may be the one remembered. You can change your team's rules so you never have to vote for a leader again, meaning you are the boss forever.",
+    "prompt": "It returns once more — and this round may be the one remembered. Sir, urgent news. You can change your team's rules so you never have to vote for a leader again, meaning you are the boss forever.",
     "left": {
       "id": "a",
       "label": "Change the rules to be boss forever.",
@@ -8191,7 +8191,7 @@
       "rules",
       "control"
     ],
-    "prompt": "The reckoning circles back, grown teeth in the waiting. A very popular guy on your team might win a vote against your favorite friend. You can kick him out for a fake reason so your friend wins.",
+    "prompt": "The reckoning circles back, grown teeth in the waiting. Sir, forgive me — A very popular guy on your team might win a vote against your favorite friend. You can kick him out for a fake reason so your friend wins.",
     "left": {
       "id": "a",
       "label": "Kick him out for a fake reason.",
@@ -8229,7 +8229,7 @@
       "press",
       "intimidation"
     ],
-    "prompt": "Another term, the same antagonist, the stakes raised again. You can file hundreds of fake lawsuits against reporters and enemies to keep them busy and scared in court forever.",
+    "prompt": "Another term, the same antagonist, the stakes raised again. A word, sir! You can file hundreds of fake lawsuits against reporters and enemies to keep them busy and scared in court forever.",
     "left": {
       "id": "a",
       "label": "File the fake lawsuits to scare them.",
@@ -8265,7 +8265,7 @@
       "press",
       "intimidation"
     ],
-    "prompt": "The matter, long deferred, lands with the force of a verdict. One of those fake lawsuits got a young reporter thrown in jail for a long time.",
+    "prompt": "The matter, long deferred, lands with the force of a verdict. Sir, we have a problem. One of those fake lawsuits got a young reporter thrown in jail for a long time.",
     "left": {
       "id": "a",
       "label": "Leave her in jail.",
@@ -8301,7 +8301,7 @@
       "constituencies",
       "advantage"
     ],
-    "prompt": "Years on and unhealed, the conflict returns to claim its answer. You can redraw the map for the election to trap all your enemies in one area, making it super easy for you to win the rest.",
+    "prompt": "Years on and unhealed, the conflict returns to claim its answer. Sir! You can redraw the map for the election to trap all your enemies in one area, making it super easy for you to win the rest.",
     "left": {
       "id": "a",
       "label": "Redraw the map to cheat and win.",
@@ -8337,7 +8337,7 @@
       "patronage",
       "spending"
     ],
-    "prompt": "The same fault line, the harder hour, the narrower path. Local leaders want you to create brand new towns on the map just so they can get new jobs and money.",
+    "prompt": "The same fault line, the harder hour, the narrower path. Mr. Prime Minister, sir! Local leaders want you to create brand new towns on the map just so they can get new jobs and money.",
     "left": {
       "id": "a",
       "label": "Create the new towns to give them jobs.",
@@ -8374,7 +8374,7 @@
       "relief-cards",
       "votes"
     ],
-    "prompt": "It comes back sharpened by every season you survived. Politicians are only giving free food to people who vote for them, and letting the others starve.",
+    "prompt": "It comes back sharpened by every season you survived. Your Excellency! Politicians are only giving free food to people who vote for them, and letting the others starve.",
     "left": {
       "id": "a",
       "label": "Let them keep using food to buy votes.",
@@ -8411,7 +8411,7 @@
       "election",
       "local"
     ],
-    "prompt": "A later year of power, the old crisis now a true test of it. Small city elections are happening. You can rig them quietly to make sure you win, or let people vote freely as a test.",
+    "prompt": "A later year of power, the old crisis now a true test of it. Prime Minister! Small city elections are happening. You can rig them quietly to make sure you win, or let people vote freely as a test.",
     "left": {
       "id": "a",
       "label": "Rig the elections quietly.",
@@ -8447,7 +8447,7 @@
       "data",
       "manipulation"
     ],
-    "prompt": "The unresolved returns, and this time it will not be deferred. You are counting all the people in the country. A helper says you can change the math to favor your towns for more money.",
+    "prompt": "The unresolved returns, and this time it will not be deferred. Sir — You are counting all the people in the country. A helper says you can change the math to favor your towns for more money.",
     "left": {
       "id": "a",
       "label": "Change the math to get more money for your towns.",
@@ -8484,7 +8484,7 @@
       "freedom-fighters",
       "merit"
     ],
-    "prompt": "A term later, the same fault line tears open again. A rule gives the best jobs to kids of old war heroes, making normal young people furious. You can keep the rule or change it to be fair.",
+    "prompt": "A term later, the same fault line tears open again. Honourable leader! A rule gives the best jobs to kids of old war heroes, making normal young people furious. You can keep the rule or change it to be fair.",
     "left": {
       "id": "a",
       "label": "Keep giving the best jobs to the heroes' kids.",
@@ -8522,7 +8522,7 @@
       "union",
       "democracy"
     ],
-    "prompt": "Years into your rule, the matter you thought buried resurfaces — harder. School groups haven't voted for their leaders in years, so your bullies run everything. You can let them vote, but your bullies might lose.",
+    "prompt": "Years into your rule, the matter you thought buried resurfaces — harder. Sir, urgent news. School groups haven't voted for their leaders in years, so your bullies run everything. You can let them vote, but your bullies might lose.",
     "left": {
       "id": "a",
       "label": "Keep the voting stopped so your bullies stay in charge.",
@@ -8558,7 +8558,7 @@
       "endorsement",
       "rural"
     ],
-    "prompt": "A new season of power, an old problem with sharper teeth. A famous religious leader will tell millions of people to vote for you, but only if you give his group a lot of money and ignore their secrets.",
+    "prompt": "A new season of power, an old problem with sharper teeth. Sir, forgive me — A famous religious leader will tell millions of people to vote for you, but only if you give his group a lot of money and ignore their secrets.",
     "left": {
       "id": "a",
       "label": "Give him the money to get the votes.",
@@ -8595,7 +8595,7 @@
       "labour",
       "wages"
     ],
-    "prompt": "The crisis returns, and this time the cabinet is watching. The poor people picking tea want better pay. If you help them, the rich tea farm owners who usually help you will be mad.",
+    "prompt": "The crisis returns, and this time the cabinet is watching. A word, sir! The poor people picking tea want better pay. If you help them, the rich tea farm owners who usually help you will be mad.",
     "left": {
       "id": "a",
       "label": "Side with the rich tea farm owners.",
@@ -8631,7 +8631,7 @@
       "system",
       "reform"
     ],
-    "prompt": "Once more the issue lands on your desk, the stakes higher than before. People want a new voting system that is completely fair. But if it is completely fair, you won't win as easily anymore.",
+    "prompt": "Once more the issue lands on your desk, the stakes higher than before. Sir, we have a problem. People want a new voting system that is completely fair. But if it is completely fair, you won't win as easily anymore.",
     "left": {
       "id": "a",
       "label": "Keep the old rules so you keep winning easily.",
@@ -8667,7 +8667,7 @@
       "faction",
       "discipline"
     ],
-    "prompt": "Another year survived, and the reckoning circles back. A big leader on your team is mad and wants to start his own team. You can arrest him to stop him, or give him what he wants so he stays.",
+    "prompt": "Another year survived, and the reckoning circles back. Sir! A big leader on your team is mad and wants to start his own team. You can arrest him to stop him, or give him what he wants so he stays.",
     "left": {
       "id": "a",
       "label": "Arrest him before he leaves.",
@@ -8704,7 +8704,7 @@
       "left",
       "ideology"
     ],
-    "prompt": "The ground has shifted; the same demand arrives with new menace. A small, smart group wants to join you. They will help you look good, but they want you to be nicer to workers, which will anger your rich friends.",
+    "prompt": "The ground has shifted; the same demand arrives with new menace. Mr. Prime Minister, sir! A small, smart group wants to join you. They will help you look good, but they want you to be nicer to workers, which will anger your rich friends.",
     "left": {
       "id": "a",
       "label": "Join with them and help the workers.",
@@ -8741,7 +8741,7 @@
       "collaborators",
       "1971"
     ],
-    "prompt": "History rhymes: the conflict reopens deeper than last time. You can ban an old religious team for bad things they did in a war long ago. It is fair, but it also magically gets rid of your enemies today.",
+    "prompt": "History rhymes: the conflict reopens deeper than last time. Your Excellency! You can ban an old religious team for bad things they did in a war long ago. It is fair, but it also magically gets rid of your enemies today.",
     "left": {
       "id": "a",
       "label": "Ban the old team forever.",
@@ -8778,7 +8778,7 @@
       "patronage",
       "graft"
     ],
-    "prompt": "Mid-reign, the old wound is torn afresh. Politicians are stealing the money meant for building village roads. You can take the money away and give it to honest local councils instead.",
+    "prompt": "Mid-reign, the old wound is torn afresh. Prime Minister! Politicians are stealing the money meant for building village roads. You can take the money away and give it to honest local councils instead.",
     "left": {
       "id": "a",
       "label": "Let the politicians keep handling the money.",
@@ -8815,7 +8815,7 @@
       "imams",
       "influence"
     ],
-    "prompt": "The pressure you deferred has come due, larger now. You can pay religious leaders to say nice things about you during their prayers. This tricks people into voting for you.",
+    "prompt": "The pressure you deferred has come due, larger now. Sir — You can pay religious leaders to say nice things about you during their prayers. This tricks people into voting for you.",
     "left": {
       "id": "a",
       "label": "Pay the religious leaders to say nice things.",
@@ -8852,7 +8852,7 @@
       "speech",
       "opposition"
     ],
-    "prompt": "A later term, and the quarrel has hardened into a test. Protesters made up a funny song making fun of you. You can arrest them and put them in jail for it.",
+    "prompt": "A later term, and the quarrel has hardened into a test. Honourable leader! Protesters made up a funny song making fun of you. You can arrest them and put them in jail for it.",
     "left": {
       "id": "a",
       "label": "Arrest them for making fun of you.",
@@ -8889,7 +8889,7 @@
       "reckoning",
       "past"
     ],
-    "prompt": "The country has changed, but this fault line has not — only worsened. People want to investigate the old bosses for stealing. If you do, people might want to investigate you someday too.",
+    "prompt": "The country has changed, but this fault line has not — only worsened. Sir, urgent news. People want to investigate the old bosses for stealing. If you do, people might want to investigate you someday too.",
     "left": {
       "id": "a",
       "label": "Investigate everything deeply.",
@@ -8926,7 +8926,7 @@
       "disclosure",
       "transparency"
     ],
-    "prompt": "It returns, as these things do, with the patience gone. A new rule would force you to tell everyone exactly where you get your campaign money. It ruins your secret cash.",
+    "prompt": "It returns, as these things do, with the patience gone. Sir, forgive me — A new rule would force you to tell everyone exactly where you get your campaign money. It ruins your secret cash.",
     "left": {
       "id": "a",
       "label": "Stop the rule and keep your money secret.",
@@ -8963,7 +8963,7 @@
       "voting-age",
       "franchise"
     ],
-    "prompt": "Years on, the matter is no longer private; the press is already circling. You can let young kids vote. But right now, young kids are angry at you and will probably vote for the other team.",
+    "prompt": "Years on, the matter is no longer private; the press is already circling. A word, sir! You can let young kids vote. But right now, young kids are angry at you and will probably vote for the other team.",
     "left": {
       "id": "a",
       "label": "Let the young kids vote.",
@@ -9000,7 +9000,7 @@
       "status",
       "norms"
     ],
-    "prompt": "The same knot, retied tighter, lands before you once more. You can give the leader of the enemy team a nice office and treat them with respect, or take everything away to make them look weak.",
+    "prompt": "The same knot, retied tighter, lands before you once more. Sir, we have a problem. You can give the leader of the enemy team a nice office and treat them with respect, or take everything away to make them look weak.",
     "left": {
       "id": "a",
       "label": "Take everything away to make them look weak.",
@@ -9036,7 +9036,7 @@
       "history",
       "wounds"
     ],
-    "prompt": "Another monsoon, another return of an argument you cannot end. A long time ago, your team did a very bad thing. You can say sorry and heal people's feelings, or stay quiet like always.",
+    "prompt": "Another monsoon, another return of an argument you cannot end. Sir! A long time ago, your team did a very bad thing. You can say sorry and heal people's feelings, or stay quiet like always.",
     "left": {
       "id": "a",
       "label": "Say sorry for the bad thing.",
@@ -9073,7 +9073,7 @@
       "polling",
       "access"
     ],
-    "prompt": "Deep into the reign, the issue demands a final-sounding answer. People living far out in the hills mostly vote for your enemies. You can conveniently \"forget\" to put voting booths near them so they can't vote.",
+    "prompt": "Deep into the reign, the issue demands a final-sounding answer. Mr. Prime Minister, sir! People living far out in the hills mostly vote for your enemies. You can conveniently \"forget\" to put voting booths near them so they can't vote.",
     "left": {
       "id": "a",
       "label": "Forget to put voting booths near them.",
@@ -9109,7 +9109,7 @@
       "senate",
       "structure"
     ],
-    "prompt": "The reckoning you postponed has matured into a crisis. You can create a special new group of leaders and fill it with your friends. They will make sure no one can ever change your rules.",
+    "prompt": "The reckoning you postponed has matured into a crisis. Your Excellency! You can create a special new group of leaders and fill it with your friends. They will make sure no one can ever change your rules.",
     "left": {
       "id": "a",
       "label": "Create the new group and fill it with friends.",
@@ -9146,7 +9146,7 @@
       "compensation",
       "victims"
     ],
-    "prompt": "A new chapter, the same antagonists, less room to manoeuvre. Your fans started a fight on voting day and people died. You can investigate honestly and pay the families, or secretly pay a little to hide it.",
+    "prompt": "A new chapter, the same antagonists, less room to manoeuvre. Prime Minister! Your fans started a fight on voting day and people died. You can investigate honestly and pay the families, or secretly pay a little to hide it.",
     "left": {
       "id": "a",
       "label": "Investigate honestly and pay the families fairly.",
@@ -9183,7 +9183,7 @@
       "micro-targeting",
       "consultants"
     ],
-    "prompt": "The old fault line widens; this time there is no quiet option. A tricky company wants to spy on everyone's phones to figure out how to brainwash them into voting for you.",
+    "prompt": "The old fault line widens; this time there is no quiet option. Sir — A tricky company wants to spy on everyone's phones to figure out how to brainwash them into voting for you.",
     "left": {
       "id": "a",
       "label": "Hire the tricky company to brainwash people.",
@@ -9220,7 +9220,7 @@
       "scrutiny",
       "disqualification"
     ],
-    "prompt": "Time has not healed it — the conflict comes back armed. You can throw away the voting papers for the enemy team just because they missed a comma or spelled a word wrong.",
+    "prompt": "Time has not healed it — the conflict comes back armed. Honourable leader! You can throw away the voting papers for the enemy team just because they missed a comma or spelled a word wrong.",
     "left": {
       "id": "a",
       "label": "Throw away their papers for tiny mistakes.",
@@ -9256,7 +9256,7 @@
       "timing",
       "advantage"
     ],
-    "prompt": "Once again, and with the whole house holding its breath. You just did something popular. You can call a surprise election right now to win before people realize the country is running out of money.",
+    "prompt": "Once again, and with the whole house holding its breath. Sir, urgent news. You just did something popular. You can call a surprise election right now to win before people realize the country is running out of money.",
     "left": {
       "id": "a",
       "label": "Call the surprise election right now.",
@@ -9292,7 +9292,7 @@
       "dissent",
       "expulsion"
     ],
-    "prompt": "The matter resurfaces in a harder year, patience exhausted. One of your teammates voted against a bad rule you made. You can kick him out completely to scare everyone else into obeying.",
+    "prompt": "The matter resurfaces in a harder year, patience exhausted. Sir, forgive me — One of your teammates voted against a bad rule you made. You can kick him out completely to scare everyone else into obeying.",
     "left": {
       "id": "a",
       "label": "Kick him out completely.",
@@ -9329,7 +9329,7 @@
       "ceremonial",
       "loyalty"
     ],
-    "prompt": "A later season of rule, the stakes now openly existential. You get to pick the President. You can pick a yes-man who does whatever you say, or a smart, fair person who might argue with you.",
+    "prompt": "A later season of rule, the stakes now openly existential. A word, sir! You get to pick the President. You can pick a yes-man who does whatever you say, or a smart, fair person who might argue with you.",
     "left": {
       "id": "a",
       "label": "Pick the yes-man.",
@@ -9366,7 +9366,7 @@
       "absorption",
       "growth"
     ],
-    "prompt": "It comes around again, and the margin for error is gone. A small team wants to join yours. They have lots of voters, but they will demand big jobs and cause drama.",
+    "prompt": "It comes around again, and the margin for error is gone. Sir, we have a problem. A small team wants to join yours. They have lots of voters, but they will demand big jobs and cause drama.",
     "left": {
       "id": "a",
       "label": "Let them join your team.",
@@ -9402,7 +9402,7 @@
       "leak",
       "damage"
     ],
-    "prompt": "The same demand, but the reign is older and the knives sharper. A secret plan to cut people's favorite free things leaked online. You can admit it's true, or lie and say the paper is fake and you changed your mind.",
+    "prompt": "The same demand, but the reign is older and the knives sharper. Sir! A secret plan to cut people's favorite free things leaked online. You can admit it's true, or lie and say the paper is fake and you changed your mind.",
     "left": {
       "id": "a",
       "label": "Admit it is true.",
@@ -9438,7 +9438,7 @@
       "transport",
       "poll-day"
     ],
-    "prompt": "Years deep, the unresolved returns to be resolved for good. On voting day, you can send free buses only for the people voting for you, and leave the enemy voters stranded.",
+    "prompt": "Years deep, the unresolved returns to be resolved for good. Mr. Prime Minister, sir! On voting day, you can send free buses only for the people voting for you, and leave the enemy voters stranded.",
     "left": {
       "id": "a",
       "label": "Send free buses only for your voters.",
@@ -9474,7 +9474,7 @@
       "majority",
       "coalition"
     ],
-    "prompt": "The conflict reignites, and the world is watching this time. You are almost losing. You can secretly bribe a few independent politicians to win, or play fair and risk losing your power.",
+    "prompt": "The conflict reignites, and the world is watching this time. Your Excellency! You are almost losing. You can secretly bribe a few independent politicians to win, or play fair and risk losing your power.",
     "left": {
       "id": "a",
       "label": "Bribe them to win safely.",
@@ -9511,7 +9511,7 @@
       "powers",
       "rule"
     ],
-    "prompt": "A familiar crisis, escalated by everything you let slide. You can declare a \"State of Emergency.\" This pauses all rules and lets you do whatever you want forever, but everyone will know you are a dictator.",
+    "prompt": "A familiar crisis, escalated by everything you let slide. Prime Minister! You can declare a \"State of Emergency.\" This pauses all rules and lets you do whatever you want forever, but everyone will know you are a dictator.",
     "left": {
       "id": "a",
       "label": "Declare a State of Emergency.",
@@ -9547,7 +9547,7 @@
       "professionals",
       "capture"
     ],
-    "prompt": "The fault line cracks wider; the decision can no longer wait. Doctors and lawyers have their own groups. You can rig their votes so your friends are in charge of them too.",
+    "prompt": "The fault line cracks wider; the decision can no longer wait. Sir — Doctors and lawyers have their own groups. You can rig their votes so your friends are in charge of them too.",
     "left": {
       "id": "a",
       "label": "Rig their votes so your friends are in charge.",
@@ -9584,7 +9584,7 @@
       "judiciary",
       "poll"
     ],
-    "prompt": "Late in the reign, the old question demands a heavier answer. You can make sure a friendly judge is the one watching the election so you can't lose.",
+    "prompt": "Late in the reign, the old question demands a heavier answer. Honourable leader! You can make sure a friendly judge is the one watching the election so you can't lose.",
     "left": {
       "id": "a",
       "label": "Make sure your friendly judge is watching.",
@@ -9620,7 +9620,7 @@
       "endorsement",
       "image"
     ],
-    "prompt": "It returns once more — and this round may be the one remembered. A super famous movie star wants to run on your team. He is clueless about laws, but everyone will vote for him because he's famous.",
+    "prompt": "It returns once more — and this round may be the one remembered. Sir, urgent news. A super famous movie star wants to run on your team. He is clueless about laws, but everyone will vote for him because he's famous.",
     "left": {
       "id": "a",
       "label": "Let the clueless movie star run for your team.",
@@ -9656,7 +9656,7 @@
       "programme",
       "compromise"
     ],
-    "prompt": "The reckoning circles back, grown teeth in the waiting. Your partner teams want opposite things. You can lie to both of them to keep them happy, or pick a side and make one team very angry.",
+    "prompt": "The reckoning circles back, grown teeth in the waiting. Sir, forgive me — Your partner teams want opposite things. You can lie to both of them to keep them happy, or pick a side and make one team very angry.",
     "left": {
       "id": "a",
       "label": "Lie to both to keep them happy.",
@@ -9694,7 +9694,7 @@
       "restoration",
       "inclusion"
     ],
-    "prompt": "Another term, the same antagonist, the stakes raised again. A group that was banned a long time ago wants to come back and promises to be good.",
+    "prompt": "Another term, the same antagonist, the stakes raised again. A word, sir! A group that was banned a long time ago wants to come back and promises to be good.",
     "left": {
       "id": "a",
       "label": "Keep them banned forever.",
@@ -9731,7 +9731,7 @@
       "gotv",
       "organisation"
     ],
-    "prompt": "The matter, long deferred, lands with the force of a verdict. You can try to get everyone in the country to vote, or only wake up the people who like you and let the others sleep.",
+    "prompt": "The matter, long deferred, lands with the force of a verdict. Sir, we have a problem. You can try to get everyone in the country to vote, or only wake up the people who like you and let the others sleep.",
     "left": {
       "id": "a",
       "label": "Only wake up your friends to vote.",
@@ -9767,7 +9767,7 @@
       "decentralisation",
       "power"
     ],
-    "prompt": "Years on and unhealed, the conflict returns to claim its answer. You can give small towns the money and power to fix their own problems. It helps them, but makes you less powerful.",
+    "prompt": "Years on and unhealed, the conflict returns to claim its answer. Sir! You can give small towns the money and power to fix their own problems. It helps them, but makes you less powerful.",
     "left": {
       "id": "a",
       "label": "Keep all the power for yourself.",
@@ -9803,7 +9803,7 @@
       "law",
       "speech"
     ],
-    "prompt": "The same fault line, the harder hour, the narrower path. You can make a law that anyone who doesn't salute the flag perfectly goes to jail. This is a great excuse to arrest complainers.",
+    "prompt": "The same fault line, the harder hour, the narrower path. Mr. Prime Minister, sir! You can make a law that anyone who doesn't salute the flag perfectly goes to jail. This is a great excuse to arrest complainers.",
     "left": {
       "id": "a",
       "label": "Make the strict flag law.",
@@ -9840,7 +9840,7 @@
       "transmission",
       "transparency"
     ],
-    "prompt": "It comes back sharpened by every season you survived. A new app lets everyone see the votes being counted instantly on their phones. This makes it impossible for you to cheat.",
+    "prompt": "It comes back sharpened by every season you survived. Your Excellency! A new app lets everyone see the votes being counted instantly on their phones. This makes it impossible for you to cheat.",
     "left": {
       "id": "a",
       "label": "Use the app to prove you are fair.",
@@ -9876,7 +9876,7 @@
       "recognition",
       "votes"
     ],
-    "prompt": "A later year of power, the old crisis now a true test of it. Religious schools want their easy tests to count the same as hard college tests for getting jobs. If you say yes, they will vote for you.",
+    "prompt": "A later year of power, the old crisis now a true test of it. Prime Minister! Religious schools want their easy tests to count the same as hard college tests for getting jobs. If you say yes, they will vote for you.",
     "left": {
       "id": "a",
       "label": "Say yes so they vote for you.",
@@ -9914,7 +9914,7 @@
       "data",
       "privacy"
     ],
-    "prompt": "The unresolved returns, and this time it will not be deferred. Your helpers can secretly knock on doors and make lists of everyone's secrets and religion to figure out how to trick them.",
+    "prompt": "The unresolved returns, and this time it will not be deferred. Sir — Your helpers can secretly knock on doors and make lists of everyone's secrets and religion to figure out how to trick them.",
     "left": {
       "id": "a",
       "label": "Tell them to make the secret lists.",
@@ -9950,7 +9950,7 @@
       "parliament",
       "tactic"
     ],
-    "prompt": "A term later, the same fault line tears open again. You can cancel the government early to trick your enemies before they are ready for the election.",
+    "prompt": "A term later, the same fault line tears open again. Honourable leader! You can cancel the government early to trick your enemies before they are ready for the election.",
     "left": {
       "id": "a",
       "label": "Cancel early to trick them.",
@@ -9986,7 +9986,7 @@
       "rebellion",
       "policy"
     ],
-    "prompt": "Years into your rule, the matter you thought buried resurfaces — harder. Your own team is refusing to vote for a terrible rule you made. You can bully them into voting yes, or listen to them and fix the rule.",
+    "prompt": "Years into your rule, the matter you thought buried resurfaces — harder. Sir, urgent news. Your own team is refusing to vote for a terrible rule you made. You can bully them into voting yes, or listen to them and fix the rule.",
     "left": {
       "id": "a",
       "label": "Bully them into voting yes.",
@@ -10022,7 +10022,7 @@
       "corporate",
       "influence"
     ],
-    "prompt": "A new season of power, an old problem with sharper teeth. A new rule will limit how much money rich people can give you. This makes things fairer, but you will be much poorer for the election.",
+    "prompt": "A new season of power, an old problem with sharper teeth. Sir, forgive me — A new rule will limit how much money rich people can give you. This makes things fairer, but you will be much poorer for the election.",
     "left": {
       "id": "a",
       "label": "Stop the rule so you get the rich people's money.",
@@ -10060,7 +10060,7 @@
       "transparency",
       "accountability"
     ],
-    "prompt": "The crisis returns, and this time the cabinet is watching. A new rule lets any normal person read the government's secret papers. This stops stealing, but means people will see your mistakes.",
+    "prompt": "The crisis returns, and this time the cabinet is watching. A word, sir! A new rule lets any normal person read the government's secret papers. This stops stealing, but means people will see your mistakes.",
     "left": {
       "id": "a",
       "label": "Stop the rule to keep your secrets.",
@@ -10097,7 +10097,7 @@
       "committee",
       "audit"
     ],
-    "prompt": "Once more the issue lands on your desk, the stakes higher than before. The team checking the government's spending is usually run by your enemies to keep things honest. You can put your friends in charge to hide your stealing.",
+    "prompt": "Once more the issue lands on your desk, the stakes higher than before. Sir, we have a problem. The team checking the government's spending is usually run by your enemies to keep things honest. You can put your friends in charge to hide your stealing.",
     "left": {
       "id": "a",
       "label": "Put your friends in charge of checking the spending.",
@@ -10134,7 +10134,7 @@
       "service-voters",
       "fraud"
     ],
-    "prompt": "Another year survived, and the reckoning circles back. Soldiers voting by mail are easy to trick. You can secretly change all their votes to be for you.",
+    "prompt": "Another year survived, and the reckoning circles back. Sir! Soldiers voting by mail are easy to trick. You can secretly change all their votes to be for you.",
     "left": {
       "id": "a",
       "label": "Secretly change the soldiers' votes.",
@@ -10170,7 +10170,7 @@
       "kingmaker",
       "deals"
     ],
-    "prompt": "The ground has shifted; the same demand arrives with new menace. No one won the election entirely. You can buy a few small teams with giant bags of money to win, or try to run the country carefully with less power.",
+    "prompt": "The ground has shifted; the same demand arrives with new menace. Mr. Prime Minister, sir! No one won the election entirely. You can buy a few small teams with giant bags of money to win, or try to run the country carefully with less power.",
     "left": {
       "id": "a",
       "label": "Buy the small teams with money and jobs.",
@@ -10207,7 +10207,7 @@
       "reserved-seats",
       "reform"
     ],
-    "prompt": "History rhymes: the conflict reopens deeper than last time. Women want to actually be voted into the special seats, instead of you just picking them. If you let them, you can't control who gets the seats.",
+    "prompt": "History rhymes: the conflict reopens deeper than last time. Your Excellency! Women want to actually be voted into the special seats, instead of you just picking them. If you let them, you can't control who gets the seats.",
     "left": {
       "id": "a",
       "label": "Let the women be voted in fairly.",
@@ -10245,7 +10245,7 @@
       "relocation",
       "suppression"
     ],
-    "prompt": "Mid-reign, the old wound is torn afresh. You can secretly move the voting boxes in the enemy's towns far away right before the vote, so they can't walk there in time.",
+    "prompt": "Mid-reign, the old wound is torn afresh. Prime Minister! You can secretly move the voting boxes in the enemy's towns far away right before the vote, so they can't walk there in time.",
     "left": {
       "id": "a",
       "label": "Move the boxes far away to trick them.",
@@ -10281,7 +10281,7 @@
       "courts",
       "result"
     ],
-    "prompt": "The pressure you deferred has come due, larger now. Your enemies went to court with proof that you cheated. You can tell the judges to throw all the proof in the trash without looking at it.",
+    "prompt": "The pressure you deferred has come due, larger now. Sir — Your enemies went to court with proof that you cheated. You can tell the judges to throw all the proof in the trash without looking at it.",
     "left": {
       "id": "a",
       "label": "Tell the judges to throw the proof in the trash.",
@@ -10317,7 +10317,7 @@
       "disinformation",
       "smear"
     ],
-    "prompt": "A later term, and the quarrel has hardened into a test. Your computer team made a fake, realistic video of your enemy saying something terrible. You can show it to everyone to ruin her, but it is a lie.",
+    "prompt": "A later term, and the quarrel has hardened into a test. Honourable leader! Your computer team made a fake, realistic video of your enemy saying something terrible. You can show it to everyone to ruin her, but it is a lie.",
     "left": {
       "id": "a",
       "label": "Show everyone the fake video.",
@@ -10353,7 +10353,7 @@
       "succession",
       "seat"
     ],
-    "prompt": "The country has changed, but this fault line has not — only worsened. An old politician died. You can give his job to his very smart daughter, or to a mindless helper who will just do whatever you say.",
+    "prompt": "The country has changed, but this fault line has not — only worsened. Sir, urgent news. An old politician died. You can give his job to his very smart daughter, or to a mindless helper who will just do whatever you say.",
     "left": {
       "id": "a",
       "label": "Give the job to the mindless helper.",
@@ -10391,7 +10391,7 @@
       "services",
       "corruption"
     ],
-    "prompt": "It returns, as these things do, with the patience gone. You can use computers so people don't have to pay bribes to government workers anymore. The workers will be very mad they lost their extra money.",
+    "prompt": "It returns, as these things do, with the patience gone. Sir, forgive me — You can use computers so people don't have to pay bribes to government workers anymore. The workers will be very mad they lost their extra money.",
     "left": {
       "id": "a",
       "label": "Use the computers to stop the bribes.",
@@ -10428,7 +10428,7 @@
       "accountability",
       "norms"
     ],
-    "prompt": "Years on, the matter is no longer private; the press is already circling. In meetings, people only ask you fake, easy questions to make you look smart. You can let them ask real, hard questions to prove you are a good leader.",
+    "prompt": "Years on, the matter is no longer private; the press is already circling. A word, sir! In meetings, people only ask you fake, easy questions to make you look smart. You can let them ask real, hard questions to prove you are a good leader.",
     "left": {
       "id": "a",
       "label": "Keep only answering the fake, easy questions.",
@@ -10465,7 +10465,7 @@
       "affiliation",
       "leverage"
     ],
-    "prompt": "The same knot, retied tighter, lands before you once more. You can make the big worker groups join your team. They will vote for you, but you will have to actually give them what they want later.",
+    "prompt": "The same knot, retied tighter, lands before you once more. Sir, we have a problem. You can make the big worker groups join your team. They will vote for you, but you will have to actually give them what they want later.",
     "left": {
       "id": "a",
       "label": "Make them join your team.",
@@ -10502,7 +10502,7 @@
       "awareness",
       "turnout"
     ],
-    "prompt": "Another monsoon, another return of an argument you cannot end. You can pay to teach people how to spot election cheating. But if they learn, they might catch you cheating.",
+    "prompt": "Another monsoon, another return of an argument you cannot end. Sir! You can pay to teach people how to spot election cheating. But if they learn, they might catch you cheating.",
     "left": {
       "id": "a",
       "label": "Teach people how to spot cheating.",
@@ -10538,7 +10538,7 @@
       "violence",
       "amnesty"
     ],
-    "prompt": "Deep into the reign, the issue demands a final-sounding answer. Many of your helpers beat people up in the past. You can magically erase all their crimes to thank them for helping you.",
+    "prompt": "Deep into the reign, the issue demands a final-sounding answer. Mr. Prime Minister, sir! Many of your helpers beat people up in the past. You can magically erase all their crimes to thank them for helping you.",
     "left": {
       "id": "a",
       "label": "Erase their crimes so they don't go to jail.",
@@ -10575,7 +10575,7 @@
       "voting",
       "fraud"
     ],
-    "prompt": "The reckoning you postponed has matured into a crisis. Your people in other countries are voting. Since no one is watching, you can easily sneak a bunch of fake votes in for yourself.",
+    "prompt": "The reckoning you postponed has matured into a crisis. Your Excellency! Your people in other countries are voting. Since no one is watching, you can easily sneak a bunch of fake votes in for yourself.",
     "left": {
       "id": "a",
       "label": "Sneak in the fake votes.",
@@ -10611,7 +10611,7 @@
       "spoilers",
       "tactics"
     ],
-    "prompt": "A new chapter, the same antagonists, less room to manoeuvre. You can secretly pay fake politicians to run in the election just to confuse people and steal votes from your real enemy.",
+    "prompt": "A new chapter, the same antagonists, less room to manoeuvre. Prime Minister! You can secretly pay fake politicians to run in the election just to confuse people and steal votes from your real enemy.",
     "left": {
       "id": "a",
       "label": "Pay the fake politicians to confuse people.",
@@ -10647,7 +10647,7 @@
       "accountability",
       "graft"
     ],
-    "prompt": "The old fault line widens; this time there is no quiet option. The rules say there should be a special policeman who arrests government leaders who steal. No one has ever hired him. You can hire him now.",
+    "prompt": "The old fault line widens; this time there is no quiet option. Sir — The rules say there should be a special policeman who arrests government leaders who steal. No one has ever hired him. You can hire him now.",
     "left": {
       "id": "a",
       "label": "Do not hire him, to keep your leaders safe.",
@@ -10685,7 +10685,7 @@
       "election-day",
       "neutrality"
     ],
-    "prompt": "Time has not healed it — the conflict comes back armed. Special judges are driving around on voting day. You can tell them to bully your enemies, or tell them to just keep everyone safe.",
+    "prompt": "Time has not healed it — the conflict comes back armed. Honourable leader! Special judges are driving around on voting day. You can tell them to bully your enemies, or tell them to just keep everyone safe.",
     "left": {
       "id": "a",
       "label": "Tell them to bully your enemies.",
@@ -10721,7 +10721,7 @@
       "purge",
       "disenfranchisement"
     ],
-    "prompt": "Once again, and with the whole house holding its breath. You can use computers to erase poor people and minorities from the voting list so they can't vote against you.",
+    "prompt": "Once again, and with the whole house holding its breath. Sir, urgent news. You can use computers to erase poor people and minorities from the voting list so they can't vote against you.",
     "left": {
       "id": "a",
       "label": "Erase them from the list secretly.",
@@ -10757,7 +10757,7 @@
       "outreach",
       "spending"
     ],
-    "prompt": "The matter resurfaces in a harder year, patience exhausted. Young people are very angry at you. You can throw a giant, expensive festival with concerts to trick them into liking you again.",
+    "prompt": "The matter resurfaces in a harder year, patience exhausted. Sir, forgive me — Young people are very angry at you. You can throw a giant, expensive festival with concerts to trick them into liking you again.",
     "left": {
       "id": "a",
       "label": "Throw the giant, expensive festival.",
@@ -10793,7 +10793,7 @@
       "press",
       "intimidation"
     ],
-    "prompt": "A later season of rule, the stakes now openly existential. Your friend wants to drag a news reporter into a scary government meeting to yell at him for writing a mean story.",
+    "prompt": "A later season of rule, the stakes now openly existential. A word, sir! Your friend wants to drag a news reporter into a scary government meeting to yell at him for writing a mean story.",
     "left": {
       "id": "a",
       "label": "Let your friend drag the reporter in.",
@@ -10830,7 +10830,7 @@
       "conduct",
       "accountability"
     ],
-    "prompt": "It comes around again, and the margin for error is gone. Your leaders are obviously stealing money. You can force them to show their bank accounts and fire the thieves.",
+    "prompt": "It comes around again, and the margin for error is gone. Sir, we have a problem. Your leaders are obviously stealing money. You can force them to show their bank accounts and fire the thieves.",
     "left": {
       "id": "a",
       "label": "Force them to show their accounts and fire them.",
@@ -10868,7 +10868,7 @@
       "cross-voting",
       "discipline"
     ],
-    "prompt": "The same demand, but the reign is older and the knives sharper. You are voting for the President. Some of your friends want to vote for the wrong person as a joke. You can threaten them so they don't.",
+    "prompt": "The same demand, but the reign is older and the knives sharper. Sir! You are voting for the President. Some of your friends want to vote for the wrong person as a joke. You can threaten them so they don't.",
     "left": {
       "id": "a",
       "label": "Threaten them so they vote for your person.",
@@ -10905,7 +10905,7 @@
       "cabinet",
       "balance"
     ],
-    "prompt": "Years deep, the unresolved returns to be resolved for good. You have to switch your helpers around. You can pick the helpers who are dumb but loyal, or the very smart ones who might try to take your job.",
+    "prompt": "Years deep, the unresolved returns to be resolved for good. Mr. Prime Minister, sir! You have to switch your helpers around. You can pick the helpers who are dumb but loyal, or the very smart ones who might try to take your job.",
     "left": {
       "id": "a",
       "label": "Pick the dumb, loyal helpers.",
@@ -10943,7 +10943,7 @@
       "legitimacy",
       "gamble"
     ],
-    "prompt": "The conflict reignites, and the world is watching this time. People don't believe you won fairly. You can ask the whole country to vote \"Yes\" or \"No\" on if they want you to stay. It's a huge gamble.",
+    "prompt": "The conflict reignites, and the world is watching this time. Your Excellency! People don't believe you won fairly. You can ask the whole country to vote \"Yes\" or \"No\" on if they want you to stay. It's a huge gamble.",
     "left": {
       "id": "a",
       "label": "Ask the country to vote \"Yes\" or \"No\".",
@@ -10979,7 +10979,7 @@
       "legitimacy",
       "gamble"
     ],
-    "prompt": "A familiar crisis, escalated by everything you let slide. You did the \"Yes\" or \"No\" vote, but hardly anyone showed up, and the numbers are obviously fake.",
+    "prompt": "A familiar crisis, escalated by everything you let slide. Prime Minister! You did the \"Yes\" or \"No\" vote, but hardly anyone showed up, and the numbers are obviously fake.",
     "left": {
       "id": "a",
       "label": "Brag loudly that everyone loves you.",
@@ -11017,7 +11017,7 @@
       "legitimacy",
       "gamble"
     ],
-    "prompt": "The fault line cracks wider; the decision can no longer wait. Because of the messy vote, your enemies demand a totally fair, watched election. If you say yes, you might lose your job.",
+    "prompt": "The fault line cracks wider; the decision can no longer wait. Sir — Because of the messy vote, your enemies demand a totally fair, watched election. If you say yes, you might lose your job.",
     "left": {
       "id": "a",
       "label": "Ignore them and stay the boss.",

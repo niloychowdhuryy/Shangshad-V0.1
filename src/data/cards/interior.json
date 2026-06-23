@@ -11,7 +11,7 @@
       "students",
       "quota"
     ],
-    "prompt": "Students are blocking the roads peacefully to protest an unfair rule. The police chief wants to force them to leave right now.",
+    "prompt": "Honourable leader! Students are blocking the roads peacefully to protest an unfair rule. The police chief wants to force them to leave right now.",
     "left": {
       "id": "a",
       "label": "Tell the police to force the students off the roads.",
@@ -47,7 +47,7 @@
       "students",
       "quota"
     ],
-    "prompt": "A video shows a police officer shooting an unarmed student. Everyone is very angry. Your strict friends want you to lock everyone inside and turn off the internet.",
+    "prompt": "Sir, urgent news. A video shows a police officer shooting an unarmed student. Everyone is very angry. Your strict friends want you to lock everyone inside and turn off the internet.",
     "left": {
       "id": "a",
       "label": "Lock everyone inside and turn off the internet.",
@@ -84,7 +84,7 @@
       "students",
       "quota"
     ],
-    "prompt": "The protesters want you to fire the leaders who ordered the police to hurt people. The army says they won't help you hurt students anymore.",
+    "prompt": "Sir, forgive me — The protesters want you to fire the leaders who ordered the police to hurt people. The army says they won't help you hurt students anymore.",
     "left": {
       "id": "a",
       "label": "Fire the leaders who ordered the bad things.",
@@ -122,7 +122,7 @@
       "rab",
       "torture"
     ],
-    "prompt": "A helper brings proof that your secret police kidnapped people and hid them in secret jails. Some are still alive.",
+    "prompt": "A word, sir! A helper brings proof that your secret police kidnapped people and hid them in secret jails. Some are still alive.",
     "left": {
       "id": "a",
       "label": "Hide the proof and do nothing.",
@@ -158,7 +158,7 @@
       "rab",
       "torture"
     ],
-    "prompt": "The police are scared they will get in trouble for the bad things they did. They want you to promise to protect them, or they might stop listening to you.",
+    "prompt": "Sir, we have a problem. The police are scared they will get in trouble for the bad things they did. They want you to promise to protect them, or they might stop listening to you.",
     "left": {
       "id": "a",
       "label": "Promise to protect them so they stay loyal.",
@@ -195,7 +195,7 @@
       "press",
       "speech"
     ],
-    "prompt": "People are in jail just for drawing funny pictures or writing jokes about your family online. The police want to arrest more people.",
+    "prompt": "Sir! People are in jail just for drawing funny pictures or writing jokes about your family online. The police want to arrest more people.",
     "left": {
       "id": "a",
       "label": "Arrest more people to scare everyone into being quiet.",
@@ -233,7 +233,7 @@
       "minorities",
       "puja"
     ],
-    "prompt": "An untrue rumor made angry people start breaking into homes and temples. The local police are just watching and not helping.",
+    "prompt": "Mr. Prime Minister, sir! An untrue rumor made angry people start breaking into homes and temples. The local police are just watching and not helping.",
     "left": {
       "id": "a",
       "label": "Send good police fast to arrest the bad people breaking things.",
@@ -271,7 +271,7 @@
       "spyware",
       "rights"
     ],
-    "prompt": "A salesman offers you a secret tool to hack into anyone's phone and read their messages.",
+    "prompt": "Your Excellency! A salesman offers you a secret tool to hack into anyone's phone and read their messages.",
     "left": {
       "id": "a",
       "label": "Buy the secret hacking tool and use it on anyone.",
@@ -308,7 +308,7 @@
       "torture",
       "reform"
     ],
-    "prompt": "A good young police boss says a bad officer hurt a poor man until he died, then lied about it.",
+    "prompt": "Prime Minister! A good young police boss says a bad officer hurt a poor man until he died, then lied about it.",
     "left": {
       "id": "a",
       "label": "Tell the good boss to sign the lie and stay quiet.",
@@ -344,7 +344,7 @@
       "camps",
       "trafficking"
     ],
-    "prompt": "Bad gangs are doing illegal things in the homeless camps. The guard wants to use strong force to clean it up, but that will be very violent.",
+    "prompt": "Sir — Bad gangs are doing illegal things in the homeless camps. The guard wants to use strong force to clean it up, but that will be very violent.",
     "left": {
       "id": "a",
       "label": "Let the guard use strong force to clean the camps.",
@@ -381,7 +381,7 @@
       "opposition",
       "arrests"
     ],
-    "prompt": "An election is coming. A spy boss wants to arrest your enemies now for fake reasons so they can't campaign against you.",
+    "prompt": "Honourable leader! An election is coming. A spy boss wants to arrest your enemies now for fake reasons so they can't campaign against you.",
     "left": {
       "id": "a",
       "label": "Say yes and arrest your enemies.",
@@ -418,7 +418,7 @@
       "drug-war",
       "crossfire"
     ],
-    "prompt": "Bad drugs are everywhere. The police want to fight a harsh war and might accidentally kill people they think are selling drugs.",
+    "prompt": "Sir, urgent news. Bad drugs are everywhere. The police want to fight a harsh war and might accidentally kill people they think are selling drugs.",
     "left": {
       "id": "a",
       "label": "Let the police fight the harsh, dangerous war.",
@@ -455,7 +455,7 @@
       "road-safety",
       "protest"
     ],
-    "prompt": "A bad bus driver ran over two students. Now all the kids are in the streets demanding safer roads.",
+    "prompt": "Sir, forgive me — A bad bus driver ran over two students. Now all the kids are in the streets demanding safer roads.",
     "left": {
       "id": "a",
       "label": "Agree with the kids and make strict rules for safe roads.",
@@ -492,7 +492,7 @@
       "rumour",
       "mob"
     ],
-    "prompt": "A fake story on phones about people stealing children is making angry mobs beat up innocent strangers.",
+    "prompt": "A word, sir! A fake story on phones about people stealing children is making angry mobs beat up innocent strangers.",
     "left": {
       "id": "a",
       "label": "Turn off the phones and internet to stop the rumor.",
@@ -528,7 +528,7 @@
       "insurgency",
       "indigenous"
     ],
-    "prompt": "People in the hills are fighting because an old peace promise is falling apart. The army wants to go in strong.",
+    "prompt": "Sir, we have a problem. People in the hills are fighting because an old peace promise is falling apart. The army wants to go in strong.",
     "left": {
       "id": "a",
       "label": "Send the army in strong to stop the fighting.",
@@ -565,7 +565,7 @@
       "rape-law",
       "justice"
     ],
-    "prompt": "A woman was hurt very badly. People are marching and demanding that the bad guys be put to death.",
+    "prompt": "Sir! A woman was hurt very badly. People are marching and demanding that the bad guys be put to death.",
     "left": {
       "id": "a",
       "label": "Make a law to put them to death to make the crowd happy.",
@@ -601,7 +601,7 @@
       "migration",
       "mediterranean"
     ],
-    "prompt": "Bad men in your country are tricking poor people onto dangerous boats to go far away. The bad men pay the police to look the other way.",
+    "prompt": "Mr. Prime Minister, sir! Bad men in your country are tricking poor people onto dangerous boats to go far away. The bad men pay the police to look the other way.",
     "left": {
       "id": "a",
       "label": "Stop the bad men and the dirty police.",
@@ -639,7 +639,7 @@
       "overcrowding",
       "political"
     ],
-    "prompt": "The jails are way too full, mostly with your enemies who never got a fair trial. People are getting sick.",
+    "prompt": "Your Excellency! The jails are way too full, mostly with your enemies who never got a fair trial. People are getting sick.",
     "left": {
       "id": "a",
       "label": "Let the people who haven't had a trial go home for now.",
@@ -676,7 +676,7 @@
       "building-code",
       "safety"
     ],
-    "prompt": "A secret chemical room caught fire and many people died. The fire boss wants to shut down every unsafe building, but your rich friends own them.",
+    "prompt": "Prime Minister! A secret chemical room caught fire and many people died. The fire boss wants to shut down every unsafe building, but your rich friends own them.",
     "left": {
       "id": "a",
       "label": "Shut down all the unsafe buildings.",
@@ -714,7 +714,7 @@
       "corruption",
       "bribery"
     ],
-    "prompt": "Getting a passport takes forever unless you pay a secret bribe. You can make a new computer system to stop the bribes, but your workers will be mad.",
+    "prompt": "Sir — Getting a passport takes forever unless you pay a secret bribe. You can make a new computer system to stop the bribes, but your workers will be mad.",
     "left": {
       "id": "a",
       "label": "Make the new computer system to stop the bribes.",
@@ -751,7 +751,7 @@
       "convoy",
       "privilege"
     ],
-    "prompt": "A very important leader's fast car hit a poor man. The leader didn't stop, and an ambulance was stuck behind them. Everyone saw the video.",
+    "prompt": "Honourable leader! A very important leader's fast car hit a poor man. The leader didn't stop, and an ambulance was stuck behind them. Everyone saw the video.",
     "left": {
       "id": "a",
       "label": "Punish the important leader and stop letting them drive so fast.",
@@ -789,7 +789,7 @@
       "data",
       "privacy"
     ],
-    "prompt": "A computer expert wants to connect everyone's fingerprints and photos to cameras that watch the city. This could find bad guys, but it also spies on everyone.",
+    "prompt": "Sir, urgent news. A computer expert wants to connect everyone's fingerprints and photos to cameras that watch the city. This could find bad guys, but it also spies on everyone.",
     "left": {
       "id": "a",
       "label": "Connect the cameras to spy on everyone.",
@@ -826,7 +826,7 @@
       "gambling",
       "scams"
     ],
-    "prompt": "Bad gangs online are stealing people's money using games. Some of your own young helpers are secretly part of the gangs.",
+    "prompt": "Sir, forgive me — Bad gangs online are stealing people's money using games. Some of your own young helpers are secretly part of the gangs.",
     "left": {
       "id": "a",
       "label": "Stop everyone, even your own helpers.",
@@ -863,7 +863,7 @@
       "recruitment",
       "merit"
     ],
-    "prompt": "People have to pay giant bribes just to get a job as a police officer. This makes them bad police officers later.",
+    "prompt": "A word, sir! People have to pay giant bribes just to get a job as a police officer. This makes them bad police officers later.",
     "left": {
       "id": "a",
       "label": "Stop the bribes and only hire the best people.",
@@ -900,7 +900,7 @@
       "unfit-vehicles",
       "gridlock"
     ],
-    "prompt": "The city is full of old, broken, dangerous buses run by mean groups. If you get rid of the bad buses, the groups might strike and stop all traffic.",
+    "prompt": "Sir, we have a problem. The city is full of old, broken, dangerous buses run by mean groups. If you get rid of the bad buses, the groups might strike and stop all traffic.",
     "left": {
       "id": "a",
       "label": "Get rid of the broken, dangerous buses.",
@@ -937,7 +937,7 @@
       "terror",
       "raids"
     ],
-    "prompt": "After a scary attack, the police want to break into homes to stop bad guys before they do anything. This might make innocent people angry.",
+    "prompt": "Sir! After a scary attack, the police want to break into homes to stop bad guys before they do anything. This might make innocent people angry.",
     "left": {
       "id": "a",
       "label": "Let the police break into homes.",
@@ -974,7 +974,7 @@
       "slum",
       "land"
     ],
-    "prompt": "A rich builder wants to tear down a giant neighborhood where very poor people live so he can build something fancy.",
+    "prompt": "Mr. Prime Minister, sir! A rich builder wants to tear down a giant neighborhood where very poor people live so he can build something fancy.",
     "left": {
       "id": "a",
       "label": "Tear down the poor people's homes for the builder.",
@@ -1012,7 +1012,7 @@
       "journalists",
       "watchlist"
     ],
-    "prompt": "Your spies have a list of writers and complainers. They want to follow them and scare them so they stop complaining.",
+    "prompt": "Your Excellency! Your spies have a list of writers and complainers. They want to follow them and scare them so they stop complaining.",
     "left": {
       "id": "a",
       "label": "Let the spies follow and scare them.",
@@ -1049,7 +1049,7 @@
       "smuggling",
       "haats"
     ],
-    "prompt": "People sneak things over the border to make money, and guards shoot them. You could build safe, legal markets there instead.",
+    "prompt": "Prime Minister! People sneak things over the border to make money, and guards shoot them. You could build safe, legal markets there instead.",
     "left": {
       "id": "a",
       "label": "Build safe, legal markets on the border.",
@@ -1086,7 +1086,7 @@
       "crowd",
       "force"
     ],
-    "prompt": "A giant crowd of your enemies is having a peaceful meeting. Your police boss wants to use sticks and gas to make them run away.",
+    "prompt": "Sir — A giant crowd of your enemies is having a peaceful meeting. Your police boss wants to use sticks and gas to make them run away.",
     "left": {
       "id": "a",
       "label": "Use sticks and gas to make them run away.",
@@ -1122,7 +1122,7 @@
       "families",
       "white-vans"
     ],
-    "prompt": "Mothers of people who were kidnapped by the police are standing together crying. The world wants to send a team to investigate.",
+    "prompt": "Honourable leader! Mothers of people who were kidnapped by the police are standing together crying. The world wants to send a team to investigate.",
     "left": {
       "id": "a",
       "label": "Let the world team come and find the truth.",
@@ -1159,7 +1159,7 @@
       "abuse",
       "children"
     ],
-    "prompt": "A little girl working as a maid in a rich house was hurt very badly. A helper wants to check all rich houses to make sure maids are safe.",
+    "prompt": "Sir, urgent news. A little girl working as a maid in a rich house was hurt very badly. A helper wants to check all rich houses to make sure maids are safe.",
     "left": {
       "id": "a",
       "label": "Check the houses to keep the maids safe.",
@@ -1195,7 +1195,7 @@
       "violence",
       "centres"
     ],
-    "prompt": "Voting day is coming and people might fight. You can put the army everywhere to keep it fair, or only put them where it helps you win.",
+    "prompt": "Sir, forgive me — Voting day is coming and people might fight. You can put the army everywhere to keep it fair, or only put them where it helps you win.",
     "left": {
       "id": "a",
       "label": "Put the army everywhere to keep the vote completely fair.",
@@ -1232,7 +1232,7 @@
       "dowry",
       "women"
     ],
-    "prompt": "Mean people are throwing bad chemicals that burn women's faces. You can make it very hard to buy these chemicals, but store owners will complain.",
+    "prompt": "A word, sir! Mean people are throwing bad chemicals that burn women's faces. You can make it very hard to buy these chemicals, but store owners will complain.",
     "left": {
       "id": "a",
       "label": "Make it very hard to buy the bad chemicals and punish the mean people.",
@@ -1269,7 +1269,7 @@
       "stampede",
       "public"
     ],
-    "prompt": "Two huge events are happening at the same time. Last year, a crowd pushed too hard and people died. A helper wants strict rules to keep crowds small and safe.",
+    "prompt": "Sir, we have a problem. Two huge events are happening at the same time. Last year, a crowd pushed too hard and people died. A helper wants strict rules to keep crowds small and safe.",
     "left": {
       "id": "a",
       "label": "Make strict rules to keep the crowds safe.",
@@ -1305,7 +1305,7 @@
       "siege",
       "militants"
     ],
-    "prompt": "Bad guys with weapons took over a fancy restaurant and are hurting people inside.",
+    "prompt": "Sir! Bad guys with weapons took over a fancy restaurant and are hurting people inside.",
     "left": {
       "id": "a",
       "label": "Send the police rushing in immediately to fight them.",
@@ -1341,7 +1341,7 @@
       "siege",
       "militants"
     ],
-    "prompt": "The bad guys from the restaurant turned out to be rich, smart kids from good families. Your friends are terrified.",
+    "prompt": "Mr. Prime Minister, sir! The bad guys from the restaurant turned out to be rich, smart kids from good families. Your friends are terrified.",
     "left": {
       "id": "a",
       "label": "Have the police arrest lots of young people to be safe.",
@@ -1377,7 +1377,7 @@
       "rumour",
       "mob"
     ],
-    "prompt": "A fake story about strangers stealing kids for a bridge is making mobs beat innocent people to death.",
+    "prompt": "Your Excellency! A fake story about strangers stealing kids for a bridge is making mobs beat innocent people to death.",
     "left": {
       "id": "a",
       "label": "Tell police they can shoot the angry mobs.",
@@ -1413,7 +1413,7 @@
       "protest",
       "blasphemy"
     ],
-    "prompt": "A huge group of religious people blocked the whole city. They demand you destroy a statue they don't like.",
+    "prompt": "Prime Minister! A huge group of religious people blocked the whole city. They demand you destroy a statue they don't like.",
     "left": {
       "id": "a",
       "label": "Send the police at night to force them all to leave.",
@@ -1450,7 +1450,7 @@
       "surveillance",
       "dissent"
     ],
-    "prompt": "You can buy a super-secret tool to read everyone's phone messages. But if you buy it, everyone will eventually find out you spy on them.",
+    "prompt": "Sir — You can buy a super-secret tool to read everyone's phone messages. But if you buy it, everyone will eventually find out you spy on them.",
     "left": {
       "id": "a",
       "label": "Buy the super-secret spy tool.",
@@ -1486,7 +1486,7 @@
       "political",
       "overcrowding"
     ],
-    "prompt": "The jails are completely packed because you arrested so many people who don't like you. You can let the harmless ones go home.",
+    "prompt": "Honourable leader! The jails are completely packed because you arrested so many people who don't like you. You can let the harmless ones go home.",
     "left": {
       "id": "a",
       "label": "Keep them all in jail and try to build more space.",
@@ -1523,7 +1523,7 @@
       "campus",
       "torture"
     ],
-    "prompt": "Students from your own team beat another student until he died just for writing something bad about you online.",
+    "prompt": "Sir, urgent news. Students from your own team beat another student until he died just for writing something bad about you online.",
     "left": {
       "id": "a",
       "label": "Protect your team members so they don't go to jail.",
@@ -1561,7 +1561,7 @@
       "facial-recognition",
       "privacy"
     ],
-    "prompt": "You can put cameras everywhere that know exactly who everyone is and where they go. It stops crime but means no one has any privacy.",
+    "prompt": "Sir, forgive me — You can put cameras everywhere that know exactly who everyone is and where they go. It stops crime but means no one has any privacy.",
     "left": {
       "id": "a",
       "label": "Put up the cameras that track everyone's faces.",
@@ -1598,7 +1598,7 @@
       "sanctions",
       "reform"
     ],
-    "prompt": "Your strict police stopped killing bad guys because the world was watching. But now crime is coming back. Your strict friends want the police to start killing again.",
+    "prompt": "A word, sir! Your strict police stopped killing bad guys because the world was watching. But now crime is coming back. Your strict friends want the police to start killing again.",
     "left": {
       "id": "a",
       "label": "Let the police start secretly killing again.",
@@ -1634,7 +1634,7 @@
       "corruption",
       "bribery"
     ],
-    "prompt": "Local police stations are very mean and won't help anyone unless they pay a bribe. You can try to make them clean and nice, but the police will fight you.",
+    "prompt": "Sir, we have a problem. Local police stations are very mean and won't help anyone unless they pay a bribe. You can try to make them clean and nice, but the police will fight you.",
     "left": {
       "id": "a",
       "label": "Force the police stations to be clean and nice.",
@@ -1670,7 +1670,7 @@
       "boats",
       "syndicate"
     ],
-    "prompt": "Bad guys are putting poor men on broken boats to go to another country, and the police are helping the bad guys.",
+    "prompt": "Sir! Bad guys are putting poor men on broken boats to go to another country, and the police are helping the bad guys.",
     "left": {
       "id": "a",
       "label": "Stop everyone, even the police who are helping.",
@@ -1708,7 +1708,7 @@
       "sect",
       "violence"
     ],
-    "prompt": "A big angry crowd is attacking a small group of people who pray differently.",
+    "prompt": "Mr. Prime Minister, sir! A big angry crowd is attacking a small group of people who pray differently.",
     "left": {
       "id": "a",
       "label": "Use the police to protect the small group.",
@@ -1746,7 +1746,7 @@
       "festival",
       "extremism"
     ],
-    "prompt": "People want to have a big, fun new year party with music and masks. But grumpy people say it is bad and threaten to ruin it with a bomb.",
+    "prompt": "Your Excellency! People want to have a big, fun new year party with music and masks. But grumpy people say it is bad and threaten to ruin it with a bomb.",
     "left": {
       "id": "a",
       "label": "Throw the party anyway and put lots of guards around it.",
@@ -1784,7 +1784,7 @@
       "police",
       "accountability"
     ],
-    "prompt": "An honest police officer shared secret papers proving his boss ordered the police to kill people.",
+    "prompt": "Prime Minister! An honest police officer shared secret papers proving his boss ordered the police to kill people.",
     "left": {
       "id": "a",
       "label": "Punish the honest officer for sharing secrets and hide the papers.",
@@ -1821,7 +1821,7 @@
       "ban",
       "assembly"
     ],
-    "prompt": "Your enemies are planning a giant meeting. You can use an old rule to make it illegal, but that might make them so angry they fight you.",
+    "prompt": "Sir — Your enemies are planning a giant meeting. You can use an old rule to make it illegal, but that might make them so angry they fight you.",
     "left": {
       "id": "a",
       "label": "Make the meeting illegal.",
@@ -1857,7 +1857,7 @@
       "party",
       "patronage"
     ],
-    "prompt": "Your local friends want you to give them licenses to carry guns. They say it's for safety, but they really want to scare people during elections.",
+    "prompt": "Honourable leader! Your local friends want you to give them licenses to carry guns. They say it's for safety, but they really want to scare people during elections.",
     "left": {
       "id": "a",
       "label": "Give your friends the gun licenses.",
@@ -1895,7 +1895,7 @@
       "foreign-fighters",
       "deradicalisation"
     ],
-    "prompt": "Some people who left to join a bad terrorist group want to come back home with their kids.",
+    "prompt": "Sir, urgent news. Some people who left to join a bad terrorist group want to come back home with their kids.",
     "left": {
       "id": "a",
       "label": "Do not let them come back, or lock them in jail forever.",
@@ -1931,7 +1931,7 @@
       "accreditation",
       "surveillance"
     ],
-    "prompt": "You can secretly take away the special passes from reporters who write mean things about you, so they can't do their jobs.",
+    "prompt": "Sir, forgive me — You can secretly take away the special passes from reporters who write mean things about you, so they can't do their jobs.",
     "left": {
       "id": "a",
       "label": "Take away the passes from the mean reporters.",
@@ -1968,7 +1968,7 @@
       "militants",
       "security"
     ],
-    "prompt": "Very bad terrorists escaped from a super safe prison because someone inside helped them.",
+    "prompt": "A word, sir! Very bad terrorists escaped from a super safe prison because someone inside helped them.",
     "left": {
       "id": "a",
       "label": "Send police everywhere to search every corner of the country.",
@@ -2004,7 +2004,7 @@
       "garments",
       "protest"
     ],
-    "prompt": "Thousands of factory workers blocked the road because they haven't been paid. The factory owners want you to send the police to beat them and clear the road.",
+    "prompt": "Sir, we have a problem. Thousands of factory workers blocked the road because they haven't been paid. The factory owners want you to send the police to beat them and clear the road.",
     "left": {
       "id": "a",
       "label": "Send the police to beat the workers and clear the road.",
@@ -2042,7 +2042,7 @@
       "land",
       "grabbing"
     ],
-    "prompt": "Powerful people in your group stole land from a smaller religion using a bad, old rule. You can force them to give it back.",
+    "prompt": "Sir! Powerful people in your group stole land from a smaller religion using a bad, old rule. You can force them to give it back.",
     "left": {
       "id": "a",
       "label": "Force them to give the stolen land back.",
@@ -2080,7 +2080,7 @@
       "database",
       "surveillance"
     ],
-    "prompt": "You can connect everyone's ID cards, phones, and bank accounts into one giant computer file. It is helpful, but lets the government know everything about everyone.",
+    "prompt": "Mr. Prime Minister, sir! You can connect everyone's ID cards, phones, and bank accounts into one giant computer file. It is helpful, but lets the government know everything about everyone.",
     "left": {
       "id": "a",
       "label": "Build the giant computer file.",
@@ -2118,7 +2118,7 @@
       "curriculum",
       "extremism"
     ],
-    "prompt": "Many religious schools are not registered, and some might be teaching kids to be angry and mean. You can force them to register and learn math and science.",
+    "prompt": "Your Excellency! Many religious schools are not registered, and some might be teaching kids to be angry and mean. You can force them to register and learn math and science.",
     "left": {
       "id": "a",
       "label": "Force them to register and learn normal school subjects.",
@@ -2156,7 +2156,7 @@
       "extortion",
       "corruption"
     ],
-    "prompt": "The traffic police take a little bit of secret money from every single bus and truck on the road.",
+    "prompt": "Prime Minister! The traffic police take a little bit of secret money from every single bus and truck on the road.",
     "left": {
       "id": "a",
       "label": "Stop the traffic police from taking secret money.",
@@ -2192,7 +2192,7 @@
       "sufi",
       "militants"
     ],
-    "prompt": "Mean people are attacking gentle, peaceful religious places. The police want to guard the places and arrest the loud speakers who tell people to attack.",
+    "prompt": "Sir — Mean people are attacking gentle, peaceful religious places. The police want to guard the places and arrest the loud speakers who tell people to attack.",
     "left": {
       "id": "a",
       "label": "Guard the places and arrest the mean speakers.",
@@ -2230,7 +2230,7 @@
       "rape",
       "justice"
     ],
-    "prompt": "A group of boys did a terrible thing to a girl and filmed it. They are friends with important people. The whole country is demanding they be punished.",
+    "prompt": "Honourable leader! A group of boys did a terrible thing to a girl and filmed it. They are friends with important people. The whole country is demanding they be punished.",
     "left": {
       "id": "a",
       "label": "Make sure the boys are punished, no matter who they know.",
@@ -2268,7 +2268,7 @@
       "smuggling",
       "corruption"
     ],
-    "prompt": "Your own border guards are helping bad guys sneak cows, gold, and drugs across the fence for money.",
+    "prompt": "Sir, urgent news. Your own border guards are helping bad guys sneak cows, gold, and drugs across the fence for money.",
     "left": {
       "id": "a",
       "label": "Fire the bad guards and clean up the border.",
@@ -2305,7 +2305,7 @@
       "unrest",
       "order"
     ],
-    "prompt": "People are angry and filling the streets in every city. A helper wants you to order everyone to stay inside and tell the police to shoot anyone they see.",
+    "prompt": "Sir, forgive me — People are angry and filling the streets in every city. A helper wants you to order everyone to stay inside and tell the police to shoot anyone they see.",
     "left": {
       "id": "a",
       "label": "Order everyone inside and tell the police to shoot.",
@@ -2341,7 +2341,7 @@
       "blackout",
       "unrest"
     ],
-    "prompt": "Protesters are using their phones to plan things. You can completely turn off the internet and phone signals for the whole country to stop them.",
+    "prompt": "A word, sir! Protesters are using their phones to plan things. You can completely turn off the internet and phone signals for the whole country to stop them.",
     "left": {
       "id": "a",
       "label": "Turn off the internet and phones for everyone.",
@@ -2379,7 +2379,7 @@
       "accountability",
       "body-cameras"
     ],
-    "prompt": "People hate the police because the police are mean. A helper wants to make police wear cameras to prove they are acting nice. The police really hate this idea.",
+    "prompt": "Sir, we have a problem. People hate the police because the police are mean. A helper wants to make police wear cameras to prove they are acting nice. The police really hate this idea.",
     "left": {
       "id": "a",
       "label": "Make the police wear cameras.",
@@ -2415,7 +2415,7 @@
       "vigilantes",
       "youth"
     ],
-    "prompt": "Groups of bossy people are walking around parks and yelling at boys and girls for hanging out together or wearing normal clothes.",
+    "prompt": "Sir! Groups of bossy people are walking around parks and yelling at boys and girls for hanging out together or wearing normal clothes.",
     "left": {
       "id": "a",
       "label": "Arrest the bossy groups for bothering people.",
@@ -2453,7 +2453,7 @@
       "detention",
       "exposure"
     ],
-    "prompt": "People found out you have a secret prison with mirrored walls where you hide people who disappear. The news is about to tell everyone.",
+    "prompt": "Mr. Prime Minister, sir! People found out you have a secret prison with mirrored walls where you hide people who disappear. The news is about to tell everyone.",
     "left": {
       "id": "a",
       "label": "Lie about it and quickly bury the secret prison.",
@@ -2489,7 +2489,7 @@
       "insurgency",
       "checkpoints"
     ],
-    "prompt": "The army is bossing around the people who live in the hills. An old promise says the army should leave, but the army wants to stay and stay strict.",
+    "prompt": "Your Excellency! The army is bossing around the people who live in the hills. An old promise says the army should leave, but the army wants to stay and stay strict.",
     "left": {
       "id": "a",
       "label": "Let the army stay and keep being strict.",
@@ -2526,7 +2526,7 @@
       "blasphemy",
       "rumour"
     ],
-    "prompt": "Someone made a fake picture to make it look like a boy insulted a religion. Now an angry mob is burning down the boy's village.",
+    "prompt": "Prime Minister! Someone made a fake picture to make it look like a boy insulted a religion. Now an angry mob is burning down the boy's village.",
     "left": {
       "id": "a",
       "label": "Protect the village and find out who made the fake picture.",
@@ -2564,7 +2564,7 @@
       "security",
       "resources"
     ],
-    "prompt": "Most of your police are busy guarding rich politicians, so normal neighborhoods have no protection.",
+    "prompt": "Sir — Most of your police are busy guarding rich politicians, so normal neighborhoods have no protection.",
     "left": {
       "id": "a",
       "label": "Take the guards away from politicians and protect normal people.",
@@ -2601,7 +2601,7 @@
       "dissent",
       "speech"
     ],
-    "prompt": "A special computer police team wants to arrest anyone who posts jokes or complaints about the country online. This would put many teenagers in jail.",
+    "prompt": "Honourable leader! A special computer police team wants to arrest anyone who posts jokes or complaints about the country online. This would put many teenagers in jail.",
     "left": {
       "id": "a",
       "label": "Let the computer police arrest people for jokes.",
@@ -2637,7 +2637,7 @@
       "slums",
       "force"
     ],
-    "prompt": "A judge said the police must use bulldozers to destroy a giant neighborhood of poor people.",
+    "prompt": "Sir, urgent news. A judge said the police must use bulldozers to destroy a giant neighborhood of poor people.",
     "left": {
       "id": "a",
       "label": "Send the bulldozers in the morning to destroy it.",
@@ -2675,7 +2675,7 @@
       "village",
       "militia"
     ],
-    "prompt": "You could give guns to normal villagers to help the police. But they might use the guns to bully their neighbors.",
+    "prompt": "Sir, forgive me — You could give guns to normal villagers to help the police. But they might use the guns to bully their neighbors.",
     "left": {
       "id": "a",
       "label": "Give the villagers guns to help the police.",
@@ -2711,7 +2711,7 @@
       "currency",
       "crime"
     ],
-    "prompt": "Bad guys from another country are flooding your stores with fake, printed money. People are losing trust in their cash.",
+    "prompt": "A word, sir! Bad guys from another country are flooding your stores with fake, printed money. People are losing trust in their cash.",
     "left": {
       "id": "a",
       "label": "Spend money to catch them and make new, safe paper money.",
@@ -2748,7 +2748,7 @@
       "harassment",
       "safety"
     ],
-    "prompt": "Mean boys yell at girls on the street so much that some girls are terrified to go outside. You can make special police catch the mean boys.",
+    "prompt": "Sir, we have a problem. Mean boys yell at girls on the street so much that some girls are terrified to go outside. You can make special police catch the mean boys.",
     "left": {
       "id": "a",
       "label": "Make it a real crime and catch the mean boys.",
@@ -2785,7 +2785,7 @@
       "extremism",
       "secularism"
     ],
-    "prompt": "Bad guys with big knives are attacking writers who don't believe in their strict rules.",
+    "prompt": "Sir! Bad guys with big knives are attacking writers who don't believe in their strict rules.",
     "left": {
       "id": "a",
       "label": "Protect the writers and hunt down the bad guys.",
@@ -2823,7 +2823,7 @@
       "torture",
       "confession"
     ],
-    "prompt": "The police solve crimes by hitting people until they confess, even if they are innocent. A helper wants to buy science tools to solve crimes the right way.",
+    "prompt": "Mr. Prime Minister, sir! The police solve crimes by hitting people until they confess, even if they are innocent. A helper wants to buy science tools to solve crimes the right way.",
     "left": {
       "id": "a",
       "label": "Stop the hitting and buy the science tools.",
@@ -2859,7 +2859,7 @@
       "immigration",
       "corruption"
     ],
-    "prompt": "The passport office is very corrupt. People pay secret money to get their passports faster, and bad guys use it to get fake ones.",
+    "prompt": "Your Excellency! The passport office is very corrupt. People pay secret money to get their passports faster, and bad guys use it to get fake ones.",
     "left": {
       "id": "a",
       "label": "Use computers to clean up the office and stop the stealing.",
@@ -2897,7 +2897,7 @@
       "mercy",
       "justice"
     ],
-    "prompt": "A man is about to be hanged for a crime, but there is proof the trial was unfair and he might be totally innocent. Angry people want him hanged anyway.",
+    "prompt": "Prime Minister! A man is about to be hanged for a crime, but there is proof the trial was unfair and he might be totally innocent. Angry people want him hanged anyway.",
     "left": {
       "id": "a",
       "label": "Let him be hanged anyway.",
@@ -2934,7 +2934,7 @@
       "safety",
       "capacity"
     ],
-    "prompt": "The fire trucks don't have ladders long enough to reach the tall buildings in the city. It costs a lot of money to buy new ones.",
+    "prompt": "Sir — The fire trucks don't have ladders long enough to reach the tall buildings in the city. It costs a lot of money to buy new ones.",
     "left": {
       "id": "a",
       "label": "Spend the money to buy the tall fire ladders.",
@@ -2968,7 +2968,7 @@
       "haats",
       "smuggling"
     ],
-    "prompt": "People on the border are secretly trading things. You can build safe, legal markets for them so they don't have to sneak around.",
+    "prompt": "Honourable leader! People on the border are secretly trading things. You can build safe, legal markets for them so they don't have to sneak around.",
     "left": {
       "id": "a",
       "label": "Build the safe, legal border markets.",
@@ -3005,7 +3005,7 @@
       "ransom",
       "crime"
     ],
-    "prompt": "Bad groups are kidnapping rich people for money. Some of the kidnappers are actually off-duty police officers and political friends.",
+    "prompt": "Sir, urgent news. Bad groups are kidnapping rich people for money. Some of the kidnappers are actually off-duty police officers and political friends.",
     "left": {
       "id": "a",
       "label": "Catch all the kidnappers, even the police and friends.",
@@ -3043,7 +3043,7 @@
       "fatwa",
       "women"
     ],
-    "prompt": "In small villages, unofficial judges are whipping women as a cruel punishment. You can send the real police to stop them.",
+    "prompt": "Sir, forgive me — In small villages, unofficial judges are whipping women as a cruel punishment. You can send the real police to stop them.",
     "left": {
       "id": "a",
       "label": "Send the real police to stop the cruel punishments.",
@@ -3081,7 +3081,7 @@
       "wiretap",
       "oversight"
     ],
-    "prompt": "The police want a new rule to let them read anyone's phone messages whenever they want, without asking a judge first.",
+    "prompt": "A word, sir! The police want a new rule to let them read anyone's phone messages whenever they want, without asking a judge first.",
     "left": {
       "id": "a",
       "label": "Let them read messages without asking a judge.",
@@ -3117,7 +3117,7 @@
       "highways",
       "safety"
     ],
-    "prompt": "Bad guys with guns are robbing the big delivery buses at night. The police chief wants money to build special highway patrols to stop them.",
+    "prompt": "Sir, we have a problem. Bad guys with guns are robbing the big delivery buses at night. The police chief wants money to build special highway patrols to stop them.",
     "left": {
       "id": "a",
       "label": "Give money for the special highway patrols.",
@@ -3153,7 +3153,7 @@
       "begging",
       "children"
     ],
-    "prompt": "Terrible groups are hurting children and forcing them to beg for money on the streets.",
+    "prompt": "Sir! Terrible groups are hurting children and forcing them to beg for money on the streets.",
     "left": {
       "id": "a",
       "label": "Stop the terrible groups and help the children.",
@@ -3191,7 +3191,7 @@
       "traffic",
       "public"
     ],
-    "prompt": "Every time a politician drives somewhere, the police block all the roads. It causes giant traffic jams and even traps ambulances.",
+    "prompt": "Mr. Prime Minister, sir! Every time a politician drives somewhere, the police block all the roads. It causes giant traffic jams and even traps ambulances.",
     "left": {
       "id": "a",
       "label": "Stop blocking the roads for politicians.",
@@ -3227,7 +3227,7 @@
       "liability",
       "developers"
     ],
-    "prompt": "A poorly built building collapsed and killed many people. The builder paid secret money to ignore the rules, and he gives money to your team.",
+    "prompt": "Your Excellency! A poorly built building collapsed and killed many people. The builder paid secret money to ignore the rules, and he gives money to your team.",
     "left": {
       "id": "a",
       "label": "Punish the rich builder for his crime.",
@@ -3265,7 +3265,7 @@
       "scams",
       "online"
     ],
-    "prompt": "Scammers are calling people on the phone and tricking them into giving away all their money. It costs a lot to build a police team to catch them.",
+    "prompt": "Prime Minister! Scammers are calling people on the phone and tricking them into giving away all their money. It costs a lot to build a police team to catch them.",
     "left": {
       "id": "a",
       "label": "Build a special police team to catch the scammers.",
@@ -3301,7 +3301,7 @@
       "security",
       "communal"
     ],
-    "prompt": "Two different religious groups are planning big parades on the exact same street on the same day. They might fight.",
+    "prompt": "Sir — Two different religious groups are planning big parades on the exact same street on the same day. They might fight.",
     "left": {
       "id": "a",
       "label": "Make strict rules and force them to use different streets.",
@@ -3337,7 +3337,7 @@
       "travel",
       "safety"
     ],
-    "prompt": "Before a big holiday, millions of people crowd onto unsafe, broken boats and buses to get home. Many die in crashes every year.",
+    "prompt": "Honourable leader! Before a big holiday, millions of people crowd onto unsafe, broken boats and buses to get home. Many die in crashes every year.",
     "left": {
       "id": "a",
       "label": "Make strict safety rules, even if it makes travel slower and cost more.",
@@ -3372,7 +3372,7 @@
       "amnesty",
       "recovery"
     ],
-    "prompt": "There are too many illegal guns. You can offer a deal: if people give you their guns, you won't ask any questions or punish them. This gets rid of guns but lets bad guys off the hook.",
+    "prompt": "Sir, urgent news. There are too many illegal guns. You can offer a deal: if people give you their guns, you won't ask any questions or punish them. This gets rid of guns but lets bad guys off the hook.",
     "left": {
       "id": "a",
       "label": "Offer the deal to collect the guns without questions.",
@@ -3408,7 +3408,7 @@
       "security",
       "aid-workers"
     ],
-    "prompt": "People from other countries are scared of being attacked. They want heavy police guards everywhere, but that makes the city look very scary.",
+    "prompt": "Sir, forgive me — People from other countries are scared of being attacked. They want heavy police guards everywhere, but that makes the city look very scary.",
     "left": {
       "id": "a",
       "label": "Put heavy police guards everywhere for them.",
@@ -3445,7 +3445,7 @@
       "justice",
       "children"
     ],
-    "prompt": "Kids who get in trouble are thrown into scary jails with adult criminals, which makes the kids worse. A helper wants to build a nice place to help kids learn to be good.",
+    "prompt": "A word, sir! Kids who get in trouble are thrown into scary jails with adult criminals, which makes the kids worse. A helper wants to build a nice place to help kids learn to be good.",
     "left": {
       "id": "a",
       "label": "Build a nice place to help the kids.",
@@ -3481,7 +3481,7 @@
       "surveillance",
       "protest"
     ],
-    "prompt": "You can buy flying camera drones to watch everyone at protests from the sky. People say this is spying on them.",
+    "prompt": "Sir, we have a problem. You can buy flying camera drones to watch everyone at protests from the sky. People say this is spying on them.",
     "left": {
       "id": "a",
       "label": "Use the flying cameras to watch everyone at protests.",
@@ -3517,7 +3517,7 @@
       "poverty",
       "crime"
     ],
-    "prompt": "A terrible group is tricking poor villagers and taking their kidneys to sell to rich people. Some doctors and rich hospitals are part of the secret group.",
+    "prompt": "Sir! A terrible group is tricking poor villagers and taking their kidneys to sell to rich people. Some doctors and rich hospitals are part of the secret group.",
     "left": {
       "id": "a",
       "label": "Stop the whole group, even the rich doctors.",
@@ -3555,7 +3555,7 @@
       "biometric",
       "privacy"
     ],
-    "prompt": "You can force everyone to give their fingerprint when they buy a phone card. This stops bad guys from using secret phones, but it tracks everyone else too.",
+    "prompt": "Mr. Prime Minister, sir! You can force everyone to give their fingerprint when they buy a phone card. This stops bad guys from using secret phones, but it tracks everyone else too.",
     "left": {
       "id": "a",
       "label": "Force everyone to give their fingerprint.",
@@ -3591,7 +3591,7 @@
       "inquiry",
       "accountability"
     ],
-    "prompt": "People are dying while locked in police jails, and the police always lie and say it was an accident.",
+    "prompt": "Your Excellency! People are dying while locked in police jails, and the police always lie and say it was an accident.",
     "left": {
       "id": "a",
       "label": "Make a special, honest group investigate every death.",
@@ -3628,7 +3628,7 @@
       "rivers",
       "fishermen"
     ],
-    "prompt": "Bad guys with guns are attacking boats on the river and stealing things. The police boss needs money for fast boats to stop them.",
+    "prompt": "Prime Minister! Bad guys with guns are attacking boats on the river and stealing things. The police boss needs money for fast boats to stop them.",
     "left": {
       "id": "a",
       "label": "Give money for fast boats to stop the river pirates.",
@@ -3665,7 +3665,7 @@
       "critics",
       "control"
     ],
-    "prompt": "You can secretly put the names of people who complain about you on a list at the airport so they are never allowed to leave the country.",
+    "prompt": "Sir — You can secretly put the names of people who complain about you on a list at the airport so they are never allowed to leave the country.",
     "left": {
       "id": "a",
       "label": "Put the complainers on the list so they can't leave.",
@@ -3701,7 +3701,7 @@
       "leaks",
       "fraud"
     ],
-    "prompt": "Secret school tests are being stolen and sold online. You can use computers to keep them safe, but the bad guys who steal them will fight back.",
+    "prompt": "Honourable leader! Secret school tests are being stolen and sold online. You can use computers to keep them safe, but the bad guys who steal them will fight back.",
     "left": {
       "id": "a",
       "label": "Use computers to keep the tests safe.",
@@ -3738,7 +3738,7 @@
       "exam",
       "corruption"
     ],
-    "prompt": "People are cheating and paying secret money to pass tests for government jobs.",
+    "prompt": "Sir, urgent news. People are cheating and paying secret money to pass tests for government jobs.",
     "left": {
       "id": "a",
       "label": "Fix the tests and catch the cheaters.",
@@ -3776,7 +3776,7 @@
       "poison",
       "poverty"
     ],
-    "prompt": "People are making poison drinks that are killing poor villagers. Bad police officers protect the drink makers.",
+    "prompt": "Sir, forgive me — People are making poison drinks that are killing poor villagers. Bad police officers protect the drink makers.",
     "left": {
       "id": "a",
       "label": "Stop the bad people making the poison drinks.",
@@ -3813,7 +3813,7 @@
       "prison",
       "rights"
     ],
-    "prompt": "The jails for women are too crowded and very mean. Innocent women and their children are stuck there in bad conditions.",
+    "prompt": "A word, sir! The jails for women are too crowded and very mean. Innocent women and their children are stuck there in bad conditions.",
     "left": {
       "id": "a",
       "label": "Fix the jails to treat women better.",
@@ -3849,7 +3849,7 @@
       "online",
       "addiction"
     ],
-    "prompt": "Bad phone games from other countries are tricking kids into losing their money. Some of your own helpers are taking a cut of the money.",
+    "prompt": "Sir, we have a problem. Bad phone games from other countries are tricking kids into losing their money. Some of your own helpers are taking a cut of the money.",
     "left": {
       "id": "a",
       "label": "Stop the bad games and punish everyone, even helpers.",
@@ -3886,7 +3886,7 @@
       "backlog",
       "justice"
     ],
-    "prompt": "The police science lab is too busy, so innocent people sit in jail while waiting for proof. You can spend money to build more science labs.",
+    "prompt": "Sir! The police science lab is too busy, so innocent people sit in jail while waiting for proof. You can spend money to build more science labs.",
     "left": {
       "id": "a",
       "label": "Spend money to build more science labs.",
@@ -3922,7 +3922,7 @@
       "less-lethal",
       "force"
     ],
-    "prompt": "A seller wants to give you big, scary weapons like water cannons to use on angry crowds.",
+    "prompt": "Mr. Prime Minister, sir! A seller wants to give you big, scary weapons like water cannons to use on angry crowds.",
     "left": {
       "id": "a",
       "label": "Buy the big, scary weapons.",
@@ -3960,7 +3960,7 @@
       "murder",
       "justice"
     ],
-    "prompt": "A young wife was hurt by her powerful new family, and they are paying the police to hide the crime.",
+    "prompt": "Your Excellency! A young wife was hurt by her powerful new family, and they are paying the police to hide the crime.",
     "left": {
       "id": "a",
       "label": "Fight hard to punish the powerful family.",
@@ -3998,7 +3998,7 @@
       "censorship",
       "control"
     ],
-    "prompt": "People are using secret phone tools to read news you banned. You can block the secret tools too, but people will be mad.",
+    "prompt": "Prime Minister! People are using secret phone tools to read news you banned. You can block the secret tools too, but people will be mad.",
     "left": {
       "id": "a",
       "label": "Block the secret tools and track the people using them.",
@@ -4034,7 +4034,7 @@
       "shelter",
       "poverty"
     ],
-    "prompt": "Many poor children live on the city streets and are in danger. You can build safe homes for them, or just keep chasing them away.",
+    "prompt": "Sir — Many poor children live on the city streets and are in danger. You can build safe homes for them, or just keep chasing them away.",
     "left": {
       "id": "a",
       "label": "Build safe homes to help the street children.",
@@ -4069,7 +4069,7 @@
       "women",
       "online"
     ],
-    "prompt": "Bad people are using fake pictures online to bully and scare girls.",
+    "prompt": "Honourable leader! Bad people are using fake pictures online to bully and scare girls.",
     "left": {
       "id": "a",
       "label": "Build a special, safe police team to help the girls.",
@@ -4106,7 +4106,7 @@
       "concert",
       "safety"
     ],
-    "prompt": "There are too many giant parties happening at once, and crowds might get squished and hurt.",
+    "prompt": "Sir, urgent news. There are too many giant parties happening at once, and crowds might get squished and hurt.",
     "left": {
       "id": "a",
       "label": "Make strict rules to keep the crowds safe.",
@@ -4143,7 +4143,7 @@
       "violence",
       "minorities"
     ],
-    "prompt": "In faraway villages, angry mobs are hurting poor women by calling them witches.",
+    "prompt": "Sir, forgive me — In faraway villages, angry mobs are hurting poor women by calling them witches.",
     "left": {
       "id": "a",
       "label": "Send police to punish the mobs and teach them it is wrong.",
@@ -4180,7 +4180,7 @@
       "fraud",
       "citizenship"
     ],
-    "prompt": "Bad workers are secretly selling your country's official ID cards to strangers and criminals.",
+    "prompt": "A word, sir! Bad workers are secretly selling your country's official ID cards to strangers and criminals.",
     "left": {
       "id": "a",
       "label": "Catch the bad workers and stop the fake cards.",
@@ -4218,7 +4218,7 @@
       "registration",
       "child-marriage"
     ],
-    "prompt": "People are changing papers to let little girls get married illegally. You can use computers to stop this.",
+    "prompt": "Sir, we have a problem. People are changing papers to let little girls get married illegally. You can use computers to stop this.",
     "left": {
       "id": "a",
       "label": "Use computers to prove real ages and protect girls.",
@@ -4256,7 +4256,7 @@
       "rehab",
       "addiction"
     ],
-    "prompt": "Hundreds of thousands of people are sick from bad drugs. You can build nice hospitals to help them, or keep throwing them in jail.",
+    "prompt": "Sir! Hundreds of thousands of people are sick from bad drugs. You can build nice hospitals to help them, or keep throwing them in jail.",
     "left": {
       "id": "a",
       "label": "Build nice hospitals to help sick drug users.",
@@ -4292,7 +4292,7 @@
       "extortion",
       "rivers"
     ],
-    "prompt": "Bad gangs with guns are digging up the rivers to sell the sand, and paying police to stay quiet.",
+    "prompt": "Mr. Prime Minister, sir! Bad gangs with guns are digging up the rivers to sell the sand, and paying police to stay quiet.",
     "left": {
       "id": "a",
       "label": "Fight the gangs and stop them from ruining the river.",
@@ -4329,7 +4329,7 @@
       "land",
       "powerful"
     ],
-    "prompt": "You are knocking down houses built in the wrong places. But you only knock down poor people's houses, not rich people's big buildings.",
+    "prompt": "Your Excellency! You are knocking down houses built in the wrong places. But you only knock down poor people's houses, not rich people's big buildings.",
     "left": {
       "id": "a",
       "label": "Knock down the rich people's illegal buildings too.",
@@ -4367,7 +4367,7 @@
       "protest",
       "unrest"
     ],
-    "prompt": "The electricity keeps turning off in the summer, and angry people are breaking things in the street.",
+    "prompt": "Prime Minister! The electricity keeps turning off in the summer, and angry people are breaking things in the street.",
     "left": {
       "id": "a",
       "label": "Use the police to force the angry people away.",
@@ -4403,7 +4403,7 @@
       "smuggling",
       "security"
     ],
-    "prompt": "Airport workers are helping bad guys sneak gold and drugs through the airport.",
+    "prompt": "Sir — Airport workers are helping bad guys sneak gold and drugs through the airport.",
     "left": {
       "id": "a",
       "label": "Fire the bad workers and make the airport safe.",
@@ -4441,7 +4441,7 @@
       "labour",
       "reform"
     ],
-    "prompt": "The jails are way too full. You can teach prisoners good skills to use when they get out, or let bad guards force them to work for free.",
+    "prompt": "Honourable leader! The jails are way too full. You can teach prisoners good skills to use when they get out, or let bad guards force them to work for free.",
     "left": {
       "id": "a",
       "label": "Teach the prisoners good skills to help them.",
@@ -4478,7 +4478,7 @@
       "return",
       "reintegration"
     ],
-    "prompt": "Many workers lost their jobs in other countries and came back with no money.",
+    "prompt": "Sir, urgent news. Many workers lost their jobs in other countries and came back with no money.",
     "left": {
       "id": "a",
       "label": "Spend money to help them find new jobs at home.",
@@ -4514,7 +4514,7 @@
       "threat",
       "diplomacy"
     ],
-    "prompt": "Spies say bad guys want to attack a building where people from other countries work.",
+    "prompt": "Sir, forgive me — Spies say bad guys want to attack a building where people from other countries work.",
     "left": {
       "id": "a",
       "label": "Put lots of loud, visible police everywhere to scare bad guys.",
@@ -4551,7 +4551,7 @@
       "aviation",
       "rights"
     ],
-    "prompt": "You can make a list of bad people who aren't allowed to fly on airplanes. But you might be tempted to put reporters and enemies on the list too.",
+    "prompt": "A word, sir! You can make a list of bad people who aren't allowed to fly on airplanes. But you might be tempted to put reporters and enemies on the list too.",
     "left": {
       "id": "a",
       "label": "Make a big list and include your enemies.",
@@ -4587,7 +4587,7 @@
       "surveillance",
       "youth"
     ],
-    "prompt": "The police want a rule to collect the names of every kid who plays video games at the store, just to spy on them.",
+    "prompt": "Sir, we have a problem. The police want a rule to collect the names of every kid who plays video games at the store, just to spy on them.",
     "left": {
       "id": "a",
       "label": "Make the stores collect everyone's names.",
@@ -4623,7 +4623,7 @@
       "survivors",
       "justice"
     ],
-    "prompt": "A rich, powerful boy threw chemicals at a girl's face. His family is paying the police to drop the case.",
+    "prompt": "Sir! A rich, powerful boy threw chemicals at a girl's face. His family is paying the police to drop the case.",
     "left": {
       "id": "a",
       "label": "Fight the rich family and protect the girl.",
@@ -4661,7 +4661,7 @@
       "police",
       "families"
     ],
-    "prompt": "People's family members are going missing, and the police refuse to even help search for them.",
+    "prompt": "Mr. Prime Minister, sir! People's family members are going missing, and the police refuse to even help search for them.",
     "left": {
       "id": "a",
       "label": "Make a real rule that police must help search for missing people.",
@@ -4697,7 +4697,7 @@
       "welfare",
       "morale"
     ],
-    "prompt": "Your normal police officers are tired, poor, and live in dirty rooms. This makes them mean and want bribes.",
+    "prompt": "Your Excellency! Your normal police officers are tired, poor, and live in dirty rooms. This makes them mean and want bribes.",
     "left": {
       "id": "a",
       "label": "Spend money to pay them better and give them nice rooms.",
@@ -4733,7 +4733,7 @@
       "release",
       "reckoning"
     ],
-    "prompt": "The world wants to know what happened to the people your secret police kidnapped.",
+    "prompt": "Prime Minister! The world wants to know what happened to the people your secret police kidnapped.",
     "left": {
       "id": "a",
       "label": "Keep lying and say you don't know anything.",
@@ -4769,7 +4769,7 @@
       "checkpoints",
       "abuse"
     ],
-    "prompt": "Soldiers are being very mean to the native people in the hills, searching them for no reason.",
+    "prompt": "Sir — Soldiers are being very mean to the native people in the hills, searching them for no reason.",
     "left": {
       "id": "a",
       "label": "Tell the soldiers to be nice and respectful.",
@@ -4806,7 +4806,7 @@
       "health",
       "crime"
     ],
-    "prompt": "Stores are selling fake medicine that doesn't work and hurts sick people.",
+    "prompt": "Honourable leader! Stores are selling fake medicine that doesn't work and hurts sick people.",
     "left": {
       "id": "a",
       "label": "Stop the fake medicine and check every pill.",
@@ -4843,7 +4843,7 @@
       "due-process",
       "abuse"
     ],
-    "prompt": "Secret police in normal clothes are grabbing people off the street without rules.",
+    "prompt": "Sir, urgent news. Secret police in normal clothes are grabbing people off the street without rules.",
     "left": {
       "id": "a",
       "label": "Force the police to wear uniforms and follow the rules.",
@@ -4879,7 +4879,7 @@
       "cadres",
       "festival"
     ],
-    "prompt": "Before big parties, your team forces store owners to give them \"donations\" of money.",
+    "prompt": "Sir, forgive me — Before big parties, your team forces store owners to give them \"donations\" of money.",
     "left": {
       "id": "a",
       "label": "Stop your team from forcing people to pay.",
@@ -4916,7 +4916,7 @@
       "scope",
       "dissent"
     ],
-    "prompt": "You can write a new law that says anyone who complains about you is a \"terrorist.\"",
+    "prompt": "A word, sir! You can write a new law that says anyone who complains about you is a \"terrorist.\"",
     "left": {
       "id": "a",
       "label": "Write the unfair law to lock up complainers.",
@@ -4952,7 +4952,7 @@
       "arson",
       "land"
     ],
-    "prompt": "A rich builder probably started a fire to burn down poor people's houses so he can take their land.",
+    "prompt": "Sir, we have a problem. A rich builder probably started a fire to burn down poor people's houses so he can take their land.",
     "left": {
       "id": "a",
       "label": "Investigate the rich builder for starting the fire.",
@@ -4990,7 +4990,7 @@
       "festival",
       "protection"
     ],
-    "prompt": "Small religious groups are having parties, but they are getting threats online. You can send extra police to protect them.",
+    "prompt": "Sir! Small religious groups are having parties, but they are getting threats online. You can send extra police to protect them.",
     "left": {
       "id": "a",
       "label": "Send lots of police to protect their parties.",
@@ -5028,7 +5028,7 @@
       "fencing",
       "confinement"
     ],
-    "prompt": "You can put sharp fences and guard towers around the homeless camps like a giant prison to keep everyone inside.",
+    "prompt": "Mr. Prime Minister, sir! You can put sharp fences and guard towers around the homeless camps like a giant prison to keep everyone inside.",
     "left": {
       "id": "a",
       "label": "Build the sharp fences around the camps.",
@@ -5064,7 +5064,7 @@
       "modernisation",
       "service"
     ],
-    "prompt": "Police stations are scary and mean to poor people and women. You can spend money to make them friendly and helpful.",
+    "prompt": "Your Excellency! Police stations are scary and mean to poor people and women. You can spend money to make them friendly and helpful.",
     "left": {
       "id": "a",
       "label": "Make the police stations friendly and helpful.",
@@ -5101,7 +5101,7 @@
       "surveillance",
       "radicalisation"
     ],
-    "prompt": "Spies want to sneak into places where people pray to secretly listen to what they say.",
+    "prompt": "Prime Minister! Spies want to sneak into places where people pray to secretly listen to what they say.",
     "left": {
       "id": "a",
       "label": "Let the spies secretly listen to people praying.",
@@ -5137,7 +5137,7 @@
       "inquiry",
       "communal"
     ],
-    "prompt": "An angry mob burned a neighborhood, and the police just watched.",
+    "prompt": "Sir — An angry mob burned a neighborhood, and the police just watched.",
     "left": {
       "id": "a",
       "label": "Find out the truth openly and pay the victims for the damage.",
@@ -5175,7 +5175,7 @@
       "monitoring",
       "speech"
     ],
-    "prompt": "The computer police want to spy on all students' internet posts to see if they are planning protests.",
+    "prompt": "Honourable leader! The computer police want to spy on all students' internet posts to see if they are planning protests.",
     "left": {
       "id": "a",
       "label": "Let the police spy on the students' internet posts.",
@@ -5211,7 +5211,7 @@
       "protection",
       "justice"
     ],
-    "prompt": "Rich criminals go free because they scare the people who saw the crime. You can spend money to protect the witnesses.",
+    "prompt": "Sir, urgent news. Rich criminals go free because they scare the people who saw the crime. You can spend money to protect the witnesses.",
     "left": {
       "id": "a",
       "label": "Create a safe program to protect the witnesses.",
@@ -5249,7 +5249,7 @@
       "killings",
       "restraint"
     ],
-    "prompt": "Your border guards shot poor, unarmed villagers for crossing the line to trade.",
+    "prompt": "Sir, forgive me — Your border guards shot poor, unarmed villagers for crossing the line to trade.",
     "left": {
       "id": "a",
       "label": "Make a strict rule that guards cannot shoot unarmed people.",
@@ -5285,7 +5285,7 @@
       "slums",
       "control"
     ],
-    "prompt": "The police want to pay poor people to spy on their neighbors. This will make everyone afraid of each other.",
+    "prompt": "A word, sir! The police want to pay poor people to spy on their neighbors. This will make everyone afraid of each other.",
     "left": {
       "id": "a",
       "label": "Pay people to spy on their neighbors.",
@@ -5321,7 +5321,7 @@
       "gatherings",
       "dissent"
     ],
-    "prompt": "You can use computers to scan everyone's faces in a crowd to know exactly who went to a protest.",
+    "prompt": "Sir, we have a problem. You can use computers to scan everyone's faces in a crowd to know exactly who went to a protest.",
     "left": {
       "id": "a",
       "label": "Scan the faces of everyone in the crowd.",
@@ -5357,7 +5357,7 @@
       "health",
       "deaths"
     ],
-    "prompt": "Prisoners are getting sick and dying because there are no doctors in the jails.",
+    "prompt": "Sir! Prisoners are getting sick and dying because there are no doctors in the jails.",
     "left": {
       "id": "a",
       "label": "Spend money to bring doctors to the jails.",
@@ -5393,7 +5393,7 @@
       "violence",
       "powerful"
     ],
-    "prompt": "A rich bully is stealing a poor family's land, and he paid the local police to ignore it.",
+    "prompt": "Mr. Prime Minister, sir! A rich bully is stealing a poor family's land, and he paid the local police to ignore it.",
     "left": {
       "id": "a",
       "label": "Stop the rich bully and protect the poor family.",
@@ -5431,7 +5431,7 @@
       "hospitals",
       "neutrality"
     ],
-    "prompt": "The police are going into hospitals and dragging hurt protesters out of their beds to arrest them.",
+    "prompt": "Your Excellency! The police are going into hospitals and dragging hurt protesters out of their beds to arrest them.",
     "left": {
       "id": "a",
       "label": "Make hospitals safe places where police cannot arrest sick people.",
@@ -5467,7 +5467,7 @@
       "cover-up",
       "accountability"
     ],
-    "prompt": "A man who argued with your powerful friend was kidnapped by secret police.",
+    "prompt": "Prime Minister! A man who argued with your powerful friend was kidnapped by secret police.",
     "left": {
       "id": "a",
       "label": "Investigate honestly and find the man, even if your friend is guilty.",
@@ -5505,7 +5505,7 @@
       "cover-up",
       "accountability"
     ],
-    "prompt": "A reporter found out about the kidnapped man and is going to tell the world.",
+    "prompt": "Sir — A reporter found out about the kidnapped man and is going to tell the world.",
     "left": {
       "id": "a",
       "label": "Hurt the reporter to stop the story.",
@@ -5542,7 +5542,7 @@
       "students",
       "quota"
     ],
-    "prompt": "A term later, the same fault line tears open again. Students are blocking the roads peacefully to protest an unfair rule. The police chief wants to force them to leave right now.",
+    "prompt": "A term later, the same fault line tears open again. Honourable leader! Students are blocking the roads peacefully to protest an unfair rule. The police chief wants to force them to leave right now.",
     "left": {
       "id": "a",
       "label": "Tell the police to force the students off the roads.",
@@ -5578,7 +5578,7 @@
       "students",
       "quota"
     ],
-    "prompt": "Years into your rule, the matter you thought buried resurfaces — harder. A video shows a police officer shooting an unarmed student. Everyone is very angry. Your strict friends want you to lock everyone inside and turn off the internet.",
+    "prompt": "Years into your rule, the matter you thought buried resurfaces — harder. Sir, urgent news. A video shows a police officer shooting an unarmed student. Everyone is very angry. Your strict friends want you to lock everyone inside and turn off the internet.",
     "left": {
       "id": "a",
       "label": "Lock everyone inside and turn off the internet.",
@@ -5615,7 +5615,7 @@
       "students",
       "quota"
     ],
-    "prompt": "A new season of power, an old problem with sharper teeth. The protesters want you to fire the leaders who ordered the police to hurt people. The army says they won't help you hurt students anymore.",
+    "prompt": "A new season of power, an old problem with sharper teeth. Sir, forgive me — The protesters want you to fire the leaders who ordered the police to hurt people. The army says they won't help you hurt students anymore.",
     "left": {
       "id": "a",
       "label": "Fire the leaders who ordered the bad things.",
@@ -5653,7 +5653,7 @@
       "rab",
       "torture"
     ],
-    "prompt": "The crisis returns, and this time the cabinet is watching. A helper brings proof that your secret police kidnapped people and hid them in secret jails. Some are still alive.",
+    "prompt": "The crisis returns, and this time the cabinet is watching. A word, sir! A helper brings proof that your secret police kidnapped people and hid them in secret jails. Some are still alive.",
     "left": {
       "id": "a",
       "label": "Hide the proof and do nothing.",
@@ -5689,7 +5689,7 @@
       "rab",
       "torture"
     ],
-    "prompt": "Once more the issue lands on your desk, the stakes higher than before. The police are scared they will get in trouble for the bad things they did. They want you to promise to protect them, or they might stop listening to you.",
+    "prompt": "Once more the issue lands on your desk, the stakes higher than before. Sir, we have a problem. The police are scared they will get in trouble for the bad things they did. They want you to promise to protect them, or they might stop listening to you.",
     "left": {
       "id": "a",
       "label": "Promise to protect them so they stay loyal.",
@@ -5726,7 +5726,7 @@
       "press",
       "speech"
     ],
-    "prompt": "Another year survived, and the reckoning circles back. People are in jail just for drawing funny pictures or writing jokes about your family online. The police want to arrest more people.",
+    "prompt": "Another year survived, and the reckoning circles back. Sir! People are in jail just for drawing funny pictures or writing jokes about your family online. The police want to arrest more people.",
     "left": {
       "id": "a",
       "label": "Arrest more people to scare everyone into being quiet.",
@@ -5764,7 +5764,7 @@
       "minorities",
       "puja"
     ],
-    "prompt": "The ground has shifted; the same demand arrives with new menace. An untrue rumor made angry people start breaking into homes and temples. The local police are just watching and not helping.",
+    "prompt": "The ground has shifted; the same demand arrives with new menace. Mr. Prime Minister, sir! An untrue rumor made angry people start breaking into homes and temples. The local police are just watching and not helping.",
     "left": {
       "id": "a",
       "label": "Send good police fast to arrest the bad people breaking things.",
@@ -5802,7 +5802,7 @@
       "spyware",
       "rights"
     ],
-    "prompt": "History rhymes: the conflict reopens deeper than last time. A salesman offers you a secret tool to hack into anyone's phone and read their messages.",
+    "prompt": "History rhymes: the conflict reopens deeper than last time. Your Excellency! A salesman offers you a secret tool to hack into anyone's phone and read their messages.",
     "left": {
       "id": "a",
       "label": "Buy the secret hacking tool and use it on anyone.",
@@ -5839,7 +5839,7 @@
       "torture",
       "reform"
     ],
-    "prompt": "Mid-reign, the old wound is torn afresh. A good young police boss says a bad officer hurt a poor man until he died, then lied about it.",
+    "prompt": "Mid-reign, the old wound is torn afresh. Prime Minister! A good young police boss says a bad officer hurt a poor man until he died, then lied about it.",
     "left": {
       "id": "a",
       "label": "Tell the good boss to sign the lie and stay quiet.",
@@ -5875,7 +5875,7 @@
       "camps",
       "trafficking"
     ],
-    "prompt": "The pressure you deferred has come due, larger now. Bad gangs are doing illegal things in the homeless camps. The guard wants to use strong force to clean it up, but that will be very violent.",
+    "prompt": "The pressure you deferred has come due, larger now. Sir — Bad gangs are doing illegal things in the homeless camps. The guard wants to use strong force to clean it up, but that will be very violent.",
     "left": {
       "id": "a",
       "label": "Let the guard use strong force to clean the camps.",
@@ -5912,7 +5912,7 @@
       "opposition",
       "arrests"
     ],
-    "prompt": "A later term, and the quarrel has hardened into a test. An election is coming. A spy boss wants to arrest your enemies now for fake reasons so they can't campaign against you.",
+    "prompt": "A later term, and the quarrel has hardened into a test. Honourable leader! An election is coming. A spy boss wants to arrest your enemies now for fake reasons so they can't campaign against you.",
     "left": {
       "id": "a",
       "label": "Say yes and arrest your enemies.",
@@ -5949,7 +5949,7 @@
       "drug-war",
       "crossfire"
     ],
-    "prompt": "The country has changed, but this fault line has not — only worsened. Bad drugs are everywhere. The police want to fight a harsh war and might accidentally kill people they think are selling drugs.",
+    "prompt": "The country has changed, but this fault line has not — only worsened. Sir, urgent news. Bad drugs are everywhere. The police want to fight a harsh war and might accidentally kill people they think are selling drugs.",
     "left": {
       "id": "a",
       "label": "Let the police fight the harsh, dangerous war.",
@@ -5986,7 +5986,7 @@
       "road-safety",
       "protest"
     ],
-    "prompt": "It returns, as these things do, with the patience gone. A bad bus driver ran over two students. Now all the kids are in the streets demanding safer roads.",
+    "prompt": "It returns, as these things do, with the patience gone. Sir, forgive me — A bad bus driver ran over two students. Now all the kids are in the streets demanding safer roads.",
     "left": {
       "id": "a",
       "label": "Agree with the kids and make strict rules for safe roads.",
@@ -6023,7 +6023,7 @@
       "rumour",
       "mob"
     ],
-    "prompt": "Years on, the matter is no longer private; the press is already circling. A fake story on phones about people stealing children is making angry mobs beat up innocent strangers.",
+    "prompt": "Years on, the matter is no longer private; the press is already circling. A word, sir! A fake story on phones about people stealing children is making angry mobs beat up innocent strangers.",
     "left": {
       "id": "a",
       "label": "Turn off the phones and internet to stop the rumor.",
@@ -6059,7 +6059,7 @@
       "insurgency",
       "indigenous"
     ],
-    "prompt": "The same knot, retied tighter, lands before you once more. People in the hills are fighting because an old peace promise is falling apart. The army wants to go in strong.",
+    "prompt": "The same knot, retied tighter, lands before you once more. Sir, we have a problem. People in the hills are fighting because an old peace promise is falling apart. The army wants to go in strong.",
     "left": {
       "id": "a",
       "label": "Send the army in strong to stop the fighting.",
@@ -6096,7 +6096,7 @@
       "rape-law",
       "justice"
     ],
-    "prompt": "Another monsoon, another return of an argument you cannot end. A woman was hurt very badly. People are marching and demanding that the bad guys be put to death.",
+    "prompt": "Another monsoon, another return of an argument you cannot end. Sir! A woman was hurt very badly. People are marching and demanding that the bad guys be put to death.",
     "left": {
       "id": "a",
       "label": "Make a law to put them to death to make the crowd happy.",
@@ -6132,7 +6132,7 @@
       "migration",
       "mediterranean"
     ],
-    "prompt": "Deep into the reign, the issue demands a final-sounding answer. Bad men in your country are tricking poor people onto dangerous boats to go far away. The bad men pay the police to look the other way.",
+    "prompt": "Deep into the reign, the issue demands a final-sounding answer. Mr. Prime Minister, sir! Bad men in your country are tricking poor people onto dangerous boats to go far away. The bad men pay the police to look the other way.",
     "left": {
       "id": "a",
       "label": "Stop the bad men and the dirty police.",
@@ -6170,7 +6170,7 @@
       "overcrowding",
       "political"
     ],
-    "prompt": "The reckoning you postponed has matured into a crisis. The jails are way too full, mostly with your enemies who never got a fair trial. People are getting sick.",
+    "prompt": "The reckoning you postponed has matured into a crisis. Your Excellency! The jails are way too full, mostly with your enemies who never got a fair trial. People are getting sick.",
     "left": {
       "id": "a",
       "label": "Let the people who haven't had a trial go home for now.",
@@ -6207,7 +6207,7 @@
       "building-code",
       "safety"
     ],
-    "prompt": "A new chapter, the same antagonists, less room to manoeuvre. A secret chemical room caught fire and many people died. The fire boss wants to shut down every unsafe building, but your rich friends own them.",
+    "prompt": "A new chapter, the same antagonists, less room to manoeuvre. Prime Minister! A secret chemical room caught fire and many people died. The fire boss wants to shut down every unsafe building, but your rich friends own them.",
     "left": {
       "id": "a",
       "label": "Shut down all the unsafe buildings.",
@@ -6245,7 +6245,7 @@
       "corruption",
       "bribery"
     ],
-    "prompt": "The old fault line widens; this time there is no quiet option. Getting a passport takes forever unless you pay a secret bribe. You can make a new computer system to stop the bribes, but your workers will be mad.",
+    "prompt": "The old fault line widens; this time there is no quiet option. Sir — Getting a passport takes forever unless you pay a secret bribe. You can make a new computer system to stop the bribes, but your workers will be mad.",
     "left": {
       "id": "a",
       "label": "Make the new computer system to stop the bribes.",
@@ -6282,7 +6282,7 @@
       "convoy",
       "privilege"
     ],
-    "prompt": "Time has not healed it — the conflict comes back armed. A very important leader's fast car hit a poor man. The leader didn't stop, and an ambulance was stuck behind them. Everyone saw the video.",
+    "prompt": "Time has not healed it — the conflict comes back armed. Honourable leader! A very important leader's fast car hit a poor man. The leader didn't stop, and an ambulance was stuck behind them. Everyone saw the video.",
     "left": {
       "id": "a",
       "label": "Punish the important leader and stop letting them drive so fast.",
@@ -6320,7 +6320,7 @@
       "data",
       "privacy"
     ],
-    "prompt": "Once again, and with the whole house holding its breath. A computer expert wants to connect everyone's fingerprints and photos to cameras that watch the city. This could find bad guys, but it also spies on everyone.",
+    "prompt": "Once again, and with the whole house holding its breath. Sir, urgent news. A computer expert wants to connect everyone's fingerprints and photos to cameras that watch the city. This could find bad guys, but it also spies on everyone.",
     "left": {
       "id": "a",
       "label": "Connect the cameras to spy on everyone.",
@@ -6357,7 +6357,7 @@
       "gambling",
       "scams"
     ],
-    "prompt": "The matter resurfaces in a harder year, patience exhausted. Bad gangs online are stealing people's money using games. Some of your own young helpers are secretly part of the gangs.",
+    "prompt": "The matter resurfaces in a harder year, patience exhausted. Sir, forgive me — Bad gangs online are stealing people's money using games. Some of your own young helpers are secretly part of the gangs.",
     "left": {
       "id": "a",
       "label": "Stop everyone, even your own helpers.",
@@ -6394,7 +6394,7 @@
       "recruitment",
       "merit"
     ],
-    "prompt": "A later season of rule, the stakes now openly existential. People have to pay giant bribes just to get a job as a police officer. This makes them bad police officers later.",
+    "prompt": "A later season of rule, the stakes now openly existential. A word, sir! People have to pay giant bribes just to get a job as a police officer. This makes them bad police officers later.",
     "left": {
       "id": "a",
       "label": "Stop the bribes and only hire the best people.",
@@ -6431,7 +6431,7 @@
       "unfit-vehicles",
       "gridlock"
     ],
-    "prompt": "It comes around again, and the margin for error is gone. The city is full of old, broken, dangerous buses run by mean groups. If you get rid of the bad buses, the groups might strike and stop all traffic.",
+    "prompt": "It comes around again, and the margin for error is gone. Sir, we have a problem. The city is full of old, broken, dangerous buses run by mean groups. If you get rid of the bad buses, the groups might strike and stop all traffic.",
     "left": {
       "id": "a",
       "label": "Get rid of the broken, dangerous buses.",
@@ -6468,7 +6468,7 @@
       "terror",
       "raids"
     ],
-    "prompt": "The same demand, but the reign is older and the knives sharper. After a scary attack, the police want to break into homes to stop bad guys before they do anything. This might make innocent people angry.",
+    "prompt": "The same demand, but the reign is older and the knives sharper. Sir! After a scary attack, the police want to break into homes to stop bad guys before they do anything. This might make innocent people angry.",
     "left": {
       "id": "a",
       "label": "Let the police break into homes.",
@@ -6505,7 +6505,7 @@
       "slum",
       "land"
     ],
-    "prompt": "Years deep, the unresolved returns to be resolved for good. A rich builder wants to tear down a giant neighborhood where very poor people live so he can build something fancy.",
+    "prompt": "Years deep, the unresolved returns to be resolved for good. Mr. Prime Minister, sir! A rich builder wants to tear down a giant neighborhood where very poor people live so he can build something fancy.",
     "left": {
       "id": "a",
       "label": "Tear down the poor people's homes for the builder.",
@@ -6543,7 +6543,7 @@
       "journalists",
       "watchlist"
     ],
-    "prompt": "The conflict reignites, and the world is watching this time. Your spies have a list of writers and complainers. They want to follow them and scare them so they stop complaining.",
+    "prompt": "The conflict reignites, and the world is watching this time. Your Excellency! Your spies have a list of writers and complainers. They want to follow them and scare them so they stop complaining.",
     "left": {
       "id": "a",
       "label": "Let the spies follow and scare them.",
@@ -6580,7 +6580,7 @@
       "smuggling",
       "haats"
     ],
-    "prompt": "A familiar crisis, escalated by everything you let slide. People sneak things over the border to make money, and guards shoot them. You could build safe, legal markets there instead.",
+    "prompt": "A familiar crisis, escalated by everything you let slide. Prime Minister! People sneak things over the border to make money, and guards shoot them. You could build safe, legal markets there instead.",
     "left": {
       "id": "a",
       "label": "Build safe, legal markets on the border.",
@@ -6617,7 +6617,7 @@
       "crowd",
       "force"
     ],
-    "prompt": "The fault line cracks wider; the decision can no longer wait. A giant crowd of your enemies is having a peaceful meeting. Your police boss wants to use sticks and gas to make them run away.",
+    "prompt": "The fault line cracks wider; the decision can no longer wait. Sir — A giant crowd of your enemies is having a peaceful meeting. Your police boss wants to use sticks and gas to make them run away.",
     "left": {
       "id": "a",
       "label": "Use sticks and gas to make them run away.",
@@ -6653,7 +6653,7 @@
       "families",
       "white-vans"
     ],
-    "prompt": "Late in the reign, the old question demands a heavier answer. Mothers of people who were kidnapped by the police are standing together crying. The world wants to send a team to investigate.",
+    "prompt": "Late in the reign, the old question demands a heavier answer. Honourable leader! Mothers of people who were kidnapped by the police are standing together crying. The world wants to send a team to investigate.",
     "left": {
       "id": "a",
       "label": "Let the world team come and find the truth.",
@@ -6690,7 +6690,7 @@
       "abuse",
       "children"
     ],
-    "prompt": "It returns once more — and this round may be the one remembered. A little girl working as a maid in a rich house was hurt very badly. A helper wants to check all rich houses to make sure maids are safe.",
+    "prompt": "It returns once more — and this round may be the one remembered. Sir, urgent news. A little girl working as a maid in a rich house was hurt very badly. A helper wants to check all rich houses to make sure maids are safe.",
     "left": {
       "id": "a",
       "label": "Check the houses to keep the maids safe.",
@@ -6726,7 +6726,7 @@
       "violence",
       "centres"
     ],
-    "prompt": "The reckoning circles back, grown teeth in the waiting. Voting day is coming and people might fight. You can put the army everywhere to keep it fair, or only put them where it helps you win.",
+    "prompt": "The reckoning circles back, grown teeth in the waiting. Sir, forgive me — Voting day is coming and people might fight. You can put the army everywhere to keep it fair, or only put them where it helps you win.",
     "left": {
       "id": "a",
       "label": "Put the army everywhere to keep the vote completely fair.",
@@ -6763,7 +6763,7 @@
       "dowry",
       "women"
     ],
-    "prompt": "Another term, the same antagonist, the stakes raised again. Mean people are throwing bad chemicals that burn women's faces. You can make it very hard to buy these chemicals, but store owners will complain.",
+    "prompt": "Another term, the same antagonist, the stakes raised again. A word, sir! Mean people are throwing bad chemicals that burn women's faces. You can make it very hard to buy these chemicals, but store owners will complain.",
     "left": {
       "id": "a",
       "label": "Make it very hard to buy the bad chemicals and punish the mean people.",
@@ -6800,7 +6800,7 @@
       "stampede",
       "public"
     ],
-    "prompt": "The matter, long deferred, lands with the force of a verdict. Two huge events are happening at the same time. Last year, a crowd pushed too hard and people died. A helper wants strict rules to keep crowds small and safe.",
+    "prompt": "The matter, long deferred, lands with the force of a verdict. Sir, we have a problem. Two huge events are happening at the same time. Last year, a crowd pushed too hard and people died. A helper wants strict rules to keep crowds small and safe.",
     "left": {
       "id": "a",
       "label": "Make strict rules to keep the crowds safe.",
@@ -6836,7 +6836,7 @@
       "siege",
       "militants"
     ],
-    "prompt": "Years on and unhealed, the conflict returns to claim its answer. Bad guys with weapons took over a fancy restaurant and are hurting people inside.",
+    "prompt": "Years on and unhealed, the conflict returns to claim its answer. Sir! Bad guys with weapons took over a fancy restaurant and are hurting people inside.",
     "left": {
       "id": "a",
       "label": "Send the police rushing in immediately to fight them.",
@@ -6872,7 +6872,7 @@
       "siege",
       "militants"
     ],
-    "prompt": "The same fault line, the harder hour, the narrower path. The bad guys from the restaurant turned out to be rich, smart kids from good families. Your friends are terrified.",
+    "prompt": "The same fault line, the harder hour, the narrower path. Mr. Prime Minister, sir! The bad guys from the restaurant turned out to be rich, smart kids from good families. Your friends are terrified.",
     "left": {
       "id": "a",
       "label": "Have the police arrest lots of young people to be safe.",
@@ -6908,7 +6908,7 @@
       "rumour",
       "mob"
     ],
-    "prompt": "It comes back sharpened by every season you survived. A fake story about strangers stealing kids for a bridge is making mobs beat innocent people to death.",
+    "prompt": "It comes back sharpened by every season you survived. Your Excellency! A fake story about strangers stealing kids for a bridge is making mobs beat innocent people to death.",
     "left": {
       "id": "a",
       "label": "Tell police they can shoot the angry mobs.",
@@ -6944,7 +6944,7 @@
       "protest",
       "blasphemy"
     ],
-    "prompt": "A later year of power, the old crisis now a true test of it. A huge group of religious people blocked the whole city. They demand you destroy a statue they don't like.",
+    "prompt": "A later year of power, the old crisis now a true test of it. Prime Minister! A huge group of religious people blocked the whole city. They demand you destroy a statue they don't like.",
     "left": {
       "id": "a",
       "label": "Send the police at night to force them all to leave.",
@@ -6981,7 +6981,7 @@
       "surveillance",
       "dissent"
     ],
-    "prompt": "The unresolved returns, and this time it will not be deferred. You can buy a super-secret tool to read everyone's phone messages. But if you buy it, everyone will eventually find out you spy on them.",
+    "prompt": "The unresolved returns, and this time it will not be deferred. Sir — You can buy a super-secret tool to read everyone's phone messages. But if you buy it, everyone will eventually find out you spy on them.",
     "left": {
       "id": "a",
       "label": "Buy the super-secret spy tool.",
@@ -7017,7 +7017,7 @@
       "political",
       "overcrowding"
     ],
-    "prompt": "A term later, the same fault line tears open again. The jails are completely packed because you arrested so many people who don't like you. You can let the harmless ones go home.",
+    "prompt": "A term later, the same fault line tears open again. Honourable leader! The jails are completely packed because you arrested so many people who don't like you. You can let the harmless ones go home.",
     "left": {
       "id": "a",
       "label": "Keep them all in jail and try to build more space.",
@@ -7054,7 +7054,7 @@
       "campus",
       "torture"
     ],
-    "prompt": "Years into your rule, the matter you thought buried resurfaces — harder. Students from your own team beat another student until he died just for writing something bad about you online.",
+    "prompt": "Years into your rule, the matter you thought buried resurfaces — harder. Sir, urgent news. Students from your own team beat another student until he died just for writing something bad about you online.",
     "left": {
       "id": "a",
       "label": "Protect your team members so they don't go to jail.",
@@ -7092,7 +7092,7 @@
       "facial-recognition",
       "privacy"
     ],
-    "prompt": "A new season of power, an old problem with sharper teeth. You can put cameras everywhere that know exactly who everyone is and where they go. It stops crime but means no one has any privacy.",
+    "prompt": "A new season of power, an old problem with sharper teeth. Sir, forgive me — You can put cameras everywhere that know exactly who everyone is and where they go. It stops crime but means no one has any privacy.",
     "left": {
       "id": "a",
       "label": "Put up the cameras that track everyone's faces.",
@@ -7129,7 +7129,7 @@
       "sanctions",
       "reform"
     ],
-    "prompt": "The crisis returns, and this time the cabinet is watching. Your strict police stopped killing bad guys because the world was watching. But now crime is coming back. Your strict friends want the police to start killing again.",
+    "prompt": "The crisis returns, and this time the cabinet is watching. A word, sir! Your strict police stopped killing bad guys because the world was watching. But now crime is coming back. Your strict friends want the police to start killing again.",
     "left": {
       "id": "a",
       "label": "Let the police start secretly killing again.",
@@ -7165,7 +7165,7 @@
       "corruption",
       "bribery"
     ],
-    "prompt": "Once more the issue lands on your desk, the stakes higher than before. Local police stations are very mean and won't help anyone unless they pay a bribe. You can try to make them clean and nice, but the police will fight you.",
+    "prompt": "Once more the issue lands on your desk, the stakes higher than before. Sir, we have a problem. Local police stations are very mean and won't help anyone unless they pay a bribe. You can try to make them clean and nice, but the police will fight you.",
     "left": {
       "id": "a",
       "label": "Force the police stations to be clean and nice.",
@@ -7201,7 +7201,7 @@
       "boats",
       "syndicate"
     ],
-    "prompt": "Another year survived, and the reckoning circles back. Bad guys are putting poor men on broken boats to go to another country, and the police are helping the bad guys.",
+    "prompt": "Another year survived, and the reckoning circles back. Sir! Bad guys are putting poor men on broken boats to go to another country, and the police are helping the bad guys.",
     "left": {
       "id": "a",
       "label": "Stop everyone, even the police who are helping.",
@@ -7239,7 +7239,7 @@
       "sect",
       "violence"
     ],
-    "prompt": "The ground has shifted; the same demand arrives with new menace. A big angry crowd is attacking a small group of people who pray differently.",
+    "prompt": "The ground has shifted; the same demand arrives with new menace. Mr. Prime Minister, sir! A big angry crowd is attacking a small group of people who pray differently.",
     "left": {
       "id": "a",
       "label": "Use the police to protect the small group.",
@@ -7277,7 +7277,7 @@
       "festival",
       "extremism"
     ],
-    "prompt": "History rhymes: the conflict reopens deeper than last time. People want to have a big, fun new year party with music and masks. But grumpy people say it is bad and threaten to ruin it with a bomb.",
+    "prompt": "History rhymes: the conflict reopens deeper than last time. Your Excellency! People want to have a big, fun new year party with music and masks. But grumpy people say it is bad and threaten to ruin it with a bomb.",
     "left": {
       "id": "a",
       "label": "Throw the party anyway and put lots of guards around it.",
@@ -7315,7 +7315,7 @@
       "police",
       "accountability"
     ],
-    "prompt": "Mid-reign, the old wound is torn afresh. An honest police officer shared secret papers proving his boss ordered the police to kill people.",
+    "prompt": "Mid-reign, the old wound is torn afresh. Prime Minister! An honest police officer shared secret papers proving his boss ordered the police to kill people.",
     "left": {
       "id": "a",
       "label": "Punish the honest officer for sharing secrets and hide the papers.",
@@ -7352,7 +7352,7 @@
       "ban",
       "assembly"
     ],
-    "prompt": "The pressure you deferred has come due, larger now. Your enemies are planning a giant meeting. You can use an old rule to make it illegal, but that might make them so angry they fight you.",
+    "prompt": "The pressure you deferred has come due, larger now. Sir — Your enemies are planning a giant meeting. You can use an old rule to make it illegal, but that might make them so angry they fight you.",
     "left": {
       "id": "a",
       "label": "Make the meeting illegal.",
@@ -7388,7 +7388,7 @@
       "party",
       "patronage"
     ],
-    "prompt": "A later term, and the quarrel has hardened into a test. Your local friends want you to give them licenses to carry guns. They say it's for safety, but they really want to scare people during elections.",
+    "prompt": "A later term, and the quarrel has hardened into a test. Honourable leader! Your local friends want you to give them licenses to carry guns. They say it's for safety, but they really want to scare people during elections.",
     "left": {
       "id": "a",
       "label": "Give your friends the gun licenses.",
@@ -7426,7 +7426,7 @@
       "foreign-fighters",
       "deradicalisation"
     ],
-    "prompt": "The country has changed, but this fault line has not — only worsened. Some people who left to join a bad terrorist group want to come back home with their kids.",
+    "prompt": "The country has changed, but this fault line has not — only worsened. Sir, urgent news. Some people who left to join a bad terrorist group want to come back home with their kids.",
     "left": {
       "id": "a",
       "label": "Do not let them come back, or lock them in jail forever.",
@@ -7462,7 +7462,7 @@
       "accreditation",
       "surveillance"
     ],
-    "prompt": "It returns, as these things do, with the patience gone. You can secretly take away the special passes from reporters who write mean things about you, so they can't do their jobs.",
+    "prompt": "It returns, as these things do, with the patience gone. Sir, forgive me — You can secretly take away the special passes from reporters who write mean things about you, so they can't do their jobs.",
     "left": {
       "id": "a",
       "label": "Take away the passes from the mean reporters.",
@@ -7499,7 +7499,7 @@
       "militants",
       "security"
     ],
-    "prompt": "Years on, the matter is no longer private; the press is already circling. Very bad terrorists escaped from a super safe prison because someone inside helped them.",
+    "prompt": "Years on, the matter is no longer private; the press is already circling. A word, sir! Very bad terrorists escaped from a super safe prison because someone inside helped them.",
     "left": {
       "id": "a",
       "label": "Send police everywhere to search every corner of the country.",
@@ -7535,7 +7535,7 @@
       "garments",
       "protest"
     ],
-    "prompt": "The same knot, retied tighter, lands before you once more. Thousands of factory workers blocked the road because they haven't been paid. The factory owners want you to send the police to beat them and clear the road.",
+    "prompt": "The same knot, retied tighter, lands before you once more. Sir, we have a problem. Thousands of factory workers blocked the road because they haven't been paid. The factory owners want you to send the police to beat them and clear the road.",
     "left": {
       "id": "a",
       "label": "Send the police to beat the workers and clear the road.",
@@ -7573,7 +7573,7 @@
       "land",
       "grabbing"
     ],
-    "prompt": "Another monsoon, another return of an argument you cannot end. Powerful people in your group stole land from a smaller religion using a bad, old rule. You can force them to give it back.",
+    "prompt": "Another monsoon, another return of an argument you cannot end. Sir! Powerful people in your group stole land from a smaller religion using a bad, old rule. You can force them to give it back.",
     "left": {
       "id": "a",
       "label": "Force them to give the stolen land back.",
@@ -7611,7 +7611,7 @@
       "database",
       "surveillance"
     ],
-    "prompt": "Deep into the reign, the issue demands a final-sounding answer. You can connect everyone's ID cards, phones, and bank accounts into one giant computer file. It is helpful, but lets the government know everything about everyone.",
+    "prompt": "Deep into the reign, the issue demands a final-sounding answer. Mr. Prime Minister, sir! You can connect everyone's ID cards, phones, and bank accounts into one giant computer file. It is helpful, but lets the government know everything about everyone.",
     "left": {
       "id": "a",
       "label": "Build the giant computer file.",
@@ -7649,7 +7649,7 @@
       "curriculum",
       "extremism"
     ],
-    "prompt": "The reckoning you postponed has matured into a crisis. Many religious schools are not registered, and some might be teaching kids to be angry and mean. You can force them to register and learn math and science.",
+    "prompt": "The reckoning you postponed has matured into a crisis. Your Excellency! Many religious schools are not registered, and some might be teaching kids to be angry and mean. You can force them to register and learn math and science.",
     "left": {
       "id": "a",
       "label": "Force them to register and learn normal school subjects.",
@@ -7687,7 +7687,7 @@
       "extortion",
       "corruption"
     ],
-    "prompt": "A new chapter, the same antagonists, less room to manoeuvre. The traffic police take a little bit of secret money from every single bus and truck on the road.",
+    "prompt": "A new chapter, the same antagonists, less room to manoeuvre. Prime Minister! The traffic police take a little bit of secret money from every single bus and truck on the road.",
     "left": {
       "id": "a",
       "label": "Stop the traffic police from taking secret money.",
@@ -7723,7 +7723,7 @@
       "sufi",
       "militants"
     ],
-    "prompt": "The old fault line widens; this time there is no quiet option. Mean people are attacking gentle, peaceful religious places. The police want to guard the places and arrest the loud speakers who tell people to attack.",
+    "prompt": "The old fault line widens; this time there is no quiet option. Sir — Mean people are attacking gentle, peaceful religious places. The police want to guard the places and arrest the loud speakers who tell people to attack.",
     "left": {
       "id": "a",
       "label": "Guard the places and arrest the mean speakers.",
@@ -7761,7 +7761,7 @@
       "rape",
       "justice"
     ],
-    "prompt": "Time has not healed it — the conflict comes back armed. A group of boys did a terrible thing to a girl and filmed it. They are friends with important people. The whole country is demanding they be punished.",
+    "prompt": "Time has not healed it — the conflict comes back armed. Honourable leader! A group of boys did a terrible thing to a girl and filmed it. They are friends with important people. The whole country is demanding they be punished.",
     "left": {
       "id": "a",
       "label": "Make sure the boys are punished, no matter who they know.",
@@ -7799,7 +7799,7 @@
       "smuggling",
       "corruption"
     ],
-    "prompt": "Once again, and with the whole house holding its breath. Your own border guards are helping bad guys sneak cows, gold, and drugs across the fence for money.",
+    "prompt": "Once again, and with the whole house holding its breath. Sir, urgent news. Your own border guards are helping bad guys sneak cows, gold, and drugs across the fence for money.",
     "left": {
       "id": "a",
       "label": "Fire the bad guards and clean up the border.",
@@ -7836,7 +7836,7 @@
       "unrest",
       "order"
     ],
-    "prompt": "The matter resurfaces in a harder year, patience exhausted. People are angry and filling the streets in every city. A helper wants you to order everyone to stay inside and tell the police to shoot anyone they see.",
+    "prompt": "The matter resurfaces in a harder year, patience exhausted. Sir, forgive me — People are angry and filling the streets in every city. A helper wants you to order everyone to stay inside and tell the police to shoot anyone they see.",
     "left": {
       "id": "a",
       "label": "Order everyone inside and tell the police to shoot.",
@@ -7872,7 +7872,7 @@
       "blackout",
       "unrest"
     ],
-    "prompt": "A later season of rule, the stakes now openly existential. Protesters are using their phones to plan things. You can completely turn off the internet and phone signals for the whole country to stop them.",
+    "prompt": "A later season of rule, the stakes now openly existential. A word, sir! Protesters are using their phones to plan things. You can completely turn off the internet and phone signals for the whole country to stop them.",
     "left": {
       "id": "a",
       "label": "Turn off the internet and phones for everyone.",
@@ -7910,7 +7910,7 @@
       "accountability",
       "body-cameras"
     ],
-    "prompt": "It comes around again, and the margin for error is gone. People hate the police because the police are mean. A helper wants to make police wear cameras to prove they are acting nice. The police really hate this idea.",
+    "prompt": "It comes around again, and the margin for error is gone. Sir, we have a problem. People hate the police because the police are mean. A helper wants to make police wear cameras to prove they are acting nice. The police really hate this idea.",
     "left": {
       "id": "a",
       "label": "Make the police wear cameras.",
@@ -7946,7 +7946,7 @@
       "vigilantes",
       "youth"
     ],
-    "prompt": "The same demand, but the reign is older and the knives sharper. Groups of bossy people are walking around parks and yelling at boys and girls for hanging out together or wearing normal clothes.",
+    "prompt": "The same demand, but the reign is older and the knives sharper. Sir! Groups of bossy people are walking around parks and yelling at boys and girls for hanging out together or wearing normal clothes.",
     "left": {
       "id": "a",
       "label": "Arrest the bossy groups for bothering people.",
@@ -7984,7 +7984,7 @@
       "detention",
       "exposure"
     ],
-    "prompt": "Years deep, the unresolved returns to be resolved for good. People found out you have a secret prison with mirrored walls where you hide people who disappear. The news is about to tell everyone.",
+    "prompt": "Years deep, the unresolved returns to be resolved for good. Mr. Prime Minister, sir! People found out you have a secret prison with mirrored walls where you hide people who disappear. The news is about to tell everyone.",
     "left": {
       "id": "a",
       "label": "Lie about it and quickly bury the secret prison.",
@@ -8020,7 +8020,7 @@
       "insurgency",
       "checkpoints"
     ],
-    "prompt": "The conflict reignites, and the world is watching this time. The army is bossing around the people who live in the hills. An old promise says the army should leave, but the army wants to stay and stay strict.",
+    "prompt": "The conflict reignites, and the world is watching this time. Your Excellency! The army is bossing around the people who live in the hills. An old promise says the army should leave, but the army wants to stay and stay strict.",
     "left": {
       "id": "a",
       "label": "Let the army stay and keep being strict.",
@@ -8057,7 +8057,7 @@
       "blasphemy",
       "rumour"
     ],
-    "prompt": "A familiar crisis, escalated by everything you let slide. Someone made a fake picture to make it look like a boy insulted a religion. Now an angry mob is burning down the boy's village.",
+    "prompt": "A familiar crisis, escalated by everything you let slide. Prime Minister! Someone made a fake picture to make it look like a boy insulted a religion. Now an angry mob is burning down the boy's village.",
     "left": {
       "id": "a",
       "label": "Protect the village and find out who made the fake picture.",
@@ -8095,7 +8095,7 @@
       "security",
       "resources"
     ],
-    "prompt": "The fault line cracks wider; the decision can no longer wait. Most of your police are busy guarding rich politicians, so normal neighborhoods have no protection.",
+    "prompt": "The fault line cracks wider; the decision can no longer wait. Sir — Most of your police are busy guarding rich politicians, so normal neighborhoods have no protection.",
     "left": {
       "id": "a",
       "label": "Take the guards away from politicians and protect normal people.",
@@ -8132,7 +8132,7 @@
       "dissent",
       "speech"
     ],
-    "prompt": "Late in the reign, the old question demands a heavier answer. A special computer police team wants to arrest anyone who posts jokes or complaints about the country online. This would put many teenagers in jail.",
+    "prompt": "Late in the reign, the old question demands a heavier answer. Honourable leader! A special computer police team wants to arrest anyone who posts jokes or complaints about the country online. This would put many teenagers in jail.",
     "left": {
       "id": "a",
       "label": "Let the computer police arrest people for jokes.",
@@ -8168,7 +8168,7 @@
       "slums",
       "force"
     ],
-    "prompt": "It returns once more — and this round may be the one remembered. A judge said the police must use bulldozers to destroy a giant neighborhood of poor people.",
+    "prompt": "It returns once more — and this round may be the one remembered. Sir, urgent news. A judge said the police must use bulldozers to destroy a giant neighborhood of poor people.",
     "left": {
       "id": "a",
       "label": "Send the bulldozers in the morning to destroy it.",
@@ -8206,7 +8206,7 @@
       "village",
       "militia"
     ],
-    "prompt": "The reckoning circles back, grown teeth in the waiting. You could give guns to normal villagers to help the police. But they might use the guns to bully their neighbors.",
+    "prompt": "The reckoning circles back, grown teeth in the waiting. Sir, forgive me — You could give guns to normal villagers to help the police. But they might use the guns to bully their neighbors.",
     "left": {
       "id": "a",
       "label": "Give the villagers guns to help the police.",
@@ -8242,7 +8242,7 @@
       "currency",
       "crime"
     ],
-    "prompt": "Another term, the same antagonist, the stakes raised again. Bad guys from another country are flooding your stores with fake, printed money. People are losing trust in their cash.",
+    "prompt": "Another term, the same antagonist, the stakes raised again. A word, sir! Bad guys from another country are flooding your stores with fake, printed money. People are losing trust in their cash.",
     "left": {
       "id": "a",
       "label": "Spend money to catch them and make new, safe paper money.",
@@ -8279,7 +8279,7 @@
       "harassment",
       "safety"
     ],
-    "prompt": "The matter, long deferred, lands with the force of a verdict. Mean boys yell at girls on the street so much that some girls are terrified to go outside. You can make special police catch the mean boys.",
+    "prompt": "The matter, long deferred, lands with the force of a verdict. Sir, we have a problem. Mean boys yell at girls on the street so much that some girls are terrified to go outside. You can make special police catch the mean boys.",
     "left": {
       "id": "a",
       "label": "Make it a real crime and catch the mean boys.",
@@ -8316,7 +8316,7 @@
       "extremism",
       "secularism"
     ],
-    "prompt": "Years on and unhealed, the conflict returns to claim its answer. Bad guys with big knives are attacking writers who don't believe in their strict rules.",
+    "prompt": "Years on and unhealed, the conflict returns to claim its answer. Sir! Bad guys with big knives are attacking writers who don't believe in their strict rules.",
     "left": {
       "id": "a",
       "label": "Protect the writers and hunt down the bad guys.",
@@ -8354,7 +8354,7 @@
       "torture",
       "confession"
     ],
-    "prompt": "The same fault line, the harder hour, the narrower path. The police solve crimes by hitting people until they confess, even if they are innocent. A helper wants to buy science tools to solve crimes the right way.",
+    "prompt": "The same fault line, the harder hour, the narrower path. Mr. Prime Minister, sir! The police solve crimes by hitting people until they confess, even if they are innocent. A helper wants to buy science tools to solve crimes the right way.",
     "left": {
       "id": "a",
       "label": "Stop the hitting and buy the science tools.",
@@ -8390,7 +8390,7 @@
       "immigration",
       "corruption"
     ],
-    "prompt": "It comes back sharpened by every season you survived. The passport office is very corrupt. People pay secret money to get their passports faster, and bad guys use it to get fake ones.",
+    "prompt": "It comes back sharpened by every season you survived. Your Excellency! The passport office is very corrupt. People pay secret money to get their passports faster, and bad guys use it to get fake ones.",
     "left": {
       "id": "a",
       "label": "Use computers to clean up the office and stop the stealing.",
@@ -8428,7 +8428,7 @@
       "mercy",
       "justice"
     ],
-    "prompt": "A later year of power, the old crisis now a true test of it. A man is about to be hanged for a crime, but there is proof the trial was unfair and he might be totally innocent. Angry people want him hanged anyway.",
+    "prompt": "A later year of power, the old crisis now a true test of it. Prime Minister! A man is about to be hanged for a crime, but there is proof the trial was unfair and he might be totally innocent. Angry people want him hanged anyway.",
     "left": {
       "id": "a",
       "label": "Let him be hanged anyway.",
@@ -8465,7 +8465,7 @@
       "safety",
       "capacity"
     ],
-    "prompt": "The unresolved returns, and this time it will not be deferred. The fire trucks don't have ladders long enough to reach the tall buildings in the city. It costs a lot of money to buy new ones.",
+    "prompt": "The unresolved returns, and this time it will not be deferred. Sir — The fire trucks don't have ladders long enough to reach the tall buildings in the city. It costs a lot of money to buy new ones.",
     "left": {
       "id": "a",
       "label": "Spend the money to buy the tall fire ladders.",
@@ -8499,7 +8499,7 @@
       "haats",
       "smuggling"
     ],
-    "prompt": "A term later, the same fault line tears open again. People on the border are secretly trading things. You can build safe, legal markets for them so they don't have to sneak around.",
+    "prompt": "A term later, the same fault line tears open again. Honourable leader! People on the border are secretly trading things. You can build safe, legal markets for them so they don't have to sneak around.",
     "left": {
       "id": "a",
       "label": "Build the safe, legal border markets.",
@@ -8536,7 +8536,7 @@
       "ransom",
       "crime"
     ],
-    "prompt": "Years into your rule, the matter you thought buried resurfaces — harder. Bad groups are kidnapping rich people for money. Some of the kidnappers are actually off-duty police officers and political friends.",
+    "prompt": "Years into your rule, the matter you thought buried resurfaces — harder. Sir, urgent news. Bad groups are kidnapping rich people for money. Some of the kidnappers are actually off-duty police officers and political friends.",
     "left": {
       "id": "a",
       "label": "Catch all the kidnappers, even the police and friends.",
@@ -8574,7 +8574,7 @@
       "fatwa",
       "women"
     ],
-    "prompt": "A new season of power, an old problem with sharper teeth. In small villages, unofficial judges are whipping women as a cruel punishment. You can send the real police to stop them.",
+    "prompt": "A new season of power, an old problem with sharper teeth. Sir, forgive me — In small villages, unofficial judges are whipping women as a cruel punishment. You can send the real police to stop them.",
     "left": {
       "id": "a",
       "label": "Send the real police to stop the cruel punishments.",
@@ -8612,7 +8612,7 @@
       "wiretap",
       "oversight"
     ],
-    "prompt": "The crisis returns, and this time the cabinet is watching. The police want a new rule to let them read anyone's phone messages whenever they want, without asking a judge first.",
+    "prompt": "The crisis returns, and this time the cabinet is watching. A word, sir! The police want a new rule to let them read anyone's phone messages whenever they want, without asking a judge first.",
     "left": {
       "id": "a",
       "label": "Let them read messages without asking a judge.",
@@ -8648,7 +8648,7 @@
       "highways",
       "safety"
     ],
-    "prompt": "Once more the issue lands on your desk, the stakes higher than before. Bad guys with guns are robbing the big delivery buses at night. The police chief wants money to build special highway patrols to stop them.",
+    "prompt": "Once more the issue lands on your desk, the stakes higher than before. Sir, we have a problem. Bad guys with guns are robbing the big delivery buses at night. The police chief wants money to build special highway patrols to stop them.",
     "left": {
       "id": "a",
       "label": "Give money for the special highway patrols.",
@@ -8684,7 +8684,7 @@
       "begging",
       "children"
     ],
-    "prompt": "Another year survived, and the reckoning circles back. Terrible groups are hurting children and forcing them to beg for money on the streets.",
+    "prompt": "Another year survived, and the reckoning circles back. Sir! Terrible groups are hurting children and forcing them to beg for money on the streets.",
     "left": {
       "id": "a",
       "label": "Stop the terrible groups and help the children.",
@@ -8722,7 +8722,7 @@
       "traffic",
       "public"
     ],
-    "prompt": "The ground has shifted; the same demand arrives with new menace. Every time a politician drives somewhere, the police block all the roads. It causes giant traffic jams and even traps ambulances.",
+    "prompt": "The ground has shifted; the same demand arrives with new menace. Mr. Prime Minister, sir! Every time a politician drives somewhere, the police block all the roads. It causes giant traffic jams and even traps ambulances.",
     "left": {
       "id": "a",
       "label": "Stop blocking the roads for politicians.",
@@ -8758,7 +8758,7 @@
       "liability",
       "developers"
     ],
-    "prompt": "History rhymes: the conflict reopens deeper than last time. A poorly built building collapsed and killed many people. The builder paid secret money to ignore the rules, and he gives money to your team.",
+    "prompt": "History rhymes: the conflict reopens deeper than last time. Your Excellency! A poorly built building collapsed and killed many people. The builder paid secret money to ignore the rules, and he gives money to your team.",
     "left": {
       "id": "a",
       "label": "Punish the rich builder for his crime.",
@@ -8796,7 +8796,7 @@
       "scams",
       "online"
     ],
-    "prompt": "Mid-reign, the old wound is torn afresh. Scammers are calling people on the phone and tricking them into giving away all their money. It costs a lot to build a police team to catch them.",
+    "prompt": "Mid-reign, the old wound is torn afresh. Prime Minister! Scammers are calling people on the phone and tricking them into giving away all their money. It costs a lot to build a police team to catch them.",
     "left": {
       "id": "a",
       "label": "Build a special police team to catch the scammers.",
@@ -8832,7 +8832,7 @@
       "security",
       "communal"
     ],
-    "prompt": "The pressure you deferred has come due, larger now. Two different religious groups are planning big parades on the exact same street on the same day. They might fight.",
+    "prompt": "The pressure you deferred has come due, larger now. Sir — Two different religious groups are planning big parades on the exact same street on the same day. They might fight.",
     "left": {
       "id": "a",
       "label": "Make strict rules and force them to use different streets.",
@@ -8868,7 +8868,7 @@
       "travel",
       "safety"
     ],
-    "prompt": "A later term, and the quarrel has hardened into a test. Before a big holiday, millions of people crowd onto unsafe, broken boats and buses to get home. Many die in crashes every year.",
+    "prompt": "A later term, and the quarrel has hardened into a test. Honourable leader! Before a big holiday, millions of people crowd onto unsafe, broken boats and buses to get home. Many die in crashes every year.",
     "left": {
       "id": "a",
       "label": "Make strict safety rules, even if it makes travel slower and cost more.",
@@ -8903,7 +8903,7 @@
       "amnesty",
       "recovery"
     ],
-    "prompt": "The country has changed, but this fault line has not — only worsened. There are too many illegal guns. You can offer a deal: if people give you their guns, you won't ask any questions or punish them. This gets rid of guns but lets bad guys off the hook.",
+    "prompt": "The country has changed, but this fault line has not — only worsened. Sir, urgent news. There are too many illegal guns. You can offer a deal: if people give you their guns, you won't ask any questions or punish them. This gets rid of guns but lets bad guys off the hook.",
     "left": {
       "id": "a",
       "label": "Offer the deal to collect the guns without questions.",
@@ -8939,7 +8939,7 @@
       "security",
       "aid-workers"
     ],
-    "prompt": "It returns, as these things do, with the patience gone. People from other countries are scared of being attacked. They want heavy police guards everywhere, but that makes the city look very scary.",
+    "prompt": "It returns, as these things do, with the patience gone. Sir, forgive me — People from other countries are scared of being attacked. They want heavy police guards everywhere, but that makes the city look very scary.",
     "left": {
       "id": "a",
       "label": "Put heavy police guards everywhere for them.",
@@ -8976,7 +8976,7 @@
       "justice",
       "children"
     ],
-    "prompt": "Years on, the matter is no longer private; the press is already circling. Kids who get in trouble are thrown into scary jails with adult criminals, which makes the kids worse. A helper wants to build a nice place to help kids learn to be good.",
+    "prompt": "Years on, the matter is no longer private; the press is already circling. A word, sir! Kids who get in trouble are thrown into scary jails with adult criminals, which makes the kids worse. A helper wants to build a nice place to help kids learn to be good.",
     "left": {
       "id": "a",
       "label": "Build a nice place to help the kids.",
@@ -9012,7 +9012,7 @@
       "surveillance",
       "protest"
     ],
-    "prompt": "The same knot, retied tighter, lands before you once more. You can buy flying camera drones to watch everyone at protests from the sky. People say this is spying on them.",
+    "prompt": "The same knot, retied tighter, lands before you once more. Sir, we have a problem. You can buy flying camera drones to watch everyone at protests from the sky. People say this is spying on them.",
     "left": {
       "id": "a",
       "label": "Use the flying cameras to watch everyone at protests.",
@@ -9048,7 +9048,7 @@
       "poverty",
       "crime"
     ],
-    "prompt": "Another monsoon, another return of an argument you cannot end. A terrible group is tricking poor villagers and taking their kidneys to sell to rich people. Some doctors and rich hospitals are part of the secret group.",
+    "prompt": "Another monsoon, another return of an argument you cannot end. Sir! A terrible group is tricking poor villagers and taking their kidneys to sell to rich people. Some doctors and rich hospitals are part of the secret group.",
     "left": {
       "id": "a",
       "label": "Stop the whole group, even the rich doctors.",
@@ -9086,7 +9086,7 @@
       "biometric",
       "privacy"
     ],
-    "prompt": "Deep into the reign, the issue demands a final-sounding answer. You can force everyone to give their fingerprint when they buy a phone card. This stops bad guys from using secret phones, but it tracks everyone else too.",
+    "prompt": "Deep into the reign, the issue demands a final-sounding answer. Mr. Prime Minister, sir! You can force everyone to give their fingerprint when they buy a phone card. This stops bad guys from using secret phones, but it tracks everyone else too.",
     "left": {
       "id": "a",
       "label": "Force everyone to give their fingerprint.",
@@ -9122,7 +9122,7 @@
       "inquiry",
       "accountability"
     ],
-    "prompt": "The reckoning you postponed has matured into a crisis. People are dying while locked in police jails, and the police always lie and say it was an accident.",
+    "prompt": "The reckoning you postponed has matured into a crisis. Your Excellency! People are dying while locked in police jails, and the police always lie and say it was an accident.",
     "left": {
       "id": "a",
       "label": "Make a special, honest group investigate every death.",
@@ -9159,7 +9159,7 @@
       "rivers",
       "fishermen"
     ],
-    "prompt": "A new chapter, the same antagonists, less room to manoeuvre. Bad guys with guns are attacking boats on the river and stealing things. The police boss needs money for fast boats to stop them.",
+    "prompt": "A new chapter, the same antagonists, less room to manoeuvre. Prime Minister! Bad guys with guns are attacking boats on the river and stealing things. The police boss needs money for fast boats to stop them.",
     "left": {
       "id": "a",
       "label": "Give money for fast boats to stop the river pirates.",
@@ -9196,7 +9196,7 @@
       "critics",
       "control"
     ],
-    "prompt": "The old fault line widens; this time there is no quiet option. You can secretly put the names of people who complain about you on a list at the airport so they are never allowed to leave the country.",
+    "prompt": "The old fault line widens; this time there is no quiet option. Sir — You can secretly put the names of people who complain about you on a list at the airport so they are never allowed to leave the country.",
     "left": {
       "id": "a",
       "label": "Put the complainers on the list so they can't leave.",
@@ -9232,7 +9232,7 @@
       "leaks",
       "fraud"
     ],
-    "prompt": "Time has not healed it — the conflict comes back armed. Secret school tests are being stolen and sold online. You can use computers to keep them safe, but the bad guys who steal them will fight back.",
+    "prompt": "Time has not healed it — the conflict comes back armed. Honourable leader! Secret school tests are being stolen and sold online. You can use computers to keep them safe, but the bad guys who steal them will fight back.",
     "left": {
       "id": "a",
       "label": "Use computers to keep the tests safe.",
@@ -9269,7 +9269,7 @@
       "exam",
       "corruption"
     ],
-    "prompt": "Once again, and with the whole house holding its breath. People are cheating and paying secret money to pass tests for government jobs.",
+    "prompt": "Once again, and with the whole house holding its breath. Sir, urgent news. People are cheating and paying secret money to pass tests for government jobs.",
     "left": {
       "id": "a",
       "label": "Fix the tests and catch the cheaters.",
@@ -9307,7 +9307,7 @@
       "poison",
       "poverty"
     ],
-    "prompt": "The matter resurfaces in a harder year, patience exhausted. People are making poison drinks that are killing poor villagers. Bad police officers protect the drink makers.",
+    "prompt": "The matter resurfaces in a harder year, patience exhausted. Sir, forgive me — People are making poison drinks that are killing poor villagers. Bad police officers protect the drink makers.",
     "left": {
       "id": "a",
       "label": "Stop the bad people making the poison drinks.",
@@ -9344,7 +9344,7 @@
       "prison",
       "rights"
     ],
-    "prompt": "A later season of rule, the stakes now openly existential. The jails for women are too crowded and very mean. Innocent women and their children are stuck there in bad conditions.",
+    "prompt": "A later season of rule, the stakes now openly existential. A word, sir! The jails for women are too crowded and very mean. Innocent women and their children are stuck there in bad conditions.",
     "left": {
       "id": "a",
       "label": "Fix the jails to treat women better.",
@@ -9380,7 +9380,7 @@
       "online",
       "addiction"
     ],
-    "prompt": "It comes around again, and the margin for error is gone. Bad phone games from other countries are tricking kids into losing their money. Some of your own helpers are taking a cut of the money.",
+    "prompt": "It comes around again, and the margin for error is gone. Sir, we have a problem. Bad phone games from other countries are tricking kids into losing their money. Some of your own helpers are taking a cut of the money.",
     "left": {
       "id": "a",
       "label": "Stop the bad games and punish everyone, even helpers.",
@@ -9417,7 +9417,7 @@
       "backlog",
       "justice"
     ],
-    "prompt": "The same demand, but the reign is older and the knives sharper. The police science lab is too busy, so innocent people sit in jail while waiting for proof. You can spend money to build more science labs.",
+    "prompt": "The same demand, but the reign is older and the knives sharper. Sir! The police science lab is too busy, so innocent people sit in jail while waiting for proof. You can spend money to build more science labs.",
     "left": {
       "id": "a",
       "label": "Spend money to build more science labs.",
@@ -9453,7 +9453,7 @@
       "less-lethal",
       "force"
     ],
-    "prompt": "Years deep, the unresolved returns to be resolved for good. A seller wants to give you big, scary weapons like water cannons to use on angry crowds.",
+    "prompt": "Years deep, the unresolved returns to be resolved for good. Mr. Prime Minister, sir! A seller wants to give you big, scary weapons like water cannons to use on angry crowds.",
     "left": {
       "id": "a",
       "label": "Buy the big, scary weapons.",
@@ -9491,7 +9491,7 @@
       "murder",
       "justice"
     ],
-    "prompt": "The conflict reignites, and the world is watching this time. A young wife was hurt by her powerful new family, and they are paying the police to hide the crime.",
+    "prompt": "The conflict reignites, and the world is watching this time. Your Excellency! A young wife was hurt by her powerful new family, and they are paying the police to hide the crime.",
     "left": {
       "id": "a",
       "label": "Fight hard to punish the powerful family.",
@@ -9529,7 +9529,7 @@
       "censorship",
       "control"
     ],
-    "prompt": "A familiar crisis, escalated by everything you let slide. People are using secret phone tools to read news you banned. You can block the secret tools too, but people will be mad.",
+    "prompt": "A familiar crisis, escalated by everything you let slide. Prime Minister! People are using secret phone tools to read news you banned. You can block the secret tools too, but people will be mad.",
     "left": {
       "id": "a",
       "label": "Block the secret tools and track the people using them.",
@@ -9565,7 +9565,7 @@
       "shelter",
       "poverty"
     ],
-    "prompt": "The fault line cracks wider; the decision can no longer wait. Many poor children live on the city streets and are in danger. You can build safe homes for them, or just keep chasing them away.",
+    "prompt": "The fault line cracks wider; the decision can no longer wait. Sir — Many poor children live on the city streets and are in danger. You can build safe homes for them, or just keep chasing them away.",
     "left": {
       "id": "a",
       "label": "Build safe homes to help the street children.",
@@ -9600,7 +9600,7 @@
       "women",
       "online"
     ],
-    "prompt": "Late in the reign, the old question demands a heavier answer. Bad people are using fake pictures online to bully and scare girls.",
+    "prompt": "Late in the reign, the old question demands a heavier answer. Honourable leader! Bad people are using fake pictures online to bully and scare girls.",
     "left": {
       "id": "a",
       "label": "Build a special, safe police team to help the girls.",
@@ -9637,7 +9637,7 @@
       "concert",
       "safety"
     ],
-    "prompt": "It returns once more — and this round may be the one remembered. There are too many giant parties happening at once, and crowds might get squished and hurt.",
+    "prompt": "It returns once more — and this round may be the one remembered. Sir, urgent news. There are too many giant parties happening at once, and crowds might get squished and hurt.",
     "left": {
       "id": "a",
       "label": "Make strict rules to keep the crowds safe.",
@@ -9674,7 +9674,7 @@
       "violence",
       "minorities"
     ],
-    "prompt": "The reckoning circles back, grown teeth in the waiting. In faraway villages, angry mobs are hurting poor women by calling them witches.",
+    "prompt": "The reckoning circles back, grown teeth in the waiting. Sir, forgive me — In faraway villages, angry mobs are hurting poor women by calling them witches.",
     "left": {
       "id": "a",
       "label": "Send police to punish the mobs and teach them it is wrong.",
@@ -9711,7 +9711,7 @@
       "fraud",
       "citizenship"
     ],
-    "prompt": "Another term, the same antagonist, the stakes raised again. Bad workers are secretly selling your country's official ID cards to strangers and criminals.",
+    "prompt": "Another term, the same antagonist, the stakes raised again. A word, sir! Bad workers are secretly selling your country's official ID cards to strangers and criminals.",
     "left": {
       "id": "a",
       "label": "Catch the bad workers and stop the fake cards.",
@@ -9749,7 +9749,7 @@
       "registration",
       "child-marriage"
     ],
-    "prompt": "The matter, long deferred, lands with the force of a verdict. People are changing papers to let little girls get married illegally. You can use computers to stop this.",
+    "prompt": "The matter, long deferred, lands with the force of a verdict. Sir, we have a problem. People are changing papers to let little girls get married illegally. You can use computers to stop this.",
     "left": {
       "id": "a",
       "label": "Use computers to prove real ages and protect girls.",
@@ -9787,7 +9787,7 @@
       "rehab",
       "addiction"
     ],
-    "prompt": "Years on and unhealed, the conflict returns to claim its answer. Hundreds of thousands of people are sick from bad drugs. You can build nice hospitals to help them, or keep throwing them in jail.",
+    "prompt": "Years on and unhealed, the conflict returns to claim its answer. Sir! Hundreds of thousands of people are sick from bad drugs. You can build nice hospitals to help them, or keep throwing them in jail.",
     "left": {
       "id": "a",
       "label": "Build nice hospitals to help sick drug users.",
@@ -9823,7 +9823,7 @@
       "extortion",
       "rivers"
     ],
-    "prompt": "The same fault line, the harder hour, the narrower path. Bad gangs with guns are digging up the rivers to sell the sand, and paying police to stay quiet.",
+    "prompt": "The same fault line, the harder hour, the narrower path. Mr. Prime Minister, sir! Bad gangs with guns are digging up the rivers to sell the sand, and paying police to stay quiet.",
     "left": {
       "id": "a",
       "label": "Fight the gangs and stop them from ruining the river.",
@@ -9860,7 +9860,7 @@
       "land",
       "powerful"
     ],
-    "prompt": "It comes back sharpened by every season you survived. You are knocking down houses built in the wrong places. But you only knock down poor people's houses, not rich people's big buildings.",
+    "prompt": "It comes back sharpened by every season you survived. Your Excellency! You are knocking down houses built in the wrong places. But you only knock down poor people's houses, not rich people's big buildings.",
     "left": {
       "id": "a",
       "label": "Knock down the rich people's illegal buildings too.",
@@ -9898,7 +9898,7 @@
       "protest",
       "unrest"
     ],
-    "prompt": "A later year of power, the old crisis now a true test of it. The electricity keeps turning off in the summer, and angry people are breaking things in the street.",
+    "prompt": "A later year of power, the old crisis now a true test of it. Prime Minister! The electricity keeps turning off in the summer, and angry people are breaking things in the street.",
     "left": {
       "id": "a",
       "label": "Use the police to force the angry people away.",
@@ -9934,7 +9934,7 @@
       "smuggling",
       "security"
     ],
-    "prompt": "The unresolved returns, and this time it will not be deferred. Airport workers are helping bad guys sneak gold and drugs through the airport.",
+    "prompt": "The unresolved returns, and this time it will not be deferred. Sir — Airport workers are helping bad guys sneak gold and drugs through the airport.",
     "left": {
       "id": "a",
       "label": "Fire the bad workers and make the airport safe.",
@@ -9972,7 +9972,7 @@
       "labour",
       "reform"
     ],
-    "prompt": "A term later, the same fault line tears open again. The jails are way too full. You can teach prisoners good skills to use when they get out, or let bad guards force them to work for free.",
+    "prompt": "A term later, the same fault line tears open again. Honourable leader! The jails are way too full. You can teach prisoners good skills to use when they get out, or let bad guards force them to work for free.",
     "left": {
       "id": "a",
       "label": "Teach the prisoners good skills to help them.",
@@ -10009,7 +10009,7 @@
       "return",
       "reintegration"
     ],
-    "prompt": "Years into your rule, the matter you thought buried resurfaces — harder. Many workers lost their jobs in other countries and came back with no money.",
+    "prompt": "Years into your rule, the matter you thought buried resurfaces — harder. Sir, urgent news. Many workers lost their jobs in other countries and came back with no money.",
     "left": {
       "id": "a",
       "label": "Spend money to help them find new jobs at home.",
@@ -10045,7 +10045,7 @@
       "threat",
       "diplomacy"
     ],
-    "prompt": "A new season of power, an old problem with sharper teeth. Spies say bad guys want to attack a building where people from other countries work.",
+    "prompt": "A new season of power, an old problem with sharper teeth. Sir, forgive me — Spies say bad guys want to attack a building where people from other countries work.",
     "left": {
       "id": "a",
       "label": "Put lots of loud, visible police everywhere to scare bad guys.",
@@ -10082,7 +10082,7 @@
       "aviation",
       "rights"
     ],
-    "prompt": "The crisis returns, and this time the cabinet is watching. You can make a list of bad people who aren't allowed to fly on airplanes. But you might be tempted to put reporters and enemies on the list too.",
+    "prompt": "The crisis returns, and this time the cabinet is watching. A word, sir! You can make a list of bad people who aren't allowed to fly on airplanes. But you might be tempted to put reporters and enemies on the list too.",
     "left": {
       "id": "a",
       "label": "Make a big list and include your enemies.",
@@ -10118,7 +10118,7 @@
       "surveillance",
       "youth"
     ],
-    "prompt": "Once more the issue lands on your desk, the stakes higher than before. The police want a rule to collect the names of every kid who plays video games at the store, just to spy on them.",
+    "prompt": "Once more the issue lands on your desk, the stakes higher than before. Sir, we have a problem. The police want a rule to collect the names of every kid who plays video games at the store, just to spy on them.",
     "left": {
       "id": "a",
       "label": "Make the stores collect everyone's names.",
@@ -10154,7 +10154,7 @@
       "survivors",
       "justice"
     ],
-    "prompt": "Another year survived, and the reckoning circles back. A rich, powerful boy threw chemicals at a girl's face. His family is paying the police to drop the case.",
+    "prompt": "Another year survived, and the reckoning circles back. Sir! A rich, powerful boy threw chemicals at a girl's face. His family is paying the police to drop the case.",
     "left": {
       "id": "a",
       "label": "Fight the rich family and protect the girl.",
@@ -10192,7 +10192,7 @@
       "police",
       "families"
     ],
-    "prompt": "The ground has shifted; the same demand arrives with new menace. People's family members are going missing, and the police refuse to even help search for them.",
+    "prompt": "The ground has shifted; the same demand arrives with new menace. Mr. Prime Minister, sir! People's family members are going missing, and the police refuse to even help search for them.",
     "left": {
       "id": "a",
       "label": "Make a real rule that police must help search for missing people.",
@@ -10228,7 +10228,7 @@
       "welfare",
       "morale"
     ],
-    "prompt": "History rhymes: the conflict reopens deeper than last time. Your normal police officers are tired, poor, and live in dirty rooms. This makes them mean and want bribes.",
+    "prompt": "History rhymes: the conflict reopens deeper than last time. Your Excellency! Your normal police officers are tired, poor, and live in dirty rooms. This makes them mean and want bribes.",
     "left": {
       "id": "a",
       "label": "Spend money to pay them better and give them nice rooms.",
@@ -10264,7 +10264,7 @@
       "release",
       "reckoning"
     ],
-    "prompt": "Mid-reign, the old wound is torn afresh. The world wants to know what happened to the people your secret police kidnapped.",
+    "prompt": "Mid-reign, the old wound is torn afresh. Prime Minister! The world wants to know what happened to the people your secret police kidnapped.",
     "left": {
       "id": "a",
       "label": "Keep lying and say you don't know anything.",
@@ -10300,7 +10300,7 @@
       "checkpoints",
       "abuse"
     ],
-    "prompt": "The pressure you deferred has come due, larger now. Soldiers are being very mean to the native people in the hills, searching them for no reason.",
+    "prompt": "The pressure you deferred has come due, larger now. Sir — Soldiers are being very mean to the native people in the hills, searching them for no reason.",
     "left": {
       "id": "a",
       "label": "Tell the soldiers to be nice and respectful.",
@@ -10337,7 +10337,7 @@
       "health",
       "crime"
     ],
-    "prompt": "A later term, and the quarrel has hardened into a test. Stores are selling fake medicine that doesn't work and hurts sick people.",
+    "prompt": "A later term, and the quarrel has hardened into a test. Honourable leader! Stores are selling fake medicine that doesn't work and hurts sick people.",
     "left": {
       "id": "a",
       "label": "Stop the fake medicine and check every pill.",
@@ -10374,7 +10374,7 @@
       "due-process",
       "abuse"
     ],
-    "prompt": "The country has changed, but this fault line has not — only worsened. Secret police in normal clothes are grabbing people off the street without rules.",
+    "prompt": "The country has changed, but this fault line has not — only worsened. Sir, urgent news. Secret police in normal clothes are grabbing people off the street without rules.",
     "left": {
       "id": "a",
       "label": "Force the police to wear uniforms and follow the rules.",
@@ -10410,7 +10410,7 @@
       "cadres",
       "festival"
     ],
-    "prompt": "It returns, as these things do, with the patience gone. Before big parties, your team forces store owners to give them \"donations\" of money.",
+    "prompt": "It returns, as these things do, with the patience gone. Sir, forgive me — Before big parties, your team forces store owners to give them \"donations\" of money.",
     "left": {
       "id": "a",
       "label": "Stop your team from forcing people to pay.",
@@ -10447,7 +10447,7 @@
       "scope",
       "dissent"
     ],
-    "prompt": "Years on, the matter is no longer private; the press is already circling. You can write a new law that says anyone who complains about you is a \"terrorist.\"",
+    "prompt": "Years on, the matter is no longer private; the press is already circling. A word, sir! You can write a new law that says anyone who complains about you is a \"terrorist.\"",
     "left": {
       "id": "a",
       "label": "Write the unfair law to lock up complainers.",
@@ -10483,7 +10483,7 @@
       "arson",
       "land"
     ],
-    "prompt": "The same knot, retied tighter, lands before you once more. A rich builder probably started a fire to burn down poor people's houses so he can take their land.",
+    "prompt": "The same knot, retied tighter, lands before you once more. Sir, we have a problem. A rich builder probably started a fire to burn down poor people's houses so he can take their land.",
     "left": {
       "id": "a",
       "label": "Investigate the rich builder for starting the fire.",
@@ -10521,7 +10521,7 @@
       "festival",
       "protection"
     ],
-    "prompt": "Another monsoon, another return of an argument you cannot end. Small religious groups are having parties, but they are getting threats online. You can send extra police to protect them.",
+    "prompt": "Another monsoon, another return of an argument you cannot end. Sir! Small religious groups are having parties, but they are getting threats online. You can send extra police to protect them.",
     "left": {
       "id": "a",
       "label": "Send lots of police to protect their parties.",
@@ -10559,7 +10559,7 @@
       "fencing",
       "confinement"
     ],
-    "prompt": "Deep into the reign, the issue demands a final-sounding answer. You can put sharp fences and guard towers around the homeless camps like a giant prison to keep everyone inside.",
+    "prompt": "Deep into the reign, the issue demands a final-sounding answer. Mr. Prime Minister, sir! You can put sharp fences and guard towers around the homeless camps like a giant prison to keep everyone inside.",
     "left": {
       "id": "a",
       "label": "Build the sharp fences around the camps.",
@@ -10595,7 +10595,7 @@
       "modernisation",
       "service"
     ],
-    "prompt": "The reckoning you postponed has matured into a crisis. Police stations are scary and mean to poor people and women. You can spend money to make them friendly and helpful.",
+    "prompt": "The reckoning you postponed has matured into a crisis. Your Excellency! Police stations are scary and mean to poor people and women. You can spend money to make them friendly and helpful.",
     "left": {
       "id": "a",
       "label": "Make the police stations friendly and helpful.",
@@ -10632,7 +10632,7 @@
       "surveillance",
       "radicalisation"
     ],
-    "prompt": "A new chapter, the same antagonists, less room to manoeuvre. Spies want to sneak into places where people pray to secretly listen to what they say.",
+    "prompt": "A new chapter, the same antagonists, less room to manoeuvre. Prime Minister! Spies want to sneak into places where people pray to secretly listen to what they say.",
     "left": {
       "id": "a",
       "label": "Let the spies secretly listen to people praying.",
@@ -10668,7 +10668,7 @@
       "inquiry",
       "communal"
     ],
-    "prompt": "The old fault line widens; this time there is no quiet option. An angry mob burned a neighborhood, and the police just watched.",
+    "prompt": "The old fault line widens; this time there is no quiet option. Sir — An angry mob burned a neighborhood, and the police just watched.",
     "left": {
       "id": "a",
       "label": "Find out the truth openly and pay the victims for the damage.",
@@ -10706,7 +10706,7 @@
       "monitoring",
       "speech"
     ],
-    "prompt": "Time has not healed it — the conflict comes back armed. The computer police want to spy on all students' internet posts to see if they are planning protests.",
+    "prompt": "Time has not healed it — the conflict comes back armed. Honourable leader! The computer police want to spy on all students' internet posts to see if they are planning protests.",
     "left": {
       "id": "a",
       "label": "Let the police spy on the students' internet posts.",
@@ -10742,7 +10742,7 @@
       "protection",
       "justice"
     ],
-    "prompt": "Once again, and with the whole house holding its breath. Rich criminals go free because they scare the people who saw the crime. You can spend money to protect the witnesses.",
+    "prompt": "Once again, and with the whole house holding its breath. Sir, urgent news. Rich criminals go free because they scare the people who saw the crime. You can spend money to protect the witnesses.",
     "left": {
       "id": "a",
       "label": "Create a safe program to protect the witnesses.",
@@ -10780,7 +10780,7 @@
       "killings",
       "restraint"
     ],
-    "prompt": "The matter resurfaces in a harder year, patience exhausted. Your border guards shot poor, unarmed villagers for crossing the line to trade.",
+    "prompt": "The matter resurfaces in a harder year, patience exhausted. Sir, forgive me — Your border guards shot poor, unarmed villagers for crossing the line to trade.",
     "left": {
       "id": "a",
       "label": "Make a strict rule that guards cannot shoot unarmed people.",
@@ -10816,7 +10816,7 @@
       "slums",
       "control"
     ],
-    "prompt": "A later season of rule, the stakes now openly existential. The police want to pay poor people to spy on their neighbors. This will make everyone afraid of each other.",
+    "prompt": "A later season of rule, the stakes now openly existential. A word, sir! The police want to pay poor people to spy on their neighbors. This will make everyone afraid of each other.",
     "left": {
       "id": "a",
       "label": "Pay people to spy on their neighbors.",
@@ -10852,7 +10852,7 @@
       "gatherings",
       "dissent"
     ],
-    "prompt": "It comes around again, and the margin for error is gone. You can use computers to scan everyone's faces in a crowd to know exactly who went to a protest.",
+    "prompt": "It comes around again, and the margin for error is gone. Sir, we have a problem. You can use computers to scan everyone's faces in a crowd to know exactly who went to a protest.",
     "left": {
       "id": "a",
       "label": "Scan the faces of everyone in the crowd.",
@@ -10888,7 +10888,7 @@
       "health",
       "deaths"
     ],
-    "prompt": "The same demand, but the reign is older and the knives sharper. Prisoners are getting sick and dying because there are no doctors in the jails.",
+    "prompt": "The same demand, but the reign is older and the knives sharper. Sir! Prisoners are getting sick and dying because there are no doctors in the jails.",
     "left": {
       "id": "a",
       "label": "Spend money to bring doctors to the jails.",
@@ -10924,7 +10924,7 @@
       "violence",
       "powerful"
     ],
-    "prompt": "Years deep, the unresolved returns to be resolved for good. A rich bully is stealing a poor family's land, and he paid the local police to ignore it.",
+    "prompt": "Years deep, the unresolved returns to be resolved for good. Mr. Prime Minister, sir! A rich bully is stealing a poor family's land, and he paid the local police to ignore it.",
     "left": {
       "id": "a",
       "label": "Stop the rich bully and protect the poor family.",
@@ -10962,7 +10962,7 @@
       "hospitals",
       "neutrality"
     ],
-    "prompt": "The conflict reignites, and the world is watching this time. The police are going into hospitals and dragging hurt protesters out of their beds to arrest them.",
+    "prompt": "The conflict reignites, and the world is watching this time. Your Excellency! The police are going into hospitals and dragging hurt protesters out of their beds to arrest them.",
     "left": {
       "id": "a",
       "label": "Make hospitals safe places where police cannot arrest sick people.",
@@ -10998,7 +10998,7 @@
       "cover-up",
       "accountability"
     ],
-    "prompt": "A familiar crisis, escalated by everything you let slide. A man who argued with your powerful friend was kidnapped by secret police.",
+    "prompt": "A familiar crisis, escalated by everything you let slide. Prime Minister! A man who argued with your powerful friend was kidnapped by secret police.",
     "left": {
       "id": "a",
       "label": "Investigate honestly and find the man, even if your friend is guilty.",
@@ -11036,7 +11036,7 @@
       "cover-up",
       "accountability"
     ],
-    "prompt": "The fault line cracks wider; the decision can no longer wait. A reporter found out about the kidnapped man and is going to tell the world.",
+    "prompt": "The fault line cracks wider; the decision can no longer wait. Sir — A reporter found out about the kidnapped man and is going to tell the world.",
     "left": {
       "id": "a",
       "label": "Hurt the reporter to stop the story.",

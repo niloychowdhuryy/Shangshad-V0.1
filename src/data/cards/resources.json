@@ -11,7 +11,7 @@
       "sundarbans",
       "energy"
     ],
-    "prompt": "A giant, dirty power plant is ready to turn on right next to a famous, beautiful forest. People are protesting.",
+    "prompt": "Honourable leader! A giant, dirty power plant is ready to turn on right next to a famous, beautiful forest. People are protesting.",
     "left": {
       "id": "a",
       "label": "Turn on the dirty power plant for electricity.",
@@ -49,7 +49,7 @@
       "sundarbans",
       "energy"
     ],
-    "prompt": "The dirty power plant is killing the fish and the forest. You can buy expensive filters to stop the pollution.",
+    "prompt": "Sir, urgent news. The dirty power plant is killing the fish and the forest. You can buy expensive filters to stop the pollution.",
     "left": {
       "id": "a",
       "label": "Buy the expensive filters to save the forest.",
@@ -87,7 +87,7 @@
       "import",
       "tariff"
     ],
-    "prompt": "A big company from another country wants to sell you electricity, but the rules are very unfair and will trap you for 25 years.",
+    "prompt": "Sir, forgive me — A big company from another country wants to sell you electricity, but the rules are very unfair and will trap you for 25 years.",
     "left": {
       "id": "a",
       "label": "Sign the unfair deal to get the electricity.",
@@ -125,7 +125,7 @@
       "rental",
       "subsidy"
     ],
-    "prompt": "The government is paying rich friends billions of dollars for power plants that don't even make electricity.",
+    "prompt": "A word, sir! The government is paying rich friends billions of dollars for power plants that don't even make electricity.",
     "left": {
       "id": "a",
       "label": "Keep paying your friends for doing nothing.",
@@ -163,7 +163,7 @@
       "offshore",
       "maritime"
     ],
-    "prompt": "There might be valuable gas deep in your ocean. You can let big foreign companies try to find it fast, but neighbors might get mad.",
+    "prompt": "Sir, we have a problem. There might be valuable gas deep in your ocean. You can let big foreign companies try to find it fast, but neighbors might get mad.",
     "left": {
       "id": "a",
       "label": "Let the foreign companies look for the gas fast.",
@@ -199,7 +199,7 @@
       "labour",
       "toxic"
     ],
-    "prompt": "The beaches where workers break old ships are very dangerous and toxic. You can force them to be safe, but it costs a lot.",
+    "prompt": "Sir! The beaches where workers break old ships are very dangerous and toxic. You can force them to be safe, but it costs a lot.",
     "left": {
       "id": "a",
       "label": "Leave the beaches dangerous and cheap.",
@@ -237,7 +237,7 @@
       "water",
       "wells"
     ],
-    "prompt": "The water wells people drink from have natural poison in them, slowly making millions sick. Fixing it costs a lot of money.",
+    "prompt": "Mr. Prime Minister, sir! The water wells people drink from have natural poison in them, slowly making millions sick. Fixing it costs a lot of money.",
     "left": {
       "id": "a",
       "label": "Spend a lot of money to give everyone clean, safe water.",
@@ -273,7 +273,7 @@
       "rivers",
       "erosion"
     ],
-    "prompt": "Bad gangs are digging up too much sand from the river, which makes the land collapse and destroys villages.",
+    "prompt": "Your Excellency! Bad gangs are digging up too much sand from the river, which makes the land collapse and destroys villages.",
     "left": {
       "id": "a",
       "label": "Let them keep digging so builders have sand.",
@@ -311,7 +311,7 @@
       "transition",
       "land"
     ],
-    "prompt": "You can get cheap money to build giant solar panels, but they take up the good dirt needed to grow food.",
+    "prompt": "Prime Minister! You can get cheap money to build giant solar panels, but they take up the good dirt needed to grow food.",
     "left": {
       "id": "a",
       "label": "Put the solar panels on the good farming dirt.",
@@ -349,7 +349,7 @@
       "open-pit",
       "displacement"
     ],
-    "prompt": "A company wants to dig a giant coal mine, but they have to destroy many farms and homes to do it.",
+    "prompt": "Sir — A company wants to dig a giant coal mine, but they have to destroy many farms and homes to do it.",
     "left": {
       "id": "a",
       "label": "Let them destroy the farms to dig the giant mine.",
@@ -387,7 +387,7 @@
       "gas",
       "spot-market"
     ],
-    "prompt": "The gas you buy from other countries just got super expensive. You can keep buying it, or let the lights go out sometimes.",
+    "prompt": "Honourable leader! The gas you buy from other countries just got super expensive. You can keep buying it, or let the lights go out sometimes.",
     "left": {
       "id": "a",
       "label": "Keep buying the gas even though it is super expensive.",
@@ -423,7 +423,7 @@
       "system-loss",
       "theft"
     ],
-    "prompt": "People are stealing a lot of the country's electricity, and the meter checkers are helping them.",
+    "prompt": "Sir, urgent news. People are stealing a lot of the country's electricity, and the meter checkers are helping them.",
     "left": {
       "id": "a",
       "label": "Stop the stealing by making everyone use prepaid cards.",
@@ -460,7 +460,7 @@
       "tariff",
       "industry"
     ],
-    "prompt": "Rich factory owners pay almost nothing for their gas. You can make them pay full price, but they will be angry.",
+    "prompt": "Sir, forgive me — Rich factory owners pay almost nothing for their gas. You can make them pay full price, but they will be angry.",
     "left": {
       "id": "a",
       "label": "Make the factory owners pay full price.",
@@ -498,7 +498,7 @@
       "hilsa",
       "ban"
     ],
-    "prompt": "The country's favorite fish are almost all gone. You need to stop people from fishing for two months so the babies can grow, but the fishers will be hungry.",
+    "prompt": "A word, sir! The country's favorite fish are almost all gone. You need to stop people from fishing for two months so the babies can grow, but the fishers will be hungry.",
     "left": {
       "id": "a",
       "label": "Stop all fishing to save the fish.",
@@ -534,7 +534,7 @@
       "onshore",
       "exploration"
     ],
-    "prompt": "There is gas under a beautiful nature island. Big companies want to dig it up fast, but it might ruin the island.",
+    "prompt": "Sir, we have a problem. There is gas under a beautiful nature island. Big companies want to dig it up fast, but it might ruin the island.",
     "left": {
       "id": "a",
       "label": "Let them dig it up fast.",
@@ -571,7 +571,7 @@
       "sand",
       "coast"
     ],
-    "prompt": "A company will pay you to dig up the beautiful tourist beaches to find rare rocks. It will ruin the beach for turtles and tourists.",
+    "prompt": "Sir! A company will pay you to dig up the beautiful tourist beaches to find rare rocks. It will ruin the beach for turtles and tourists.",
     "left": {
       "id": "a",
       "label": "Let them dig up the beach for money.",
@@ -609,7 +609,7 @@
       "gas-allocation",
       "agriculture"
     ],
-    "prompt": "You only have enough gas to make plant food for farmers OR to keep the lights on in the city. You must choose one.",
+    "prompt": "Mr. Prime Minister, sir! You only have enough gas to make plant food for farmers OR to keep the lights on in the city. You must choose one.",
     "left": {
       "id": "a",
       "label": "Use the gas to make plant food for farmers.",
@@ -645,7 +645,7 @@
       "subsidy",
       "groundwater"
     ],
-    "prompt": "Farmers get nearly free electricity to pump water, but they are wasting the water and costing you money.",
+    "prompt": "Your Excellency! Farmers get nearly free electricity to pump water, but they are wasting the water and costing you money.",
     "left": {
       "id": "a",
       "label": "Charge the farmers for electricity so they stop wasting it.",
@@ -683,7 +683,7 @@
       "incineration",
       "power"
     ],
-    "prompt": "A company wants to burn the city's trash to make power, but the smoke is bad and it takes jobs from poor trash-sorters.",
+    "prompt": "Prime Minister! A company wants to burn the city's trash to make power, but the smoke is bad and it takes jobs from poor trash-sorters.",
     "left": {
       "id": "a",
       "label": "Let them burn the trash to make power.",
@@ -719,7 +719,7 @@
       "waste",
       "rooppur"
     ],
-    "prompt": "Your new power plant makes dangerous, glowing trash. Russia will take it away if you pay them, or you can try to store it safely yourself.",
+    "prompt": "Sir — Your new power plant makes dangerous, glowing trash. Russia will take it away if you pay them, or you can try to store it safely yourself.",
     "left": {
       "id": "a",
       "label": "Pay Russia to take the dangerous trash away.",
@@ -756,7 +756,7 @@
       "labour",
       "wages"
     ],
-    "prompt": "The poor people who pick tea leaves want to be paid a fair amount. The rich owners say paying more will ruin their business.",
+    "prompt": "Honourable leader! The poor people who pick tea leaves want to be paid a fair amount. The rich owners say paying more will ruin their business.",
     "left": {
       "id": "a",
       "label": "Force the owners to pay the workers fairly.",
@@ -793,7 +793,7 @@
       "transport",
       "grid"
     ],
-    "prompt": "Many people are driving electric bikes, which saves gas but breaks the electric grid because it can't handle them all.",
+    "prompt": "Sir, urgent news. Many people are driving electric bikes, which saves gas but breaks the electric grid because it can't handle them all.",
     "left": {
       "id": "a",
       "label": "Build more charging stations to help the electric bikes.",
@@ -830,7 +830,7 @@
       "logging",
       "sundarbans"
     ],
-    "prompt": "Bad gangs are chopping down the protected forests to sell the wood. You need to give park rangers guns to stop them.",
+    "prompt": "Sir, forgive me — Bad gangs are chopping down the protected forests to sell the wood. You need to give park rangers guns to stop them.",
     "left": {
       "id": "a",
       "label": "Give the rangers guns to stop the gangs.",
@@ -867,7 +867,7 @@
       "household",
       "moratorium"
     ],
-    "prompt": "There isn't enough gas for new homes, but angry people are demanding it because they already paid bribes to get it.",
+    "prompt": "A word, sir! There isn't enough gas for new homes, but angry people are demanding it because they already paid bribes to get it.",
     "left": {
       "id": "a",
       "label": "Give the gas to the homes even though you don't have enough.",
@@ -903,7 +903,7 @@
       "targets",
       "credibility"
     ],
-    "prompt": "You promised the world you would use clean energy, but you lied and didn't build any.",
+    "prompt": "Sir, we have a problem. You promised the world you would use clean energy, but you lied and didn't build any.",
     "left": {
       "id": "a",
       "label": "Quietly change your promise so you don't look bad.",
@@ -941,7 +941,7 @@
       "stone",
       "rivers"
     ],
-    "prompt": "People are illegally breaking stones from the rivers, destroying nature, to build cities.",
+    "prompt": "Sir! People are illegally breaking stones from the rivers, destroying nature, to build cities.",
     "left": {
       "id": "a",
       "label": "Stop them from digging up the rivers.",
@@ -978,7 +978,7 @@
       "tariff",
       "india"
     ],
-    "prompt": "The price of electricity you buy from a neighbor has gotten crazy high because of a bad contract.",
+    "prompt": "Mr. Prime Minister, sir! The price of electricity you buy from a neighbor has gotten crazy high because of a bad contract.",
     "left": {
       "id": "a",
       "label": "Demand they lower the price and fix the contract.",
@@ -1014,7 +1014,7 @@
       "agriculture",
       "shrimp"
     ],
-    "prompt": "Shrimp farms make a lot of money, but the salty water they use is destroying the land where poor farmers grow rice.",
+    "prompt": "Your Excellency! Shrimp farms make a lot of money, but the salty water they use is destroying the land where poor farmers grow rice.",
     "left": {
       "id": "a",
       "label": "Stop the shrimp farms to protect the farmers' land.",
@@ -1051,7 +1051,7 @@
       "rooppur",
       "debt"
     ],
-    "prompt": "Your big power plant from Russia is almost ready, but the rest of the world says you shouldn't work with Russia right now.",
+    "prompt": "Prime Minister! Your big power plant from Russia is almost ready, but the rest of the world says you shouldn't work with Russia right now.",
     "left": {
       "id": "a",
       "label": "Turn the plant on anyway, even if the world is mad.",
@@ -1087,7 +1087,7 @@
       "phulbari",
       "displacement"
     ],
-    "prompt": "A big company wants to dig a massive hole to find coal. It will ruin the water for farmers and make people very angry.",
+    "prompt": "Sir — A big company wants to dig a massive hole to find coal. It will ruin the water for farmers and make people very angry.",
     "left": {
       "id": "a",
       "label": "Let them dig the giant hole.",
@@ -1125,7 +1125,7 @@
       "theft",
       "losses"
     ],
-    "prompt": "People are stealing electricity. You can force everyone to use prepaid cards to stop it, but poor people will struggle.",
+    "prompt": "Honourable leader! People are stealing electricity. You can force everyone to use prepaid cards to stop it, but poor people will struggle.",
     "left": {
       "id": "a",
       "label": "Force everyone to use prepaid cards immediately.",
@@ -1161,7 +1161,7 @@
       "subsidy",
       "cost"
     ],
-    "prompt": "Gas is too expensive. You have to raise the price of electricity for your people, or the government will run out of money.",
+    "prompt": "Sir, urgent news. Gas is too expensive. You have to raise the price of electricity for your people, or the government will run out of money.",
     "left": {
       "id": "a",
       "label": "Raise the price of electricity for everyone.",
@@ -1197,7 +1197,7 @@
       "import",
       "dependence"
     ],
-    "prompt": "You can buy a giant floating gas tank from other countries to keep the lights on, but the price might jump wildly.",
+    "prompt": "Sir, forgive me — You can buy a giant floating gas tank from other countries to keep the lights on, but the price might jump wildly.",
     "left": {
       "id": "a",
       "label": "Buy the giant floating gas tank.",
@@ -1233,7 +1233,7 @@
       "gas",
       "sovereignty"
     ],
-    "prompt": "Your own workers say they can find gas for cheap. Or you can hire foreign companies, who are faster but keep most of the money.",
+    "prompt": "A word, sir! Your own workers say they can find gas for cheap. Or you can hire foreign companies, who are faster but keep most of the money.",
     "left": {
       "id": "a",
       "label": "Hire the foreign companies to do it fast.",
@@ -1270,7 +1270,7 @@
       "irrigation",
       "drought"
     ],
-    "prompt": "Farmers are pumping too much water out of the ground to grow rice. Soon the land will turn into a desert.",
+    "prompt": "Sir, we have a problem. Farmers are pumping too much water out of the ground to grow rice. Soon the land will turn into a desert.",
     "left": {
       "id": "a",
       "label": "Let them keep pumping water to grow rice now.",
@@ -1306,7 +1306,7 @@
       "pollution",
       "leather"
     ],
-    "prompt": "Leather factories are dumping poison chemicals right into the river because they didn't finish building their cleaner.",
+    "prompt": "Sir! Leather factories are dumping poison chemicals right into the river because they didn't finish building their cleaner.",
     "left": {
       "id": "a",
       "label": "Let the factories keep running and dumping poison.",
@@ -1343,7 +1343,7 @@
       "infrastructure",
       "debt"
     ],
-    "prompt": "Big countries want to build a deep ocean dock for you, but they will want to control you if they do.",
+    "prompt": "Mr. Prime Minister, sir! Big countries want to build a deep ocean dock for you, but they will want to control you if they do.",
     "left": {
       "id": "a",
       "label": "Pick the cheapest big country and let them build it.",
@@ -1379,7 +1379,7 @@
       "stone",
       "rivers"
     ],
-    "prompt": "People are illegally breaking stones from the hillsides to build cities. It destroys nature and kills workers when rocks fall.",
+    "prompt": "Your Excellency! People are illegally breaking stones from the hillsides to build cities. It destroys nature and kills workers when rocks fall.",
     "left": {
       "id": "a",
       "label": "Let them keep breaking the stones.",
@@ -1416,7 +1416,7 @@
       "fishing",
       "livelihoods"
     ],
-    "prompt": "You have to ban fishing while the fish have babies, but this means poor fishing families will have no food for weeks.",
+    "prompt": "Prime Minister! You have to ban fishing while the fish have babies, but this means poor fishing families will have no food for weeks.",
     "left": {
       "id": "a",
       "label": "Enforce the strict ban to save the fish.",
@@ -1452,7 +1452,7 @@
       "net-metering",
       "transition"
     ],
-    "prompt": "You can let people put solar panels on their roofs and sell extra power back to the government. Power companies hate this.",
+    "prompt": "Sir — You can let people put solar panels on their roofs and sell extra power back to the government. Power companies hate this.",
     "left": {
       "id": "a",
       "label": "Side with the power companies and say no to roof panels.",
@@ -1488,7 +1488,7 @@
       "import",
       "regional"
     ],
-    "prompt": "You can buy cheap, clean power from a neighbor, but they could shut your lights off easily if they get mad at you.",
+    "prompt": "Honourable leader! You can buy cheap, clean power from a neighbor, but they could shut your lights off easily if they get mad at you.",
     "left": {
       "id": "a",
       "label": "Buy the cheap power from the neighbor.",
@@ -1525,7 +1525,7 @@
       "gas",
       "food"
     ],
-    "prompt": "You only have enough gas to make plant food for the farms OR to keep the city's power on.",
+    "prompt": "Sir, urgent news. You only have enough gas to make plant food for the farms OR to keep the city's power on.",
     "left": {
       "id": "a",
       "label": "Give the gas to the farms for food.",
@@ -1561,7 +1561,7 @@
       "indemnity",
       "rentals"
     ],
-    "prompt": "There is a bad rule that lets you give big contracts to your rich friends without checking if it's a fair price.",
+    "prompt": "Sir, forgive me — There is a bad rule that lets you give big contracts to your rich friends without checking if it's a fair price.",
     "left": {
       "id": "a",
       "label": "Keep the bad rule so your friends stay rich.",
@@ -1599,7 +1599,7 @@
       "topsoil",
       "air"
     ],
-    "prompt": "Dirty brick factories are making the city air poisonous. You can shut them down, but thousands of poor workers will lose their jobs.",
+    "prompt": "A word, sir! Dirty brick factories are making the city air poisonous. You can shut them down, but thousands of poor workers will lose their jobs.",
     "left": {
       "id": "a",
       "label": "Leave the dirty brick factories open for the jobs.",
@@ -1635,7 +1635,7 @@
       "trawlers",
       "maritime"
     ],
-    "prompt": "Giant ships from other countries are stealing all the fish from your ocean.",
+    "prompt": "Sir, we have a problem. Giant ships from other countries are stealing all the fish from your ocean.",
     "left": {
       "id": "a",
       "label": "Look away because the giant ships pay you secret fees.",
@@ -1672,7 +1672,7 @@
       "recycling",
       "toxics"
     ],
-    "prompt": "Other countries are dumping their broken computers and phones here. Poor kids are taking them apart with their bare hands in toxic dirt.",
+    "prompt": "Sir! Other countries are dumping their broken computers and phones here. Poor kids are taking them apart with their bare hands in toxic dirt.",
     "left": {
       "id": "a",
       "label": "Let them keep taking apart the toxic garbage.",
@@ -1709,7 +1709,7 @@
       "forest",
       "livelihoods"
     ],
-    "prompt": "To save the big forest, you have to kick out the poor villagers who collect honey and catch fish there to survive.",
+    "prompt": "Mr. Prime Minister, sir! To save the big forest, you have to kick out the poor villagers who collect honey and catch fish there to survive.",
     "left": {
       "id": "a",
       "label": "Kick the poor villagers out to save the forest.",
@@ -1745,7 +1745,7 @@
       "industry",
       "heritage"
     ],
-    "prompt": "Old government factories are losing money every day. You can shut them down, or pay to fix them up even though it's risky.",
+    "prompt": "Your Excellency! Old government factories are losing money every day. You can shut them down, or pay to fix them up even though it's risky.",
     "left": {
       "id": "a",
       "label": "Shut down the losing factories.",
@@ -1781,7 +1781,7 @@
       "import",
       "logistics"
     ],
-    "prompt": "Your power plants need dirty coal to run. You can build a giant dock just for coal, which means you'll be stuck using dirty coal for years.",
+    "prompt": "Prime Minister! Your power plants need dirty coal to run. You can build a giant dock just for coal, which means you'll be stuck using dirty coal for years.",
     "left": {
       "id": "a",
       "label": "Build the giant coal dock.",
@@ -1819,7 +1819,7 @@
       "dhaka",
       "pollution"
     ],
-    "prompt": "The city's water is so dirty everyone has to boil it before drinking. Fixing the pipes will cost a huge amount of money.",
+    "prompt": "Sir — The city's water is so dirty everyone has to boil it before drinking. Fixing the pipes will cost a huge amount of money.",
     "left": {
       "id": "a",
       "label": "Keep the old, dirty pipes and let people boil water.",
@@ -1855,7 +1855,7 @@
       "blowout",
       "compensation"
     ],
-    "prompt": "A foreign company's gas well blew up, burning a forest and lots of gas. They offer a tiny bit of money and say it's not their fault.",
+    "prompt": "Honourable leader! A foreign company's gas well blew up, burning a forest and lots of gas. They offer a tiny bit of money and say it's not their fault.",
     "left": {
       "id": "a",
       "label": "Take the tiny bit of money quietly.",
@@ -1893,7 +1893,7 @@
       "households",
       "rationing"
     ],
-    "prompt": "Gas is running out, so you stopped giving gas pipes to new homes. Millions of angry people are waiting.",
+    "prompt": "Sir, urgent news. Gas is running out, so you stopped giving gas pipes to new homes. Millions of angry people are waiting.",
     "left": {
       "id": "a",
       "label": "Give gas to the homes to make people happy.",
@@ -1929,7 +1929,7 @@
       "toll",
       "debt"
     ],
-    "prompt": "A cool new river tunnel was built with borrowed money, but hardly anyone drives through it.",
+    "prompt": "Sir, forgive me — A cool new river tunnel was built with borrowed money, but hardly anyone drives through it.",
     "left": {
       "id": "a",
       "label": "Charge a high price to drive through so you can pay back the loan.",
@@ -1965,7 +1965,7 @@
       "transport",
       "imports"
     ],
-    "prompt": "Buying gas from other countries costs too much money. You can help people buy electric cars instead, but it will upset the gas stations and use a lot of electricity.",
+    "prompt": "A word, sir! Buying gas from other countries costs too much money. You can help people buy electric cars instead, but it will upset the gas stations and use a lot of electricity.",
     "left": {
       "id": "a",
       "label": "Push hard to get everyone electric cars.",
@@ -2002,7 +2002,7 @@
       "coast",
       "renewables"
     ],
-    "prompt": "A foreign company wants to build giant windmills on the beach for clean power. But this will take up the land where fishermen and farmers work.",
+    "prompt": "Sir, we have a problem. A foreign company wants to build giant windmills on the beach for clean power. But this will take up the land where fishermen and farmers work.",
     "left": {
       "id": "a",
       "label": "Say yes and build the windmills on the beach.",
@@ -2038,7 +2038,7 @@
       "landless",
       "grabbing"
     ],
-    "prompt": "New mud islands just popped up in the river, and they belong to the government.",
+    "prompt": "Sir! New mud islands just popped up in the river, and they belong to the government.",
     "left": {
       "id": "a",
       "label": "Let rich bullies steal the islands.",
@@ -2076,7 +2076,7 @@
       "wetland",
       "flash-flood"
     ],
-    "prompt": "Farmers are building walls in the big wetlands to grow more food. But the walls destroy nature and hurt the birds and fish.",
+    "prompt": "Mr. Prime Minister, sir! Farmers are building walls in the big wetlands to grow more food. But the walls destroy nature and hurt the birds and fish.",
     "left": {
       "id": "a",
       "label": "Let them build walls to grow more food.",
@@ -2112,7 +2112,7 @@
       "tourism",
       "island"
     ],
-    "prompt": "Your beautiful coral island is being ruined by too many tourists and their trash.",
+    "prompt": "Your Excellency! Your beautiful coral island is being ruined by too many tourists and their trash.",
     "left": {
       "id": "a",
       "label": "Let everyone keep coming for the money.",
@@ -2148,7 +2148,7 @@
       "pollution",
       "ban"
     ],
-    "prompt": "Plastic trash is clogging up all the rivers and making the city flood. A helper wants to ban plastic bags completely, but plastic makers will be very angry.",
+    "prompt": "Prime Minister! Plastic trash is clogging up all the rivers and making the city flood. A helper wants to ban plastic bags completely, but plastic makers will be very angry.",
     "left": {
       "id": "a",
       "label": "Don't ban the plastic bags yet.",
@@ -2186,7 +2186,7 @@
       "sands",
       "mining"
     ],
-    "prompt": "The beaches have special sand that a company wants to dig up for money. But digging it up will destroy the beach and the turtle nests.",
+    "prompt": "Sir — The beaches have special sand that a company wants to dig up for money. But digging it up will destroy the beach and the turtle nests.",
     "left": {
       "id": "a",
       "label": "Let them dig up the beach for money.",
@@ -2222,7 +2222,7 @@
       "polder",
       "flood"
     ],
-    "prompt": "The walls holding the ocean back are old and breaking. A big storm could drown everyone.",
+    "prompt": "Honourable leader! The walls holding the ocean back are old and breaking. A big storm could drown everyone.",
     "left": {
       "id": "a",
       "label": "Just patch the broken spots for now.",
@@ -2258,7 +2258,7 @@
       "limestone",
       "import"
     ],
-    "prompt": "Builders are buying rocks from other countries. You can blast your own hills to get rocks instead, but those hills are sacred to native people.",
+    "prompt": "Sir, urgent news. Builders are buying rocks from other countries. You can blast your own hills to get rocks instead, but those hills are sacred to native people.",
     "left": {
       "id": "a",
       "label": "Blast the sacred hills for rocks.",
@@ -2294,7 +2294,7 @@
       "antibiotics",
       "exports"
     ],
-    "prompt": "Fish farmers are giving their fish illegal medicine. Other countries won't buy the fish if they find out.",
+    "prompt": "Sir, forgive me — Fish farmers are giving their fish illegal medicine. Other countries won't buy the fish if they find out.",
     "left": {
       "id": "a",
       "label": "Pretend you didn't notice and hope no one finds out.",
@@ -2332,7 +2332,7 @@
       "rivers",
       "navigation"
     ],
-    "prompt": "The rivers are full of mud and big boats are getting stuck. You can dig the mud out fast and dump it anywhere, or do it carefully so it doesn't hurt the fish.",
+    "prompt": "A word, sir! The rivers are full of mud and big boats are getting stuck. You can dig the mud out fast and dump it anywhere, or do it carefully so it doesn't hurt the fish.",
     "left": {
       "id": "a",
       "label": "Dig fast and dump the mud anywhere.",
@@ -2368,7 +2368,7 @@
       "gas",
       "bidding"
     ],
-    "prompt": "Big companies want to dig for gas deep in your ocean. They want an easy deal where they keep most of the money.",
+    "prompt": "Sir, we have a problem. Big companies want to dig for gas deep in your ocean. They want an easy deal where they keep most of the money.",
     "left": {
       "id": "a",
       "label": "Give them an easy deal so they start working fast.",
@@ -2404,7 +2404,7 @@
       "farmers",
       "import"
     ],
-    "prompt": "The price of salt is too low, and your poor salt farmers are going broke. Other countries sell it even cheaper.",
+    "prompt": "Sir! The price of salt is too low, and your poor salt farmers are going broke. Other countries sell it even cheaper.",
     "left": {
       "id": "a",
       "label": "Let the cheap salt in from other countries.",
@@ -2440,7 +2440,7 @@
       "plantation",
       "biodiversity"
     ],
-    "prompt": "You need to plant more trees. You can plant cheap, fast-growing trees that hurt the soil, or slow, natural trees that help animals.",
+    "prompt": "Mr. Prime Minister, sir! You need to plant more trees. You can plant cheap, fast-growing trees that hurt the soil, or slow, natural trees that help animals.",
     "left": {
       "id": "a",
       "label": "Plant the cheap, fast trees.",
@@ -2476,7 +2476,7 @@
       "discovery",
       "windfall"
     ],
-    "prompt": "You found a lot of extra gas under the ground. Use it all up fast so things are cheap right now, or save it for the future?",
+    "prompt": "Your Excellency! You found a lot of extra gas under the ground. Use it all up fast so things are cheap right now, or save it for the future?",
     "left": {
       "id": "a",
       "label": "Use it up fast to make things cheap now.",
@@ -2512,7 +2512,7 @@
       "sundarbans",
       "expansion"
     ],
-    "prompt": "The dirty power plant next to the beautiful forest wants to build a second, bigger plant right next to it. Scientists say this is a terrible idea.",
+    "prompt": "Prime Minister! The dirty power plant next to the beautiful forest wants to build a second, bigger plant right next to it. Scientists say this is a terrible idea.",
     "left": {
       "id": "a",
       "label": "Let them build the second dirty power plant.",
@@ -2550,7 +2550,7 @@
       "minerals",
       "cht"
     ],
-    "prompt": "You found valuable rocks under the land where native people live in the hills. They say you must ask permission and share the money.",
+    "prompt": "Sir — You found valuable rocks under the land where native people live in the hills. They say you must ask permission and share the money.",
     "left": {
       "id": "a",
       "label": "Take the rocks without asking permission.",
@@ -2588,7 +2588,7 @@
       "water",
       "metering"
     ],
-    "prompt": "Farmers pump water for free, but they waste a lot. You can make them pay for it using prepaid cards, but they might go broke if it's a bad year.",
+    "prompt": "Honourable leader! Farmers pump water for free, but they waste a lot. You can make them pay for it using prepaid cards, but they might go broke if it's a bad year.",
     "left": {
       "id": "a",
       "label": "Make them use prepaid cards to pay for water.",
@@ -2624,7 +2624,7 @@
       "safety",
       "workers"
     ],
-    "prompt": "The places where men take apart old ships are deadly. People get hurt or die. Bosses say making it safe costs too much money.",
+    "prompt": "Sir, urgent news. The places where men take apart old ships are deadly. People get hurt or die. Bosses say making it safe costs too much money.",
     "left": {
       "id": "a",
       "label": "Leave the deadly shipyards alone.",
@@ -2661,7 +2661,7 @@
       "canal",
       "mega-project"
     ],
-    "prompt": "Engineers want to dig a giant ditch to move water from wet places to dry places. It costs a fortune and might ruin the rivers.",
+    "prompt": "Sir, forgive me — Engineers want to dig a giant ditch to move water from wet places to dry places. It costs a fortune and might ruin the rivers.",
     "left": {
       "id": "a",
       "label": "Say yes to digging the giant water ditch.",
@@ -2697,7 +2697,7 @@
       "canal",
       "mega-project"
     ],
-    "prompt": "The giant ditch is taking too much water. The wet places are now drying out, and angry people want you to turn the water down.",
+    "prompt": "A word, sir! The giant ditch is taking too much water. The wet places are now drying out, and angry people want you to turn the water down.",
     "left": {
       "id": "a",
       "label": "Keep taking all the water to the dry places.",
@@ -2733,7 +2733,7 @@
       "canal",
       "mega-project"
     ],
-    "prompt": "The builders of the ditch are mad because you slowed them down. They threaten to quit unless you pay them all the money anyway.",
+    "prompt": "Sir, we have a problem. The builders of the ditch are mad because you slowed them down. They threaten to quit unless you pay them all the money anyway.",
     "left": {
       "id": "a",
       "label": "Pay the builders all the money.",
@@ -2771,7 +2771,7 @@
       "blackout",
       "resilience"
     ],
-    "prompt": "The country's power wires are so weak that one mistake could turn off the lights for everyone at once. Fixing it costs a ton of money.",
+    "prompt": "Sir! The country's power wires are so weak that one mistake could turn off the lights for everyone at once. Fixing it costs a ton of money.",
     "left": {
       "id": "a",
       "label": "Spend the money to fix the wires perfectly.",
@@ -2807,7 +2807,7 @@
       "off-grid",
       "rural"
     ],
-    "prompt": "Faraway villages don't have electricity. You can give them small solar panels now, or make them wait years for big power lines to be built.",
+    "prompt": "Mr. Prime Minister, sir! Faraway villages don't have electricity. You can give them small solar panels now, or make them wait years for big power lines to be built.",
     "left": {
       "id": "a",
       "label": "Give them the small solar panels right now.",
@@ -2843,7 +2843,7 @@
       "retirement",
       "workers"
     ],
-    "prompt": "People want you to shut down old, dirty coal plants early to clean the air. But shutting them down will leave thousands of workers without jobs.",
+    "prompt": "Your Excellency! People want you to shut down old, dirty coal plants early to clean the air. But shutting them down will leave thousands of workers without jobs.",
     "left": {
       "id": "a",
       "label": "Shut down the dirty plants and try to help the workers.",
@@ -2881,7 +2881,7 @@
       "reserve",
       "resilience"
     ],
-    "prompt": "The country only has enough gas for a few days if there is an emergency. Building a giant tank to save extra gas costs a lot.",
+    "prompt": "Prime Minister! The country only has enough gas for a few days if there is an emergency. Building a giant tank to save extra gas costs a lot.",
     "left": {
       "id": "a",
       "label": "Build the giant tank to save extra gas for emergencies.",
@@ -2917,7 +2917,7 @@
       "cooking",
       "health"
     ],
-    "prompt": "People in villages cook over smoky fires that hurt their lungs and chop down too many trees. You can pay to help them buy clean cooking gas.",
+    "prompt": "Sir — People in villages cook over smoky fires that hurt their lungs and chop down too many trees. You can pay to help them buy clean cooking gas.",
     "left": {
       "id": "a",
       "label": "Help pay for clean cooking gas.",
@@ -2953,7 +2953,7 @@
       "gas",
       "dependence"
     ],
-    "prompt": "You can share a big gas pipe with a neighbor for cheap energy. But if you get in a fight, they could turn off your gas.",
+    "prompt": "Honourable leader! You can share a big gas pipe with a neighbor for cheap energy. But if you get in a fight, they could turn off your gas.",
     "left": {
       "id": "a",
       "label": "Build the shared gas pipe.",
@@ -2990,7 +2990,7 @@
       "waste",
       "safety"
     ],
-    "prompt": "The nuclear plant will make dangerous glowing trash. You can spend money to build a safe hiding spot, or trust the builders who pinky-promised to take it back later.",
+    "prompt": "Sir, urgent news. The nuclear plant will make dangerous glowing trash. You can spend money to build a safe hiding spot, or trust the builders who pinky-promised to take it back later.",
     "left": {
       "id": "a",
       "label": "Spend the money to build a safe hiding spot now.",
@@ -3026,7 +3026,7 @@
       "industry",
       "grid"
     ],
-    "prompt": "Big factories are building their own private power plants because the city's power breaks too much. This makes the city's power even worse for normal people.",
+    "prompt": "Sir, forgive me — Big factories are building their own private power plants because the city's power breaks too much. This makes the city's power even worse for normal people.",
     "left": {
       "id": "a",
       "label": "Force the factories to use the city's power.",
@@ -3063,7 +3063,7 @@
       "seeds",
       "farmers"
     ],
-    "prompt": "Scientists made special seeds that bugs won't eat. It helps grow more food, but people are scared it's unnatural and gives too much power to the seed company.",
+    "prompt": "A word, sir! Scientists made special seeds that bugs won't eat. It helps grow more food, but people are scared it's unnatural and gives too much power to the seed company.",
     "left": {
       "id": "a",
       "label": "Use the special seeds to grow more food.",
@@ -3098,7 +3098,7 @@
       "greenbelt",
       "cyclone"
     ],
-    "prompt": "Planting a wall of trees by the ocean will stop big waves from killing people during storms. But rich guys want that land for shrimp farms.",
+    "prompt": "Sir, we have a problem. Planting a wall of trees by the ocean will stop big waves from killing people during storms. But rich guys want that land for shrimp farms.",
     "left": {
       "id": "a",
       "label": "Plant the trees to save people from storms.",
@@ -3135,7 +3135,7 @@
       "encroachment",
       "powerful"
     ],
-    "prompt": "Powerful people are sneaking into the protected forest and building hotels. You can kick them out, or pretend you didn't see.",
+    "prompt": "Sir! Powerful people are sneaking into the protected forest and building hotels. You can kick them out, or pretend you didn't see.",
     "left": {
       "id": "a",
       "label": "Kick them out and save the forest.",
@@ -3172,7 +3172,7 @@
       "floating",
       "land"
     ],
-    "prompt": "You can force big factories to put solar panels on their roofs and over canals to make clean power. The factory bosses will complain about the cost.",
+    "prompt": "Mr. Prime Minister, sir! You can force big factories to put solar panels on their roofs and over canals to make clean power. The factory bosses will complain about the cost.",
     "left": {
       "id": "a",
       "label": "Force the factories to put up solar panels.",
@@ -3208,7 +3208,7 @@
       "mining",
       "contracts"
     ],
-    "prompt": "The only rock mine in the country loses money because of a bad contract with a foreign company. If you change it, the rich middlemen will be angry.",
+    "prompt": "Your Excellency! The only rock mine in the country loses money because of a bad contract with a foreign company. If you change it, the rich middlemen will be angry.",
     "left": {
       "id": "a",
       "label": "Fix the bad contract and make the mine better.",
@@ -3244,7 +3244,7 @@
       "phosphate",
       "import"
     ],
-    "prompt": "Farmers need plant food from other countries. You can sign a long, expensive contract to be safe, or just buy it when you need it and hope the price is low.",
+    "prompt": "Prime Minister! Farmers need plant food from other countries. You can sign a long, expensive contract to be safe, or just buy it when you need it and hope the price is low.",
     "left": {
       "id": "a",
       "label": "Sign the long, expensive contract to be safe.",
@@ -3280,7 +3280,7 @@
       "health",
       "forests"
     ],
-    "prompt": "You can give village moms special new stoves that don't make deadly smoke. But they cost money and people are used to their old smoky fires.",
+    "prompt": "Sir — You can give village moms special new stoves that don't make deadly smoke. But they cost money and people are used to their old smoky fires.",
     "left": {
       "id": "a",
       "label": "Give out the special new stoves.",
@@ -3316,7 +3316,7 @@
       "contracts",
       "renegotiation"
     ],
-    "prompt": "The government pays crazy high prices for power from factories owned by your friends. You can force them to lower the prices, but they will be mad.",
+    "prompt": "Honourable leader! The government pays crazy high prices for power from factories owned by your friends. You can force them to lower the prices, but they will be mad.",
     "left": {
       "id": "a",
       "label": "Force your friends to lower the prices.",
@@ -3352,7 +3352,7 @@
       "surface",
       "groundwater"
     ],
-    "prompt": "The city is drinking all the underground water. You can build a giant system to clean river water instead, but it costs a lot and the rivers are gross.",
+    "prompt": "Sir, urgent news. The city is drinking all the underground water. You can build a giant system to clean river water instead, but it costs a lot and the rivers are gross.",
     "left": {
       "id": "a",
       "label": "Build the giant system to clean river water.",
@@ -3388,7 +3388,7 @@
       "livestock",
       "imports"
     ],
-    "prompt": "You buy almost all your milk powder from other countries. You can spend a lot of money to help your own farmers make milk, or just keep buying it cheap from away.",
+    "prompt": "Sir, forgive me — You buy almost all your milk powder from other countries. You can spend a lot of money to help your own farmers make milk, or just keep buying it cheap from away.",
     "left": {
       "id": "a",
       "label": "Spend money to help your own farmers make milk.",
@@ -3424,7 +3424,7 @@
       "canals",
       "irrigation"
     ],
-    "prompt": "The old village ponds are full of mud. You can pay people to dig them out so fish can live there again, but local bosses might steal some of the money.",
+    "prompt": "A word, sir! The old village ponds are full of mud. You can pay people to dig them out so fish can live there again, but local bosses might steal some of the money.",
     "left": {
       "id": "a",
       "label": "Pay to dig out the old ponds.",
@@ -3460,7 +3460,7 @@
       "monopoly",
       "sovereignty"
     ],
-    "prompt": "A few companies sell seeds that farmers have to buy brand new every year. You can help farmers save their own seeds, but the seed companies will be angry.",
+    "prompt": "Sir, we have a problem. A few companies sell seeds that farmers have to buy brand new every year. You can help farmers save their own seeds, but the seed companies will be angry.",
     "left": {
       "id": "a",
       "label": "Help farmers save their own seeds.",
@@ -3496,7 +3496,7 @@
       "fuel",
       "self-reliance"
     ],
-    "prompt": "The country's lone, ancient oil refinery meets a fraction of fuel demand, so most fuel is imported already-refined at a premium. Build a costly second refinery for self-reliance, or keep importing refined product and skip the capital?",
+    "prompt": "Sir! The country's lone, ancient oil refinery meets a fraction of fuel demand, so most fuel is imported already-refined at a premium. Build a costly second refinery for self-reliance, or keep importing refined product and skip the capital?",
     "left": {
       "id": "a",
       "label": "Build the second refinery.",
@@ -3531,7 +3531,7 @@
       "rainwater",
       "aquifer"
     ],
-    "prompt": "As aquifers fall, a programme of managed recharge — capturing monsoon rain to refill the groundwater — could slow the decline. The officer wants mandatory rainwater harvesting and recharge structures; it is cheap per site but vast in scale and easy to neglect.",
+    "prompt": "Mr. Prime Minister, sir! As aquifers fall, a programme of managed recharge — capturing monsoon rain to refill the groundwater — could slow the decline. The officer wants mandatory rainwater harvesting and recharge structures; it is cheap per site but vast in scale and easy to neglect.",
     "left": {
       "id": "a",
       "label": "Mandate recharge and rainwater harvesting.",
@@ -3567,7 +3567,7 @@
       "diversification",
       "water"
     ],
-    "prompt": "The obsession with thirsty rice drains the aquifers and leaves diets and incomes undiversified. The director wants incentives to shift toward less-thirsty, higher-value crops — pulses, oilseeds, vegetables — against the grain of habit and rice-first policy.",
+    "prompt": "Your Excellency! The obsession with thirsty rice drains the aquifers and leaves diets and incomes undiversified. The director wants incentives to shift toward less-thirsty, higher-value crops — pulses, oilseeds, vegetables — against the grain of habit and rice-first policy.",
     "left": {
       "id": "a",
       "label": "Incentivise crop diversification.",
@@ -3603,7 +3603,7 @@
       "marine",
       "tourism"
     ],
-    "prompt": "The coast's sea-turtle nesting beaches are being lost to lights, nets, and development. A protected hatchery-and-beach programme would save them and draw eco-tourism, at the cost of restricting the fishing and building the coastal economy leans on.",
+    "prompt": "Prime Minister! The coast's sea-turtle nesting beaches are being lost to lights, nets, and development. A protected hatchery-and-beach programme would save them and draw eco-tourism, at the cost of restricting the fishing and building the coastal economy leans on.",
     "left": {
       "id": "a",
       "label": "Protect the nesting beaches and hatcheries.",
@@ -3639,7 +3639,7 @@
       "battery",
       "renewables"
     ],
-    "prompt": "Solar and wind are useless after dark and in calm without storage, and the grid cannot absorb them. Invest in a costly grid-scale battery programme to make renewables dispatchable, or keep leaning on fossil plants for reliable power?",
+    "prompt": "Sir — Solar and wind are useless after dark and in calm without storage, and the grid cannot absorb them. Invest in a costly grid-scale battery programme to make renewables dispatchable, or keep leaning on fossil plants for reliable power?",
     "left": {
       "id": "a",
       "label": "Invest in grid-scale battery storage.",
@@ -3675,7 +3675,7 @@
       "system-loss",
       "theft"
     ],
-    "prompt": "A fifth of the piped gas vanishes through illegal connections, tampered meters, and bribed staff, much of it serving captive industrial and elite users. Mount a hard anti-theft drive that hits connected beneficiaries, or keep absorbing the loss?",
+    "prompt": "Honourable leader! A fifth of the piped gas vanishes through illegal connections, tampered meters, and bribed staff, much of it serving captive industrial and elite users. Mount a hard anti-theft drive that hits connected beneficiaries, or keep absorbing the loss?",
     "left": {
       "id": "a",
       "label": "Crack down on the gas theft.",
@@ -3711,7 +3711,7 @@
       "communities",
       "livelihoods"
     ],
-    "prompt": "A social-forestry scheme would let poor villagers grow and harvest trees on degraded state land — income for them, green cover for the country — but done carelessly it becomes a backdoor to clear-felling and grabbing the very forest it should grow. How do you design it?",
+    "prompt": "Sir, urgent news. A social-forestry scheme would let poor villagers grow and harvest trees on degraded state land — income for them, green cover for the country — but done carelessly it becomes a backdoor to clear-felling and grabbing the very forest it should grow. How do you design it?",
     "left": {
       "id": "a",
       "label": "Run a genuine community social-forestry scheme.",
@@ -3747,7 +3747,7 @@
       "pilot",
       "innovation"
     ],
-    "prompt": "The strong tidal range of the estuaries could, in theory, drive tidal power — a clean, novel source. A pilot would be a costly, unproven gamble on innovation; the safe path is to stick with proven solar and wind and let others pioneer the tides.",
+    "prompt": "Sir, forgive me — The strong tidal range of the estuaries could, in theory, drive tidal power — a clean, novel source. A pilot would be a costly, unproven gamble on innovation; the safe path is to stick with proven solar and wind and let others pioneer the tides.",
     "left": {
       "id": "a",
       "label": "Fund the tidal-energy pilot.",
@@ -3783,7 +3783,7 @@
       "oilseed",
       "imports"
     ],
-    "prompt": "The country imports almost all its cooking oil, draining dollars and leaving prices hostage to world markets. A push for domestic mustard, sunflower, and soy oilseed would build self-reliance — slow, and competing for the scarce land that grows food grains.",
+    "prompt": "A word, sir! The country imports almost all its cooking oil, draining dollars and leaving prices hostage to world markets. A push for domestic mustard, sunflower, and soy oilseed would build self-reliance — slow, and competing for the scarce land that grows food grains.",
     "left": {
       "id": "a",
       "label": "Drive domestic oilseed self-reliance.",
@@ -3819,7 +3819,7 @@
       "soe",
       "farmers"
     ],
-    "prompt": "The state sugar mills lose money every year on obsolete machinery and graft, but tens of thousands of cane farmers and mill workers depend on them. Shut or privatise the worst to stem the losses, or pour in another bailout and modernisation gamble?",
+    "prompt": "Sir, we have a problem. The state sugar mills lose money every year on obsolete machinery and graft, but tens of thousands of cane farmers and mill workers depend on them. Shut or privatise the worst to stem the losses, or pour in another bailout and modernisation gamble?",
     "left": {
       "id": "a",
       "label": "Shut or privatise the loss-making mills.",
@@ -3855,7 +3855,7 @@
       "cold-chain",
       "waste"
     ],
-    "prompt": "A third of the fruit and vegetables rot between farm and market for want of storage, cold chain, and roads — a staggering waste that beggars farmers and inflates prices. The director wants a costly cold-chain build; the capital is large and the gain diffuse.",
+    "prompt": "Sir! A third of the fruit and vegetables rot between farm and market for want of storage, cold chain, and roads — a staggering waste that beggars farmers and inflates prices. The director wants a costly cold-chain build; the capital is large and the gain diffuse.",
     "left": {
       "id": "a",
       "label": "Build the cold chain and storage.",
@@ -3891,7 +3891,7 @@
       "bricks",
       "topsoil"
     ],
-    "prompt": "The coal plants pile up fly-ash as toxic waste, while the brick kilns devour the country's topsoil. Mandating fly-ash bricks would solve both — using the waste, sparing the soil — but it disrupts the entrenched clay-brick industry and its workers.",
+    "prompt": "Mr. Prime Minister, sir! The coal plants pile up fly-ash as toxic waste, while the brick kilns devour the country's topsoil. Mandating fly-ash bricks would solve both — using the waste, sparing the soil — but it disrupts the entrenched clay-brick industry and its workers.",
     "left": {
       "id": "a",
       "label": "Mandate fly-ash brick production.",
@@ -3927,7 +3927,7 @@
       "protected-area",
       "fisheries"
     ],
-    "prompt": "Declaring a large marine protected area in the bay would let the overfished stocks recover and safeguard biodiversity — a long-term gift to the fishery — but it locks both trawlers and artisanal fishers out of rich grounds in the short term.",
+    "prompt": "Your Excellency! Declaring a large marine protected area in the bay would let the overfished stocks recover and safeguard biodiversity — a long-term gift to the fishery — but it locks both trawlers and artisanal fishers out of rich grounds in the short term.",
     "left": {
       "id": "a",
       "label": "Declare the marine protected area.",
@@ -3963,7 +3963,7 @@
       "land",
       "evacuation"
     ],
-    "prompt": "New power plants sit idle for want of transmission lines, and the lines are stalled by land disputes and farmers refusing the towers across their fields. Force the right-of-way through with compulsory acquisition, or negotiate slow and fair?",
+    "prompt": "Prime Minister! New power plants sit idle for want of transmission lines, and the lines are stalled by land disputes and farmers refusing the towers across their fields. Force the right-of-way through with compulsory acquisition, or negotiate slow and fair?",
     "left": {
       "id": "a",
       "label": "Force the right-of-way through.",
@@ -3999,7 +3999,7 @@
       "forest",
       "expansion"
     ],
-    "prompt": "Tea companies want to expand their estates into adjoining reserve forest and indigenous land — more export tea, at the cost of felled forest and displaced hill communities. Grant the leases, or protect the forest and the people on it?",
+    "prompt": "Sir — Tea companies want to expand their estates into adjoining reserve forest and indigenous land — more export tea, at the cost of felled forest and displaced hill communities. Grant the leases, or protect the forest and the people on it?",
     "left": {
       "id": "a",
       "label": "Grant the tea-estate expansion.",
@@ -4036,7 +4036,7 @@
       "irrigation",
       "diesel"
     ],
-    "prompt": "Replacing the diesel and grid pumps that irrigate the fields with solar ones would slash the fuel bill and emissions and free farmers from fuel-price shocks — a large upfront cost, against the cheap, familiar diesel status quo.",
+    "prompt": "Honourable leader! Replacing the diesel and grid pumps that irrigate the fields with solar ones would slash the fuel bill and emissions and free farmers from fuel-price shocks — a large upfront cost, against the cheap, familiar diesel status quo.",
     "left": {
       "id": "a",
       "label": "Drive the solar-irrigation rollout.",
@@ -4072,7 +4072,7 @@
       "pesticides",
       "exports"
     ],
-    "prompt": "The dried-fish trade — a coastal staple and growing export — is rife with illegal pesticide use to keep flies off the racks, poisoning consumers and threatening the export market. The officer wants enforcement and clean drying tech; the traders resist the cost.",
+    "prompt": "Sir, urgent news. The dried-fish trade — a coastal staple and growing export — is rife with illegal pesticide use to keep flies off the racks, poisoning consumers and threatening the export market. The officer wants enforcement and clean drying tech; the traders resist the cost.",
     "left": {
       "id": "a",
       "label": "Enforce clean drying, ban the pesticides.",
@@ -4108,7 +4108,7 @@
       "survey",
       "sovereignty"
     ],
-    "prompt": "A thorough national mineral survey could reveal coal, gas, hard rock, and rare minerals worth fortunes — knowledge that is power, and a magnet for foreign extractors and the conflicts that follow discovery. Survey aggressively, or tread lightly?",
+    "prompt": "Sir, forgive me — A thorough national mineral survey could reveal coal, gas, hard rock, and rare minerals worth fortunes — knowledge that is power, and a magnet for foreign extractors and the conflicts that follow discovery. Survey aggressively, or tread lightly?",
     "left": {
       "id": "a",
       "label": "Survey aggressively and map the wealth.",
@@ -4143,7 +4143,7 @@
       "afforestation",
       "land"
     ],
-    "prompt": "Planting forests on the new coastal chars would stabilise the silt islands, buffer storms, and eventually create land for the landless — slow, unglamorous work, easily neglected against the rush to hand the chars to shrimp farms and grabbers.",
+    "prompt": "A word, sir! Planting forests on the new coastal chars would stabilise the silt islands, buffer storms, and eventually create land for the landless — slow, unglamorous work, easily neglected against the rush to hand the chars to shrimp farms and grabbers.",
     "left": {
       "id": "a",
       "label": "Fund char afforestation and stabilisation.",
@@ -4181,7 +4181,7 @@
       "landless",
       "elite"
     ],
-    "prompt": "Land-ceiling laws meant to cap how much one family can own are flouted wholesale through benami holdings, while millions are landless. The commissioner wants real enforcement and redistribution of the surplus; the great landholders, many connected, will fight hard.",
+    "prompt": "Sir, we have a problem. Land-ceiling laws meant to cap how much one family can own are flouted wholesale through benami holdings, while millions are landless. The commissioner wants real enforcement and redistribution of the surplus; the great landholders, many connected, will fight hard.",
     "left": {
       "id": "a",
       "label": "Enforce the land ceiling and redistribute.",
@@ -4217,7 +4217,7 @@
       "labour",
       "yields"
     ],
-    "prompt": "Mechanising the farms — harvesters, tillers, transplanters — would raise yields and ease the brutal labour as workers leave for the cities. But it would also throw landless farm labourers, who have nothing else, out of their only work. How hard do you push?",
+    "prompt": "Sir! Mechanising the farms — harvesters, tillers, transplanters — would raise yields and ease the brutal labour as workers leave for the cities. But it would also throw landless farm labourers, who have nothing else, out of their only work. How hard do you push?",
     "left": {
       "id": "a",
       "label": "Push mechanisation hard.",
@@ -4253,7 +4253,7 @@
       "used-oil",
       "pollution"
     ],
-    "prompt": "Used engine oil and scrap tyres are dumped or burned in toxic backyard operations that poison soil and air. A formal recycling and pyrolysis industry could turn the waste to value cleanly — at a cost the informal burners will resist.",
+    "prompt": "Mr. Prime Minister, sir! Used engine oil and scrap tyres are dumped or burned in toxic backyard operations that poison soil and air. A formal recycling and pyrolysis industry could turn the waste to value cleanly — at a cost the informal burners will resist.",
     "left": {
       "id": "a",
       "label": "Build formal oil and tyre recycling.",
@@ -4289,7 +4289,7 @@
       "solar",
       "investment"
     ],
-    "prompt": "A generous feed-in tariff guaranteeing a good price for renewable power fed to the grid would unleash private solar and wind investment — at a cost locked in for years that the utility, and ultimately the consumer, must bear. How generous do you set it?",
+    "prompt": "Your Excellency! A generous feed-in tariff guaranteeing a good price for renewable power fed to the grid would unleash private solar and wind investment — at a cost locked in for years that the utility, and ultimately the consumer, must bear. How generous do you set it?",
     "left": {
       "id": "a",
       "label": "Set a generous feed-in tariff.",
@@ -4324,7 +4324,7 @@
       "seabed",
       "claim"
     ],
-    "prompt": "With the maritime boundary settled, you can press an extended continental-shelf claim to the seabed beyond — a potential bonanza of gas and minerals, and a costly, years-long legal and survey effort that may antagonise neighbours with overlapping claims.",
+    "prompt": "Prime Minister! With the maritime boundary settled, you can press an extended continental-shelf claim to the seabed beyond — a potential bonanza of gas and minerals, and a costly, years-long legal and survey effort that may antagonise neighbours with overlapping claims.",
     "left": {
       "id": "a",
       "label": "Press the extended shelf claim.",
@@ -4359,7 +4359,7 @@
       "tourism",
       "conservation"
     ],
-    "prompt": "A grand safari park and eco-resort carved out of a forest reserve would draw tourists and revenue — and fragment the habitat, cage wildlife for show, and hand prime forest to resort developers. Build the attraction, or protect the reserve intact?",
+    "prompt": "Sir — A grand safari park and eco-resort carved out of a forest reserve would draw tourists and revenue — and fragment the habitat, cage wildlife for show, and hand prime forest to resort developers. Build the attraction, or protect the reserve intact?",
     "left": {
       "id": "a",
       "label": "Build the safari park and eco-resort.",
@@ -4395,7 +4395,7 @@
       "ethanol",
       "food"
     ],
-    "prompt": "Molasses from the sugar mills could be turned into ethanol to blend with petrol, cutting fuel imports and using a waste stream — or that same feedstock could feed the food and drink industries. Mandate biofuel blending?",
+    "prompt": "Honourable leader! Molasses from the sugar mills could be turned into ethanol to blend with petrol, cutting fuel imports and using a waste stream — or that same feedstock could feed the food and drink industries. Mandate biofuel blending?",
     "left": {
       "id": "a",
       "label": "Mandate ethanol blending.",
@@ -4430,7 +4430,7 @@
       "hydro",
       "storage"
     ],
-    "prompt": "With little room for big dams, the engineers propose a pumped-storage scheme in the hills — a giant battery using water and gravity to store surplus power. It is costly, geologically risky, and would flood a hill valley, displacing its communities.",
+    "prompt": "Sir, urgent news. With little room for big dams, the engineers propose a pumped-storage scheme in the hills — a giant battery using water and gravity to store surplus power. It is costly, geologically risky, and would flood a hill valley, displacing its communities.",
     "left": {
       "id": "a",
       "label": "Build the pumped-storage scheme.",
@@ -4467,7 +4467,7 @@
       "iodine",
       "health"
     ],
-    "prompt": "Iodine deficiency still stunts minds in the regions where un-iodised salt slips through, and enforcement of universal salt iodisation is lax. The officer wants a hard enforcement drive; the small, scattered salt producers resist the cost and oversight.",
+    "prompt": "Sir, forgive me — Iodine deficiency still stunts minds in the regions where un-iodised salt slips through, and enforcement of universal salt iodisation is lax. The officer wants a hard enforcement drive; the small, scattered salt producers resist the cost and oversight.",
     "left": {
       "id": "a",
       "label": "Enforce universal salt iodisation.",
@@ -4502,7 +4502,7 @@
       "silos",
       "food-security"
     ],
-    "prompt": "The country's grain reserve rots in damp, rat-infested warehouses, losing a fortune and leaving the buffer unreliable in a crisis. The director wants modern steel silos; the capital is large and the warehouse rackets that profit from the chaos resist.",
+    "prompt": "A word, sir! The country's grain reserve rots in damp, rat-infested warehouses, losing a fortune and leaving the buffer unreliable in a crisis. The director wants modern steel silos; the capital is large and the warehouse rackets that profit from the chaos resist.",
     "left": {
       "id": "a",
       "label": "Build modern grain silos.",
@@ -4539,7 +4539,7 @@
       "bird-flu",
       "biosecurity"
     ],
-    "prompt": "The booming poultry industry — cheap protein for millions — is a tinderbox for bird flu, with poor biosecurity and culling-compensation too stingy to stop farmers hiding outbreaks. The director wants real biosecurity and fair compensation; it is costly.",
+    "prompt": "Sir, we have a problem. The booming poultry industry — cheap protein for millions — is a tinderbox for bird flu, with poor biosecurity and culling-compensation too stingy to stop farmers hiding outbreaks. The director wants real biosecurity and fair compensation; it is costly.",
     "left": {
       "id": "a",
       "label": "Fund biosecurity and fair culling pay.",
@@ -4574,7 +4574,7 @@
       "tenancy",
       "rights"
     ],
-    "prompt": "Millions of sharecroppers till others' land for a punishing share of the crop, with no security and no recourse when a landlord evicts them at whim. The officer wants enforceable tenancy rights and a fairer share; the landlord class resists fiercely.",
+    "prompt": "Sir! Millions of sharecroppers till others' land for a punishing share of the crop, with no security and no recourse when a landlord evicts them at whim. The officer wants enforceable tenancy rights and a fairer share; the landlord class resists fiercely.",
     "left": {
       "id": "a",
       "label": "Enforce tenancy rights and a fair share.",
@@ -4610,7 +4610,7 @@
       "standards",
       "demand"
     ],
-    "prompt": "The cheapest power is the power not used, and mandatory energy-efficiency standards for buildings, motors, and appliances would cut demand more cheaply than any new plant. The director wants hard standards; manufacturers and developers resist the cost.",
+    "prompt": "Mr. Prime Minister, sir! The cheapest power is the power not used, and mandatory energy-efficiency standards for buildings, motors, and appliances would cut demand more cheaply than any new plant. The director wants hard standards; manufacturers and developers resist the cost.",
     "left": {
       "id": "a",
       "label": "Mandate hard efficiency standards.",
@@ -4646,7 +4646,7 @@
       "fleet",
       "sovereignty"
     ],
-    "prompt": "Your fishers work only the crowded coastal waters while the rich deep-sea zone of your own maritime territory is fished by licensed foreign trawlers. The director wants a national deep-sea fleet to claim that catch; it is costly and the fishers lack the vessels and skills.",
+    "prompt": "Your Excellency! Your fishers work only the crowded coastal waters while the rich deep-sea zone of your own maritime territory is fished by licensed foreign trawlers. The director wants a national deep-sea fleet to claim that catch; it is costly and the fishers lack the vessels and skills.",
     "left": {
       "id": "a",
       "label": "Build a national deep-sea fleet.",
@@ -4682,7 +4682,7 @@
       "fruit",
       "exports"
     ],
-    "prompt": "The country's mangoes, jackfruit, and vegetables could earn real export money, but they rot for want of cold chain, fail foreign pesticide tests, and lack branding. Invest in a costly push for export-grade horticulture, or keep them a domestic crop?",
+    "prompt": "Prime Minister! The country's mangoes, jackfruit, and vegetables could earn real export money, but they rot for want of cold chain, fail foreign pesticide tests, and lack branding. Invest in a costly push for export-grade horticulture, or keep them a domestic crop?",
     "left": {
       "id": "a",
       "label": "Invest in export-grade horticulture.",
@@ -4719,7 +4719,7 @@
       "craft",
       "livelihoods"
     ],
-    "prompt": "Bamboo and cane sustain vast craft and construction livelihoods and could anchor a sustainable green industry — but the resource is being stripped bare and the artisans are sliding into poverty. Build a managed-cultivation and value-chain push, or let it dwindle?",
+    "prompt": "Sir — Bamboo and cane sustain vast craft and construction livelihoods and could anchor a sustainable green industry — but the resource is being stripped bare and the artisans are sliding into poverty. Build a managed-cultivation and value-chain push, or let it dwindle?",
     "left": {
       "id": "a",
       "label": "Build a sustainable bamboo value chain.",
@@ -4755,7 +4755,7 @@
       "disease",
       "hatchery"
     ],
-    "prompt": "Disease keeps wiping out the shrimp farms — a major export — because the hatcheries sell weak, virus-laden post-larvae and farmers lack any quality control. The director wants certified disease-free hatcheries and training; the cheap-PL hatchery trade resists.",
+    "prompt": "Honourable leader! Disease keeps wiping out the shrimp farms — a major export — because the hatcheries sell weak, virus-laden post-larvae and farmers lack any quality control. The director wants certified disease-free hatcheries and training; the cheap-PL hatchery trade resists.",
     "left": {
       "id": "a",
       "label": "Mandate certified disease-free hatcheries.",
@@ -4791,7 +4791,7 @@
       "efficiency",
       "demand"
     ],
-    "prompt": "Air-conditioning is exploding with the heat and the middle class, spiking peak demand and grid strain. A district-cooling and efficiency push could blunt it; the developers and the AC-importing lobby prefer the cheap, wasteful status quo.",
+    "prompt": "Sir, urgent news. Air-conditioning is exploding with the heat and the middle class, spiking peak demand and grid strain. A district-cooling and efficiency push could blunt it; the developers and the AC-importing lobby prefer the cheap, wasteful status quo.",
     "left": {
       "id": "a",
       "label": "Push district cooling and AC standards.",
@@ -4827,7 +4827,7 @@
       "erosion",
       "megaproject"
     ],
-    "prompt": "A vast river-training scheme could tame the great river's wandering, stop the erosion swallowing districts, and reclaim land — a mega-project of guide bunds and revetments, hugely costly, technically fraught, and a magnet for contractor padding.",
+    "prompt": "Sir, forgive me — A vast river-training scheme could tame the great river's wandering, stop the erosion swallowing districts, and reclaim land — a mega-project of guide bunds and revetments, hugely costly, technically fraught, and a magnet for contractor padding.",
     "left": {
       "id": "a",
       "label": "Launch the river-training mega-project.",
@@ -4864,7 +4864,7 @@
       "certification",
       "exports"
     ],
-    "prompt": "A credible safe-food and organic certification scheme would let farmers earn premiums and reassure consumers poisoned by adulteration — a costly system to build and police, easily faked into a meaningless sticker if done on the cheap.",
+    "prompt": "A word, sir! A credible safe-food and organic certification scheme would let farmers earn premiums and reassure consumers poisoned by adulteration — a costly system to build and police, easily faked into a meaningless sticker if done on the cheap.",
     "left": {
       "id": "a",
       "label": "Build a rigorous certification scheme.",
@@ -4900,7 +4900,7 @@
       "billing",
       "losses"
     ],
-    "prompt": "Smart meters would end the bribed meter-readers, estimated bills, and theft that plague the utilities — and let you bill accurately and cut losses. They are costly to roll out, and consumers fear higher, harder-to-dodge bills.",
+    "prompt": "Sir, we have a problem. Smart meters would end the bribed meter-readers, estimated bills, and theft that plague the utilities — and let you bill accurately and cut losses. They are costly to roll out, and consumers fear higher, harder-to-dodge bills.",
     "left": {
       "id": "a",
       "label": "Roll out smart meters widely.",
@@ -4936,7 +4936,7 @@
       "biopiracy",
       "communities"
     ],
-    "prompt": "The country's forests hold medicinal plants and genetic resources that foreign firms quietly harvest and patent — biopiracy of a heritage worth fortunes. The officer wants a benefit-sharing and protection regime; it is complex and could deter research investment too.",
+    "prompt": "Sir! The country's forests hold medicinal plants and genetic resources that foreign firms quietly harvest and patent — biopiracy of a heritage worth fortunes. The officer wants a benefit-sharing and protection regime; it is complex and could deter research investment too.",
     "left": {
       "id": "a",
       "label": "Build a benefit-sharing protection regime.",
@@ -4972,7 +4972,7 @@
       "co-management",
       "commons"
     ],
-    "prompt": "The open-water fisheries — the beels and floodplains feeding millions — are being plundered by leaseholders and gear that wipe out the stocks. The director wants community co-management handing the waters to the fishers; the connected leaseholders resist.",
+    "prompt": "Mr. Prime Minister, sir! The open-water fisheries — the beels and floodplains feeding millions — are being plundered by leaseholders and gear that wipe out the stocks. The director wants community co-management handing the waters to the fishers; the connected leaseholders resist.",
     "left": {
       "id": "a",
       "label": "Hand the waters to community co-management.",
@@ -5009,7 +5009,7 @@
       "waste",
       "rural"
     ],
-    "prompt": "Rural cattle dung and farm waste could fuel village-scale biogas plants — clean cooking gas and fertiliser slurry from waste — cutting woodsmoke and firewood demand. The officer wants a national biogas push; uptake has always stalled on cost and habit.",
+    "prompt": "Your Excellency! Rural cattle dung and farm waste could fuel village-scale biogas plants — clean cooking gas and fertiliser slurry from waste — cutting woodsmoke and firewood demand. The officer wants a national biogas push; uptake has always stalled on cost and habit.",
     "left": {
       "id": "a",
       "label": "Drive a national biogas programme.",
@@ -5045,7 +5045,7 @@
       "import",
       "livestock"
     ],
-    "prompt": "Livestock and dairy are throttled by costly imported feed, and the maize and fodder to grow it at home compete for land with food grains. The director wants a feed-crop push to cut the import bill; the land is scarce and the food-first lobby resists.",
+    "prompt": "Prime Minister! Livestock and dairy are throttled by costly imported feed, and the maize and fodder to grow it at home compete for land with food grains. The director wants a feed-crop push to cut the import bill; the land is scarce and the food-first lobby resists.",
     "left": {
       "id": "a",
       "label": "Push domestic feed and fodder.",
@@ -5081,7 +5081,7 @@
       "refining",
       "graft"
     ],
-    "prompt": "Condensate — a valuable liquid byproduct of gas extraction — is being siphoned to private 'fractionation' plants owned by connected operators at giveaway prices, robbing the state. Reclaim and properly auction it, or leave the cosy arrangement?",
+    "prompt": "Sir — Condensate — a valuable liquid byproduct of gas extraction — is being siphoned to private 'fractionation' plants owned by connected operators at giveaway prices, robbing the state. Reclaim and properly auction it, or leave the cosy arrangement?",
     "left": {
       "id": "a",
       "label": "Reclaim and auction the condensate.",
@@ -5117,7 +5117,7 @@
       "wetlands",
       "adaptation"
     ],
-    "prompt": "In the flood-prone wetlands, the old craft of floating gardens — crops grown on rafts of water hyacinth — could feed communities as the waters rise. The officer wants to revive and scale it as climate adaptation; it is labour-intensive and unfamiliar to most.",
+    "prompt": "Honourable leader! In the flood-prone wetlands, the old craft of floating gardens — crops grown on rafts of water hyacinth — could feed communities as the waters rise. The officer wants to revive and scale it as climate adaptation; it is labour-intensive and unfamiliar to most.",
     "left": {
       "id": "a",
       "label": "Revive and scale floating agriculture.",
@@ -5153,7 +5153,7 @@
       "irrigation",
       "water"
     ],
-    "prompt": "The flood-irrigation that waters the fields wastes most of the water it draws, draining the aquifers faster than need demands. Drip and sprinkler systems would slash that waste; they are costly upfront, and water and power are cheap enough that few farmers bother.",
+    "prompt": "Sir, urgent news. The flood-irrigation that waters the fields wastes most of the water it draws, draining the aquifers faster than need demands. Drip and sprinkler systems would slash that waste; they are costly upfront, and water and power are cheap enough that few farmers bother.",
     "left": {
       "id": "a",
       "label": "Subsidise efficient irrigation.",
@@ -5189,7 +5189,7 @@
       "efficiency",
       "cogeneration"
     ],
-    "prompt": "Factories waste vast energy through old motors, leaky steam, and dumped waste-heat. Mandating energy audits and cogeneration would cut industry's energy bill and the grid's load; the manufacturers resist the audits and the retrofit cost.",
+    "prompt": "Sir, forgive me — Factories waste vast energy through old motors, leaky steam, and dumped waste-heat. Mandating energy audits and cogeneration would cut industry's energy bill and the grid's load; the manufacturers resist the audits and the retrofit cost.",
     "left": {
       "id": "a",
       "label": "Mandate industrial energy audits and retrofits.",
@@ -5224,7 +5224,7 @@
       "ice",
       "waste"
     ],
-    "prompt": "A huge share of the marine catch spoils for want of ice, landing centres, and cold storage at the coast, beggaring fishers and wasting protein. The director wants a coastal cold-chain and landing-centre build; the capital is large and the gain spread thin.",
+    "prompt": "A word, sir! A huge share of the marine catch spoils for want of ice, landing centres, and cold storage at the coast, beggaring fishers and wasting protein. The director wants a coastal cold-chain and landing-centre build; the capital is large and the gain spread thin.",
     "left": {
       "id": "a",
       "label": "Build coastal landing and cold storage.",
@@ -5260,7 +5260,7 @@
       "quarrying",
       "environment"
     ],
-    "prompt": "A granite deposit could supply valuable dimension stone and cut imports, but quarrying it means blasting a forested hill that buffers a watershed and shelters indigenous hamlets. Open the quarry, or leave the hill standing?",
+    "prompt": "Sir, we have a problem. A granite deposit could supply valuable dimension stone and cut imports, but quarrying it means blasting a forested hill that buffers a watershed and shelters indigenous hamlets. Open the quarry, or leave the hill standing?",
     "left": {
       "id": "a",
       "label": "Open the granite quarry.",
@@ -5296,7 +5296,7 @@
       "peak",
       "tariff"
     ],
-    "prompt": "Peak evening demand strains the grid to breaking, forcing costly, dirty peaker plants to fire up. Time-of-use tariffs and demand-management could shave the peak cheaply; consumers resent paying more at peak hours and the populist instinct is one flat, low price.",
+    "prompt": "Sir! Peak evening demand strains the grid to breaking, forcing costly, dirty peaker plants to fire up. Time-of-use tariffs and demand-management could shave the peak cheaply; consumers resent paying more at peak hours and the populist instinct is one flat, low price.",
     "left": {
       "id": "a",
       "label": "Introduce time-of-use tariffs.",
@@ -5332,7 +5332,7 @@
       "import",
       "health"
     ],
-    "prompt": "Cheap imported palm oil dominates the cooking-oil market — affordable, but linked to poorer health and to rainforest destruction your imports fund. Tax and curb it in favour of domestic, healthier oils, or keep the cheap staple flowing?",
+    "prompt": "Mr. Prime Minister, sir! Cheap imported palm oil dominates the cooking-oil market — affordable, but linked to poorer health and to rainforest destruction your imports fund. Tax and curb it in favour of domestic, healthier oils, or keep the cheap staple flowing?",
     "left": {
       "id": "a",
       "label": "Curb palm oil for domestic, healthier oils.",
@@ -5368,7 +5368,7 @@
       "strategy",
       "future"
     ],
-    "prompt": "The decades-long power master plan must be set, and the chairman lays out the fork: double down on cheap, reliable imported coal and LNG for the growth the economy demands, or stake the future on a costlier, slower pivot to renewables?",
+    "prompt": "Your Excellency! The decades-long power master plan must be set, and the chairman lays out the fork: double down on cheap, reliable imported coal and LNG for the growth the economy demands, or stake the future on a costlier, slower pivot to renewables?",
     "left": {
       "id": "a",
       "label": "Build the fossil-heavy power plan.",
@@ -5406,7 +5406,7 @@
       "strategy",
       "future"
     ],
-    "prompt": "Years into the plan you chose, the bills are coming due — fuel-price shocks battering the fossil bet, or intermittency and cost straining the green one. Stay the course, or hedge with a costly mid-stream correction?",
+    "prompt": "Prime Minister! Years into the plan you chose, the bills are coming due — fuel-price shocks battering the fossil bet, or intermittency and cost straining the green one. Stay the course, or hedge with a costly mid-stream correction?",
     "left": {
       "id": "a",
       "label": "Stay the course you set.",
@@ -5442,7 +5442,7 @@
       "strategy",
       "future"
     ],
-    "prompt": "The energy strategy has become a political symbol — the opposition hammers every blackout or price rise as proof of your folly, while your base defends the plan as visionary. Defend it loudly, or quietly let the next plan correct it?",
+    "prompt": "Sir — The energy strategy has become a political symbol — the opposition hammers every blackout or price rise as proof of your folly, while your base defends the plan as visionary. Defend it loudly, or quietly let the next plan correct it?",
     "left": {
       "id": "a",
       "label": "Defend the strategy loudly.",
@@ -5479,7 +5479,7 @@
       "sundarbans",
       "energy"
     ],
-    "prompt": "A term later, the same fault line tears open again. A giant, dirty power plant is ready to turn on right next to a famous, beautiful forest. People are protesting.",
+    "prompt": "A term later, the same fault line tears open again. Honourable leader! A giant, dirty power plant is ready to turn on right next to a famous, beautiful forest. People are protesting.",
     "left": {
       "id": "a",
       "label": "Turn on the dirty power plant for electricity.",
@@ -5517,7 +5517,7 @@
       "sundarbans",
       "energy"
     ],
-    "prompt": "Years into your rule, the matter you thought buried resurfaces — harder. The dirty power plant is killing the fish and the forest. You can buy expensive filters to stop the pollution.",
+    "prompt": "Years into your rule, the matter you thought buried resurfaces — harder. Sir, urgent news. The dirty power plant is killing the fish and the forest. You can buy expensive filters to stop the pollution.",
     "left": {
       "id": "a",
       "label": "Buy the expensive filters to save the forest.",
@@ -5555,7 +5555,7 @@
       "import",
       "tariff"
     ],
-    "prompt": "A new season of power, an old problem with sharper teeth. A big company from another country wants to sell you electricity, but the rules are very unfair and will trap you for 25 years.",
+    "prompt": "A new season of power, an old problem with sharper teeth. Sir, forgive me — A big company from another country wants to sell you electricity, but the rules are very unfair and will trap you for 25 years.",
     "left": {
       "id": "a",
       "label": "Sign the unfair deal to get the electricity.",
@@ -5593,7 +5593,7 @@
       "rental",
       "subsidy"
     ],
-    "prompt": "The crisis returns, and this time the cabinet is watching. The government is paying rich friends billions of dollars for power plants that don't even make electricity.",
+    "prompt": "The crisis returns, and this time the cabinet is watching. A word, sir! The government is paying rich friends billions of dollars for power plants that don't even make electricity.",
     "left": {
       "id": "a",
       "label": "Keep paying your friends for doing nothing.",
@@ -5631,7 +5631,7 @@
       "offshore",
       "maritime"
     ],
-    "prompt": "Once more the issue lands on your desk, the stakes higher than before. There might be valuable gas deep in your ocean. You can let big foreign companies try to find it fast, but neighbors might get mad.",
+    "prompt": "Once more the issue lands on your desk, the stakes higher than before. Sir, we have a problem. There might be valuable gas deep in your ocean. You can let big foreign companies try to find it fast, but neighbors might get mad.",
     "left": {
       "id": "a",
       "label": "Let the foreign companies look for the gas fast.",
@@ -5667,7 +5667,7 @@
       "labour",
       "toxic"
     ],
-    "prompt": "Another year survived, and the reckoning circles back. The beaches where workers break old ships are very dangerous and toxic. You can force them to be safe, but it costs a lot.",
+    "prompt": "Another year survived, and the reckoning circles back. Sir! The beaches where workers break old ships are very dangerous and toxic. You can force them to be safe, but it costs a lot.",
     "left": {
       "id": "a",
       "label": "Leave the beaches dangerous and cheap.",
@@ -5705,7 +5705,7 @@
       "water",
       "wells"
     ],
-    "prompt": "The ground has shifted; the same demand arrives with new menace. The water wells people drink from have natural poison in them, slowly making millions sick. Fixing it costs a lot of money.",
+    "prompt": "The ground has shifted; the same demand arrives with new menace. Mr. Prime Minister, sir! The water wells people drink from have natural poison in them, slowly making millions sick. Fixing it costs a lot of money.",
     "left": {
       "id": "a",
       "label": "Spend a lot of money to give everyone clean, safe water.",
@@ -5741,7 +5741,7 @@
       "rivers",
       "erosion"
     ],
-    "prompt": "History rhymes: the conflict reopens deeper than last time. Bad gangs are digging up too much sand from the river, which makes the land collapse and destroys villages.",
+    "prompt": "History rhymes: the conflict reopens deeper than last time. Your Excellency! Bad gangs are digging up too much sand from the river, which makes the land collapse and destroys villages.",
     "left": {
       "id": "a",
       "label": "Let them keep digging so builders have sand.",
@@ -5779,7 +5779,7 @@
       "transition",
       "land"
     ],
-    "prompt": "Mid-reign, the old wound is torn afresh. You can get cheap money to build giant solar panels, but they take up the good dirt needed to grow food.",
+    "prompt": "Mid-reign, the old wound is torn afresh. Prime Minister! You can get cheap money to build giant solar panels, but they take up the good dirt needed to grow food.",
     "left": {
       "id": "a",
       "label": "Put the solar panels on the good farming dirt.",
@@ -5817,7 +5817,7 @@
       "open-pit",
       "displacement"
     ],
-    "prompt": "The pressure you deferred has come due, larger now. A company wants to dig a giant coal mine, but they have to destroy many farms and homes to do it.",
+    "prompt": "The pressure you deferred has come due, larger now. Sir — A company wants to dig a giant coal mine, but they have to destroy many farms and homes to do it.",
     "left": {
       "id": "a",
       "label": "Let them destroy the farms to dig the giant mine.",
@@ -5855,7 +5855,7 @@
       "gas",
       "spot-market"
     ],
-    "prompt": "A later term, and the quarrel has hardened into a test. The gas you buy from other countries just got super expensive. You can keep buying it, or let the lights go out sometimes.",
+    "prompt": "A later term, and the quarrel has hardened into a test. Honourable leader! The gas you buy from other countries just got super expensive. You can keep buying it, or let the lights go out sometimes.",
     "left": {
       "id": "a",
       "label": "Keep buying the gas even though it is super expensive.",
@@ -5891,7 +5891,7 @@
       "system-loss",
       "theft"
     ],
-    "prompt": "The country has changed, but this fault line has not — only worsened. People are stealing a lot of the country's electricity, and the meter checkers are helping them.",
+    "prompt": "The country has changed, but this fault line has not — only worsened. Sir, urgent news. People are stealing a lot of the country's electricity, and the meter checkers are helping them.",
     "left": {
       "id": "a",
       "label": "Stop the stealing by making everyone use prepaid cards.",
@@ -5928,7 +5928,7 @@
       "tariff",
       "industry"
     ],
-    "prompt": "It returns, as these things do, with the patience gone. Rich factory owners pay almost nothing for their gas. You can make them pay full price, but they will be angry.",
+    "prompt": "It returns, as these things do, with the patience gone. Sir, forgive me — Rich factory owners pay almost nothing for their gas. You can make them pay full price, but they will be angry.",
     "left": {
       "id": "a",
       "label": "Make the factory owners pay full price.",
@@ -5966,7 +5966,7 @@
       "hilsa",
       "ban"
     ],
-    "prompt": "Years on, the matter is no longer private; the press is already circling. The country's favorite fish are almost all gone. You need to stop people from fishing for two months so the babies can grow, but the fishers will be hungry.",
+    "prompt": "Years on, the matter is no longer private; the press is already circling. A word, sir! The country's favorite fish are almost all gone. You need to stop people from fishing for two months so the babies can grow, but the fishers will be hungry.",
     "left": {
       "id": "a",
       "label": "Stop all fishing to save the fish.",
@@ -6002,7 +6002,7 @@
       "onshore",
       "exploration"
     ],
-    "prompt": "The same knot, retied tighter, lands before you once more. There is gas under a beautiful nature island. Big companies want to dig it up fast, but it might ruin the island.",
+    "prompt": "The same knot, retied tighter, lands before you once more. Sir, we have a problem. There is gas under a beautiful nature island. Big companies want to dig it up fast, but it might ruin the island.",
     "left": {
       "id": "a",
       "label": "Let them dig it up fast.",
@@ -6039,7 +6039,7 @@
       "sand",
       "coast"
     ],
-    "prompt": "Another monsoon, another return of an argument you cannot end. A company will pay you to dig up the beautiful tourist beaches to find rare rocks. It will ruin the beach for turtles and tourists.",
+    "prompt": "Another monsoon, another return of an argument you cannot end. Sir! A company will pay you to dig up the beautiful tourist beaches to find rare rocks. It will ruin the beach for turtles and tourists.",
     "left": {
       "id": "a",
       "label": "Let them dig up the beach for money.",
@@ -6077,7 +6077,7 @@
       "gas-allocation",
       "agriculture"
     ],
-    "prompt": "Deep into the reign, the issue demands a final-sounding answer. You only have enough gas to make plant food for farmers OR to keep the lights on in the city. You must choose one.",
+    "prompt": "Deep into the reign, the issue demands a final-sounding answer. Mr. Prime Minister, sir! You only have enough gas to make plant food for farmers OR to keep the lights on in the city. You must choose one.",
     "left": {
       "id": "a",
       "label": "Use the gas to make plant food for farmers.",
@@ -6113,7 +6113,7 @@
       "subsidy",
       "groundwater"
     ],
-    "prompt": "The reckoning you postponed has matured into a crisis. Farmers get nearly free electricity to pump water, but they are wasting the water and costing you money.",
+    "prompt": "The reckoning you postponed has matured into a crisis. Your Excellency! Farmers get nearly free electricity to pump water, but they are wasting the water and costing you money.",
     "left": {
       "id": "a",
       "label": "Charge the farmers for electricity so they stop wasting it.",
@@ -6151,7 +6151,7 @@
       "incineration",
       "power"
     ],
-    "prompt": "A new chapter, the same antagonists, less room to manoeuvre. A company wants to burn the city's trash to make power, but the smoke is bad and it takes jobs from poor trash-sorters.",
+    "prompt": "A new chapter, the same antagonists, less room to manoeuvre. Prime Minister! A company wants to burn the city's trash to make power, but the smoke is bad and it takes jobs from poor trash-sorters.",
     "left": {
       "id": "a",
       "label": "Let them burn the trash to make power.",
@@ -6187,7 +6187,7 @@
       "waste",
       "rooppur"
     ],
-    "prompt": "The old fault line widens; this time there is no quiet option. Your new power plant makes dangerous, glowing trash. Russia will take it away if you pay them, or you can try to store it safely yourself.",
+    "prompt": "The old fault line widens; this time there is no quiet option. Sir — Your new power plant makes dangerous, glowing trash. Russia will take it away if you pay them, or you can try to store it safely yourself.",
     "left": {
       "id": "a",
       "label": "Pay Russia to take the dangerous trash away.",
@@ -6224,7 +6224,7 @@
       "labour",
       "wages"
     ],
-    "prompt": "Time has not healed it — the conflict comes back armed. The poor people who pick tea leaves want to be paid a fair amount. The rich owners say paying more will ruin their business.",
+    "prompt": "Time has not healed it — the conflict comes back armed. Honourable leader! The poor people who pick tea leaves want to be paid a fair amount. The rich owners say paying more will ruin their business.",
     "left": {
       "id": "a",
       "label": "Force the owners to pay the workers fairly.",
@@ -6261,7 +6261,7 @@
       "transport",
       "grid"
     ],
-    "prompt": "Once again, and with the whole house holding its breath. Many people are driving electric bikes, which saves gas but breaks the electric grid because it can't handle them all.",
+    "prompt": "Once again, and with the whole house holding its breath. Sir, urgent news. Many people are driving electric bikes, which saves gas but breaks the electric grid because it can't handle them all.",
     "left": {
       "id": "a",
       "label": "Build more charging stations to help the electric bikes.",
@@ -6298,7 +6298,7 @@
       "logging",
       "sundarbans"
     ],
-    "prompt": "The matter resurfaces in a harder year, patience exhausted. Bad gangs are chopping down the protected forests to sell the wood. You need to give park rangers guns to stop them.",
+    "prompt": "The matter resurfaces in a harder year, patience exhausted. Sir, forgive me — Bad gangs are chopping down the protected forests to sell the wood. You need to give park rangers guns to stop them.",
     "left": {
       "id": "a",
       "label": "Give the rangers guns to stop the gangs.",
@@ -6335,7 +6335,7 @@
       "household",
       "moratorium"
     ],
-    "prompt": "A later season of rule, the stakes now openly existential. There isn't enough gas for new homes, but angry people are demanding it because they already paid bribes to get it.",
+    "prompt": "A later season of rule, the stakes now openly existential. A word, sir! There isn't enough gas for new homes, but angry people are demanding it because they already paid bribes to get it.",
     "left": {
       "id": "a",
       "label": "Give the gas to the homes even though you don't have enough.",
@@ -6371,7 +6371,7 @@
       "targets",
       "credibility"
     ],
-    "prompt": "It comes around again, and the margin for error is gone. You promised the world you would use clean energy, but you lied and didn't build any.",
+    "prompt": "It comes around again, and the margin for error is gone. Sir, we have a problem. You promised the world you would use clean energy, but you lied and didn't build any.",
     "left": {
       "id": "a",
       "label": "Quietly change your promise so you don't look bad.",
@@ -6409,7 +6409,7 @@
       "stone",
       "rivers"
     ],
-    "prompt": "The same demand, but the reign is older and the knives sharper. People are illegally breaking stones from the rivers, destroying nature, to build cities.",
+    "prompt": "The same demand, but the reign is older and the knives sharper. Sir! People are illegally breaking stones from the rivers, destroying nature, to build cities.",
     "left": {
       "id": "a",
       "label": "Stop them from digging up the rivers.",
@@ -6446,7 +6446,7 @@
       "tariff",
       "india"
     ],
-    "prompt": "Years deep, the unresolved returns to be resolved for good. The price of electricity you buy from a neighbor has gotten crazy high because of a bad contract.",
+    "prompt": "Years deep, the unresolved returns to be resolved for good. Mr. Prime Minister, sir! The price of electricity you buy from a neighbor has gotten crazy high because of a bad contract.",
     "left": {
       "id": "a",
       "label": "Demand they lower the price and fix the contract.",
@@ -6482,7 +6482,7 @@
       "agriculture",
       "shrimp"
     ],
-    "prompt": "The conflict reignites, and the world is watching this time. Shrimp farms make a lot of money, but the salty water they use is destroying the land where poor farmers grow rice.",
+    "prompt": "The conflict reignites, and the world is watching this time. Your Excellency! Shrimp farms make a lot of money, but the salty water they use is destroying the land where poor farmers grow rice.",
     "left": {
       "id": "a",
       "label": "Stop the shrimp farms to protect the farmers' land.",
@@ -6519,7 +6519,7 @@
       "rooppur",
       "debt"
     ],
-    "prompt": "A familiar crisis, escalated by everything you let slide. Your big power plant from Russia is almost ready, but the rest of the world says you shouldn't work with Russia right now.",
+    "prompt": "A familiar crisis, escalated by everything you let slide. Prime Minister! Your big power plant from Russia is almost ready, but the rest of the world says you shouldn't work with Russia right now.",
     "left": {
       "id": "a",
       "label": "Turn the plant on anyway, even if the world is mad.",
@@ -6555,7 +6555,7 @@
       "phulbari",
       "displacement"
     ],
-    "prompt": "The fault line cracks wider; the decision can no longer wait. A big company wants to dig a massive hole to find coal. It will ruin the water for farmers and make people very angry.",
+    "prompt": "The fault line cracks wider; the decision can no longer wait. Sir — A big company wants to dig a massive hole to find coal. It will ruin the water for farmers and make people very angry.",
     "left": {
       "id": "a",
       "label": "Let them dig the giant hole.",
@@ -6593,7 +6593,7 @@
       "theft",
       "losses"
     ],
-    "prompt": "Late in the reign, the old question demands a heavier answer. People are stealing electricity. You can force everyone to use prepaid cards to stop it, but poor people will struggle.",
+    "prompt": "Late in the reign, the old question demands a heavier answer. Honourable leader! People are stealing electricity. You can force everyone to use prepaid cards to stop it, but poor people will struggle.",
     "left": {
       "id": "a",
       "label": "Force everyone to use prepaid cards immediately.",
@@ -6629,7 +6629,7 @@
       "subsidy",
       "cost"
     ],
-    "prompt": "It returns once more — and this round may be the one remembered. Gas is too expensive. You have to raise the price of electricity for your people, or the government will run out of money.",
+    "prompt": "It returns once more — and this round may be the one remembered. Sir, urgent news. Gas is too expensive. You have to raise the price of electricity for your people, or the government will run out of money.",
     "left": {
       "id": "a",
       "label": "Raise the price of electricity for everyone.",
@@ -6665,7 +6665,7 @@
       "import",
       "dependence"
     ],
-    "prompt": "The reckoning circles back, grown teeth in the waiting. You can buy a giant floating gas tank from other countries to keep the lights on, but the price might jump wildly.",
+    "prompt": "The reckoning circles back, grown teeth in the waiting. Sir, forgive me — You can buy a giant floating gas tank from other countries to keep the lights on, but the price might jump wildly.",
     "left": {
       "id": "a",
       "label": "Buy the giant floating gas tank.",
@@ -6701,7 +6701,7 @@
       "gas",
       "sovereignty"
     ],
-    "prompt": "Another term, the same antagonist, the stakes raised again. Your own workers say they can find gas for cheap. Or you can hire foreign companies, who are faster but keep most of the money.",
+    "prompt": "Another term, the same antagonist, the stakes raised again. A word, sir! Your own workers say they can find gas for cheap. Or you can hire foreign companies, who are faster but keep most of the money.",
     "left": {
       "id": "a",
       "label": "Hire the foreign companies to do it fast.",
@@ -6738,7 +6738,7 @@
       "irrigation",
       "drought"
     ],
-    "prompt": "The matter, long deferred, lands with the force of a verdict. Farmers are pumping too much water out of the ground to grow rice. Soon the land will turn into a desert.",
+    "prompt": "The matter, long deferred, lands with the force of a verdict. Sir, we have a problem. Farmers are pumping too much water out of the ground to grow rice. Soon the land will turn into a desert.",
     "left": {
       "id": "a",
       "label": "Let them keep pumping water to grow rice now.",
@@ -6774,7 +6774,7 @@
       "pollution",
       "leather"
     ],
-    "prompt": "Years on and unhealed, the conflict returns to claim its answer. Leather factories are dumping poison chemicals right into the river because they didn't finish building their cleaner.",
+    "prompt": "Years on and unhealed, the conflict returns to claim its answer. Sir! Leather factories are dumping poison chemicals right into the river because they didn't finish building their cleaner.",
     "left": {
       "id": "a",
       "label": "Let the factories keep running and dumping poison.",
@@ -6811,7 +6811,7 @@
       "infrastructure",
       "debt"
     ],
-    "prompt": "The same fault line, the harder hour, the narrower path. Big countries want to build a deep ocean dock for you, but they will want to control you if they do.",
+    "prompt": "The same fault line, the harder hour, the narrower path. Mr. Prime Minister, sir! Big countries want to build a deep ocean dock for you, but they will want to control you if they do.",
     "left": {
       "id": "a",
       "label": "Pick the cheapest big country and let them build it.",
@@ -6847,7 +6847,7 @@
       "stone",
       "rivers"
     ],
-    "prompt": "It comes back sharpened by every season you survived. People are illegally breaking stones from the hillsides to build cities. It destroys nature and kills workers when rocks fall.",
+    "prompt": "It comes back sharpened by every season you survived. Your Excellency! People are illegally breaking stones from the hillsides to build cities. It destroys nature and kills workers when rocks fall.",
     "left": {
       "id": "a",
       "label": "Let them keep breaking the stones.",
@@ -6884,7 +6884,7 @@
       "fishing",
       "livelihoods"
     ],
-    "prompt": "A later year of power, the old crisis now a true test of it. You have to ban fishing while the fish have babies, but this means poor fishing families will have no food for weeks.",
+    "prompt": "A later year of power, the old crisis now a true test of it. Prime Minister! You have to ban fishing while the fish have babies, but this means poor fishing families will have no food for weeks.",
     "left": {
       "id": "a",
       "label": "Enforce the strict ban to save the fish.",
@@ -6920,7 +6920,7 @@
       "net-metering",
       "transition"
     ],
-    "prompt": "The unresolved returns, and this time it will not be deferred. You can let people put solar panels on their roofs and sell extra power back to the government. Power companies hate this.",
+    "prompt": "The unresolved returns, and this time it will not be deferred. Sir — You can let people put solar panels on their roofs and sell extra power back to the government. Power companies hate this.",
     "left": {
       "id": "a",
       "label": "Side with the power companies and say no to roof panels.",
@@ -6956,7 +6956,7 @@
       "import",
       "regional"
     ],
-    "prompt": "A term later, the same fault line tears open again. You can buy cheap, clean power from a neighbor, but they could shut your lights off easily if they get mad at you.",
+    "prompt": "A term later, the same fault line tears open again. Honourable leader! You can buy cheap, clean power from a neighbor, but they could shut your lights off easily if they get mad at you.",
     "left": {
       "id": "a",
       "label": "Buy the cheap power from the neighbor.",
@@ -6993,7 +6993,7 @@
       "gas",
       "food"
     ],
-    "prompt": "Years into your rule, the matter you thought buried resurfaces — harder. You only have enough gas to make plant food for the farms OR to keep the city's power on.",
+    "prompt": "Years into your rule, the matter you thought buried resurfaces — harder. Sir, urgent news. You only have enough gas to make plant food for the farms OR to keep the city's power on.",
     "left": {
       "id": "a",
       "label": "Give the gas to the farms for food.",
@@ -7029,7 +7029,7 @@
       "indemnity",
       "rentals"
     ],
-    "prompt": "A new season of power, an old problem with sharper teeth. There is a bad rule that lets you give big contracts to your rich friends without checking if it's a fair price.",
+    "prompt": "A new season of power, an old problem with sharper teeth. Sir, forgive me — There is a bad rule that lets you give big contracts to your rich friends without checking if it's a fair price.",
     "left": {
       "id": "a",
       "label": "Keep the bad rule so your friends stay rich.",
@@ -7067,7 +7067,7 @@
       "topsoil",
       "air"
     ],
-    "prompt": "The crisis returns, and this time the cabinet is watching. Dirty brick factories are making the city air poisonous. You can shut them down, but thousands of poor workers will lose their jobs.",
+    "prompt": "The crisis returns, and this time the cabinet is watching. A word, sir! Dirty brick factories are making the city air poisonous. You can shut them down, but thousands of poor workers will lose their jobs.",
     "left": {
       "id": "a",
       "label": "Leave the dirty brick factories open for the jobs.",
@@ -7103,7 +7103,7 @@
       "trawlers",
       "maritime"
     ],
-    "prompt": "Once more the issue lands on your desk, the stakes higher than before. Giant ships from other countries are stealing all the fish from your ocean.",
+    "prompt": "Once more the issue lands on your desk, the stakes higher than before. Sir, we have a problem. Giant ships from other countries are stealing all the fish from your ocean.",
     "left": {
       "id": "a",
       "label": "Look away because the giant ships pay you secret fees.",
@@ -7140,7 +7140,7 @@
       "recycling",
       "toxics"
     ],
-    "prompt": "Another year survived, and the reckoning circles back. Other countries are dumping their broken computers and phones here. Poor kids are taking them apart with their bare hands in toxic dirt.",
+    "prompt": "Another year survived, and the reckoning circles back. Sir! Other countries are dumping their broken computers and phones here. Poor kids are taking them apart with their bare hands in toxic dirt.",
     "left": {
       "id": "a",
       "label": "Let them keep taking apart the toxic garbage.",
@@ -7177,7 +7177,7 @@
       "forest",
       "livelihoods"
     ],
-    "prompt": "The ground has shifted; the same demand arrives with new menace. To save the big forest, you have to kick out the poor villagers who collect honey and catch fish there to survive.",
+    "prompt": "The ground has shifted; the same demand arrives with new menace. Mr. Prime Minister, sir! To save the big forest, you have to kick out the poor villagers who collect honey and catch fish there to survive.",
     "left": {
       "id": "a",
       "label": "Kick the poor villagers out to save the forest.",
@@ -7213,7 +7213,7 @@
       "industry",
       "heritage"
     ],
-    "prompt": "History rhymes: the conflict reopens deeper than last time. Old government factories are losing money every day. You can shut them down, or pay to fix them up even though it's risky.",
+    "prompt": "History rhymes: the conflict reopens deeper than last time. Your Excellency! Old government factories are losing money every day. You can shut them down, or pay to fix them up even though it's risky.",
     "left": {
       "id": "a",
       "label": "Shut down the losing factories.",
@@ -7249,7 +7249,7 @@
       "import",
       "logistics"
     ],
-    "prompt": "Mid-reign, the old wound is torn afresh. Your power plants need dirty coal to run. You can build a giant dock just for coal, which means you'll be stuck using dirty coal for years.",
+    "prompt": "Mid-reign, the old wound is torn afresh. Prime Minister! Your power plants need dirty coal to run. You can build a giant dock just for coal, which means you'll be stuck using dirty coal for years.",
     "left": {
       "id": "a",
       "label": "Build the giant coal dock.",
@@ -7287,7 +7287,7 @@
       "dhaka",
       "pollution"
     ],
-    "prompt": "The pressure you deferred has come due, larger now. The city's water is so dirty everyone has to boil it before drinking. Fixing the pipes will cost a huge amount of money.",
+    "prompt": "The pressure you deferred has come due, larger now. Sir — The city's water is so dirty everyone has to boil it before drinking. Fixing the pipes will cost a huge amount of money.",
     "left": {
       "id": "a",
       "label": "Keep the old, dirty pipes and let people boil water.",
@@ -7323,7 +7323,7 @@
       "blowout",
       "compensation"
     ],
-    "prompt": "A later term, and the quarrel has hardened into a test. A foreign company's gas well blew up, burning a forest and lots of gas. They offer a tiny bit of money and say it's not their fault.",
+    "prompt": "A later term, and the quarrel has hardened into a test. Honourable leader! A foreign company's gas well blew up, burning a forest and lots of gas. They offer a tiny bit of money and say it's not their fault.",
     "left": {
       "id": "a",
       "label": "Take the tiny bit of money quietly.",
@@ -7361,7 +7361,7 @@
       "households",
       "rationing"
     ],
-    "prompt": "The country has changed, but this fault line has not — only worsened. Gas is running out, so you stopped giving gas pipes to new homes. Millions of angry people are waiting.",
+    "prompt": "The country has changed, but this fault line has not — only worsened. Sir, urgent news. Gas is running out, so you stopped giving gas pipes to new homes. Millions of angry people are waiting.",
     "left": {
       "id": "a",
       "label": "Give gas to the homes to make people happy.",
@@ -7397,7 +7397,7 @@
       "toll",
       "debt"
     ],
-    "prompt": "It returns, as these things do, with the patience gone. A cool new river tunnel was built with borrowed money, but hardly anyone drives through it.",
+    "prompt": "It returns, as these things do, with the patience gone. Sir, forgive me — A cool new river tunnel was built with borrowed money, but hardly anyone drives through it.",
     "left": {
       "id": "a",
       "label": "Charge a high price to drive through so you can pay back the loan.",
@@ -7433,7 +7433,7 @@
       "transport",
       "imports"
     ],
-    "prompt": "Years on, the matter is no longer private; the press is already circling. Buying gas from other countries costs too much money. You can help people buy electric cars instead, but it will upset the gas stations and use a lot of electricity.",
+    "prompt": "Years on, the matter is no longer private; the press is already circling. A word, sir! Buying gas from other countries costs too much money. You can help people buy electric cars instead, but it will upset the gas stations and use a lot of electricity.",
     "left": {
       "id": "a",
       "label": "Push hard to get everyone electric cars.",
@@ -7470,7 +7470,7 @@
       "coast",
       "renewables"
     ],
-    "prompt": "The same knot, retied tighter, lands before you once more. A foreign company wants to build giant windmills on the beach for clean power. But this will take up the land where fishermen and farmers work.",
+    "prompt": "The same knot, retied tighter, lands before you once more. Sir, we have a problem. A foreign company wants to build giant windmills on the beach for clean power. But this will take up the land where fishermen and farmers work.",
     "left": {
       "id": "a",
       "label": "Say yes and build the windmills on the beach.",
@@ -7506,7 +7506,7 @@
       "landless",
       "grabbing"
     ],
-    "prompt": "Another monsoon, another return of an argument you cannot end. New mud islands just popped up in the river, and they belong to the government.",
+    "prompt": "Another monsoon, another return of an argument you cannot end. Sir! New mud islands just popped up in the river, and they belong to the government.",
     "left": {
       "id": "a",
       "label": "Let rich bullies steal the islands.",
@@ -7544,7 +7544,7 @@
       "wetland",
       "flash-flood"
     ],
-    "prompt": "Deep into the reign, the issue demands a final-sounding answer. Farmers are building walls in the big wetlands to grow more food. But the walls destroy nature and hurt the birds and fish.",
+    "prompt": "Deep into the reign, the issue demands a final-sounding answer. Mr. Prime Minister, sir! Farmers are building walls in the big wetlands to grow more food. But the walls destroy nature and hurt the birds and fish.",
     "left": {
       "id": "a",
       "label": "Let them build walls to grow more food.",
@@ -7580,7 +7580,7 @@
       "tourism",
       "island"
     ],
-    "prompt": "The reckoning you postponed has matured into a crisis. Your beautiful coral island is being ruined by too many tourists and their trash.",
+    "prompt": "The reckoning you postponed has matured into a crisis. Your Excellency! Your beautiful coral island is being ruined by too many tourists and their trash.",
     "left": {
       "id": "a",
       "label": "Let everyone keep coming for the money.",
@@ -7616,7 +7616,7 @@
       "pollution",
       "ban"
     ],
-    "prompt": "A new chapter, the same antagonists, less room to manoeuvre. Plastic trash is clogging up all the rivers and making the city flood. A helper wants to ban plastic bags completely, but plastic makers will be very angry.",
+    "prompt": "A new chapter, the same antagonists, less room to manoeuvre. Prime Minister! Plastic trash is clogging up all the rivers and making the city flood. A helper wants to ban plastic bags completely, but plastic makers will be very angry.",
     "left": {
       "id": "a",
       "label": "Don't ban the plastic bags yet.",
@@ -7654,7 +7654,7 @@
       "sands",
       "mining"
     ],
-    "prompt": "The old fault line widens; this time there is no quiet option. The beaches have special sand that a company wants to dig up for money. But digging it up will destroy the beach and the turtle nests.",
+    "prompt": "The old fault line widens; this time there is no quiet option. Sir — The beaches have special sand that a company wants to dig up for money. But digging it up will destroy the beach and the turtle nests.",
     "left": {
       "id": "a",
       "label": "Let them dig up the beach for money.",
@@ -7690,7 +7690,7 @@
       "polder",
       "flood"
     ],
-    "prompt": "Time has not healed it — the conflict comes back armed. The walls holding the ocean back are old and breaking. A big storm could drown everyone.",
+    "prompt": "Time has not healed it — the conflict comes back armed. Honourable leader! The walls holding the ocean back are old and breaking. A big storm could drown everyone.",
     "left": {
       "id": "a",
       "label": "Just patch the broken spots for now.",
@@ -7726,7 +7726,7 @@
       "limestone",
       "import"
     ],
-    "prompt": "Once again, and with the whole house holding its breath. Builders are buying rocks from other countries. You can blast your own hills to get rocks instead, but those hills are sacred to native people.",
+    "prompt": "Once again, and with the whole house holding its breath. Sir, urgent news. Builders are buying rocks from other countries. You can blast your own hills to get rocks instead, but those hills are sacred to native people.",
     "left": {
       "id": "a",
       "label": "Blast the sacred hills for rocks.",
@@ -7762,7 +7762,7 @@
       "antibiotics",
       "exports"
     ],
-    "prompt": "The matter resurfaces in a harder year, patience exhausted. Fish farmers are giving their fish illegal medicine. Other countries won't buy the fish if they find out.",
+    "prompt": "The matter resurfaces in a harder year, patience exhausted. Sir, forgive me — Fish farmers are giving their fish illegal medicine. Other countries won't buy the fish if they find out.",
     "left": {
       "id": "a",
       "label": "Pretend you didn't notice and hope no one finds out.",
@@ -7800,7 +7800,7 @@
       "rivers",
       "navigation"
     ],
-    "prompt": "A later season of rule, the stakes now openly existential. The rivers are full of mud and big boats are getting stuck. You can dig the mud out fast and dump it anywhere, or do it carefully so it doesn't hurt the fish.",
+    "prompt": "A later season of rule, the stakes now openly existential. A word, sir! The rivers are full of mud and big boats are getting stuck. You can dig the mud out fast and dump it anywhere, or do it carefully so it doesn't hurt the fish.",
     "left": {
       "id": "a",
       "label": "Dig fast and dump the mud anywhere.",
@@ -7836,7 +7836,7 @@
       "gas",
       "bidding"
     ],
-    "prompt": "It comes around again, and the margin for error is gone. Big companies want to dig for gas deep in your ocean. They want an easy deal where they keep most of the money.",
+    "prompt": "It comes around again, and the margin for error is gone. Sir, we have a problem. Big companies want to dig for gas deep in your ocean. They want an easy deal where they keep most of the money.",
     "left": {
       "id": "a",
       "label": "Give them an easy deal so they start working fast.",
@@ -7872,7 +7872,7 @@
       "farmers",
       "import"
     ],
-    "prompt": "The same demand, but the reign is older and the knives sharper. The price of salt is too low, and your poor salt farmers are going broke. Other countries sell it even cheaper.",
+    "prompt": "The same demand, but the reign is older and the knives sharper. Sir! The price of salt is too low, and your poor salt farmers are going broke. Other countries sell it even cheaper.",
     "left": {
       "id": "a",
       "label": "Let the cheap salt in from other countries.",
@@ -7908,7 +7908,7 @@
       "plantation",
       "biodiversity"
     ],
-    "prompt": "Years deep, the unresolved returns to be resolved for good. You need to plant more trees. You can plant cheap, fast-growing trees that hurt the soil, or slow, natural trees that help animals.",
+    "prompt": "Years deep, the unresolved returns to be resolved for good. Mr. Prime Minister, sir! You need to plant more trees. You can plant cheap, fast-growing trees that hurt the soil, or slow, natural trees that help animals.",
     "left": {
       "id": "a",
       "label": "Plant the cheap, fast trees.",
@@ -7944,7 +7944,7 @@
       "discovery",
       "windfall"
     ],
-    "prompt": "The conflict reignites, and the world is watching this time. You found a lot of extra gas under the ground. Use it all up fast so things are cheap right now, or save it for the future?",
+    "prompt": "The conflict reignites, and the world is watching this time. Your Excellency! You found a lot of extra gas under the ground. Use it all up fast so things are cheap right now, or save it for the future?",
     "left": {
       "id": "a",
       "label": "Use it up fast to make things cheap now.",
@@ -7980,7 +7980,7 @@
       "sundarbans",
       "expansion"
     ],
-    "prompt": "A familiar crisis, escalated by everything you let slide. The dirty power plant next to the beautiful forest wants to build a second, bigger plant right next to it. Scientists say this is a terrible idea.",
+    "prompt": "A familiar crisis, escalated by everything you let slide. Prime Minister! The dirty power plant next to the beautiful forest wants to build a second, bigger plant right next to it. Scientists say this is a terrible idea.",
     "left": {
       "id": "a",
       "label": "Let them build the second dirty power plant.",
@@ -8018,7 +8018,7 @@
       "minerals",
       "cht"
     ],
-    "prompt": "The fault line cracks wider; the decision can no longer wait. You found valuable rocks under the land where native people live in the hills. They say you must ask permission and share the money.",
+    "prompt": "The fault line cracks wider; the decision can no longer wait. Sir — You found valuable rocks under the land where native people live in the hills. They say you must ask permission and share the money.",
     "left": {
       "id": "a",
       "label": "Take the rocks without asking permission.",
@@ -8056,7 +8056,7 @@
       "water",
       "metering"
     ],
-    "prompt": "Late in the reign, the old question demands a heavier answer. Farmers pump water for free, but they waste a lot. You can make them pay for it using prepaid cards, but they might go broke if it's a bad year.",
+    "prompt": "Late in the reign, the old question demands a heavier answer. Honourable leader! Farmers pump water for free, but they waste a lot. You can make them pay for it using prepaid cards, but they might go broke if it's a bad year.",
     "left": {
       "id": "a",
       "label": "Make them use prepaid cards to pay for water.",
@@ -8092,7 +8092,7 @@
       "safety",
       "workers"
     ],
-    "prompt": "It returns once more — and this round may be the one remembered. The places where men take apart old ships are deadly. People get hurt or die. Bosses say making it safe costs too much money.",
+    "prompt": "It returns once more — and this round may be the one remembered. Sir, urgent news. The places where men take apart old ships are deadly. People get hurt or die. Bosses say making it safe costs too much money.",
     "left": {
       "id": "a",
       "label": "Leave the deadly shipyards alone.",
@@ -8129,7 +8129,7 @@
       "canal",
       "mega-project"
     ],
-    "prompt": "The reckoning circles back, grown teeth in the waiting. Engineers want to dig a giant ditch to move water from wet places to dry places. It costs a fortune and might ruin the rivers.",
+    "prompt": "The reckoning circles back, grown teeth in the waiting. Sir, forgive me — Engineers want to dig a giant ditch to move water from wet places to dry places. It costs a fortune and might ruin the rivers.",
     "left": {
       "id": "a",
       "label": "Say yes to digging the giant water ditch.",
@@ -8165,7 +8165,7 @@
       "canal",
       "mega-project"
     ],
-    "prompt": "Another term, the same antagonist, the stakes raised again. The giant ditch is taking too much water. The wet places are now drying out, and angry people want you to turn the water down.",
+    "prompt": "Another term, the same antagonist, the stakes raised again. A word, sir! The giant ditch is taking too much water. The wet places are now drying out, and angry people want you to turn the water down.",
     "left": {
       "id": "a",
       "label": "Keep taking all the water to the dry places.",
@@ -8201,7 +8201,7 @@
       "canal",
       "mega-project"
     ],
-    "prompt": "The matter, long deferred, lands with the force of a verdict. The builders of the ditch are mad because you slowed them down. They threaten to quit unless you pay them all the money anyway.",
+    "prompt": "The matter, long deferred, lands with the force of a verdict. Sir, we have a problem. The builders of the ditch are mad because you slowed them down. They threaten to quit unless you pay them all the money anyway.",
     "left": {
       "id": "a",
       "label": "Pay the builders all the money.",
@@ -8239,7 +8239,7 @@
       "blackout",
       "resilience"
     ],
-    "prompt": "Years on and unhealed, the conflict returns to claim its answer. The country's power wires are so weak that one mistake could turn off the lights for everyone at once. Fixing it costs a ton of money.",
+    "prompt": "Years on and unhealed, the conflict returns to claim its answer. Sir! The country's power wires are so weak that one mistake could turn off the lights for everyone at once. Fixing it costs a ton of money.",
     "left": {
       "id": "a",
       "label": "Spend the money to fix the wires perfectly.",
@@ -8275,7 +8275,7 @@
       "off-grid",
       "rural"
     ],
-    "prompt": "The same fault line, the harder hour, the narrower path. Faraway villages don't have electricity. You can give them small solar panels now, or make them wait years for big power lines to be built.",
+    "prompt": "The same fault line, the harder hour, the narrower path. Mr. Prime Minister, sir! Faraway villages don't have electricity. You can give them small solar panels now, or make them wait years for big power lines to be built.",
     "left": {
       "id": "a",
       "label": "Give them the small solar panels right now.",
@@ -8311,7 +8311,7 @@
       "retirement",
       "workers"
     ],
-    "prompt": "It comes back sharpened by every season you survived. People want you to shut down old, dirty coal plants early to clean the air. But shutting them down will leave thousands of workers without jobs.",
+    "prompt": "It comes back sharpened by every season you survived. Your Excellency! People want you to shut down old, dirty coal plants early to clean the air. But shutting them down will leave thousands of workers without jobs.",
     "left": {
       "id": "a",
       "label": "Shut down the dirty plants and try to help the workers.",
@@ -8349,7 +8349,7 @@
       "reserve",
       "resilience"
     ],
-    "prompt": "A later year of power, the old crisis now a true test of it. The country only has enough gas for a few days if there is an emergency. Building a giant tank to save extra gas costs a lot.",
+    "prompt": "A later year of power, the old crisis now a true test of it. Prime Minister! The country only has enough gas for a few days if there is an emergency. Building a giant tank to save extra gas costs a lot.",
     "left": {
       "id": "a",
       "label": "Build the giant tank to save extra gas for emergencies.",
@@ -8385,7 +8385,7 @@
       "cooking",
       "health"
     ],
-    "prompt": "The unresolved returns, and this time it will not be deferred. People in villages cook over smoky fires that hurt their lungs and chop down too many trees. You can pay to help them buy clean cooking gas.",
+    "prompt": "The unresolved returns, and this time it will not be deferred. Sir — People in villages cook over smoky fires that hurt their lungs and chop down too many trees. You can pay to help them buy clean cooking gas.",
     "left": {
       "id": "a",
       "label": "Help pay for clean cooking gas.",
@@ -8421,7 +8421,7 @@
       "gas",
       "dependence"
     ],
-    "prompt": "A term later, the same fault line tears open again. You can share a big gas pipe with a neighbor for cheap energy. But if you get in a fight, they could turn off your gas.",
+    "prompt": "A term later, the same fault line tears open again. Honourable leader! You can share a big gas pipe with a neighbor for cheap energy. But if you get in a fight, they could turn off your gas.",
     "left": {
       "id": "a",
       "label": "Build the shared gas pipe.",
@@ -8458,7 +8458,7 @@
       "waste",
       "safety"
     ],
-    "prompt": "Years into your rule, the matter you thought buried resurfaces — harder. The nuclear plant will make dangerous glowing trash. You can spend money to build a safe hiding spot, or trust the builders who pinky-promised to take it back later.",
+    "prompt": "Years into your rule, the matter you thought buried resurfaces — harder. Sir, urgent news. The nuclear plant will make dangerous glowing trash. You can spend money to build a safe hiding spot, or trust the builders who pinky-promised to take it back later.",
     "left": {
       "id": "a",
       "label": "Spend the money to build a safe hiding spot now.",
@@ -8494,7 +8494,7 @@
       "industry",
       "grid"
     ],
-    "prompt": "A new season of power, an old problem with sharper teeth. Big factories are building their own private power plants because the city's power breaks too much. This makes the city's power even worse for normal people.",
+    "prompt": "A new season of power, an old problem with sharper teeth. Sir, forgive me — Big factories are building their own private power plants because the city's power breaks too much. This makes the city's power even worse for normal people.",
     "left": {
       "id": "a",
       "label": "Force the factories to use the city's power.",
@@ -8531,7 +8531,7 @@
       "seeds",
       "farmers"
     ],
-    "prompt": "The crisis returns, and this time the cabinet is watching. Scientists made special seeds that bugs won't eat. It helps grow more food, but people are scared it's unnatural and gives too much power to the seed company.",
+    "prompt": "The crisis returns, and this time the cabinet is watching. A word, sir! Scientists made special seeds that bugs won't eat. It helps grow more food, but people are scared it's unnatural and gives too much power to the seed company.",
     "left": {
       "id": "a",
       "label": "Use the special seeds to grow more food.",
@@ -8566,7 +8566,7 @@
       "greenbelt",
       "cyclone"
     ],
-    "prompt": "Once more the issue lands on your desk, the stakes higher than before. Planting a wall of trees by the ocean will stop big waves from killing people during storms. But rich guys want that land for shrimp farms.",
+    "prompt": "Once more the issue lands on your desk, the stakes higher than before. Sir, we have a problem. Planting a wall of trees by the ocean will stop big waves from killing people during storms. But rich guys want that land for shrimp farms.",
     "left": {
       "id": "a",
       "label": "Plant the trees to save people from storms.",
@@ -8603,7 +8603,7 @@
       "encroachment",
       "powerful"
     ],
-    "prompt": "Another year survived, and the reckoning circles back. Powerful people are sneaking into the protected forest and building hotels. You can kick them out, or pretend you didn't see.",
+    "prompt": "Another year survived, and the reckoning circles back. Sir! Powerful people are sneaking into the protected forest and building hotels. You can kick them out, or pretend you didn't see.",
     "left": {
       "id": "a",
       "label": "Kick them out and save the forest.",
@@ -8640,7 +8640,7 @@
       "floating",
       "land"
     ],
-    "prompt": "The ground has shifted; the same demand arrives with new menace. You can force big factories to put solar panels on their roofs and over canals to make clean power. The factory bosses will complain about the cost.",
+    "prompt": "The ground has shifted; the same demand arrives with new menace. Mr. Prime Minister, sir! You can force big factories to put solar panels on their roofs and over canals to make clean power. The factory bosses will complain about the cost.",
     "left": {
       "id": "a",
       "label": "Force the factories to put up solar panels.",
@@ -8676,7 +8676,7 @@
       "mining",
       "contracts"
     ],
-    "prompt": "History rhymes: the conflict reopens deeper than last time. The only rock mine in the country loses money because of a bad contract with a foreign company. If you change it, the rich middlemen will be angry.",
+    "prompt": "History rhymes: the conflict reopens deeper than last time. Your Excellency! The only rock mine in the country loses money because of a bad contract with a foreign company. If you change it, the rich middlemen will be angry.",
     "left": {
       "id": "a",
       "label": "Fix the bad contract and make the mine better.",
@@ -8712,7 +8712,7 @@
       "phosphate",
       "import"
     ],
-    "prompt": "Mid-reign, the old wound is torn afresh. Farmers need plant food from other countries. You can sign a long, expensive contract to be safe, or just buy it when you need it and hope the price is low.",
+    "prompt": "Mid-reign, the old wound is torn afresh. Prime Minister! Farmers need plant food from other countries. You can sign a long, expensive contract to be safe, or just buy it when you need it and hope the price is low.",
     "left": {
       "id": "a",
       "label": "Sign the long, expensive contract to be safe.",
@@ -8748,7 +8748,7 @@
       "health",
       "forests"
     ],
-    "prompt": "The pressure you deferred has come due, larger now. You can give village moms special new stoves that don't make deadly smoke. But they cost money and people are used to their old smoky fires.",
+    "prompt": "The pressure you deferred has come due, larger now. Sir — You can give village moms special new stoves that don't make deadly smoke. But they cost money and people are used to their old smoky fires.",
     "left": {
       "id": "a",
       "label": "Give out the special new stoves.",
@@ -8784,7 +8784,7 @@
       "contracts",
       "renegotiation"
     ],
-    "prompt": "A later term, and the quarrel has hardened into a test. The government pays crazy high prices for power from factories owned by your friends. You can force them to lower the prices, but they will be mad.",
+    "prompt": "A later term, and the quarrel has hardened into a test. Honourable leader! The government pays crazy high prices for power from factories owned by your friends. You can force them to lower the prices, but they will be mad.",
     "left": {
       "id": "a",
       "label": "Force your friends to lower the prices.",
@@ -8820,7 +8820,7 @@
       "surface",
       "groundwater"
     ],
-    "prompt": "The country has changed, but this fault line has not — only worsened. The city is drinking all the underground water. You can build a giant system to clean river water instead, but it costs a lot and the rivers are gross.",
+    "prompt": "The country has changed, but this fault line has not — only worsened. Sir, urgent news. The city is drinking all the underground water. You can build a giant system to clean river water instead, but it costs a lot and the rivers are gross.",
     "left": {
       "id": "a",
       "label": "Build the giant system to clean river water.",
@@ -8856,7 +8856,7 @@
       "livestock",
       "imports"
     ],
-    "prompt": "It returns, as these things do, with the patience gone. You buy almost all your milk powder from other countries. You can spend a lot of money to help your own farmers make milk, or just keep buying it cheap from away.",
+    "prompt": "It returns, as these things do, with the patience gone. Sir, forgive me — You buy almost all your milk powder from other countries. You can spend a lot of money to help your own farmers make milk, or just keep buying it cheap from away.",
     "left": {
       "id": "a",
       "label": "Spend money to help your own farmers make milk.",
@@ -8892,7 +8892,7 @@
       "canals",
       "irrigation"
     ],
-    "prompt": "Years on, the matter is no longer private; the press is already circling. The old village ponds are full of mud. You can pay people to dig them out so fish can live there again, but local bosses might steal some of the money.",
+    "prompt": "Years on, the matter is no longer private; the press is already circling. A word, sir! The old village ponds are full of mud. You can pay people to dig them out so fish can live there again, but local bosses might steal some of the money.",
     "left": {
       "id": "a",
       "label": "Pay to dig out the old ponds.",
@@ -8928,7 +8928,7 @@
       "monopoly",
       "sovereignty"
     ],
-    "prompt": "The same knot, retied tighter, lands before you once more. A few companies sell seeds that farmers have to buy brand new every year. You can help farmers save their own seeds, but the seed companies will be angry.",
+    "prompt": "The same knot, retied tighter, lands before you once more. Sir, we have a problem. A few companies sell seeds that farmers have to buy brand new every year. You can help farmers save their own seeds, but the seed companies will be angry.",
     "left": {
       "id": "a",
       "label": "Help farmers save their own seeds.",
@@ -8964,7 +8964,7 @@
       "fuel",
       "self-reliance"
     ],
-    "prompt": "Another monsoon, another return of an argument you cannot end. The country's lone, ancient oil refinery meets a fraction of fuel demand, so most fuel is imported already-refined at a premium. Build a costly second refinery for self-reliance, or keep importing refined product and skip the capital?",
+    "prompt": "Another monsoon, another return of an argument you cannot end. Sir! The country's lone, ancient oil refinery meets a fraction of fuel demand, so most fuel is imported already-refined at a premium. Build a costly second refinery for self-reliance, or keep importing refined product and skip the capital?",
     "left": {
       "id": "a",
       "label": "Build the second refinery.",
@@ -8999,7 +8999,7 @@
       "rainwater",
       "aquifer"
     ],
-    "prompt": "Deep into the reign, the issue demands a final-sounding answer. As aquifers fall, a programme of managed recharge — capturing monsoon rain to refill the groundwater — could slow the decline. The officer wants mandatory rainwater harvesting and recharge structures; it is cheap per site but vast in scale and easy to neglect.",
+    "prompt": "Deep into the reign, the issue demands a final-sounding answer. Mr. Prime Minister, sir! As aquifers fall, a programme of managed recharge — capturing monsoon rain to refill the groundwater — could slow the decline. The officer wants mandatory rainwater harvesting and recharge structures; it is cheap per site but vast in scale and easy to neglect.",
     "left": {
       "id": "a",
       "label": "Mandate recharge and rainwater harvesting.",
@@ -9035,7 +9035,7 @@
       "diversification",
       "water"
     ],
-    "prompt": "The reckoning you postponed has matured into a crisis. The obsession with thirsty rice drains the aquifers and leaves diets and incomes undiversified. The director wants incentives to shift toward less-thirsty, higher-value crops — pulses, oilseeds, vegetables — against the grain of habit and rice-first policy.",
+    "prompt": "The reckoning you postponed has matured into a crisis. Your Excellency! The obsession with thirsty rice drains the aquifers and leaves diets and incomes undiversified. The director wants incentives to shift toward less-thirsty, higher-value crops — pulses, oilseeds, vegetables — against the grain of habit and rice-first policy.",
     "left": {
       "id": "a",
       "label": "Incentivise crop diversification.",
@@ -9071,7 +9071,7 @@
       "marine",
       "tourism"
     ],
-    "prompt": "A new chapter, the same antagonists, less room to manoeuvre. The coast's sea-turtle nesting beaches are being lost to lights, nets, and development. A protected hatchery-and-beach programme would save them and draw eco-tourism, at the cost of restricting the fishing and building the coastal economy leans on.",
+    "prompt": "A new chapter, the same antagonists, less room to manoeuvre. Prime Minister! The coast's sea-turtle nesting beaches are being lost to lights, nets, and development. A protected hatchery-and-beach programme would save them and draw eco-tourism, at the cost of restricting the fishing and building the coastal economy leans on.",
     "left": {
       "id": "a",
       "label": "Protect the nesting beaches and hatcheries.",
@@ -9107,7 +9107,7 @@
       "battery",
       "renewables"
     ],
-    "prompt": "The old fault line widens; this time there is no quiet option. Solar and wind are useless after dark and in calm without storage, and the grid cannot absorb them. Invest in a costly grid-scale battery programme to make renewables dispatchable, or keep leaning on fossil plants for reliable power?",
+    "prompt": "The old fault line widens; this time there is no quiet option. Sir — Solar and wind are useless after dark and in calm without storage, and the grid cannot absorb them. Invest in a costly grid-scale battery programme to make renewables dispatchable, or keep leaning on fossil plants for reliable power?",
     "left": {
       "id": "a",
       "label": "Invest in grid-scale battery storage.",
@@ -9143,7 +9143,7 @@
       "system-loss",
       "theft"
     ],
-    "prompt": "Time has not healed it — the conflict comes back armed. A fifth of the piped gas vanishes through illegal connections, tampered meters, and bribed staff, much of it serving captive industrial and elite users. Mount a hard anti-theft drive that hits connected beneficiaries, or keep absorbing the loss?",
+    "prompt": "Time has not healed it — the conflict comes back armed. Honourable leader! A fifth of the piped gas vanishes through illegal connections, tampered meters, and bribed staff, much of it serving captive industrial and elite users. Mount a hard anti-theft drive that hits connected beneficiaries, or keep absorbing the loss?",
     "left": {
       "id": "a",
       "label": "Crack down on the gas theft.",
@@ -9179,7 +9179,7 @@
       "communities",
       "livelihoods"
     ],
-    "prompt": "Once again, and with the whole house holding its breath. A social-forestry scheme would let poor villagers grow and harvest trees on degraded state land — income for them, green cover for the country — but done carelessly it becomes a backdoor to clear-felling and grabbing the very forest it should grow. How do you design it?",
+    "prompt": "Once again, and with the whole house holding its breath. Sir, urgent news. A social-forestry scheme would let poor villagers grow and harvest trees on degraded state land — income for them, green cover for the country — but done carelessly it becomes a backdoor to clear-felling and grabbing the very forest it should grow. How do you design it?",
     "left": {
       "id": "a",
       "label": "Run a genuine community social-forestry scheme.",
@@ -9215,7 +9215,7 @@
       "pilot",
       "innovation"
     ],
-    "prompt": "The matter resurfaces in a harder year, patience exhausted. The strong tidal range of the estuaries could, in theory, drive tidal power — a clean, novel source. A pilot would be a costly, unproven gamble on innovation; the safe path is to stick with proven solar and wind and let others pioneer the tides.",
+    "prompt": "The matter resurfaces in a harder year, patience exhausted. Sir, forgive me — The strong tidal range of the estuaries could, in theory, drive tidal power — a clean, novel source. A pilot would be a costly, unproven gamble on innovation; the safe path is to stick with proven solar and wind and let others pioneer the tides.",
     "left": {
       "id": "a",
       "label": "Fund the tidal-energy pilot.",
@@ -9251,7 +9251,7 @@
       "oilseed",
       "imports"
     ],
-    "prompt": "A later season of rule, the stakes now openly existential. The country imports almost all its cooking oil, draining dollars and leaving prices hostage to world markets. A push for domestic mustard, sunflower, and soy oilseed would build self-reliance — slow, and competing for the scarce land that grows food grains.",
+    "prompt": "A later season of rule, the stakes now openly existential. A word, sir! The country imports almost all its cooking oil, draining dollars and leaving prices hostage to world markets. A push for domestic mustard, sunflower, and soy oilseed would build self-reliance — slow, and competing for the scarce land that grows food grains.",
     "left": {
       "id": "a",
       "label": "Drive domestic oilseed self-reliance.",
@@ -9287,7 +9287,7 @@
       "soe",
       "farmers"
     ],
-    "prompt": "It comes around again, and the margin for error is gone. The state sugar mills lose money every year on obsolete machinery and graft, but tens of thousands of cane farmers and mill workers depend on them. Shut or privatise the worst to stem the losses, or pour in another bailout and modernisation gamble?",
+    "prompt": "It comes around again, and the margin for error is gone. Sir, we have a problem. The state sugar mills lose money every year on obsolete machinery and graft, but tens of thousands of cane farmers and mill workers depend on them. Shut or privatise the worst to stem the losses, or pour in another bailout and modernisation gamble?",
     "left": {
       "id": "a",
       "label": "Shut or privatise the loss-making mills.",
@@ -9323,7 +9323,7 @@
       "cold-chain",
       "waste"
     ],
-    "prompt": "The same demand, but the reign is older and the knives sharper. A third of the fruit and vegetables rot between farm and market for want of storage, cold chain, and roads — a staggering waste that beggars farmers and inflates prices. The director wants a costly cold-chain build; the capital is large and the gain diffuse.",
+    "prompt": "The same demand, but the reign is older and the knives sharper. Sir! A third of the fruit and vegetables rot between farm and market for want of storage, cold chain, and roads — a staggering waste that beggars farmers and inflates prices. The director wants a costly cold-chain build; the capital is large and the gain diffuse.",
     "left": {
       "id": "a",
       "label": "Build the cold chain and storage.",
@@ -9359,7 +9359,7 @@
       "bricks",
       "topsoil"
     ],
-    "prompt": "Years deep, the unresolved returns to be resolved for good. The coal plants pile up fly-ash as toxic waste, while the brick kilns devour the country's topsoil. Mandating fly-ash bricks would solve both — using the waste, sparing the soil — but it disrupts the entrenched clay-brick industry and its workers.",
+    "prompt": "Years deep, the unresolved returns to be resolved for good. Mr. Prime Minister, sir! The coal plants pile up fly-ash as toxic waste, while the brick kilns devour the country's topsoil. Mandating fly-ash bricks would solve both — using the waste, sparing the soil — but it disrupts the entrenched clay-brick industry and its workers.",
     "left": {
       "id": "a",
       "label": "Mandate fly-ash brick production.",
@@ -9395,7 +9395,7 @@
       "protected-area",
       "fisheries"
     ],
-    "prompt": "The conflict reignites, and the world is watching this time. Declaring a large marine protected area in the bay would let the overfished stocks recover and safeguard biodiversity — a long-term gift to the fishery — but it locks both trawlers and artisanal fishers out of rich grounds in the short term.",
+    "prompt": "The conflict reignites, and the world is watching this time. Your Excellency! Declaring a large marine protected area in the bay would let the overfished stocks recover and safeguard biodiversity — a long-term gift to the fishery — but it locks both trawlers and artisanal fishers out of rich grounds in the short term.",
     "left": {
       "id": "a",
       "label": "Declare the marine protected area.",
@@ -9431,7 +9431,7 @@
       "land",
       "evacuation"
     ],
-    "prompt": "A familiar crisis, escalated by everything you let slide. New power plants sit idle for want of transmission lines, and the lines are stalled by land disputes and farmers refusing the towers across their fields. Force the right-of-way through with compulsory acquisition, or negotiate slow and fair?",
+    "prompt": "A familiar crisis, escalated by everything you let slide. Prime Minister! New power plants sit idle for want of transmission lines, and the lines are stalled by land disputes and farmers refusing the towers across their fields. Force the right-of-way through with compulsory acquisition, or negotiate slow and fair?",
     "left": {
       "id": "a",
       "label": "Force the right-of-way through.",
@@ -9467,7 +9467,7 @@
       "forest",
       "expansion"
     ],
-    "prompt": "The fault line cracks wider; the decision can no longer wait. Tea companies want to expand their estates into adjoining reserve forest and indigenous land — more export tea, at the cost of felled forest and displaced hill communities. Grant the leases, or protect the forest and the people on it?",
+    "prompt": "The fault line cracks wider; the decision can no longer wait. Sir — Tea companies want to expand their estates into adjoining reserve forest and indigenous land — more export tea, at the cost of felled forest and displaced hill communities. Grant the leases, or protect the forest and the people on it?",
     "left": {
       "id": "a",
       "label": "Grant the tea-estate expansion.",
@@ -9504,7 +9504,7 @@
       "irrigation",
       "diesel"
     ],
-    "prompt": "Late in the reign, the old question demands a heavier answer. Replacing the diesel and grid pumps that irrigate the fields with solar ones would slash the fuel bill and emissions and free farmers from fuel-price shocks — a large upfront cost, against the cheap, familiar diesel status quo.",
+    "prompt": "Late in the reign, the old question demands a heavier answer. Honourable leader! Replacing the diesel and grid pumps that irrigate the fields with solar ones would slash the fuel bill and emissions and free farmers from fuel-price shocks — a large upfront cost, against the cheap, familiar diesel status quo.",
     "left": {
       "id": "a",
       "label": "Drive the solar-irrigation rollout.",
@@ -9540,7 +9540,7 @@
       "pesticides",
       "exports"
     ],
-    "prompt": "It returns once more — and this round may be the one remembered. The dried-fish trade — a coastal staple and growing export — is rife with illegal pesticide use to keep flies off the racks, poisoning consumers and threatening the export market. The officer wants enforcement and clean drying tech; the traders resist the cost.",
+    "prompt": "It returns once more — and this round may be the one remembered. Sir, urgent news. The dried-fish trade — a coastal staple and growing export — is rife with illegal pesticide use to keep flies off the racks, poisoning consumers and threatening the export market. The officer wants enforcement and clean drying tech; the traders resist the cost.",
     "left": {
       "id": "a",
       "label": "Enforce clean drying, ban the pesticides.",
@@ -9576,7 +9576,7 @@
       "survey",
       "sovereignty"
     ],
-    "prompt": "The reckoning circles back, grown teeth in the waiting. A thorough national mineral survey could reveal coal, gas, hard rock, and rare minerals worth fortunes — knowledge that is power, and a magnet for foreign extractors and the conflicts that follow discovery. Survey aggressively, or tread lightly?",
+    "prompt": "The reckoning circles back, grown teeth in the waiting. Sir, forgive me — A thorough national mineral survey could reveal coal, gas, hard rock, and rare minerals worth fortunes — knowledge that is power, and a magnet for foreign extractors and the conflicts that follow discovery. Survey aggressively, or tread lightly?",
     "left": {
       "id": "a",
       "label": "Survey aggressively and map the wealth.",
@@ -9611,7 +9611,7 @@
       "afforestation",
       "land"
     ],
-    "prompt": "Another term, the same antagonist, the stakes raised again. Planting forests on the new coastal chars would stabilise the silt islands, buffer storms, and eventually create land for the landless — slow, unglamorous work, easily neglected against the rush to hand the chars to shrimp farms and grabbers.",
+    "prompt": "Another term, the same antagonist, the stakes raised again. A word, sir! Planting forests on the new coastal chars would stabilise the silt islands, buffer storms, and eventually create land for the landless — slow, unglamorous work, easily neglected against the rush to hand the chars to shrimp farms and grabbers.",
     "left": {
       "id": "a",
       "label": "Fund char afforestation and stabilisation.",
@@ -9649,7 +9649,7 @@
       "landless",
       "elite"
     ],
-    "prompt": "The matter, long deferred, lands with the force of a verdict. Land-ceiling laws meant to cap how much one family can own are flouted wholesale through benami holdings, while millions are landless. The commissioner wants real enforcement and redistribution of the surplus; the great landholders, many connected, will fight hard.",
+    "prompt": "The matter, long deferred, lands with the force of a verdict. Sir, we have a problem. Land-ceiling laws meant to cap how much one family can own are flouted wholesale through benami holdings, while millions are landless. The commissioner wants real enforcement and redistribution of the surplus; the great landholders, many connected, will fight hard.",
     "left": {
       "id": "a",
       "label": "Enforce the land ceiling and redistribute.",
@@ -9685,7 +9685,7 @@
       "labour",
       "yields"
     ],
-    "prompt": "Years on and unhealed, the conflict returns to claim its answer. Mechanising the farms — harvesters, tillers, transplanters — would raise yields and ease the brutal labour as workers leave for the cities. But it would also throw landless farm labourers, who have nothing else, out of their only work. How hard do you push?",
+    "prompt": "Years on and unhealed, the conflict returns to claim its answer. Sir! Mechanising the farms — harvesters, tillers, transplanters — would raise yields and ease the brutal labour as workers leave for the cities. But it would also throw landless farm labourers, who have nothing else, out of their only work. How hard do you push?",
     "left": {
       "id": "a",
       "label": "Push mechanisation hard.",
@@ -9721,7 +9721,7 @@
       "used-oil",
       "pollution"
     ],
-    "prompt": "The same fault line, the harder hour, the narrower path. Used engine oil and scrap tyres are dumped or burned in toxic backyard operations that poison soil and air. A formal recycling and pyrolysis industry could turn the waste to value cleanly — at a cost the informal burners will resist.",
+    "prompt": "The same fault line, the harder hour, the narrower path. Mr. Prime Minister, sir! Used engine oil and scrap tyres are dumped or burned in toxic backyard operations that poison soil and air. A formal recycling and pyrolysis industry could turn the waste to value cleanly — at a cost the informal burners will resist.",
     "left": {
       "id": "a",
       "label": "Build formal oil and tyre recycling.",
@@ -9757,7 +9757,7 @@
       "solar",
       "investment"
     ],
-    "prompt": "It comes back sharpened by every season you survived. A generous feed-in tariff guaranteeing a good price for renewable power fed to the grid would unleash private solar and wind investment — at a cost locked in for years that the utility, and ultimately the consumer, must bear. How generous do you set it?",
+    "prompt": "It comes back sharpened by every season you survived. Your Excellency! A generous feed-in tariff guaranteeing a good price for renewable power fed to the grid would unleash private solar and wind investment — at a cost locked in for years that the utility, and ultimately the consumer, must bear. How generous do you set it?",
     "left": {
       "id": "a",
       "label": "Set a generous feed-in tariff.",
@@ -9792,7 +9792,7 @@
       "seabed",
       "claim"
     ],
-    "prompt": "A later year of power, the old crisis now a true test of it. With the maritime boundary settled, you can press an extended continental-shelf claim to the seabed beyond — a potential bonanza of gas and minerals, and a costly, years-long legal and survey effort that may antagonise neighbours with overlapping claims.",
+    "prompt": "A later year of power, the old crisis now a true test of it. Prime Minister! With the maritime boundary settled, you can press an extended continental-shelf claim to the seabed beyond — a potential bonanza of gas and minerals, and a costly, years-long legal and survey effort that may antagonise neighbours with overlapping claims.",
     "left": {
       "id": "a",
       "label": "Press the extended shelf claim.",
@@ -9827,7 +9827,7 @@
       "tourism",
       "conservation"
     ],
-    "prompt": "The unresolved returns, and this time it will not be deferred. A grand safari park and eco-resort carved out of a forest reserve would draw tourists and revenue — and fragment the habitat, cage wildlife for show, and hand prime forest to resort developers. Build the attraction, or protect the reserve intact?",
+    "prompt": "The unresolved returns, and this time it will not be deferred. Sir — A grand safari park and eco-resort carved out of a forest reserve would draw tourists and revenue — and fragment the habitat, cage wildlife for show, and hand prime forest to resort developers. Build the attraction, or protect the reserve intact?",
     "left": {
       "id": "a",
       "label": "Build the safari park and eco-resort.",
@@ -9863,7 +9863,7 @@
       "ethanol",
       "food"
     ],
-    "prompt": "A term later, the same fault line tears open again. Molasses from the sugar mills could be turned into ethanol to blend with petrol, cutting fuel imports and using a waste stream — or that same feedstock could feed the food and drink industries. Mandate biofuel blending?",
+    "prompt": "A term later, the same fault line tears open again. Honourable leader! Molasses from the sugar mills could be turned into ethanol to blend with petrol, cutting fuel imports and using a waste stream — or that same feedstock could feed the food and drink industries. Mandate biofuel blending?",
     "left": {
       "id": "a",
       "label": "Mandate ethanol blending.",
@@ -9898,7 +9898,7 @@
       "hydro",
       "storage"
     ],
-    "prompt": "Years into your rule, the matter you thought buried resurfaces — harder. With little room for big dams, the engineers propose a pumped-storage scheme in the hills — a giant battery using water and gravity to store surplus power. It is costly, geologically risky, and would flood a hill valley, displacing its communities.",
+    "prompt": "Years into your rule, the matter you thought buried resurfaces — harder. Sir, urgent news. With little room for big dams, the engineers propose a pumped-storage scheme in the hills — a giant battery using water and gravity to store surplus power. It is costly, geologically risky, and would flood a hill valley, displacing its communities.",
     "left": {
       "id": "a",
       "label": "Build the pumped-storage scheme.",
@@ -9935,7 +9935,7 @@
       "iodine",
       "health"
     ],
-    "prompt": "A new season of power, an old problem with sharper teeth. Iodine deficiency still stunts minds in the regions where un-iodised salt slips through, and enforcement of universal salt iodisation is lax. The officer wants a hard enforcement drive; the small, scattered salt producers resist the cost and oversight.",
+    "prompt": "A new season of power, an old problem with sharper teeth. Sir, forgive me — Iodine deficiency still stunts minds in the regions where un-iodised salt slips through, and enforcement of universal salt iodisation is lax. The officer wants a hard enforcement drive; the small, scattered salt producers resist the cost and oversight.",
     "left": {
       "id": "a",
       "label": "Enforce universal salt iodisation.",
@@ -9970,7 +9970,7 @@
       "silos",
       "food-security"
     ],
-    "prompt": "The crisis returns, and this time the cabinet is watching. The country's grain reserve rots in damp, rat-infested warehouses, losing a fortune and leaving the buffer unreliable in a crisis. The director wants modern steel silos; the capital is large and the warehouse rackets that profit from the chaos resist.",
+    "prompt": "The crisis returns, and this time the cabinet is watching. A word, sir! The country's grain reserve rots in damp, rat-infested warehouses, losing a fortune and leaving the buffer unreliable in a crisis. The director wants modern steel silos; the capital is large and the warehouse rackets that profit from the chaos resist.",
     "left": {
       "id": "a",
       "label": "Build modern grain silos.",
@@ -10007,7 +10007,7 @@
       "bird-flu",
       "biosecurity"
     ],
-    "prompt": "Once more the issue lands on your desk, the stakes higher than before. The booming poultry industry — cheap protein for millions — is a tinderbox for bird flu, with poor biosecurity and culling-compensation too stingy to stop farmers hiding outbreaks. The director wants real biosecurity and fair compensation; it is costly.",
+    "prompt": "Once more the issue lands on your desk, the stakes higher than before. Sir, we have a problem. The booming poultry industry — cheap protein for millions — is a tinderbox for bird flu, with poor biosecurity and culling-compensation too stingy to stop farmers hiding outbreaks. The director wants real biosecurity and fair compensation; it is costly.",
     "left": {
       "id": "a",
       "label": "Fund biosecurity and fair culling pay.",
@@ -10042,7 +10042,7 @@
       "tenancy",
       "rights"
     ],
-    "prompt": "Another year survived, and the reckoning circles back. Millions of sharecroppers till others' land for a punishing share of the crop, with no security and no recourse when a landlord evicts them at whim. The officer wants enforceable tenancy rights and a fairer share; the landlord class resists fiercely.",
+    "prompt": "Another year survived, and the reckoning circles back. Sir! Millions of sharecroppers till others' land for a punishing share of the crop, with no security and no recourse when a landlord evicts them at whim. The officer wants enforceable tenancy rights and a fairer share; the landlord class resists fiercely.",
     "left": {
       "id": "a",
       "label": "Enforce tenancy rights and a fair share.",
@@ -10078,7 +10078,7 @@
       "standards",
       "demand"
     ],
-    "prompt": "The ground has shifted; the same demand arrives with new menace. The cheapest power is the power not used, and mandatory energy-efficiency standards for buildings, motors, and appliances would cut demand more cheaply than any new plant. The director wants hard standards; manufacturers and developers resist the cost.",
+    "prompt": "The ground has shifted; the same demand arrives with new menace. Mr. Prime Minister, sir! The cheapest power is the power not used, and mandatory energy-efficiency standards for buildings, motors, and appliances would cut demand more cheaply than any new plant. The director wants hard standards; manufacturers and developers resist the cost.",
     "left": {
       "id": "a",
       "label": "Mandate hard efficiency standards.",
@@ -10114,7 +10114,7 @@
       "fleet",
       "sovereignty"
     ],
-    "prompt": "History rhymes: the conflict reopens deeper than last time. Your fishers work only the crowded coastal waters while the rich deep-sea zone of your own maritime territory is fished by licensed foreign trawlers. The director wants a national deep-sea fleet to claim that catch; it is costly and the fishers lack the vessels and skills.",
+    "prompt": "History rhymes: the conflict reopens deeper than last time. Your Excellency! Your fishers work only the crowded coastal waters while the rich deep-sea zone of your own maritime territory is fished by licensed foreign trawlers. The director wants a national deep-sea fleet to claim that catch; it is costly and the fishers lack the vessels and skills.",
     "left": {
       "id": "a",
       "label": "Build a national deep-sea fleet.",
@@ -10150,7 +10150,7 @@
       "fruit",
       "exports"
     ],
-    "prompt": "Mid-reign, the old wound is torn afresh. The country's mangoes, jackfruit, and vegetables could earn real export money, but they rot for want of cold chain, fail foreign pesticide tests, and lack branding. Invest in a costly push for export-grade horticulture, or keep them a domestic crop?",
+    "prompt": "Mid-reign, the old wound is torn afresh. Prime Minister! The country's mangoes, jackfruit, and vegetables could earn real export money, but they rot for want of cold chain, fail foreign pesticide tests, and lack branding. Invest in a costly push for export-grade horticulture, or keep them a domestic crop?",
     "left": {
       "id": "a",
       "label": "Invest in export-grade horticulture.",
@@ -10187,7 +10187,7 @@
       "craft",
       "livelihoods"
     ],
-    "prompt": "The pressure you deferred has come due, larger now. Bamboo and cane sustain vast craft and construction livelihoods and could anchor a sustainable green industry — but the resource is being stripped bare and the artisans are sliding into poverty. Build a managed-cultivation and value-chain push, or let it dwindle?",
+    "prompt": "The pressure you deferred has come due, larger now. Sir — Bamboo and cane sustain vast craft and construction livelihoods and could anchor a sustainable green industry — but the resource is being stripped bare and the artisans are sliding into poverty. Build a managed-cultivation and value-chain push, or let it dwindle?",
     "left": {
       "id": "a",
       "label": "Build a sustainable bamboo value chain.",
@@ -10223,7 +10223,7 @@
       "disease",
       "hatchery"
     ],
-    "prompt": "A later term, and the quarrel has hardened into a test. Disease keeps wiping out the shrimp farms — a major export — because the hatcheries sell weak, virus-laden post-larvae and farmers lack any quality control. The director wants certified disease-free hatcheries and training; the cheap-PL hatchery trade resists.",
+    "prompt": "A later term, and the quarrel has hardened into a test. Honourable leader! Disease keeps wiping out the shrimp farms — a major export — because the hatcheries sell weak, virus-laden post-larvae and farmers lack any quality control. The director wants certified disease-free hatcheries and training; the cheap-PL hatchery trade resists.",
     "left": {
       "id": "a",
       "label": "Mandate certified disease-free hatcheries.",
@@ -10259,7 +10259,7 @@
       "efficiency",
       "demand"
     ],
-    "prompt": "The country has changed, but this fault line has not — only worsened. Air-conditioning is exploding with the heat and the middle class, spiking peak demand and grid strain. A district-cooling and efficiency push could blunt it; the developers and the AC-importing lobby prefer the cheap, wasteful status quo.",
+    "prompt": "The country has changed, but this fault line has not — only worsened. Sir, urgent news. Air-conditioning is exploding with the heat and the middle class, spiking peak demand and grid strain. A district-cooling and efficiency push could blunt it; the developers and the AC-importing lobby prefer the cheap, wasteful status quo.",
     "left": {
       "id": "a",
       "label": "Push district cooling and AC standards.",
@@ -10295,7 +10295,7 @@
       "erosion",
       "megaproject"
     ],
-    "prompt": "It returns, as these things do, with the patience gone. A vast river-training scheme could tame the great river's wandering, stop the erosion swallowing districts, and reclaim land — a mega-project of guide bunds and revetments, hugely costly, technically fraught, and a magnet for contractor padding.",
+    "prompt": "It returns, as these things do, with the patience gone. Sir, forgive me — A vast river-training scheme could tame the great river's wandering, stop the erosion swallowing districts, and reclaim land — a mega-project of guide bunds and revetments, hugely costly, technically fraught, and a magnet for contractor padding.",
     "left": {
       "id": "a",
       "label": "Launch the river-training mega-project.",
@@ -10332,7 +10332,7 @@
       "certification",
       "exports"
     ],
-    "prompt": "Years on, the matter is no longer private; the press is already circling. A credible safe-food and organic certification scheme would let farmers earn premiums and reassure consumers poisoned by adulteration — a costly system to build and police, easily faked into a meaningless sticker if done on the cheap.",
+    "prompt": "Years on, the matter is no longer private; the press is already circling. A word, sir! A credible safe-food and organic certification scheme would let farmers earn premiums and reassure consumers poisoned by adulteration — a costly system to build and police, easily faked into a meaningless sticker if done on the cheap.",
     "left": {
       "id": "a",
       "label": "Build a rigorous certification scheme.",
@@ -10368,7 +10368,7 @@
       "billing",
       "losses"
     ],
-    "prompt": "The same knot, retied tighter, lands before you once more. Smart meters would end the bribed meter-readers, estimated bills, and theft that plague the utilities — and let you bill accurately and cut losses. They are costly to roll out, and consumers fear higher, harder-to-dodge bills.",
+    "prompt": "The same knot, retied tighter, lands before you once more. Sir, we have a problem. Smart meters would end the bribed meter-readers, estimated bills, and theft that plague the utilities — and let you bill accurately and cut losses. They are costly to roll out, and consumers fear higher, harder-to-dodge bills.",
     "left": {
       "id": "a",
       "label": "Roll out smart meters widely.",
@@ -10404,7 +10404,7 @@
       "biopiracy",
       "communities"
     ],
-    "prompt": "Another monsoon, another return of an argument you cannot end. The country's forests hold medicinal plants and genetic resources that foreign firms quietly harvest and patent — biopiracy of a heritage worth fortunes. The officer wants a benefit-sharing and protection regime; it is complex and could deter research investment too.",
+    "prompt": "Another monsoon, another return of an argument you cannot end. Sir! The country's forests hold medicinal plants and genetic resources that foreign firms quietly harvest and patent — biopiracy of a heritage worth fortunes. The officer wants a benefit-sharing and protection regime; it is complex and could deter research investment too.",
     "left": {
       "id": "a",
       "label": "Build a benefit-sharing protection regime.",
@@ -10440,7 +10440,7 @@
       "co-management",
       "commons"
     ],
-    "prompt": "Deep into the reign, the issue demands a final-sounding answer. The open-water fisheries — the beels and floodplains feeding millions — are being plundered by leaseholders and gear that wipe out the stocks. The director wants community co-management handing the waters to the fishers; the connected leaseholders resist.",
+    "prompt": "Deep into the reign, the issue demands a final-sounding answer. Mr. Prime Minister, sir! The open-water fisheries — the beels and floodplains feeding millions — are being plundered by leaseholders and gear that wipe out the stocks. The director wants community co-management handing the waters to the fishers; the connected leaseholders resist.",
     "left": {
       "id": "a",
       "label": "Hand the waters to community co-management.",
@@ -10477,7 +10477,7 @@
       "waste",
       "rural"
     ],
-    "prompt": "The reckoning you postponed has matured into a crisis. Rural cattle dung and farm waste could fuel village-scale biogas plants — clean cooking gas and fertiliser slurry from waste — cutting woodsmoke and firewood demand. The officer wants a national biogas push; uptake has always stalled on cost and habit.",
+    "prompt": "The reckoning you postponed has matured into a crisis. Your Excellency! Rural cattle dung and farm waste could fuel village-scale biogas plants — clean cooking gas and fertiliser slurry from waste — cutting woodsmoke and firewood demand. The officer wants a national biogas push; uptake has always stalled on cost and habit.",
     "left": {
       "id": "a",
       "label": "Drive a national biogas programme.",
@@ -10513,7 +10513,7 @@
       "import",
       "livestock"
     ],
-    "prompt": "A new chapter, the same antagonists, less room to manoeuvre. Livestock and dairy are throttled by costly imported feed, and the maize and fodder to grow it at home compete for land with food grains. The director wants a feed-crop push to cut the import bill; the land is scarce and the food-first lobby resists.",
+    "prompt": "A new chapter, the same antagonists, less room to manoeuvre. Prime Minister! Livestock and dairy are throttled by costly imported feed, and the maize and fodder to grow it at home compete for land with food grains. The director wants a feed-crop push to cut the import bill; the land is scarce and the food-first lobby resists.",
     "left": {
       "id": "a",
       "label": "Push domestic feed and fodder.",
@@ -10549,7 +10549,7 @@
       "refining",
       "graft"
     ],
-    "prompt": "The old fault line widens; this time there is no quiet option. Condensate — a valuable liquid byproduct of gas extraction — is being siphoned to private 'fractionation' plants owned by connected operators at giveaway prices, robbing the state. Reclaim and properly auction it, or leave the cosy arrangement?",
+    "prompt": "The old fault line widens; this time there is no quiet option. Sir — Condensate — a valuable liquid byproduct of gas extraction — is being siphoned to private 'fractionation' plants owned by connected operators at giveaway prices, robbing the state. Reclaim and properly auction it, or leave the cosy arrangement?",
     "left": {
       "id": "a",
       "label": "Reclaim and auction the condensate.",
@@ -10585,7 +10585,7 @@
       "wetlands",
       "adaptation"
     ],
-    "prompt": "Time has not healed it — the conflict comes back armed. In the flood-prone wetlands, the old craft of floating gardens — crops grown on rafts of water hyacinth — could feed communities as the waters rise. The officer wants to revive and scale it as climate adaptation; it is labour-intensive and unfamiliar to most.",
+    "prompt": "Time has not healed it — the conflict comes back armed. Honourable leader! In the flood-prone wetlands, the old craft of floating gardens — crops grown on rafts of water hyacinth — could feed communities as the waters rise. The officer wants to revive and scale it as climate adaptation; it is labour-intensive and unfamiliar to most.",
     "left": {
       "id": "a",
       "label": "Revive and scale floating agriculture.",
@@ -10621,7 +10621,7 @@
       "irrigation",
       "water"
     ],
-    "prompt": "Once again, and with the whole house holding its breath. The flood-irrigation that waters the fields wastes most of the water it draws, draining the aquifers faster than need demands. Drip and sprinkler systems would slash that waste; they are costly upfront, and water and power are cheap enough that few farmers bother.",
+    "prompt": "Once again, and with the whole house holding its breath. Sir, urgent news. The flood-irrigation that waters the fields wastes most of the water it draws, draining the aquifers faster than need demands. Drip and sprinkler systems would slash that waste; they are costly upfront, and water and power are cheap enough that few farmers bother.",
     "left": {
       "id": "a",
       "label": "Subsidise efficient irrigation.",
@@ -10657,7 +10657,7 @@
       "efficiency",
       "cogeneration"
     ],
-    "prompt": "The matter resurfaces in a harder year, patience exhausted. Factories waste vast energy through old motors, leaky steam, and dumped waste-heat. Mandating energy audits and cogeneration would cut industry's energy bill and the grid's load; the manufacturers resist the audits and the retrofit cost.",
+    "prompt": "The matter resurfaces in a harder year, patience exhausted. Sir, forgive me — Factories waste vast energy through old motors, leaky steam, and dumped waste-heat. Mandating energy audits and cogeneration would cut industry's energy bill and the grid's load; the manufacturers resist the audits and the retrofit cost.",
     "left": {
       "id": "a",
       "label": "Mandate industrial energy audits and retrofits.",
@@ -10692,7 +10692,7 @@
       "ice",
       "waste"
     ],
-    "prompt": "A later season of rule, the stakes now openly existential. A huge share of the marine catch spoils for want of ice, landing centres, and cold storage at the coast, beggaring fishers and wasting protein. The director wants a coastal cold-chain and landing-centre build; the capital is large and the gain spread thin.",
+    "prompt": "A later season of rule, the stakes now openly existential. A word, sir! A huge share of the marine catch spoils for want of ice, landing centres, and cold storage at the coast, beggaring fishers and wasting protein. The director wants a coastal cold-chain and landing-centre build; the capital is large and the gain spread thin.",
     "left": {
       "id": "a",
       "label": "Build coastal landing and cold storage.",
@@ -10728,7 +10728,7 @@
       "quarrying",
       "environment"
     ],
-    "prompt": "It comes around again, and the margin for error is gone. A granite deposit could supply valuable dimension stone and cut imports, but quarrying it means blasting a forested hill that buffers a watershed and shelters indigenous hamlets. Open the quarry, or leave the hill standing?",
+    "prompt": "It comes around again, and the margin for error is gone. Sir, we have a problem. A granite deposit could supply valuable dimension stone and cut imports, but quarrying it means blasting a forested hill that buffers a watershed and shelters indigenous hamlets. Open the quarry, or leave the hill standing?",
     "left": {
       "id": "a",
       "label": "Open the granite quarry.",
@@ -10764,7 +10764,7 @@
       "peak",
       "tariff"
     ],
-    "prompt": "The same demand, but the reign is older and the knives sharper. Peak evening demand strains the grid to breaking, forcing costly, dirty peaker plants to fire up. Time-of-use tariffs and demand-management could shave the peak cheaply; consumers resent paying more at peak hours and the populist instinct is one flat, low price.",
+    "prompt": "The same demand, but the reign is older and the knives sharper. Sir! Peak evening demand strains the grid to breaking, forcing costly, dirty peaker plants to fire up. Time-of-use tariffs and demand-management could shave the peak cheaply; consumers resent paying more at peak hours and the populist instinct is one flat, low price.",
     "left": {
       "id": "a",
       "label": "Introduce time-of-use tariffs.",
@@ -10800,7 +10800,7 @@
       "import",
       "health"
     ],
-    "prompt": "Years deep, the unresolved returns to be resolved for good. Cheap imported palm oil dominates the cooking-oil market — affordable, but linked to poorer health and to rainforest destruction your imports fund. Tax and curb it in favour of domestic, healthier oils, or keep the cheap staple flowing?",
+    "prompt": "Years deep, the unresolved returns to be resolved for good. Mr. Prime Minister, sir! Cheap imported palm oil dominates the cooking-oil market — affordable, but linked to poorer health and to rainforest destruction your imports fund. Tax and curb it in favour of domestic, healthier oils, or keep the cheap staple flowing?",
     "left": {
       "id": "a",
       "label": "Curb palm oil for domestic, healthier oils.",
@@ -10836,7 +10836,7 @@
       "strategy",
       "future"
     ],
-    "prompt": "The conflict reignites, and the world is watching this time. The decades-long power master plan must be set, and the chairman lays out the fork: double down on cheap, reliable imported coal and LNG for the growth the economy demands, or stake the future on a costlier, slower pivot to renewables?",
+    "prompt": "The conflict reignites, and the world is watching this time. Your Excellency! The decades-long power master plan must be set, and the chairman lays out the fork: double down on cheap, reliable imported coal and LNG for the growth the economy demands, or stake the future on a costlier, slower pivot to renewables?",
     "left": {
       "id": "a",
       "label": "Build the fossil-heavy power plan.",
@@ -10874,7 +10874,7 @@
       "strategy",
       "future"
     ],
-    "prompt": "A familiar crisis, escalated by everything you let slide. Years into the plan you chose, the bills are coming due — fuel-price shocks battering the fossil bet, or intermittency and cost straining the green one. Stay the course, or hedge with a costly mid-stream correction?",
+    "prompt": "A familiar crisis, escalated by everything you let slide. Prime Minister! Years into the plan you chose, the bills are coming due — fuel-price shocks battering the fossil bet, or intermittency and cost straining the green one. Stay the course, or hedge with a costly mid-stream correction?",
     "left": {
       "id": "a",
       "label": "Stay the course you set.",
@@ -10910,7 +10910,7 @@
       "strategy",
       "future"
     ],
-    "prompt": "The fault line cracks wider; the decision can no longer wait. The energy strategy has become a political symbol — the opposition hammers every blackout or price rise as proof of your folly, while your base defends the plan as visionary. Defend it loudly, or quietly let the next plan correct it?",
+    "prompt": "The fault line cracks wider; the decision can no longer wait. Sir — The energy strategy has become a political symbol — the opposition hammers every blackout or price rise as proof of your folly, while your base defends the plan as visionary. Defend it loudly, or quietly let the next plan correct it?",
     "left": {
       "id": "a",
       "label": "Defend the strategy loudly.",

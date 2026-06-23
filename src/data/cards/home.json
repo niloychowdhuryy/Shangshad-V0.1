@@ -11,7 +11,7 @@
       "money",
       "leak"
     ],
-    "prompt": "Nasrin says calmly that a reporter knows about the secret bank account you made in her name.",
+    "prompt": "Listen to me — Nasrin says calmly that a reporter knows about the secret bank account you made in her name.",
     "left": {
       "id": "a",
       "label": "Move the money tonight and keep it a secret.",
@@ -47,7 +47,7 @@
       "money",
       "leak"
     ],
-    "prompt": "A new story tells everyone the bank name and your kids' names. Nasrin is upset that you still got caught.",
+    "prompt": "We need to talk. A new story tells everyone the bank name and your kids' names. Nasrin is upset that you still got caught.",
     "left": {
       "id": "a",
       "label": "Blame a helper and fire him in front of everyone.",
@@ -84,7 +84,7 @@
       "money",
       "leak"
     ],
-    "prompt": "The police want to ask Nasrin questions. She says she will lie to protect you if you ask her to.",
+    "prompt": "Hear me out — The police want to ask Nasrin questions. She says she will lie to protect you if you ask her to.",
     "left": {
       "id": "a",
       "label": "Let her lie to keep you both safe.",
@@ -121,7 +121,7 @@
       "contracts",
       "rivalry"
     ],
-    "prompt": "Rashed shows you a plan to build a dam. He says your cousins will get the money and no one will check if it's fair.",
+    "prompt": "A word, in private. Rashed shows you a plan to build a dam. He says your cousins will get the money and no one will check if it's fair.",
     "left": {
       "id": "a",
       "label": "Sign it so your family gets the money.",
@@ -159,7 +159,7 @@
       "contracts",
       "rivalry"
     ],
-    "prompt": "The dam Rashed built broke, and water flooded many homes on live TV. Rashed tells you to blame the builders.",
+    "prompt": "Between us — The dam Rashed built broke, and water flooded many homes on live TV. Rashed tells you to blame the builders.",
     "left": {
       "id": "a",
       "label": "Pay a builder to take the blame.",
@@ -197,7 +197,7 @@
       "contracts",
       "rivalry"
     ],
-    "prompt": "Rashed holds a computer drive and says he has proof of your secrets. He will tell everyone unless you give him a big promotion.",
+    "prompt": "Please, listen to me. Rashed holds a computer drive and says he has proof of your secrets. He will tell everyone unless you give him a big promotion.",
     "left": {
       "id": "a",
       "label": "Give him the promotion and hide the proof.",
@@ -235,7 +235,7 @@
       "press",
       "succession"
     ],
-    "prompt": "A police boss calls late at night. Tania was at a party where kids got sick from bad drugs, and her name is on the list. You can hide it before morning.",
+    "prompt": "Listen to me — A police boss calls late at night. Tania was at a party where kids got sick from bad drugs, and her name is on the list. You can hide it before morning.",
     "left": {
       "id": "a",
       "label": "Erase her name before people find out.",
@@ -271,7 +271,7 @@
       "press",
       "succession"
     ],
-    "prompt": "Tania wants to be the leader of the young group. She says she has a secret video and will show everyone if you don't make her the leader.",
+    "prompt": "We need to talk. Tania wants to be the leader of the young group. She says she has a secret video and will show everyone if you don't make her the leader.",
     "left": {
       "id": "a",
       "label": "Let her be the leader.",
@@ -308,7 +308,7 @@
       "press",
       "succession"
     ],
-    "prompt": "Tania wants to marry the son of your biggest enemy. She says it will fix the fight between your families and asks you to agree.",
+    "prompt": "Hear me out — Tania wants to marry the son of your biggest enemy. She says it will fix the fight between your families and asks you to agree.",
     "left": {
       "id": "a",
       "label": "Say yes to the marriage to stop the fighting.",
@@ -345,7 +345,7 @@
       "loyalty",
       "inheritance"
     ],
-    "prompt": "At dinner, your mother says she changed the family rules. She says you only get the money if the family stays together.",
+    "prompt": "A word, in private. At dinner, your mother says she changed the family rules. She says you only get the money if the family stays together.",
     "left": {
       "id": "a",
       "label": "Agree with your mother and bow down.",
@@ -381,7 +381,7 @@
       "loyalty",
       "inheritance"
     ],
-    "prompt": "The doctor tells you privately that your mother's brain is getting sick. She still controls all the family money and people listen to her.",
+    "prompt": "Between us — The doctor tells you privately that your mother's brain is getting sick. She still controls all the family money and people listen to her.",
     "left": {
       "id": "a",
       "label": "Take control of the money now while keeping it a secret.",
@@ -417,7 +417,7 @@
       "loyalty",
       "inheritance"
     ],
-    "prompt": "Your mother is very sick in bed. She asks you to promise to take care of everyone, or she won't give you the money.",
+    "prompt": "Please, listen to me. Your mother is very sick in bed. She asks you to promise to take care of everyone, or she won't give you the money.",
     "left": {
       "id": "a",
       "label": "Promise her so you get all the money.",
@@ -453,7 +453,7 @@
       "betrayal",
       "security"
     ],
-    "prompt": "You get a secret letter with photos of you meeting someone you shouldn't have. The letter says your sister wants a lot of money to give back the real photos.",
+    "prompt": "Sir! You get a secret letter with photos of you meeting someone you shouldn't have. The letter says your sister wants a lot of money to give back the real photos.",
     "left": {
       "id": "a",
       "label": "Pay your sister so she gives you the photos.",
@@ -490,7 +490,7 @@
       "betrayal",
       "security"
     ],
-    "prompt": "You paid your sister, but she comes back. She says she made copies of the photos and wants even more money now.",
+    "prompt": "Mr. Prime Minister, sir! You paid your sister, but she comes back. She says she made copies of the photos and wants even more money now.",
     "left": {
       "id": "a",
       "label": "Pay her more money, even if you are angry.",
@@ -526,7 +526,7 @@
       "labour",
       "safety"
     ],
-    "prompt": "Faisal says his factory failed a fire safety test. He can pay a bad guy to ignore it, or shut down all the machines.",
+    "prompt": "Listen to me — Faisal says his factory failed a fire safety test. He can pay a bad guy to ignore it, or shut down all the machines.",
     "left": {
       "id": "a",
       "label": "Pay the bad guy so the factory stays open.",
@@ -564,7 +564,7 @@
       "labour",
       "safety"
     ],
-    "prompt": "Buyers from far away want to see if your factories are safe. Faisal wants to trick them by only showing one fake safe floor.",
+    "prompt": "We need to talk. Buyers from far away want to see if your factories are safe. Faisal wants to trick them by only showing one fake safe floor.",
     "left": {
       "id": "a",
       "label": "Show them the one fake safe floor.",
@@ -602,7 +602,7 @@
       "overseas",
       "laundering"
     ],
-    "prompt": "Imran says people in Canada want to meet the real owner of his secret houses. He asks what to do.",
+    "prompt": "Hear me out — Imran says people in Canada want to meet the real owner of his secret houses. He asks what to do.",
     "left": {
       "id": "a",
       "label": "Send a fake person to pretend to be the owner.",
@@ -639,7 +639,7 @@
       "overseas",
       "laundering"
     ],
-    "prompt": "The news shows that Imran hid millions of dollars in Canada. People are very angry, but he wants to come home to fix the papers.",
+    "prompt": "A word, in private. The news shows that Imran hid millions of dollars in Canada. People are very angry, but he wants to come home to fix the papers.",
     "left": {
       "id": "a",
       "label": "Bring him home and hide him from reporters.",
@@ -676,7 +676,7 @@
       "violence",
       "party"
     ],
-    "prompt": "Mizan's school group hurt a rival student really badly. He asks you to protect him from the police.",
+    "prompt": "Between us — Mizan's school group hurt a rival student really badly. He asks you to protect him from the police.",
     "left": {
       "id": "a",
       "label": "Protect him so he can help you later.",
@@ -714,7 +714,7 @@
       "violence",
       "party"
     ],
-    "prompt": "People are protesting at the school because of the hurt student. They want Mizan's group to be banned completely.",
+    "prompt": "Please, listen to me. People are protesting at the school because of the hurt student. They want Mizan's group to be banned completely.",
     "left": {
       "id": "a",
       "label": "Ban Mizan's student group.",
@@ -751,7 +751,7 @@
       "religion",
       "legitimacy"
     ],
-    "prompt": "The family priest asks for a big favor. If you say no, he will tell everyone your son drinks alcohol.",
+    "prompt": "Your Excellency! The family priest asks for a big favor. If you say no, he will tell everyone your son drinks alcohol.",
     "left": {
       "id": "a",
       "label": "Do the favor for him in front of everyone.",
@@ -789,7 +789,7 @@
       "class",
       "image"
     ],
-    "prompt": "Your youngest daughter wants to marry a poor driver's son. She says you can agree happily, or she will do it anyway and it will be in the news.",
+    "prompt": "Listen to me — Your youngest daughter wants to marry a poor driver's son. She says you can agree happily, or she will do it anyway and it will be in the news.",
     "left": {
       "id": "a",
       "label": "Agree and look like a nice person.",
@@ -825,7 +825,7 @@
       "banking",
       "finance"
     ],
-    "prompt": "Your father-in-law's bank gave money to your own family's companies. He wants you to fire the bank boss, or your family will get in trouble.",
+    "prompt": "We need to talk. Your father-in-law's bank gave money to your own family's companies. He wants you to fire the bank boss, or your family will get in trouble.",
     "left": {
       "id": "a",
       "label": "Fire the bank boss and put your friend in charge.",
@@ -860,7 +860,7 @@
       "loyalty",
       "people"
     ],
-    "prompt": "Your driver's son is very sick and needs a new body part. He is far behind in the waiting line and asks for your help.",
+    "prompt": "Prime Minister! Your driver's son is very sick and needs a new body part. He is far behind in the waiting line and asks for your help.",
     "left": {
       "id": "a",
       "label": "Move his son to the front of the line.",
@@ -897,7 +897,7 @@
       "abuse",
       "press"
     ],
-    "prompt": "Your son's wife has bruises. She says your son hit her and wants your help, or she will tell the news reporters.",
+    "prompt": "Hear me out — Your son's wife has bruises. She says your son hit her and wants your help, or she will tell the news reporters.",
     "left": {
       "id": "a",
       "label": "Help her and stop your son.",
@@ -933,7 +933,7 @@
       "nepotism",
       "state"
     ],
-    "prompt": "Your helper says you are giving almost all the government jobs to your own family and friends.",
+    "prompt": "Sir — Your helper says you are giving almost all the government jobs to your own family and friends.",
     "left": {
       "id": "a",
       "label": "Thank him, but change nothing.",
@@ -971,7 +971,7 @@
       "exit",
       "love"
     ],
-    "prompt": "Your wife packs her bags. She says she will only stay if you truly love her, not just because you need her help to look good.",
+    "prompt": "A word, in private. Your wife packs her bags. She says she will only stay if you truly love her, not just because you need her help to look good.",
     "left": {
       "id": "a",
       "label": "Tell her you love her and ask her to stay.",
@@ -1005,7 +1005,7 @@
       "roots",
       "patronage"
     ],
-    "prompt": "Your village leader says a flood destroyed homes, and your cousin stole the help money.",
+    "prompt": "Honourable leader! Your village leader says a flood destroyed homes, and your cousin stole the help money.",
     "left": {
       "id": "a",
       "label": "Fire your cousin and give the help yourself.",
@@ -1042,7 +1042,7 @@
       "ambition",
       "power"
     ],
-    "prompt": "Your daughter's husband wants a big job in the government. He is smart but greedy. Your daughter might be sad if you say no.",
+    "prompt": "Sir, urgent news. Your daughter's husband wants a big job in the government. He is smart but greedy. Your daughter might be sad if you say no.",
     "left": {
       "id": "a",
       "label": "Give him the big job.",
@@ -1079,7 +1079,7 @@
       "ambition",
       "power"
     ],
-    "prompt": "Your daughter's husband is making secret deals with your enemies. Your daughter is caught in the middle.",
+    "prompt": "Sir, forgive me — Your daughter's husband is making secret deals with your enemies. Your daughter is caught in the middle.",
     "left": {
       "id": "a",
       "label": "Face him and make him choose a side.",
@@ -1115,7 +1115,7 @@
       "excess",
       "optics"
     ],
-    "prompt": "Your grandson wants a super expensive wedding, but the country is trying to save money. People would be angry to see it.",
+    "prompt": "Between us — Your grandson wants a super expensive wedding, but the country is trying to save money. People would be angry to see it.",
     "left": {
       "id": "a",
       "label": "Let him have the giant party.",
@@ -1151,7 +1151,7 @@
       "favour",
       "graft"
     ],
-    "prompt": "Your brother wants to open his own bank with your permission.",
+    "prompt": "Please, listen to me. Your brother wants to open his own bank with your permission.",
     "left": {
       "id": "a",
       "label": "Let him open his bank.",
@@ -1188,7 +1188,7 @@
       "exposure",
       "hypocrisy"
     ],
-    "prompt": "Your son secretly became a citizen of another country. A reporter is about to tell everyone.",
+    "prompt": "Listen to me — Your son secretly became a citizen of another country. A reporter is about to tell everyone.",
     "left": {
       "id": "a",
       "label": "Stop the reporter from telling the story.",
@@ -1225,7 +1225,7 @@
       "grabbing",
       "family"
     ],
-    "prompt": "Your sister-in-law is taking land from poor people and using your name to hide. People are starting to complain.",
+    "prompt": "We need to talk. Your sister-in-law is taking land from poor people and using your name to hide. People are starting to complain.",
     "left": {
       "id": "a",
       "label": "Stop her and give the land back.",
@@ -1262,7 +1262,7 @@
       "legacy",
       "secrets"
     ],
-    "prompt": "Your sick mother is writing a book about her life. She might accidentally share big family secrets.",
+    "prompt": "Hear me out — Your sick mother is writing a book about her life. She might accidentally share big family secrets.",
     "left": {
       "id": "a",
       "label": "Let the book be printed with all the secrets.",
@@ -1299,7 +1299,7 @@
       "funds",
       "scandal"
     ],
-    "prompt": "Your daughter's charity is actually hiding stolen money. Checkers are coming to look at the money, and she wants you to stop them.",
+    "prompt": "A word, in private. Your daughter's charity is actually hiding stolen money. Checkers are coming to look at the money, and she wants you to stop them.",
     "left": {
       "id": "a",
       "label": "Make the checkers go away.",
@@ -1335,7 +1335,7 @@
       "children",
       "merit"
     ],
-    "prompt": "Your mother wants you to pick your fun but silly child to be the next leader, instead of your smart but cold child.",
+    "prompt": "Between us — Your mother wants you to pick your fun but silly child to be the next leader, instead of your smart but cold child.",
     "left": {
       "id": "a",
       "label": "Pick the fun child everyone likes.",
@@ -1371,7 +1371,7 @@
       "audio",
       "betrayal"
     ],
-    "prompt": "Someone shared a secret recording of you making fun of people.",
+    "prompt": "A word, sir! Someone shared a secret recording of you making fun of people.",
     "left": {
       "id": "a",
       "label": "Lie and say the recording is fake.",
@@ -1408,7 +1408,7 @@
       "matriarch",
       "optics"
     ],
-    "prompt": "Your mother needs very expensive medicine far away, but poor people in your country cannot even get basic doctors.",
+    "prompt": "Sir, we have a problem. Your mother needs very expensive medicine far away, but poor people in your country cannot even get basic doctors.",
     "left": {
       "id": "a",
       "label": "Send her far away using the country's money.",
@@ -1445,7 +1445,7 @@
       "pension",
       "memory"
     ],
-    "prompt": "Your old guard who saved your life is dying poor. He knows lots of your secrets.",
+    "prompt": "Sir! Your old guard who saved your life is dying poor. He knows lots of your secrets.",
     "left": {
       "id": "a",
       "label": "Give him lots of money and care for him openly.",
@@ -1481,7 +1481,7 @@
       "youth",
       "media"
     ],
-    "prompt": "Your niece got drunk and crashed her fast car into a poor man. There is a video of it. Your family wants to hide the video, but people online are angry.",
+    "prompt": "Please, listen to me. Your niece got drunk and crashed her fast car into a poor man. There is a video of it. Your family wants to hide the video, but people online are angry.",
     "left": {
       "id": "a",
       "label": "Hide the video and pay the poor man secretly.",
@@ -1517,7 +1517,7 @@
       "monopoly",
       "favour"
     ],
-    "prompt": "Your son Faisal wants to buy a big phone company. He says he needs it to keep things safe. Other people say your family is taking over everything.",
+    "prompt": "Listen to me — Your son Faisal wants to buy a big phone company. He says he needs it to keep things safe. Other people say your family is taking over everything.",
     "left": {
       "id": "a",
       "label": "Help Faisal get the phone company.",
@@ -1554,7 +1554,7 @@
       "budget",
       "excess"
     ],
-    "prompt": "It costs way too much money to run your big house. People would be angry if they knew.",
+    "prompt": "Mr. Prime Minister, sir! It costs way too much money to run your big house. People would be angry if they knew.",
     "left": {
       "id": "a",
       "label": "Spend less money on the house.",
@@ -1592,7 +1592,7 @@
       "legacy",
       "cult"
     ],
-    "prompt": "Your sick mother wants a giant, expensive building built for her when she dies. The country would have to pay for it forever.",
+    "prompt": "We need to talk. Your sick mother wants a giant, expensive building built for her when she dies. The country would have to pay for it forever.",
     "left": {
       "id": "a",
       "label": "Build the giant building for her.",
@@ -1629,7 +1629,7 @@
       "rehab",
       "secret"
     ],
-    "prompt": "Your son Imran took too many bad drugs and got very sick. Your family hid him in a secret hospital. Some say he needs real help where everyone can see.",
+    "prompt": "Hear me out — Your son Imran took too many bad drugs and got very sick. Your family hid him in a secret hospital. Some say he needs real help where everyone can see.",
     "left": {
       "id": "a",
       "label": "Keep it a secret and help him quietly.",
@@ -1665,7 +1665,7 @@
       "feud",
       "threat"
     ],
-    "prompt": "Your sister, who you don't talk to, comes back. She wrote a book about all the bad things your family did. She will print it unless you pay her and act like friends.",
+    "prompt": "A word, in private. Your sister, who you don't talk to, comes back. She wrote a book about all the bad things your family did. She will print it unless you pay her and act like friends.",
     "left": {
       "id": "a",
       "label": "Act like friends and pay her.",
@@ -1701,7 +1701,7 @@
       "kickbacks",
       "exposure"
     ],
-    "prompt": "Your cousin Rashed, who helps the family make secret deals, is in trouble with the police in another country. He wants you to protect him.",
+    "prompt": "Your Excellency! Your cousin Rashed, who helps the family make secret deals, is in trouble with the police in another country. He wants you to protect him.",
     "left": {
       "id": "a",
       "label": "Protect Rashed no matter what.",
@@ -1738,7 +1738,7 @@
       "politics",
       "ambition"
     ],
-    "prompt": "Your wife Nasrin wants a big government job of her own. This would make her very powerful too.",
+    "prompt": "Between us — Your wife Nasrin wants a big government job of her own. This would make her very powerful too.",
     "left": {
       "id": "a",
       "label": "Give Nasrin a real government job.",
@@ -1774,7 +1774,7 @@
       "family",
       "strategy"
     ],
-    "prompt": "A helper tells you that young people do not like your family anymore. They think your family acts spoiled. He says you need to change how you look, which costs money.",
+    "prompt": "Prime Minister! A helper tells you that young people do not like your family anymore. They think your family acts spoiled. He says you need to change how you look, which costs money.",
     "left": {
       "id": "a",
       "label": "Pay money to change how your family looks.",
@@ -1811,7 +1811,7 @@
       "youth",
       "abroad"
     ],
-    "prompt": "Your grandson Arif is supposed to be the leader one day, but he doesn't want to. He wants to live far away and be normal.",
+    "prompt": "Please, listen to me. Your grandson Arif is supposed to be the leader one day, but he doesn't want to. He wants to live far away and be normal.",
     "left": {
       "id": "a",
       "label": "Let Arif go live his own normal life.",
@@ -1847,7 +1847,7 @@
       "scandal",
       "family"
     ],
-    "prompt": "Your helper brings proof that you have a secret second family. The newspapers might tell everyone soon.",
+    "prompt": "Sir — Your helper brings proof that you have a secret second family. The newspapers might tell everyone soon.",
     "left": {
       "id": "a",
       "label": "Tell everyone the truth and take care of them openly.",
@@ -1884,7 +1884,7 @@
       "superstition",
       "health"
     ],
-    "prompt": "Your sick mother is listening to a magic healer instead of her real doctor. She is getting much sicker.",
+    "prompt": "Honourable leader! Your sick mother is listening to a magic healer instead of her real doctor. She is getting much sicker.",
     "left": {
       "id": "a",
       "label": "Make the magic healer leave and give her real medicine.",
@@ -1919,7 +1919,7 @@
       "social-media",
       "image"
     ],
-    "prompt": "The person who will be leader after you is posting pictures of expensive things online and making fun of poor people.",
+    "prompt": "Sir, urgent news. The person who will be leader after you is posting pictures of expensive things online and making fun of poor people.",
     "left": {
       "id": "a",
       "label": "Take away their phone and delete the pictures.",
@@ -1955,7 +1955,7 @@
       "trust",
       "aide"
     ],
-    "prompt": "Your wife Nasrin is angry and wants you to fire your best helper. She thinks you like the helper too much.",
+    "prompt": "Listen to me — Your wife Nasrin is angry and wants you to fire your best helper. She thinks you like the helper too much.",
     "left": {
       "id": "a",
       "label": "Fire the helper to keep your wife happy.",
@@ -1991,7 +1991,7 @@
       "family",
       "propaganda"
     ],
-    "prompt": "Your cousin Jalal wants the government to pay for his own TV station. He will use it to say good things about your family.",
+    "prompt": "Sir, forgive me — Your cousin Jalal wants the government to pay for his own TV station. He will use it to say good things about your family.",
     "left": {
       "id": "a",
       "label": "Give Jalal the TV station and the money.",
@@ -2028,7 +2028,7 @@
       "alliance",
       "dynasty"
     ],
-    "prompt": "Your mother set up a marriage for your grandchild with another powerful family. Your grandchild doesn't know them.",
+    "prompt": "We need to talk. Your mother set up a marriage for your grandchild with another powerful family. Your grandchild doesn't know them.",
     "left": {
       "id": "a",
       "label": "Say yes to the marriage to make the families stronger together.",
@@ -2064,7 +2064,7 @@
       "mortality",
       "succession"
     ],
-    "prompt": "Your doctor says your heart is sick and you don't have many years left to live. Being the boss makes it worse.",
+    "prompt": "A word, sir! Your doctor says your heart is sick and you don't have many years left to live. Being the boss makes it worse.",
     "left": {
       "id": "a",
       "label": "Step down slowly and let someone else be boss.",
@@ -2101,7 +2101,7 @@
       "justice",
       "family"
     ],
-    "prompt": "A young family member drove drunk and killed someone walking. Your helper can make the police report disappear.",
+    "prompt": "Sir, we have a problem. A young family member drove drunk and killed someone walking. Your helper can make the police report disappear.",
     "left": {
       "id": "a",
       "label": "Let the police arrest your family member.",
@@ -2137,7 +2137,7 @@
       "debt",
       "blackmail"
     ],
-    "prompt": "Your son Imran played games for money and lost a lot to bad people. They will tell the news if you don't pay his debt.",
+    "prompt": "Hear me out — Your son Imran played games for money and lost a lot to bad people. They will tell the news if you don't pay his debt.",
     "left": {
       "id": "a",
       "label": "Pay the bad guys to keep it quiet.",
@@ -2173,7 +2173,7 @@
       "cabinet",
       "power"
     ],
-    "prompt": "Your mother is acting like she is the boss of the country, telling your helpers what to do. Your helpers are very mad.",
+    "prompt": "A word, in private. Your mother is acting like she is the boss of the country, telling your helpers what to do. Your helpers are very mad.",
     "left": {
       "id": "a",
       "label": "Tell your mother to stop acting like the boss.",
@@ -2210,7 +2210,7 @@
       "estrangement",
       "family"
     ],
-    "prompt": "Your daughter Tania, who you fought with long ago, comes back. She wants to be friends again and help the family.",
+    "prompt": "Between us — Your daughter Tania, who you fought with long ago, comes back. She wants to be friends again and help the family.",
     "left": {
       "id": "a",
       "label": "Be friends and welcome her back.",
@@ -2245,7 +2245,7 @@
       "history",
       "truth"
     ],
-    "prompt": "A writer is making a book about you. They found out bad things you did as well as good things. They ask if they should write the total truth or just the good parts.",
+    "prompt": "Sir! A writer is making a book about you. They found out bad things you did as well as good things. They ask if they should write the total truth or just the good parts.",
     "left": {
       "id": "a",
       "label": "Tell them to write the total truth.",
@@ -2281,7 +2281,7 @@
       "foreign",
       "exposure"
     ],
-    "prompt": "Another country's police locked your family's secret bank accounts because they think the money is stolen.",
+    "prompt": "Mr. Prime Minister, sir! Another country's police locked your family's secret bank accounts because they think the money is stolen.",
     "left": {
       "id": "a",
       "label": "Let them keep the money so they don't look closer.",
@@ -2318,7 +2318,7 @@
       "loyalty",
       "secret"
     ],
-    "prompt": "An old helper who knows all your family secrets is leaving. Someone offered them a lot of money to tell the secrets. They ask you for money instead.",
+    "prompt": "Your Excellency! An old helper who knows all your family secrets is leaving. Someone offered them a lot of money to tell the secrets. They ask you for money instead.",
     "left": {
       "id": "a",
       "label": "Give the helper a lot of money.",
@@ -2353,7 +2353,7 @@
       "seat",
       "politics"
     ],
-    "prompt": "Your son Faisal wants to be a leader without doing any hard work first. The people who worked hard will be mad.",
+    "prompt": "Please, listen to me. Your son Faisal wants to be a leader without doing any hard work first. The people who worked hard will be mad.",
     "left": {
       "id": "a",
       "label": "Give Faisal the leader job easily.",
@@ -2389,7 +2389,7 @@
       "militia",
       "family"
     ],
-    "prompt": "Mizan wants to make a giant private army just for your family.",
+    "prompt": "Prime Minister! Mizan wants to make a giant private army just for your family.",
     "left": {
       "id": "a",
       "label": "Build the private army to keep your family super safe.",
@@ -2426,7 +2426,7 @@
       "dissent",
       "family"
     ],
-    "prompt": "Your grandson Arif is yelling at your government in public. He says you are doing bad things. Your friends want you to stop him.",
+    "prompt": "Listen to me — Your grandson Arif is yelling at your government in public. He says you are doing bad things. Your friends want you to stop him.",
     "left": {
       "id": "a",
       "label": "Let Arif keep yelling.",
@@ -2463,7 +2463,7 @@
       "decisions",
       "influence"
     ],
-    "prompt": "A magic star-reader tells your mother when to make big government choices. The smart people are very mad about this.",
+    "prompt": "Sir — A magic star-reader tells your mother when to make big government choices. The smart people are very mad about this.",
     "left": {
       "id": "a",
       "label": "Listen to the magic star-reader.",
@@ -2499,7 +2499,7 @@
       "property",
       "feud"
     ],
-    "prompt": "Your brother Kamal is suing you for the family house. If he goes to court, everyone will hear family secrets. He will stop if you give him what he wants privately.",
+    "prompt": "We need to talk. Your brother Kamal is suing you for the family house. If he goes to court, everyone will hear family secrets. He will stop if you give him what he wants privately.",
     "left": {
       "id": "a",
       "label": "Give him what he wants privately.",
@@ -2535,7 +2535,7 @@
       "foundation",
       "scrutiny"
     ],
-    "prompt": "People think your wife Nasrin is stealing money from her charity. Checkers are coming. She cries and asks you to stop the checkers.",
+    "prompt": "Hear me out — People think your wife Nasrin is stealing money from her charity. Checkers are coming. She cries and asks you to stop the checkers.",
     "left": {
       "id": "a",
       "label": "Let the checkers do their job honestly.",
@@ -2571,7 +2571,7 @@
       "loss",
       "consolation"
     ],
-    "prompt": "Your cousin Jalal lost his big election. Now he is sad and demands a big government job anyway to feel better.",
+    "prompt": "Honourable leader! Your cousin Jalal lost his big election. Now he is sad and demands a big government job anyway to feel better.",
     "left": {
       "id": "a",
       "label": "Give Jalal a big job to make him feel better.",
@@ -2607,7 +2607,7 @@
       "secrets",
       "legacy"
     ],
-    "prompt": "Someone stole a page from your secret diary where you wrote mean things about people.",
+    "prompt": "Sir, urgent news. Someone stole a page from your secret diary where you wrote mean things about people.",
     "left": {
       "id": "a",
       "label": "Hunt down the thief and punish them.",
@@ -2644,7 +2644,7 @@
       "anniversary",
       "legacy"
     ],
-    "prompt": "Someone wants to throw a giant, expensive party for your family's history, making everyone celebrate it.",
+    "prompt": "Sir, forgive me — Someone wants to throw a giant, expensive party for your family's history, making everyone celebrate it.",
     "left": {
       "id": "a",
       "label": "Throw the giant party.",
@@ -2681,7 +2681,7 @@
       "mental-health",
       "secret"
     ],
-    "prompt": "The doctor says your youngest child is very, very sad inside. Your family thinks being sad is a weakness.",
+    "prompt": "A word, sir! The doctor says your youngest child is very, very sad inside. Your family thinks being sad is a weakness.",
     "left": {
       "id": "a",
       "label": "Get your child real help openly.",
@@ -2716,7 +2716,7 @@
       "death",
       "succession"
     ],
-    "prompt": "Your mother died and her will gives all the money to one favorite child, leaving the others with nothing. They will fight over it.",
+    "prompt": "Sir, we have a problem. Your mother died and her will gives all the money to one favorite child, leaving the others with nothing. They will fight over it.",
     "left": {
       "id": "a",
       "label": "Follow the will exactly as it says.",
@@ -2751,7 +2751,7 @@
       "family",
       "scandal"
     ],
-    "prompt": "A family member is secretly stealing gold, and the police are getting close to catching them.",
+    "prompt": "Sir! A family member is secretly stealing gold, and the police are getting close to catching them.",
     "left": {
       "id": "a",
       "label": "Stop the stealing and let the family member get in trouble.",
@@ -2788,7 +2788,7 @@
       "scandal",
       "family"
     ],
-    "prompt": "Your daughter Tania wants to leave her mean husband. His family is powerful, and everyone will gossip. She wants your help.",
+    "prompt": "A word, in private. Your daughter Tania wants to leave her mean husband. His family is powerful, and everyone will gossip. She wants your help.",
     "left": {
       "id": "a",
       "label": "Help Tania leave her mean husband.",
@@ -2824,7 +2824,7 @@
       "overreach",
       "power"
     ],
-    "prompt": "Your best helper is making big choices without asking you and keeping money for himself. People are scared of him.",
+    "prompt": "Mr. Prime Minister, sir! Your best helper is making big choices without asking you and keeping money for himself. People are scared of him.",
     "left": {
       "id": "a",
       "label": "Fire the helper for taking too much power.",
@@ -2861,7 +2861,7 @@
       "grooming",
       "succession"
     ],
-    "prompt": "The teacher says the child you picked to be the next leader is not smart enough and people don't like them.",
+    "prompt": "Your Excellency! The teacher says the child you picked to be the next leader is not smart enough and people don't like them.",
     "left": {
       "id": "a",
       "label": "Keep pushing your chosen child to lead.",
@@ -2898,7 +2898,7 @@
       "rival",
       "loyalty"
     ],
-    "prompt": "Your brother Kamal is angry and says he will join the bad guys and tell your secrets unless you pay him lots of money.",
+    "prompt": "Between us — Your brother Kamal is angry and says he will join the bad guys and tell your secrets unless you pay him lots of money.",
     "left": {
       "id": "a",
       "label": "Pay Kamal what he wants so he stays.",
@@ -2935,7 +2935,7 @@
       "family",
       "patronage"
     ],
-    "prompt": "Your sister-in-law Roksana is selling fake school grades for money. People are getting mad. She wants you to protect her.",
+    "prompt": "Prime Minister! Your sister-in-law Roksana is selling fake school grades for money. People are getting mad. She wants you to protect her.",
     "left": {
       "id": "a",
       "label": "Protect Roksana's bad school.",
@@ -2972,7 +2972,7 @@
       "health",
       "duty"
     ],
-    "prompt": "Your wife Nasrin is very sick and might die soon. She needs you, but your big job keeps you away.",
+    "prompt": "Please, listen to me. Your wife Nasrin is very sick and might die soon. She needs you, but your big job keeps you away.",
     "left": {
       "id": "a",
       "label": "Stop working so hard and stay with Nasrin.",
@@ -3008,7 +3008,7 @@
       "bailout",
       "favour"
     ],
-    "prompt": "Your son Faisal's business failed and he owes a lot of money. He wants you to make the country's bank forget about his debt.",
+    "prompt": "Listen to me — Your son Faisal's business failed and he owes a lot of money. He wants you to make the country's bank forget about his debt.",
     "left": {
       "id": "a",
       "label": "Make the bank secretly forget his debt.",
@@ -3045,7 +3045,7 @@
       "influence",
       "decisions"
     ],
-    "prompt": "The family priest wants you to change the country's laws to be very strict about religion. If you say no, religious people will be mad.",
+    "prompt": "Sir — The family priest wants you to change the country's laws to be very strict about religion. If you say no, religious people will be mad.",
     "left": {
       "id": "a",
       "label": "Tell the priest to stick to praying, not laws.",
@@ -3081,7 +3081,7 @@
       "contingency",
       "survival"
     ],
-    "prompt": "Your guard says things are dangerous and you should secretly prepare an airplane to run away to another country if bad things happen.",
+    "prompt": "Honourable leader! Your guard says things are dangerous and you should secretly prepare an airplane to run away to another country if bad things happen.",
     "left": {
       "id": "a",
       "label": "Secretly prepare the airplane to run away.",
@@ -3118,7 +3118,7 @@
       "scandal",
       "influence"
     ],
-    "prompt": "Your grandchild is hanging out with bad friends who do bad things. It might be on the news soon.",
+    "prompt": "Sir, urgent news. Your grandchild is hanging out with bad friends who do bad things. It might be on the news soon.",
     "left": {
       "id": "a",
       "label": "Step in and pull your grandchild away from the bad friends.",
@@ -3153,7 +3153,7 @@
       "promise",
       "legacy"
     ],
-    "prompt": "Before she died, your mother made you promise something you know is a bad idea. The lawyer asks if you will still do it.",
+    "prompt": "We need to talk. Before she died, your mother made you promise something you know is a bad idea. The lawyer asks if you will still do it.",
     "left": {
       "id": "a",
       "label": "Keep the promise because she was dying.",
@@ -3189,7 +3189,7 @@
       "family",
       "leak"
     ],
-    "prompt": "Your guard found out a family member is secretly selling your secrets to your enemies for money.",
+    "prompt": "Sir, forgive me — Your guard found out a family member is secretly selling your secrets to your enemies for money.",
     "left": {
       "id": "a",
       "label": "Tell everyone what they did and kick them out.",
@@ -3226,7 +3226,7 @@
       "heir",
       "backup"
     ],
-    "prompt": "The teacher says you should secretly train a second child to be leader, just in case the first one fails. If they find out, they will fight.",
+    "prompt": "A word, sir! The teacher says you should secretly train a second child to be leader, just in case the first one fails. If they find out, they will fight.",
     "left": {
       "id": "a",
       "label": "Secretly train a second child.",
@@ -3262,7 +3262,7 @@
       "health",
       "judgment"
     ],
-    "prompt": "Your doctor says you are too tired to think straight and are making mistakes.",
+    "prompt": "Sir, we have a problem. Your doctor says you are too tired to think straight and are making mistakes.",
     "left": {
       "id": "a",
       "label": "Take a long rest and let others do the work.",
@@ -3299,7 +3299,7 @@
       "gold",
       "exposure"
     ],
-    "prompt": "Your family has a giant pile of secret gold and jewels. If anyone finds it, you will be in trouble.",
+    "prompt": "Sir! Your family has a giant pile of secret gold and jewels. If anyone finds it, you will be in trouble.",
     "left": {
       "id": "a",
       "label": "Tell the truth about the gold and pay taxes on it.",
@@ -3337,7 +3337,7 @@
       "legacy",
       "stepping-down"
     ],
-    "prompt": "Nasrin asks if you should quit being the boss now while people still like you, instead of waiting until people hate you and force you out.",
+    "prompt": "Hear me out — Nasrin asks if you should quit being the boss now while people still like you, instead of waiting until people hate you and force you out.",
     "left": {
       "id": "a",
       "label": "Plan to quit nicely while you are ahead.",
@@ -3375,7 +3375,7 @@
       "education",
       "favour"
     ],
-    "prompt": "Your nephew in school far away spent too much money. You can pay for it with your own money or steal government money to pay for it.",
+    "prompt": "Mr. Prime Minister, sir! Your nephew in school far away spent too much money. You can pay for it with your own money or steal government money to pay for it.",
     "left": {
       "id": "a",
       "label": "Pay for it with your own family money.",
@@ -3411,7 +3411,7 @@
       "succession",
       "feud"
     ],
-    "prompt": "Your two best children are fighting meanly over who gets to be the leader next.",
+    "prompt": "A word, in private. Your two best children are fighting meanly over who gets to be the leader next.",
     "left": {
       "id": "a",
       "label": "Pick one child now to stop the fight.",
@@ -3447,7 +3447,7 @@
       "hospital",
       "family"
     ],
-    "prompt": "A hospital owned by your family is very dirty and patients are dying. The checkers want to punish them.",
+    "prompt": "Your Excellency! A hospital owned by your family is very dirty and patients are dying. The checkers want to punish them.",
     "left": {
       "id": "a",
       "label": "Let the checkers punish the dirty hospital.",
@@ -3484,7 +3484,7 @@
       "anointment",
       "dynasty"
     ],
-    "prompt": "The older leaders want you to pick the next leader right now. If you do, people might stop listening to you because they know you are leaving soon.",
+    "prompt": "Prime Minister! The older leaders want you to pick the next leader right now. If you do, people might stop listening to you because they know you are leaving soon.",
     "left": {
       "id": "a",
       "label": "Pick the next leader in front of everyone now.",
@@ -3521,7 +3521,7 @@
       "loyalty",
       "competence"
     ],
-    "prompt": "Your friends only tell you good things and lie to make you happy. A helper says you need to listen to honest people, but your friends will be mad.",
+    "prompt": "Sir — Your friends only tell you good things and lie to make you happy. A helper says you need to listen to honest people, but your friends will be mad.",
     "left": {
       "id": "a",
       "label": "Let the honest people in to tell the truth.",
@@ -3558,7 +3558,7 @@
       "trust",
       "succession"
     ],
-    "prompt": "Tania asks you a hard question: is she supposed to help the country, or just make your family richer?",
+    "prompt": "Between us — Tania asks you a hard question: is she supposed to help the country, or just make your family richer?",
     "left": {
       "id": "a",
       "label": "Tell her she must help the country.",
@@ -3595,7 +3595,7 @@
       "trust",
       "succession"
     ],
-    "prompt": "Tania finds out your family is doing bad, secret things for money. She asks if she can stop it and punish them.",
+    "prompt": "Please, listen to me. Tania finds out your family is doing bad, secret things for money. She asks if she can stop it and punish them.",
     "left": {
       "id": "a",
       "label": "Let her stop the bad things and clean up the family.",
@@ -3631,7 +3631,7 @@
       "trust",
       "succession"
     ],
-    "prompt": "Tania asks if you will leave your job nicely so she can take over easily, or if you will cling to it until everything is broken.",
+    "prompt": "Listen to me — Tania asks if you will leave your job nicely so she can take over easily, or if you will cling to it until everything is broken.",
     "left": {
       "id": "a",
       "label": "Leave nicely and help her take over.",
@@ -3669,7 +3669,7 @@
       "money",
       "leak"
     ],
-    "prompt": "A term later, the same fault line tears open again. Nasrin says calmly that a reporter knows about the secret bank account you made in her name.",
+    "prompt": "A term later, the same fault line tears open again. Listen to me — Nasrin says calmly that a reporter knows about the secret bank account you made in her name.",
     "left": {
       "id": "a",
       "label": "Move the money tonight and keep it a secret.",
@@ -3705,7 +3705,7 @@
       "money",
       "leak"
     ],
-    "prompt": "Years into your rule, the matter you thought buried resurfaces — harder. A new story tells everyone the bank name and your kids' names. Nasrin is upset that you still got caught.",
+    "prompt": "Years into your rule, the matter you thought buried resurfaces — harder. We need to talk. A new story tells everyone the bank name and your kids' names. Nasrin is upset that you still got caught.",
     "left": {
       "id": "a",
       "label": "Blame a helper and fire him in front of everyone.",
@@ -3742,7 +3742,7 @@
       "money",
       "leak"
     ],
-    "prompt": "A new season of power, an old problem with sharper teeth. The police want to ask Nasrin questions. She says she will lie to protect you if you ask her to.",
+    "prompt": "A new season of power, an old problem with sharper teeth. Hear me out — The police want to ask Nasrin questions. She says she will lie to protect you if you ask her to.",
     "left": {
       "id": "a",
       "label": "Let her lie to keep you both safe.",
@@ -3779,7 +3779,7 @@
       "contracts",
       "rivalry"
     ],
-    "prompt": "The crisis returns, and this time the cabinet is watching. Rashed shows you a plan to build a dam. He says your cousins will get the money and no one will check if it's fair.",
+    "prompt": "The crisis returns, and this time the cabinet is watching. A word, in private. Rashed shows you a plan to build a dam. He says your cousins will get the money and no one will check if it's fair.",
     "left": {
       "id": "a",
       "label": "Sign it so your family gets the money.",
@@ -3817,7 +3817,7 @@
       "contracts",
       "rivalry"
     ],
-    "prompt": "Once more the issue lands on your desk, the stakes higher than before. The dam Rashed built broke, and water flooded many homes on live TV. Rashed tells you to blame the builders.",
+    "prompt": "Once more the issue lands on your desk, the stakes higher than before. Between us — The dam Rashed built broke, and water flooded many homes on live TV. Rashed tells you to blame the builders.",
     "left": {
       "id": "a",
       "label": "Pay a builder to take the blame.",
@@ -3855,7 +3855,7 @@
       "contracts",
       "rivalry"
     ],
-    "prompt": "Another year survived, and the reckoning circles back. Rashed holds a computer drive and says he has proof of your secrets. He will tell everyone unless you give him a big promotion.",
+    "prompt": "Another year survived, and the reckoning circles back. Please, listen to me. Rashed holds a computer drive and says he has proof of your secrets. He will tell everyone unless you give him a big promotion.",
     "left": {
       "id": "a",
       "label": "Give him the promotion and hide the proof.",
@@ -3893,7 +3893,7 @@
       "press",
       "succession"
     ],
-    "prompt": "The ground has shifted; the same demand arrives with new menace. A police boss calls late at night. Tania was at a party where kids got sick from bad drugs, and her name is on the list. You can hide it before morning.",
+    "prompt": "The ground has shifted; the same demand arrives with new menace. Listen to me — A police boss calls late at night. Tania was at a party where kids got sick from bad drugs, and her name is on the list. You can hide it before morning.",
     "left": {
       "id": "a",
       "label": "Erase her name before people find out.",
@@ -3929,7 +3929,7 @@
       "press",
       "succession"
     ],
-    "prompt": "History rhymes: the conflict reopens deeper than last time. Tania wants to be the leader of the young group. She says she has a secret video and will show everyone if you don't make her the leader.",
+    "prompt": "History rhymes: the conflict reopens deeper than last time. We need to talk. Tania wants to be the leader of the young group. She says she has a secret video and will show everyone if you don't make her the leader.",
     "left": {
       "id": "a",
       "label": "Let her be the leader.",
@@ -3966,7 +3966,7 @@
       "press",
       "succession"
     ],
-    "prompt": "Mid-reign, the old wound is torn afresh. Tania wants to marry the son of your biggest enemy. She says it will fix the fight between your families and asks you to agree.",
+    "prompt": "Mid-reign, the old wound is torn afresh. Hear me out — Tania wants to marry the son of your biggest enemy. She says it will fix the fight between your families and asks you to agree.",
     "left": {
       "id": "a",
       "label": "Say yes to the marriage to stop the fighting.",
@@ -4003,7 +4003,7 @@
       "loyalty",
       "inheritance"
     ],
-    "prompt": "The pressure you deferred has come due, larger now. At dinner, your mother says she changed the family rules. She says you only get the money if the family stays together.",
+    "prompt": "The pressure you deferred has come due, larger now. A word, in private. At dinner, your mother says she changed the family rules. She says you only get the money if the family stays together.",
     "left": {
       "id": "a",
       "label": "Agree with your mother and bow down.",
@@ -4039,7 +4039,7 @@
       "loyalty",
       "inheritance"
     ],
-    "prompt": "A later term, and the quarrel has hardened into a test. The doctor tells you privately that your mother's brain is getting sick. She still controls all the family money and people listen to her.",
+    "prompt": "A later term, and the quarrel has hardened into a test. Between us — The doctor tells you privately that your mother's brain is getting sick. She still controls all the family money and people listen to her.",
     "left": {
       "id": "a",
       "label": "Take control of the money now while keeping it a secret.",
@@ -4075,7 +4075,7 @@
       "loyalty",
       "inheritance"
     ],
-    "prompt": "The country has changed, but this fault line has not — only worsened. Your mother is very sick in bed. She asks you to promise to take care of everyone, or she won't give you the money.",
+    "prompt": "The country has changed, but this fault line has not — only worsened. Please, listen to me. Your mother is very sick in bed. She asks you to promise to take care of everyone, or she won't give you the money.",
     "left": {
       "id": "a",
       "label": "Promise her so you get all the money.",
@@ -4111,7 +4111,7 @@
       "betrayal",
       "security"
     ],
-    "prompt": "It returns, as these things do, with the patience gone. You get a secret letter with photos of you meeting someone you shouldn't have. The letter says your sister wants a lot of money to give back the real photos.",
+    "prompt": "It returns, as these things do, with the patience gone. Sir! You get a secret letter with photos of you meeting someone you shouldn't have. The letter says your sister wants a lot of money to give back the real photos.",
     "left": {
       "id": "a",
       "label": "Pay your sister so she gives you the photos.",
@@ -4148,7 +4148,7 @@
       "betrayal",
       "security"
     ],
-    "prompt": "Years on, the matter is no longer private; the press is already circling. You paid your sister, but she comes back. She says she made copies of the photos and wants even more money now.",
+    "prompt": "Years on, the matter is no longer private; the press is already circling. Mr. Prime Minister, sir! You paid your sister, but she comes back. She says she made copies of the photos and wants even more money now.",
     "left": {
       "id": "a",
       "label": "Pay her more money, even if you are angry.",
@@ -4184,7 +4184,7 @@
       "labour",
       "safety"
     ],
-    "prompt": "The same knot, retied tighter, lands before you once more. Faisal says his factory failed a fire safety test. He can pay a bad guy to ignore it, or shut down all the machines.",
+    "prompt": "The same knot, retied tighter, lands before you once more. Listen to me — Faisal says his factory failed a fire safety test. He can pay a bad guy to ignore it, or shut down all the machines.",
     "left": {
       "id": "a",
       "label": "Pay the bad guy so the factory stays open.",
@@ -4222,7 +4222,7 @@
       "labour",
       "safety"
     ],
-    "prompt": "Another monsoon, another return of an argument you cannot end. Buyers from far away want to see if your factories are safe. Faisal wants to trick them by only showing one fake safe floor.",
+    "prompt": "Another monsoon, another return of an argument you cannot end. We need to talk. Buyers from far away want to see if your factories are safe. Faisal wants to trick them by only showing one fake safe floor.",
     "left": {
       "id": "a",
       "label": "Show them the one fake safe floor.",
@@ -4260,7 +4260,7 @@
       "overseas",
       "laundering"
     ],
-    "prompt": "Deep into the reign, the issue demands a final-sounding answer. Imran says people in Canada want to meet the real owner of his secret houses. He asks what to do.",
+    "prompt": "Deep into the reign, the issue demands a final-sounding answer. Hear me out — Imran says people in Canada want to meet the real owner of his secret houses. He asks what to do.",
     "left": {
       "id": "a",
       "label": "Send a fake person to pretend to be the owner.",
@@ -4297,7 +4297,7 @@
       "overseas",
       "laundering"
     ],
-    "prompt": "The reckoning you postponed has matured into a crisis. The news shows that Imran hid millions of dollars in Canada. People are very angry, but he wants to come home to fix the papers.",
+    "prompt": "The reckoning you postponed has matured into a crisis. A word, in private. The news shows that Imran hid millions of dollars in Canada. People are very angry, but he wants to come home to fix the papers.",
     "left": {
       "id": "a",
       "label": "Bring him home and hide him from reporters.",
@@ -4334,7 +4334,7 @@
       "violence",
       "party"
     ],
-    "prompt": "A new chapter, the same antagonists, less room to manoeuvre. Mizan's school group hurt a rival student really badly. He asks you to protect him from the police.",
+    "prompt": "A new chapter, the same antagonists, less room to manoeuvre. Between us — Mizan's school group hurt a rival student really badly. He asks you to protect him from the police.",
     "left": {
       "id": "a",
       "label": "Protect him so he can help you later.",
@@ -4372,7 +4372,7 @@
       "violence",
       "party"
     ],
-    "prompt": "The old fault line widens; this time there is no quiet option. People are protesting at the school because of the hurt student. They want Mizan's group to be banned completely.",
+    "prompt": "The old fault line widens; this time there is no quiet option. Please, listen to me. People are protesting at the school because of the hurt student. They want Mizan's group to be banned completely.",
     "left": {
       "id": "a",
       "label": "Ban Mizan's student group.",
@@ -4409,7 +4409,7 @@
       "religion",
       "legitimacy"
     ],
-    "prompt": "Time has not healed it — the conflict comes back armed. The family priest asks for a big favor. If you say no, he will tell everyone your son drinks alcohol.",
+    "prompt": "Time has not healed it — the conflict comes back armed. Your Excellency! The family priest asks for a big favor. If you say no, he will tell everyone your son drinks alcohol.",
     "left": {
       "id": "a",
       "label": "Do the favor for him in front of everyone.",
@@ -4447,7 +4447,7 @@
       "class",
       "image"
     ],
-    "prompt": "Once again, and with the whole house holding its breath. Your youngest daughter wants to marry a poor driver's son. She says you can agree happily, or she will do it anyway and it will be in the news.",
+    "prompt": "Once again, and with the whole house holding its breath. Listen to me — Your youngest daughter wants to marry a poor driver's son. She says you can agree happily, or she will do it anyway and it will be in the news.",
     "left": {
       "id": "a",
       "label": "Agree and look like a nice person.",
@@ -4483,7 +4483,7 @@
       "banking",
       "finance"
     ],
-    "prompt": "The matter resurfaces in a harder year, patience exhausted. Your father-in-law's bank gave money to your own family's companies. He wants you to fire the bank boss, or your family will get in trouble.",
+    "prompt": "The matter resurfaces in a harder year, patience exhausted. We need to talk. Your father-in-law's bank gave money to your own family's companies. He wants you to fire the bank boss, or your family will get in trouble.",
     "left": {
       "id": "a",
       "label": "Fire the bank boss and put your friend in charge.",
@@ -4518,7 +4518,7 @@
       "loyalty",
       "people"
     ],
-    "prompt": "A later season of rule, the stakes now openly existential. Your driver's son is very sick and needs a new body part. He is far behind in the waiting line and asks for your help.",
+    "prompt": "A later season of rule, the stakes now openly existential. Prime Minister! Your driver's son is very sick and needs a new body part. He is far behind in the waiting line and asks for your help.",
     "left": {
       "id": "a",
       "label": "Move his son to the front of the line.",
@@ -4555,7 +4555,7 @@
       "abuse",
       "press"
     ],
-    "prompt": "It comes around again, and the margin for error is gone. Your son's wife has bruises. She says your son hit her and wants your help, or she will tell the news reporters.",
+    "prompt": "It comes around again, and the margin for error is gone. Hear me out — Your son's wife has bruises. She says your son hit her and wants your help, or she will tell the news reporters.",
     "left": {
       "id": "a",
       "label": "Help her and stop your son.",
@@ -4591,7 +4591,7 @@
       "nepotism",
       "state"
     ],
-    "prompt": "The same demand, but the reign is older and the knives sharper. Your helper says you are giving almost all the government jobs to your own family and friends.",
+    "prompt": "The same demand, but the reign is older and the knives sharper. Sir — Your helper says you are giving almost all the government jobs to your own family and friends.",
     "left": {
       "id": "a",
       "label": "Thank him, but change nothing.",
@@ -4629,7 +4629,7 @@
       "exit",
       "love"
     ],
-    "prompt": "Years deep, the unresolved returns to be resolved for good. Your wife packs her bags. She says she will only stay if you truly love her, not just because you need her help to look good.",
+    "prompt": "Years deep, the unresolved returns to be resolved for good. A word, in private. Your wife packs her bags. She says she will only stay if you truly love her, not just because you need her help to look good.",
     "left": {
       "id": "a",
       "label": "Tell her you love her and ask her to stay.",
@@ -4663,7 +4663,7 @@
       "roots",
       "patronage"
     ],
-    "prompt": "The conflict reignites, and the world is watching this time. Your village leader says a flood destroyed homes, and your cousin stole the help money.",
+    "prompt": "The conflict reignites, and the world is watching this time. Honourable leader! Your village leader says a flood destroyed homes, and your cousin stole the help money.",
     "left": {
       "id": "a",
       "label": "Fire your cousin and give the help yourself.",
@@ -4700,7 +4700,7 @@
       "ambition",
       "power"
     ],
-    "prompt": "A familiar crisis, escalated by everything you let slide. Your daughter's husband wants a big job in the government. He is smart but greedy. Your daughter might be sad if you say no.",
+    "prompt": "A familiar crisis, escalated by everything you let slide. Sir, urgent news. Your daughter's husband wants a big job in the government. He is smart but greedy. Your daughter might be sad if you say no.",
     "left": {
       "id": "a",
       "label": "Give him the big job.",
@@ -4737,7 +4737,7 @@
       "ambition",
       "power"
     ],
-    "prompt": "The fault line cracks wider; the decision can no longer wait. Your daughter's husband is making secret deals with your enemies. Your daughter is caught in the middle.",
+    "prompt": "The fault line cracks wider; the decision can no longer wait. Sir, forgive me — Your daughter's husband is making secret deals with your enemies. Your daughter is caught in the middle.",
     "left": {
       "id": "a",
       "label": "Face him and make him choose a side.",
@@ -4773,7 +4773,7 @@
       "excess",
       "optics"
     ],
-    "prompt": "Late in the reign, the old question demands a heavier answer. Your grandson wants a super expensive wedding, but the country is trying to save money. People would be angry to see it.",
+    "prompt": "Late in the reign, the old question demands a heavier answer. Between us — Your grandson wants a super expensive wedding, but the country is trying to save money. People would be angry to see it.",
     "left": {
       "id": "a",
       "label": "Let him have the giant party.",
@@ -4809,7 +4809,7 @@
       "favour",
       "graft"
     ],
-    "prompt": "It returns once more — and this round may be the one remembered. Your brother wants to open his own bank with your permission.",
+    "prompt": "It returns once more — and this round may be the one remembered. Please, listen to me. Your brother wants to open his own bank with your permission.",
     "left": {
       "id": "a",
       "label": "Let him open his bank.",
@@ -4846,7 +4846,7 @@
       "exposure",
       "hypocrisy"
     ],
-    "prompt": "The reckoning circles back, grown teeth in the waiting. Your son secretly became a citizen of another country. A reporter is about to tell everyone.",
+    "prompt": "The reckoning circles back, grown teeth in the waiting. Listen to me — Your son secretly became a citizen of another country. A reporter is about to tell everyone.",
     "left": {
       "id": "a",
       "label": "Stop the reporter from telling the story.",
@@ -4883,7 +4883,7 @@
       "grabbing",
       "family"
     ],
-    "prompt": "Another term, the same antagonist, the stakes raised again. Your sister-in-law is taking land from poor people and using your name to hide. People are starting to complain.",
+    "prompt": "Another term, the same antagonist, the stakes raised again. We need to talk. Your sister-in-law is taking land from poor people and using your name to hide. People are starting to complain.",
     "left": {
       "id": "a",
       "label": "Stop her and give the land back.",
@@ -4920,7 +4920,7 @@
       "legacy",
       "secrets"
     ],
-    "prompt": "The matter, long deferred, lands with the force of a verdict. Your sick mother is writing a book about her life. She might accidentally share big family secrets.",
+    "prompt": "The matter, long deferred, lands with the force of a verdict. Hear me out — Your sick mother is writing a book about her life. She might accidentally share big family secrets.",
     "left": {
       "id": "a",
       "label": "Let the book be printed with all the secrets.",
@@ -4957,7 +4957,7 @@
       "funds",
       "scandal"
     ],
-    "prompt": "Years on and unhealed, the conflict returns to claim its answer. Your daughter's charity is actually hiding stolen money. Checkers are coming to look at the money, and she wants you to stop them.",
+    "prompt": "Years on and unhealed, the conflict returns to claim its answer. A word, in private. Your daughter's charity is actually hiding stolen money. Checkers are coming to look at the money, and she wants you to stop them.",
     "left": {
       "id": "a",
       "label": "Make the checkers go away.",
@@ -4993,7 +4993,7 @@
       "children",
       "merit"
     ],
-    "prompt": "The same fault line, the harder hour, the narrower path. Your mother wants you to pick your fun but silly child to be the next leader, instead of your smart but cold child.",
+    "prompt": "The same fault line, the harder hour, the narrower path. Between us — Your mother wants you to pick your fun but silly child to be the next leader, instead of your smart but cold child.",
     "left": {
       "id": "a",
       "label": "Pick the fun child everyone likes.",
@@ -5029,7 +5029,7 @@
       "audio",
       "betrayal"
     ],
-    "prompt": "It comes back sharpened by every season you survived. Someone shared a secret recording of you making fun of people.",
+    "prompt": "It comes back sharpened by every season you survived. A word, sir! Someone shared a secret recording of you making fun of people.",
     "left": {
       "id": "a",
       "label": "Lie and say the recording is fake.",
@@ -5066,7 +5066,7 @@
       "matriarch",
       "optics"
     ],
-    "prompt": "A later year of power, the old crisis now a true test of it. Your mother needs very expensive medicine far away, but poor people in your country cannot even get basic doctors.",
+    "prompt": "A later year of power, the old crisis now a true test of it. Sir, we have a problem. Your mother needs very expensive medicine far away, but poor people in your country cannot even get basic doctors.",
     "left": {
       "id": "a",
       "label": "Send her far away using the country's money.",
@@ -5103,7 +5103,7 @@
       "pension",
       "memory"
     ],
-    "prompt": "The unresolved returns, and this time it will not be deferred. Your old guard who saved your life is dying poor. He knows lots of your secrets.",
+    "prompt": "The unresolved returns, and this time it will not be deferred. Sir! Your old guard who saved your life is dying poor. He knows lots of your secrets.",
     "left": {
       "id": "a",
       "label": "Give him lots of money and care for him openly.",
@@ -5139,7 +5139,7 @@
       "youth",
       "media"
     ],
-    "prompt": "A term later, the same fault line tears open again. Your niece got drunk and crashed her fast car into a poor man. There is a video of it. Your family wants to hide the video, but people online are angry.",
+    "prompt": "A term later, the same fault line tears open again. Please, listen to me. Your niece got drunk and crashed her fast car into a poor man. There is a video of it. Your family wants to hide the video, but people online are angry.",
     "left": {
       "id": "a",
       "label": "Hide the video and pay the poor man secretly.",
@@ -5175,7 +5175,7 @@
       "monopoly",
       "favour"
     ],
-    "prompt": "Years into your rule, the matter you thought buried resurfaces — harder. Your son Faisal wants to buy a big phone company. He says he needs it to keep things safe. Other people say your family is taking over everything.",
+    "prompt": "Years into your rule, the matter you thought buried resurfaces — harder. Listen to me — Your son Faisal wants to buy a big phone company. He says he needs it to keep things safe. Other people say your family is taking over everything.",
     "left": {
       "id": "a",
       "label": "Help Faisal get the phone company.",
@@ -5212,7 +5212,7 @@
       "budget",
       "excess"
     ],
-    "prompt": "A new season of power, an old problem with sharper teeth. It costs way too much money to run your big house. People would be angry if they knew.",
+    "prompt": "A new season of power, an old problem with sharper teeth. Mr. Prime Minister, sir! It costs way too much money to run your big house. People would be angry if they knew.",
     "left": {
       "id": "a",
       "label": "Spend less money on the house.",
@@ -5250,7 +5250,7 @@
       "legacy",
       "cult"
     ],
-    "prompt": "The crisis returns, and this time the cabinet is watching. Your sick mother wants a giant, expensive building built for her when she dies. The country would have to pay for it forever.",
+    "prompt": "The crisis returns, and this time the cabinet is watching. We need to talk. Your sick mother wants a giant, expensive building built for her when she dies. The country would have to pay for it forever.",
     "left": {
       "id": "a",
       "label": "Build the giant building for her.",
@@ -5287,7 +5287,7 @@
       "rehab",
       "secret"
     ],
-    "prompt": "Once more the issue lands on your desk, the stakes higher than before. Your son Imran took too many bad drugs and got very sick. Your family hid him in a secret hospital. Some say he needs real help where everyone can see.",
+    "prompt": "Once more the issue lands on your desk, the stakes higher than before. Hear me out — Your son Imran took too many bad drugs and got very sick. Your family hid him in a secret hospital. Some say he needs real help where everyone can see.",
     "left": {
       "id": "a",
       "label": "Keep it a secret and help him quietly.",
@@ -5323,7 +5323,7 @@
       "feud",
       "threat"
     ],
-    "prompt": "Another year survived, and the reckoning circles back. Your sister, who you don't talk to, comes back. She wrote a book about all the bad things your family did. She will print it unless you pay her and act like friends.",
+    "prompt": "Another year survived, and the reckoning circles back. A word, in private. Your sister, who you don't talk to, comes back. She wrote a book about all the bad things your family did. She will print it unless you pay her and act like friends.",
     "left": {
       "id": "a",
       "label": "Act like friends and pay her.",
@@ -5359,7 +5359,7 @@
       "kickbacks",
       "exposure"
     ],
-    "prompt": "The ground has shifted; the same demand arrives with new menace. Your cousin Rashed, who helps the family make secret deals, is in trouble with the police in another country. He wants you to protect him.",
+    "prompt": "The ground has shifted; the same demand arrives with new menace. Your Excellency! Your cousin Rashed, who helps the family make secret deals, is in trouble with the police in another country. He wants you to protect him.",
     "left": {
       "id": "a",
       "label": "Protect Rashed no matter what.",
@@ -5396,7 +5396,7 @@
       "politics",
       "ambition"
     ],
-    "prompt": "History rhymes: the conflict reopens deeper than last time. Your wife Nasrin wants a big government job of her own. This would make her very powerful too.",
+    "prompt": "History rhymes: the conflict reopens deeper than last time. Between us — Your wife Nasrin wants a big government job of her own. This would make her very powerful too.",
     "left": {
       "id": "a",
       "label": "Give Nasrin a real government job.",
@@ -5432,7 +5432,7 @@
       "family",
       "strategy"
     ],
-    "prompt": "Mid-reign, the old wound is torn afresh. A helper tells you that young people do not like your family anymore. They think your family acts spoiled. He says you need to change how you look, which costs money.",
+    "prompt": "Mid-reign, the old wound is torn afresh. Prime Minister! A helper tells you that young people do not like your family anymore. They think your family acts spoiled. He says you need to change how you look, which costs money.",
     "left": {
       "id": "a",
       "label": "Pay money to change how your family looks.",
@@ -5469,7 +5469,7 @@
       "youth",
       "abroad"
     ],
-    "prompt": "The pressure you deferred has come due, larger now. Your grandson Arif is supposed to be the leader one day, but he doesn't want to. He wants to live far away and be normal.",
+    "prompt": "The pressure you deferred has come due, larger now. Please, listen to me. Your grandson Arif is supposed to be the leader one day, but he doesn't want to. He wants to live far away and be normal.",
     "left": {
       "id": "a",
       "label": "Let Arif go live his own normal life.",
@@ -5505,7 +5505,7 @@
       "scandal",
       "family"
     ],
-    "prompt": "A later term, and the quarrel has hardened into a test. Your helper brings proof that you have a secret second family. The newspapers might tell everyone soon.",
+    "prompt": "A later term, and the quarrel has hardened into a test. Sir — Your helper brings proof that you have a secret second family. The newspapers might tell everyone soon.",
     "left": {
       "id": "a",
       "label": "Tell everyone the truth and take care of them openly.",
@@ -5542,7 +5542,7 @@
       "superstition",
       "health"
     ],
-    "prompt": "The country has changed, but this fault line has not — only worsened. Your sick mother is listening to a magic healer instead of her real doctor. She is getting much sicker.",
+    "prompt": "The country has changed, but this fault line has not — only worsened. Honourable leader! Your sick mother is listening to a magic healer instead of her real doctor. She is getting much sicker.",
     "left": {
       "id": "a",
       "label": "Make the magic healer leave and give her real medicine.",
@@ -5577,7 +5577,7 @@
       "social-media",
       "image"
     ],
-    "prompt": "It returns, as these things do, with the patience gone. The person who will be leader after you is posting pictures of expensive things online and making fun of poor people.",
+    "prompt": "It returns, as these things do, with the patience gone. Sir, urgent news. The person who will be leader after you is posting pictures of expensive things online and making fun of poor people.",
     "left": {
       "id": "a",
       "label": "Take away their phone and delete the pictures.",
@@ -5613,7 +5613,7 @@
       "trust",
       "aide"
     ],
-    "prompt": "Years on, the matter is no longer private; the press is already circling. Your wife Nasrin is angry and wants you to fire your best helper. She thinks you like the helper too much.",
+    "prompt": "Years on, the matter is no longer private; the press is already circling. Listen to me — Your wife Nasrin is angry and wants you to fire your best helper. She thinks you like the helper too much.",
     "left": {
       "id": "a",
       "label": "Fire the helper to keep your wife happy.",
@@ -5649,7 +5649,7 @@
       "family",
       "propaganda"
     ],
-    "prompt": "The same knot, retied tighter, lands before you once more. Your cousin Jalal wants the government to pay for his own TV station. He will use it to say good things about your family.",
+    "prompt": "The same knot, retied tighter, lands before you once more. Sir, forgive me — Your cousin Jalal wants the government to pay for his own TV station. He will use it to say good things about your family.",
     "left": {
       "id": "a",
       "label": "Give Jalal the TV station and the money.",
@@ -5686,7 +5686,7 @@
       "alliance",
       "dynasty"
     ],
-    "prompt": "Another monsoon, another return of an argument you cannot end. Your mother set up a marriage for your grandchild with another powerful family. Your grandchild doesn't know them.",
+    "prompt": "Another monsoon, another return of an argument you cannot end. We need to talk. Your mother set up a marriage for your grandchild with another powerful family. Your grandchild doesn't know them.",
     "left": {
       "id": "a",
       "label": "Say yes to the marriage to make the families stronger together.",
@@ -5722,7 +5722,7 @@
       "mortality",
       "succession"
     ],
-    "prompt": "Deep into the reign, the issue demands a final-sounding answer. Your doctor says your heart is sick and you don't have many years left to live. Being the boss makes it worse.",
+    "prompt": "Deep into the reign, the issue demands a final-sounding answer. A word, sir! Your doctor says your heart is sick and you don't have many years left to live. Being the boss makes it worse.",
     "left": {
       "id": "a",
       "label": "Step down slowly and let someone else be boss.",
@@ -5759,7 +5759,7 @@
       "justice",
       "family"
     ],
-    "prompt": "The reckoning you postponed has matured into a crisis. A young family member drove drunk and killed someone walking. Your helper can make the police report disappear.",
+    "prompt": "The reckoning you postponed has matured into a crisis. Sir, we have a problem. A young family member drove drunk and killed someone walking. Your helper can make the police report disappear.",
     "left": {
       "id": "a",
       "label": "Let the police arrest your family member.",
@@ -5795,7 +5795,7 @@
       "debt",
       "blackmail"
     ],
-    "prompt": "A new chapter, the same antagonists, less room to manoeuvre. Your son Imran played games for money and lost a lot to bad people. They will tell the news if you don't pay his debt.",
+    "prompt": "A new chapter, the same antagonists, less room to manoeuvre. Hear me out — Your son Imran played games for money and lost a lot to bad people. They will tell the news if you don't pay his debt.",
     "left": {
       "id": "a",
       "label": "Pay the bad guys to keep it quiet.",
@@ -5831,7 +5831,7 @@
       "cabinet",
       "power"
     ],
-    "prompt": "The old fault line widens; this time there is no quiet option. Your mother is acting like she is the boss of the country, telling your helpers what to do. Your helpers are very mad.",
+    "prompt": "The old fault line widens; this time there is no quiet option. A word, in private. Your mother is acting like she is the boss of the country, telling your helpers what to do. Your helpers are very mad.",
     "left": {
       "id": "a",
       "label": "Tell your mother to stop acting like the boss.",
@@ -5868,7 +5868,7 @@
       "estrangement",
       "family"
     ],
-    "prompt": "Time has not healed it — the conflict comes back armed. Your daughter Tania, who you fought with long ago, comes back. She wants to be friends again and help the family.",
+    "prompt": "Time has not healed it — the conflict comes back armed. Between us — Your daughter Tania, who you fought with long ago, comes back. She wants to be friends again and help the family.",
     "left": {
       "id": "a",
       "label": "Be friends and welcome her back.",
@@ -5903,7 +5903,7 @@
       "history",
       "truth"
     ],
-    "prompt": "Once again, and with the whole house holding its breath. A writer is making a book about you. They found out bad things you did as well as good things. They ask if they should write the total truth or just the good parts.",
+    "prompt": "Once again, and with the whole house holding its breath. Sir! A writer is making a book about you. They found out bad things you did as well as good things. They ask if they should write the total truth or just the good parts.",
     "left": {
       "id": "a",
       "label": "Tell them to write the total truth.",
@@ -5939,7 +5939,7 @@
       "foreign",
       "exposure"
     ],
-    "prompt": "The matter resurfaces in a harder year, patience exhausted. Another country's police locked your family's secret bank accounts because they think the money is stolen.",
+    "prompt": "The matter resurfaces in a harder year, patience exhausted. Mr. Prime Minister, sir! Another country's police locked your family's secret bank accounts because they think the money is stolen.",
     "left": {
       "id": "a",
       "label": "Let them keep the money so they don't look closer.",
@@ -5976,7 +5976,7 @@
       "loyalty",
       "secret"
     ],
-    "prompt": "A later season of rule, the stakes now openly existential. An old helper who knows all your family secrets is leaving. Someone offered them a lot of money to tell the secrets. They ask you for money instead.",
+    "prompt": "A later season of rule, the stakes now openly existential. Your Excellency! An old helper who knows all your family secrets is leaving. Someone offered them a lot of money to tell the secrets. They ask you for money instead.",
     "left": {
       "id": "a",
       "label": "Give the helper a lot of money.",
@@ -6011,7 +6011,7 @@
       "seat",
       "politics"
     ],
-    "prompt": "It comes around again, and the margin for error is gone. Your son Faisal wants to be a leader without doing any hard work first. The people who worked hard will be mad.",
+    "prompt": "It comes around again, and the margin for error is gone. Please, listen to me. Your son Faisal wants to be a leader without doing any hard work first. The people who worked hard will be mad.",
     "left": {
       "id": "a",
       "label": "Give Faisal the leader job easily.",
@@ -6047,7 +6047,7 @@
       "militia",
       "family"
     ],
-    "prompt": "The same demand, but the reign is older and the knives sharper. Mizan wants to make a giant private army just for your family.",
+    "prompt": "The same demand, but the reign is older and the knives sharper. Prime Minister! Mizan wants to make a giant private army just for your family.",
     "left": {
       "id": "a",
       "label": "Build the private army to keep your family super safe.",
@@ -6084,7 +6084,7 @@
       "dissent",
       "family"
     ],
-    "prompt": "Years deep, the unresolved returns to be resolved for good. Your grandson Arif is yelling at your government in public. He says you are doing bad things. Your friends want you to stop him.",
+    "prompt": "Years deep, the unresolved returns to be resolved for good. Listen to me — Your grandson Arif is yelling at your government in public. He says you are doing bad things. Your friends want you to stop him.",
     "left": {
       "id": "a",
       "label": "Let Arif keep yelling.",
@@ -6121,7 +6121,7 @@
       "decisions",
       "influence"
     ],
-    "prompt": "The conflict reignites, and the world is watching this time. A magic star-reader tells your mother when to make big government choices. The smart people are very mad about this.",
+    "prompt": "The conflict reignites, and the world is watching this time. Sir — A magic star-reader tells your mother when to make big government choices. The smart people are very mad about this.",
     "left": {
       "id": "a",
       "label": "Listen to the magic star-reader.",
@@ -6157,7 +6157,7 @@
       "property",
       "feud"
     ],
-    "prompt": "A familiar crisis, escalated by everything you let slide. Your brother Kamal is suing you for the family house. If he goes to court, everyone will hear family secrets. He will stop if you give him what he wants privately.",
+    "prompt": "A familiar crisis, escalated by everything you let slide. We need to talk. Your brother Kamal is suing you for the family house. If he goes to court, everyone will hear family secrets. He will stop if you give him what he wants privately.",
     "left": {
       "id": "a",
       "label": "Give him what he wants privately.",
@@ -6193,7 +6193,7 @@
       "foundation",
       "scrutiny"
     ],
-    "prompt": "The fault line cracks wider; the decision can no longer wait. People think your wife Nasrin is stealing money from her charity. Checkers are coming. She cries and asks you to stop the checkers.",
+    "prompt": "The fault line cracks wider; the decision can no longer wait. Hear me out — People think your wife Nasrin is stealing money from her charity. Checkers are coming. She cries and asks you to stop the checkers.",
     "left": {
       "id": "a",
       "label": "Let the checkers do their job honestly.",
@@ -6229,7 +6229,7 @@
       "loss",
       "consolation"
     ],
-    "prompt": "Late in the reign, the old question demands a heavier answer. Your cousin Jalal lost his big election. Now he is sad and demands a big government job anyway to feel better.",
+    "prompt": "Late in the reign, the old question demands a heavier answer. Honourable leader! Your cousin Jalal lost his big election. Now he is sad and demands a big government job anyway to feel better.",
     "left": {
       "id": "a",
       "label": "Give Jalal a big job to make him feel better.",
@@ -6265,7 +6265,7 @@
       "secrets",
       "legacy"
     ],
-    "prompt": "It returns once more — and this round may be the one remembered. Someone stole a page from your secret diary where you wrote mean things about people.",
+    "prompt": "It returns once more — and this round may be the one remembered. Sir, urgent news. Someone stole a page from your secret diary where you wrote mean things about people.",
     "left": {
       "id": "a",
       "label": "Hunt down the thief and punish them.",
@@ -6302,7 +6302,7 @@
       "anniversary",
       "legacy"
     ],
-    "prompt": "The reckoning circles back, grown teeth in the waiting. Someone wants to throw a giant, expensive party for your family's history, making everyone celebrate it.",
+    "prompt": "The reckoning circles back, grown teeth in the waiting. Sir, forgive me — Someone wants to throw a giant, expensive party for your family's history, making everyone celebrate it.",
     "left": {
       "id": "a",
       "label": "Throw the giant party.",
@@ -6339,7 +6339,7 @@
       "mental-health",
       "secret"
     ],
-    "prompt": "Another term, the same antagonist, the stakes raised again. The doctor says your youngest child is very, very sad inside. Your family thinks being sad is a weakness.",
+    "prompt": "Another term, the same antagonist, the stakes raised again. A word, sir! The doctor says your youngest child is very, very sad inside. Your family thinks being sad is a weakness.",
     "left": {
       "id": "a",
       "label": "Get your child real help openly.",
@@ -6374,7 +6374,7 @@
       "death",
       "succession"
     ],
-    "prompt": "The matter, long deferred, lands with the force of a verdict. Your mother died and her will gives all the money to one favorite child, leaving the others with nothing. They will fight over it.",
+    "prompt": "The matter, long deferred, lands with the force of a verdict. Sir, we have a problem. Your mother died and her will gives all the money to one favorite child, leaving the others with nothing. They will fight over it.",
     "left": {
       "id": "a",
       "label": "Follow the will exactly as it says.",
@@ -6409,7 +6409,7 @@
       "family",
       "scandal"
     ],
-    "prompt": "Years on and unhealed, the conflict returns to claim its answer. A family member is secretly stealing gold, and the police are getting close to catching them.",
+    "prompt": "Years on and unhealed, the conflict returns to claim its answer. Sir! A family member is secretly stealing gold, and the police are getting close to catching them.",
     "left": {
       "id": "a",
       "label": "Stop the stealing and let the family member get in trouble.",
@@ -6446,7 +6446,7 @@
       "scandal",
       "family"
     ],
-    "prompt": "The same fault line, the harder hour, the narrower path. Your daughter Tania wants to leave her mean husband. His family is powerful, and everyone will gossip. She wants your help.",
+    "prompt": "The same fault line, the harder hour, the narrower path. A word, in private. Your daughter Tania wants to leave her mean husband. His family is powerful, and everyone will gossip. She wants your help.",
     "left": {
       "id": "a",
       "label": "Help Tania leave her mean husband.",
@@ -6482,7 +6482,7 @@
       "overreach",
       "power"
     ],
-    "prompt": "It comes back sharpened by every season you survived. Your best helper is making big choices without asking you and keeping money for himself. People are scared of him.",
+    "prompt": "It comes back sharpened by every season you survived. Mr. Prime Minister, sir! Your best helper is making big choices without asking you and keeping money for himself. People are scared of him.",
     "left": {
       "id": "a",
       "label": "Fire the helper for taking too much power.",
@@ -6519,7 +6519,7 @@
       "grooming",
       "succession"
     ],
-    "prompt": "A later year of power, the old crisis now a true test of it. The teacher says the child you picked to be the next leader is not smart enough and people don't like them.",
+    "prompt": "A later year of power, the old crisis now a true test of it. Your Excellency! The teacher says the child you picked to be the next leader is not smart enough and people don't like them.",
     "left": {
       "id": "a",
       "label": "Keep pushing your chosen child to lead.",
@@ -6556,7 +6556,7 @@
       "rival",
       "loyalty"
     ],
-    "prompt": "The unresolved returns, and this time it will not be deferred. Your brother Kamal is angry and says he will join the bad guys and tell your secrets unless you pay him lots of money.",
+    "prompt": "The unresolved returns, and this time it will not be deferred. Between us — Your brother Kamal is angry and says he will join the bad guys and tell your secrets unless you pay him lots of money.",
     "left": {
       "id": "a",
       "label": "Pay Kamal what he wants so he stays.",
@@ -6593,7 +6593,7 @@
       "family",
       "patronage"
     ],
-    "prompt": "A term later, the same fault line tears open again. Your sister-in-law Roksana is selling fake school grades for money. People are getting mad. She wants you to protect her.",
+    "prompt": "A term later, the same fault line tears open again. Prime Minister! Your sister-in-law Roksana is selling fake school grades for money. People are getting mad. She wants you to protect her.",
     "left": {
       "id": "a",
       "label": "Protect Roksana's bad school.",
@@ -6630,7 +6630,7 @@
       "health",
       "duty"
     ],
-    "prompt": "Years into your rule, the matter you thought buried resurfaces — harder. Your wife Nasrin is very sick and might die soon. She needs you, but your big job keeps you away.",
+    "prompt": "Years into your rule, the matter you thought buried resurfaces — harder. Please, listen to me. Your wife Nasrin is very sick and might die soon. She needs you, but your big job keeps you away.",
     "left": {
       "id": "a",
       "label": "Stop working so hard and stay with Nasrin.",
@@ -6666,7 +6666,7 @@
       "bailout",
       "favour"
     ],
-    "prompt": "A new season of power, an old problem with sharper teeth. Your son Faisal's business failed and he owes a lot of money. He wants you to make the country's bank forget about his debt.",
+    "prompt": "A new season of power, an old problem with sharper teeth. Listen to me — Your son Faisal's business failed and he owes a lot of money. He wants you to make the country's bank forget about his debt.",
     "left": {
       "id": "a",
       "label": "Make the bank secretly forget his debt.",
@@ -6703,7 +6703,7 @@
       "influence",
       "decisions"
     ],
-    "prompt": "The crisis returns, and this time the cabinet is watching. The family priest wants you to change the country's laws to be very strict about religion. If you say no, religious people will be mad.",
+    "prompt": "The crisis returns, and this time the cabinet is watching. Sir — The family priest wants you to change the country's laws to be very strict about religion. If you say no, religious people will be mad.",
     "left": {
       "id": "a",
       "label": "Tell the priest to stick to praying, not laws.",
@@ -6739,7 +6739,7 @@
       "contingency",
       "survival"
     ],
-    "prompt": "Once more the issue lands on your desk, the stakes higher than before. Your guard says things are dangerous and you should secretly prepare an airplane to run away to another country if bad things happen.",
+    "prompt": "Once more the issue lands on your desk, the stakes higher than before. Honourable leader! Your guard says things are dangerous and you should secretly prepare an airplane to run away to another country if bad things happen.",
     "left": {
       "id": "a",
       "label": "Secretly prepare the airplane to run away.",
@@ -6776,7 +6776,7 @@
       "scandal",
       "influence"
     ],
-    "prompt": "Another year survived, and the reckoning circles back. Your grandchild is hanging out with bad friends who do bad things. It might be on the news soon.",
+    "prompt": "Another year survived, and the reckoning circles back. Sir, urgent news. Your grandchild is hanging out with bad friends who do bad things. It might be on the news soon.",
     "left": {
       "id": "a",
       "label": "Step in and pull your grandchild away from the bad friends.",
@@ -6811,7 +6811,7 @@
       "promise",
       "legacy"
     ],
-    "prompt": "The ground has shifted; the same demand arrives with new menace. Before she died, your mother made you promise something you know is a bad idea. The lawyer asks if you will still do it.",
+    "prompt": "The ground has shifted; the same demand arrives with new menace. We need to talk. Before she died, your mother made you promise something you know is a bad idea. The lawyer asks if you will still do it.",
     "left": {
       "id": "a",
       "label": "Keep the promise because she was dying.",
@@ -6847,7 +6847,7 @@
       "family",
       "leak"
     ],
-    "prompt": "History rhymes: the conflict reopens deeper than last time. Your guard found out a family member is secretly selling your secrets to your enemies for money.",
+    "prompt": "History rhymes: the conflict reopens deeper than last time. Sir, forgive me — Your guard found out a family member is secretly selling your secrets to your enemies for money.",
     "left": {
       "id": "a",
       "label": "Tell everyone what they did and kick them out.",
@@ -6884,7 +6884,7 @@
       "heir",
       "backup"
     ],
-    "prompt": "Mid-reign, the old wound is torn afresh. The teacher says you should secretly train a second child to be leader, just in case the first one fails. If they find out, they will fight.",
+    "prompt": "Mid-reign, the old wound is torn afresh. A word, sir! The teacher says you should secretly train a second child to be leader, just in case the first one fails. If they find out, they will fight.",
     "left": {
       "id": "a",
       "label": "Secretly train a second child.",
@@ -6920,7 +6920,7 @@
       "health",
       "judgment"
     ],
-    "prompt": "The pressure you deferred has come due, larger now. Your doctor says you are too tired to think straight and are making mistakes.",
+    "prompt": "The pressure you deferred has come due, larger now. Sir, we have a problem. Your doctor says you are too tired to think straight and are making mistakes.",
     "left": {
       "id": "a",
       "label": "Take a long rest and let others do the work.",
@@ -6957,7 +6957,7 @@
       "gold",
       "exposure"
     ],
-    "prompt": "A later term, and the quarrel has hardened into a test. Your family has a giant pile of secret gold and jewels. If anyone finds it, you will be in trouble.",
+    "prompt": "A later term, and the quarrel has hardened into a test. Sir! Your family has a giant pile of secret gold and jewels. If anyone finds it, you will be in trouble.",
     "left": {
       "id": "a",
       "label": "Tell the truth about the gold and pay taxes on it.",
@@ -6995,7 +6995,7 @@
       "legacy",
       "stepping-down"
     ],
-    "prompt": "The country has changed, but this fault line has not — only worsened. Nasrin asks if you should quit being the boss now while people still like you, instead of waiting until people hate you and force you out.",
+    "prompt": "The country has changed, but this fault line has not — only worsened. Hear me out — Nasrin asks if you should quit being the boss now while people still like you, instead of waiting until people hate you and force you out.",
     "left": {
       "id": "a",
       "label": "Plan to quit nicely while you are ahead.",
@@ -7033,7 +7033,7 @@
       "education",
       "favour"
     ],
-    "prompt": "It returns, as these things do, with the patience gone. Your nephew in school far away spent too much money. You can pay for it with your own money or steal government money to pay for it.",
+    "prompt": "It returns, as these things do, with the patience gone. Mr. Prime Minister, sir! Your nephew in school far away spent too much money. You can pay for it with your own money or steal government money to pay for it.",
     "left": {
       "id": "a",
       "label": "Pay for it with your own family money.",
@@ -7069,7 +7069,7 @@
       "succession",
       "feud"
     ],
-    "prompt": "Years on, the matter is no longer private; the press is already circling. Your two best children are fighting meanly over who gets to be the leader next.",
+    "prompt": "Years on, the matter is no longer private; the press is already circling. A word, in private. Your two best children are fighting meanly over who gets to be the leader next.",
     "left": {
       "id": "a",
       "label": "Pick one child now to stop the fight.",
@@ -7105,7 +7105,7 @@
       "hospital",
       "family"
     ],
-    "prompt": "The same knot, retied tighter, lands before you once more. A hospital owned by your family is very dirty and patients are dying. The checkers want to punish them.",
+    "prompt": "The same knot, retied tighter, lands before you once more. Your Excellency! A hospital owned by your family is very dirty and patients are dying. The checkers want to punish them.",
     "left": {
       "id": "a",
       "label": "Let the checkers punish the dirty hospital.",
@@ -7142,7 +7142,7 @@
       "anointment",
       "dynasty"
     ],
-    "prompt": "Another monsoon, another return of an argument you cannot end. The older leaders want you to pick the next leader right now. If you do, people might stop listening to you because they know you are leaving soon.",
+    "prompt": "Another monsoon, another return of an argument you cannot end. Prime Minister! The older leaders want you to pick the next leader right now. If you do, people might stop listening to you because they know you are leaving soon.",
     "left": {
       "id": "a",
       "label": "Pick the next leader in front of everyone now.",
@@ -7179,7 +7179,7 @@
       "loyalty",
       "competence"
     ],
-    "prompt": "Deep into the reign, the issue demands a final-sounding answer. Your friends only tell you good things and lie to make you happy. A helper says you need to listen to honest people, but your friends will be mad.",
+    "prompt": "Deep into the reign, the issue demands a final-sounding answer. Sir — Your friends only tell you good things and lie to make you happy. A helper says you need to listen to honest people, but your friends will be mad.",
     "left": {
       "id": "a",
       "label": "Let the honest people in to tell the truth.",
@@ -7216,7 +7216,7 @@
       "trust",
       "succession"
     ],
-    "prompt": "The reckoning you postponed has matured into a crisis. Tania asks you a hard question: is she supposed to help the country, or just make your family richer?",
+    "prompt": "The reckoning you postponed has matured into a crisis. Between us — Tania asks you a hard question: is she supposed to help the country, or just make your family richer?",
     "left": {
       "id": "a",
       "label": "Tell her she must help the country.",
@@ -7253,7 +7253,7 @@
       "trust",
       "succession"
     ],
-    "prompt": "A new chapter, the same antagonists, less room to manoeuvre. Tania finds out your family is doing bad, secret things for money. She asks if she can stop it and punish them.",
+    "prompt": "A new chapter, the same antagonists, less room to manoeuvre. Please, listen to me. Tania finds out your family is doing bad, secret things for money. She asks if she can stop it and punish them.",
     "left": {
       "id": "a",
       "label": "Let her stop the bad things and clean up the family.",
@@ -7289,7 +7289,7 @@
       "trust",
       "succession"
     ],
-    "prompt": "The old fault line widens; this time there is no quiet option. Tania asks if you will leave your job nicely so she can take over easily, or if you will cling to it until everything is broken.",
+    "prompt": "The old fault line widens; this time there is no quiet option. Listen to me — Tania asks if you will leave your job nicely so she can take over easily, or if you will cling to it until everything is broken.",
     "left": {
       "id": "a",
       "label": "Leave nicely and help her take over.",
