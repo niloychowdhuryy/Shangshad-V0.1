@@ -12,9 +12,42 @@ import { useTranslatedCard, useT } from '../i18n/i18n.jsx';
 //   onHoverSide(metricIds[])  bubble which metrics to glow in the HUD
 //   onAnswer('left' | 'right')
 
-function ChoiceButton({ choice, side, insightActive, difficultyFactor = 1, selected, locked, onHover, onLeave, onPick }) {
+const UP_COLOR = '#34d399'; // pillar rose
+const DOWN_COLOR = '#ff5470'; // pillar fell
+
+// During the review beat, the UN-chosen side is replaced by this panel: a
+// before → after readout of what the chosen decision did to each pillar.
+function ResultPanel({ rows, t }) {
+  return (
+    <div className="flex flex-1 flex-col gap-1.5 rounded-lg border border-line/60 bg-white/[0.04] p-4">
+      <span className="font-mono text-[9px] uppercase tracking-[0.2em] text-parchment/45">Effect of your choice</span>
+      {rows.length === 0 ? (
+        <span className="font-serif text-xs italic text-parchment/40">No measurable change.</span>
+      ) : (
+        rows.map((r) => (
+          <div key={r.id} className="flex items-center gap-1.5 font-mono text-[12px] tabular-nums">
+            <span style={{ color: r.color }}><MetricIcon id={r.id} size={13} stroke={2} /></span>
+            <span className="w-14 shrink-0 truncate font-tech text-[10px] uppercase tracking-wide" style={{ color: r.color }}>
+              {t(r.short)}
+            </span>
+            <span className="text-parchment/55">{r.before}</span>
+            <span className="font-semibold" style={{ color: r.delta > 0 ? UP_COLOR : DOWN_COLOR }}>
+              {r.delta > 0 ? `+${r.delta}` : r.delta}
+            </span>
+            <span className="text-parchment/35">→</span>
+            <span className="font-bold text-parchment">{r.after}</span>
+          </div>
+        ))
+      )}
+    </div>
+  );
+}
+
+function ChoiceButton({ choice, side, insightActive, difficultyFactor = 1, selected, locked, breakdown, onHover, onLeave, onPick }) {
   const ids = affectedMetricIds(choice);
   const shown = (delta) => (delta < 0 ? Math.round(delta * difficultyFactor) : delta);
+  // Unchosen side during the review beat → show the result breakdown instead.
+  if (breakdown) return <ResultPanel rows={breakdown.rows} t={breakdown.t} />;
   return (
     <button
       disabled={locked}
@@ -69,7 +102,7 @@ function ChoiceButton({ choice, side, insightActive, difficultyFactor = 1, selec
   );
 }
 
-export default function CardView({ card, insightActive, difficultyFactor = 1, selectedSide = null, onHoverSide, onAnswer, decisionLabel }) {
+export default function CardView({ card, insightActive, difficultyFactor = 1, selectedSide = null, appliedDeltas = null, metricsAfter = null, onHoverSide, onAnswer, decisionLabel }) {
   const { t } = useT();
   const view = useTranslatedCard(card); // English, or Bangla once auto-translated
   const clear = () => onHoverSide?.([]);
@@ -77,6 +110,21 @@ export default function CardView({ card, insightActive, difficultyFactor = 1, se
 
   if (!card) return null;
   const initial = (card.speaker || '?').trim().charAt(0).toUpperCase();
+
+  // Once a side is chosen, build the before → after breakdown of the applied
+  // effects to render in place of the un-chosen answer.
+  let breakdown = null;
+  if (selectedSide && appliedDeltas && metricsAfter) {
+    const rows = Object.keys(appliedDeltas)
+      .filter((id) => appliedDeltas[id])
+      .map((id) => {
+        const meta = metricMeta(id);
+        const delta = appliedDeltas[id];
+        const after = metricsAfter[id];
+        return { id, delta, after, before: after - delta, color: meta.color, short: meta.short };
+      });
+    breakdown = { rows, t };
+  }
 
   return (
     // key on card.id remounts the card each question, so no hover/press state can
@@ -104,8 +152,8 @@ export default function CardView({ card, insightActive, difficultyFactor = 1, se
       <p className="font-serif text-[15px] leading-relaxed text-parchment/90">{view.prompt}</p>
 
       <div className="flex flex-col gap-2 sm:flex-row">
-        <ChoiceButton choice={view.left} side="left" insightActive={insightActive} difficultyFactor={difficultyFactor} selected={selectedSide === 'left'} locked={!!selectedSide} onHover={hover} onLeave={clear} onPick={onAnswer} />
-        <ChoiceButton choice={view.right} side="right" insightActive={insightActive} difficultyFactor={difficultyFactor} selected={selectedSide === 'right'} locked={!!selectedSide} onHover={hover} onLeave={clear} onPick={onAnswer} />
+        <ChoiceButton choice={view.left} side="left" insightActive={insightActive} difficultyFactor={difficultyFactor} selected={selectedSide === 'left'} locked={!!selectedSide} breakdown={selectedSide === 'right' ? breakdown : null} onHover={hover} onLeave={clear} onPick={onAnswer} />
+        <ChoiceButton choice={view.right} side="right" insightActive={insightActive} difficultyFactor={difficultyFactor} selected={selectedSide === 'right'} locked={!!selectedSide} breakdown={selectedSide === 'left' ? breakdown : null} onHover={hover} onLeave={clear} onPick={onAnswer} />
       </div>
     </div>
   );

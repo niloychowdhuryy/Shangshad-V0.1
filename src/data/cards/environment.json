@@ -3575,10 +3575,10 @@
       "early-warning",
       "technology"
     ],
-    "prompt": "The cyclone early-warning system — once a world-leading lifesaver — has aged, its radars failing and its last-mile volunteer network fraying. The director wants a costly modernisation of radar, forecasting, and village warning; complacency says the old system still mostly works.",
+    "prompt": "The old storm warning alarms are breaking down. You can spend money to buy new ones, or hope the old ones keep working.",
     "left": {
       "id": "a",
-      "label": "Modernise the early-warning system.",
+      "label": "Buy new storm warning alarms.",
       "tooltip": "A warning that comes late or not at all is a coast unguarded.",
       "reveal": "You modernise the radar, forecasting, and the village warning network. The cost is real, but the country's proudest disaster achievement is renewed, and the next great cyclone meets a coast that knows it is coming.",
       "effects": {
@@ -3589,7 +3589,7 @@
     },
     "right": {
       "id": "b",
-      "label": "Rely on the ageing system.",
+      "label": "Hope the old alarms keep working.",
       "tooltip": "The old system has saved us before.",
       "reveal": "You leave the early-warning system to age. The money is saved, the failing radars and fraying volunteer network limp on, and the next cyclone finds the warnings late and patchy where they were once a marvel.",
       "effects": {
@@ -3610,10 +3610,10 @@
       "population",
       "women"
     ],
-    "prompt": "The fertility decline that was a national triumph has stalled, and the field-worker network that drove it is fraying for want of funding. The director wants to revive and modernise it — contraception, counselling, women's choice — against a quiet conservative pushback and budget neglect.",
+    "prompt": "Programs that help families decide how many kids to have are running out of money. You can fix them, but some strict people won't like it.",
     "left": {
       "id": "a",
-      "label": "Revive the family-planning network.",
+      "label": "Fix the family planning programs.",
       "tooltip": "A choice given to women is a future given to the nation.",
       "reveal": "You refund and modernise the family-planning programme. The conservatives grumble quietly, but contraception and counselling reach women again, the stalled fertility decline resumes, and women regain control of their lives.",
       "effects": {
@@ -3625,7 +3625,7 @@
     },
     "right": {
       "id": "b",
-      "label": "Let the programme keep fraying.",
+      "label": "Let the programs run out of money.",
       "tooltip": "Population is no longer the crisis it was.",
       "reveal": "You leave the network to decay. The budget is spared, and as the field-workers vanish the fertility decline reverses in the poorest regions, where women lose the choice the programme once gave them.",
       "effects": {
@@ -3646,10 +3646,10 @@
       "radiotherapy",
       "access"
     ],
-    "prompt": "Cancer patients die waiting because the country has a handful of working radiotherapy machines for a population of millions, all in the capital. The director wants regional cancer centres and machines; the cost is enormous and the equipment notoriously prone to lying idle for want of upkeep.",
+    "prompt": "People with cancer are dying because there are very few special machines to help them, and they are all in the big city. Buying more for other towns costs a lot.",
     "left": {
       "id": "a",
-      "label": "Build regional cancer centres.",
+      "label": "Buy cancer machines for other towns.",
       "tooltip": "A cancer patient who must reach the capital to be treated dies on the road.",
       "reveal": "You build cancer centres and radiotherapy across the regions, with upkeep contracts. The cost is vast, but cancer patients stop dying in queues for the capital's few machines, treated near home instead.",
       "effects": {
@@ -3660,7 +3660,7 @@
     },
     "right": {
       "id": "b",
-      "label": "Concentrate cancer care in the capital.",
+      "label": "Keep all the cancer care in the big city.",
       "tooltip": "Specialist care belongs where the specialists are.",
       "reveal": "You keep cancer care centralised. The capital's centres are excellent and unreachable, and the cancer patients of the provinces keep dying on waiting lists or on the long road to the city.",
       "effects": {
@@ -3681,10 +3681,10 @@
       "playgrounds",
       "children"
     ],
-    "prompt": "The cities' last open spaces — parks, playgrounds, water bodies — are being grabbed and built over, leaving children nowhere to play and millions no green to breathe. The officer wants the remaining open spaces protected and reclaimed; developers and land-grabbers covet every inch.",
+    "prompt": "Builders are paving over all the city parks so kids have nowhere to play. You can protect the parks, but the builders will be angry.",
     "left": {
       "id": "a",
-      "label": "Protect and reclaim urban open spaces.",
+      "label": "Protect the city parks so kids can play.",
       "tooltip": "A city with no playground raises its children indoors and ill.",
       "reveal": "You protect the parks and reclaim grabbed open spaces. The developers and grabbers rage at the lost plots, but children gain places to play and the suffocating city keeps a few lungs of green.",
       "effects": {
@@ -3696,7 +3696,7 @@
     },
     "right": {
       "id": "b",
-      "label": "Let the open spaces go to development.",
+      "label": "Let the builders pave over the parks.",
       "tooltip": "Prime urban land cannot sit idle as grass.",
       "reveal": "You let the parks and playgrounds be built over. The land yields its value to developers, and the city's children grow up with nowhere to run and its people with no green to breathe.",
       "effects": {
@@ -3717,10 +3717,10 @@
       "girls",
       "school"
     ],
-    "prompt": "Girls miss school and drop out entirely for want of menstrual products, clean toilets, and an end to the shame around periods. The director wants free pads, school toilets, and education, and to scrap the tax on sanitary products; the cost and the cultural squeamishness both resist.",
+    "prompt": "Girls are missing school because they don't have what they need for their periods. You can give out free supplies, but some people are too embarrassed to talk about it.",
     "left": {
       "id": "a",
-      "label": "Fund menstrual health and scrap the pad tax.",
+      "label": "Give out free supplies and talk about it.",
       "tooltip": "A girl kept from school by her period is a future taxed away.",
       "reveal": "You provide free pads, build girls' school toilets, and cut the sanitary-product tax. The squeamish object and the revenue dips, but girls stop missing school and dropping out over something so preventable.",
       "effects": {
@@ -3732,7 +3732,7 @@
     },
     "right": {
       "id": "b",
-      "label": "Leave menstrual needs to families.",
+      "label": "Leave it up to the families.",
       "tooltip": "Sanitary products are a household matter, not a budget line.",
       "reveal": "You leave the matter to families and the market. The tax revenue and the awkward conversation are both avoided, and girls keep missing school and dropping out for want of a pad and a clean toilet.",
       "effects": {
@@ -3753,10 +3753,10 @@
       "water",
       "health"
     ],
-    "prompt": "In pockets of the country the groundwater carries excess fluoride and iron, crippling people with skeletal and dental fluorosis. The director wants targeted treatment and alternative supply for the affected areas; the harm is localised and the budget always has louder claims.",
+    "prompt": "Bad chemicals in the water are making people's bones and teeth sick in some towns. You can spend money to clean it, but it only helps a few places.",
     "left": {
       "id": "a",
-      "label": "Fund treatment for the affected areas.",
+      "label": "Spend money to clean the water there.",
       "tooltip": "A well that cripples is a well that must be fixed.",
       "reveal": "You fund de-fluoridation and alternative supply for the affected pockets. The cost is real for a localised harm, but people stop being crippled by the water their own wells draw up.",
       "effects": {
@@ -3767,7 +3767,7 @@
     },
     "right": {
       "id": "b",
-      "label": "Leave the affected pockets to cope.",
+      "label": "Let those towns deal with it on their own.",
       "tooltip": "A localised problem is a localised cost I can defer.",
       "reveal": "You leave the fluoride-stricken areas to their wells. The budget goes to broader needs, and in those pockets people keep being bent and crippled by water no one will treat.",
       "effects": {
@@ -3788,10 +3788,10 @@
       "pollution",
       "health"
     ],
-    "prompt": "The cities are a wall of noise — hydraulic horns, loudspeakers, generators — wrecking hearing, sleep, and hearts, with laws no one enforces. The officer wants real enforcement and quiet zones around hospitals and schools; drivers and the public resent the crackdown.",
+    "prompt": "The city is so noisy it hurts people's ears and hearts. You can make rules to keep it quiet near hospitals, but drivers will be mad.",
     "left": {
       "id": "a",
-      "label": "Enforce noise limits and quiet zones.",
+      "label": "Make strict quiet rules near hospitals.",
       "tooltip": "A city that never quiets is a city that never heals.",
       "reveal": "You enforce the noise laws and ring hospitals and schools with quiet zones. Drivers and the public grumble at the crackdown on horns and loudspeakers, but sleep, hearing, and frayed nerves get a reprieve.",
       "effects": {
@@ -3802,7 +3802,7 @@
     },
     "right": {
       "id": "b",
-      "label": "Leave the noise unaddressed.",
+      "label": "Let the city stay noisy.",
       "tooltip": "A horn is the least of a driver's sins to police.",
       "reveal": "You leave the noise laws unenforced. The horns, loudspeakers, and generators blare on, and the city's hearing, sleep, and hearts keep paying the price of a din no one will silence.",
       "effects": {
@@ -3823,10 +3823,10 @@
       "emergency",
       "trauma"
     ],
-    "prompt": "There is no real national ambulance service, so the injured and the labouring reach hospital by rickshaw, too late, and the road-trauma toll is appalling. The director wants a networked ambulance and 999 emergency-response system; it is costly to build and staff.",
+    "prompt": "There are no good ambulances, so sick people don't get to the hospital in time. You can build a real 999 rescue system, but it costs a lot.",
     "left": {
       "id": "a",
-      "label": "Build a national ambulance network.",
+      "label": "Build a real 999 ambulance system.",
       "tooltip": "A golden hour wasted on a rickshaw is a life lost.",
       "reveal": "You build a networked ambulance and emergency-response service. The cost to build and staff is heavy, but the injured, the labouring, and the stricken start reaching care in time instead of too late.",
       "effects": {
@@ -3836,7 +3836,7 @@
     },
     "right": {
       "id": "b",
-      "label": "Leave emergency transport to chance.",
+      "label": "Leave people to find their own way to hospitals.",
       "tooltip": "A nationwide ambulance fleet is a fortune to run.",
       "reveal": "You leave the injured to rickshaws and luck. The money is saved, and the road-trauma victims and the labouring mothers keep dying on the way to a hospital an ambulance would have reached in time.",
       "effects": {
@@ -3857,10 +3857,10 @@
       "elimination",
       "poverty"
     ],
-    "prompt": "Kala-azar, a deadly sandfly-borne disease of the poorest districts, is close to elimination — a last push of detection, treatment, and vector control could finish it, or neglect could let it roar back as it has before. Fund the final drive?",
+    "prompt": "A deadly bug sickness is almost gone. You can spend a little more money to wipe it out forever, or stop now and risk it coming back.",
     "left": {
       "id": "a",
-      "label": "Fund the elimination final push.",
+      "label": "Spend money to wipe the sickness out forever.",
       "tooltip": "A disease near beaten and then abandoned simply returns.",
       "reveal": "You fund the last push of detection, treatment, and sandfly control. The cost is modest for the prize, and a deadly disease of the poorest is driven, this time, to genuine elimination.",
       "effects": {
@@ -3871,7 +3871,7 @@
     },
     "right": {
       "id": "b",
-      "label": "Ease off now it is nearly gone.",
+      "label": "Stop spending money now that it's almost gone.",
       "tooltip": "A near-eliminated disease is a problem nearly solved.",
       "reveal": "You ease off the programme prematurely. The budget is spared, and kala-azar, denied its final push, simmers and resurges in the poorest districts as it has every time before.",
       "effects": {
@@ -3892,10 +3892,10 @@
       "cataract",
       "access"
     ],
-    "prompt": "Hundreds of thousands are needlessly blind from cataracts a fifteen-minute surgery would cure, but the surgeons never reach the rural poor. The director wants mass cataract-surgery camps and rural eye care; it is cheap per sight restored, but unglamorous and easily skipped.",
+    "prompt": "Many poor people are blind, but a simple 15-minute doctor visit could fix their eyes. You can send doctors to the villages to help them.",
     "left": {
       "id": "a",
-      "label": "Fund mass cataract-surgery camps.",
+      "label": "Send eye doctors to the villages.",
       "tooltip": "A blindness a knife can cure is a blindness we choose to allow.",
       "reveal": "You fund cataract camps and rural eye care at scale. The cost per sight restored is tiny, and hundreds of thousands needlessly blind see again, returning to work and life.",
       "effects": {
@@ -3906,7 +3906,7 @@
     },
     "right": {
       "id": "b",
-      "label": "Leave eye care to the cities.",
+      "label": "Only keep eye doctors in the big cities.",
       "tooltip": "Specialist surgery belongs in specialist hospitals.",
       "reveal": "You keep eye surgery centralised in the cities. The camps go unfunded, and the rural poor keep going needlessly blind from a cataract a brief, cheap surgery would have cured.",
       "effects": {
@@ -3927,10 +3927,10 @@
       "labs",
       "outbreaks"
     ],
-    "prompt": "The country flies blind into outbreaks for want of real-time disease surveillance, genomic sequencing, and biosafe labs — caught flat-footed every time. The director wants a permanent surveillance-and-lab backbone; the investment is large and invisible until the next epidemic.",
+    "prompt": "The country is never ready when a new sickness spreads. You can build special science labs to watch for bugs, but they are expensive.",
     "left": {
       "id": "a",
-      "label": "Build the surveillance-and-lab backbone.",
+      "label": "Build special labs to watch for new bugs.",
       "tooltip": "An epidemic seen early is an epidemic stopped.",
       "reveal": "You build real-time surveillance, sequencing, and biosafe labs. The investment is large and unseen between crises, but the next outbreak is spotted early instead of discovered in the morgue.",
       "effects": {
@@ -3941,7 +3941,7 @@
     },
     "right": {
       "id": "b",
-      "label": "Stand up surveillance only in crises.",
+      "label": "Wait until people get sick to do something.",
       "tooltip": "A standing lab network is a fortune between epidemics.",
       "reveal": "You scramble to build surveillance only when an outbreak hits. The money is saved between crises, and the next epidemic again finds the country blind, learning of it only once it is everywhere.",
       "effects": {
@@ -3962,10 +3962,10 @@
       "pharmacy",
       "resistance"
     ],
-    "prompt": "Antibiotics are sold over the counter like sweets, fuelling the drug resistance that will one day make infections untreatable. The director wants prescription-only enforcement and pharmacist training; the unlicensed pharmacies and the self-medicating public resist.",
+    "prompt": "People are taking strong medicine like candy, which creates super-bugs. You can force stores to only sell it with a doctor's note.",
     "left": {
       "id": "a",
-      "label": "Enforce prescription-only antibiotics.",
+      "label": "Force stores to need a doctor's note.",
       "tooltip": "An antibiotic sold like a sweet is a superbug bred for free.",
       "reveal": "You enforce prescription-only sales and train pharmacists. The unlicensed pharmacies and the self-medicating public resist, but the reckless antibiotic use that breeds resistance begins to fall.",
       "effects": {
@@ -3976,7 +3976,7 @@
     },
     "right": {
       "id": "b",
-      "label": "Leave antibiotics on the open shelf.",
+      "label": "Let people keep buying it whenever they want.",
       "tooltip": "The poor cannot always reach a doctor for a prescription.",
       "reveal": "You leave antibiotics freely sold. Access stays easy for those who cannot reach a doctor, and the reckless overuse keeps breeding the resistance that will one day render the drugs useless for all.",
       "effects": {
@@ -3998,10 +3998,10 @@
       "ageing",
       "care"
     ],
-    "prompt": "The population is ageing fast, and the old joint-family care of elders is breaking down, leaving many abandoned and destitute. The director wants to build elderly day-care, geriatric health, and support; the demographic crisis still feels far off to most.",
+    "prompt": "Old people are being left alone with no one to care for them. You can build special homes to help them, but it costs money.",
     "left": {
       "id": "a",
-      "label": "Build elderly-care and geriatric services.",
+      "label": "Build special homes to help old people.",
       "tooltip": "A nation that abandons its old prepares its own abandonment.",
       "reveal": "You begin building day-care, geriatric health, and support for the elderly. The cost is real and the crisis still feels distant, but a system rises to catch the growing numbers the breaking joint family no longer can.",
       "effects": {
@@ -4011,7 +4011,7 @@
     },
     "right": {
       "id": "b",
-      "label": "Leave elder care to families.",
+      "label": "Make families take care of them on their own.",
       "tooltip": "The family has always cared for its old.",
       "reveal": "You leave the elderly to families increasingly unable to care for them. The budget is spared, and a swelling number of old people slide into abandonment and destitution with no system to catch them.",
       "effects": {
@@ -4032,10 +4032,10 @@
       "hospitals",
       "safety"
     ],
-    "prompt": "Patients catch deadly drug-resistant infections in the very hospitals meant to heal them, for want of basic infection control — hand hygiene, sterilisation, isolation. The director wants enforced standards and accreditation; the hospitals resent the cost and scrutiny.",
+    "prompt": "Hospitals are so dirty that people catch new sicknesses while they are there. You can force them to be clean, but they will complain.",
     "left": {
       "id": "a",
-      "label": "Enforce infection control and accreditation.",
+      "label": "Force the hospitals to be completely clean.",
       "tooltip": "A hospital that infects its patients is a hazard with a signboard.",
       "reveal": "You enforce infection-control standards and accreditation. The hospitals grumble at the cost and the scrutiny, but patients stop catching deadly resistant infections in the wards meant to cure them.",
       "effects": {
@@ -4047,7 +4047,7 @@
     },
     "right": {
       "id": "b",
-      "label": "Leave hospital hygiene to the hospitals.",
+      "label": "Let the hospitals stay dirty.",
       "tooltip": "Accreditation is a bureaucracy the wards can do without.",
       "reveal": "You leave infection control to each hospital's discretion. The cost and scrutiny are avoided, and patients keep walking in with one illness and out with a drug-resistant one the wards bred and gave them.",
       "effects": {
@@ -4068,10 +4068,10 @@
       "waste",
       "landfill"
     ],
-    "prompt": "Most of the cities' waste is wet organic matter that rots in the streets and overflows the landfills, when it could be composted into fertiliser. The director wants a citywide source-separation and composting system; it demands habit-change and steady funding.",
+    "prompt": "Garbage is rotting in the streets. You can make a system to turn the smelly garbage into plant food, but it takes hard work.",
     "left": {
       "id": "a",
-      "label": "Build citywide composting.",
+      "label": "Turn the smelly garbage into plant food.",
       "tooltip": "A banana peel is fertiliser, not a landfill.",
       "reveal": "You build source-separation and composting at scale. The habit-change is slow and the funding steady, but the organic waste becomes fertiliser instead of landfill and street-rot, and the dumps stop overflowing.",
       "effects": {
@@ -4082,7 +4082,7 @@
     },
     "right": {
       "id": "b",
-      "label": "Leave waste mixed and dumped.",
+      "label": "Just dump all the garbage in a big pile.",
       "tooltip": "Source-separation asks more of the public than they will give.",
       "reveal": "You leave the waste mixed and bound for the overflowing landfills. The habit-change is dodged, and the wet organic matter keeps rotting in the streets and the dumps when it could have fed the fields.",
       "effects": {
@@ -4104,10 +4104,10 @@
       "hypertension",
       "diet"
     ],
-    "prompt": "Sky-high salt intake is driving an epidemic of hypertension, strokes, and heart attacks. A national salt-reduction push — reformulating processed food, public awareness, front-of-pack labels — would save many lives cheaply; the food industry resists.",
+    "prompt": "People eat way too much salt, giving them heart attacks. You can make food companies use less salt, but they will fight you.",
     "left": {
       "id": "a",
-      "label": "Drive the national salt-reduction push.",
+      "label": "Force companies to use less salt.",
       "tooltip": "A pinch less salt across a nation is a flood of strokes prevented.",
       "reveal": "You push reformulation, labels, and awareness. The food industry resists changing its recipes, but salt intake edges down and the strokes and heart attacks it drives begin, across millions, to fall.",
       "effects": {
@@ -4118,7 +4118,7 @@
     },
     "right": {
       "id": "b",
-      "label": "Leave salt to the consumer.",
+      "label": "Let people eat as much salt as they want.",
       "tooltip": "A man may salt his own food as he likes.",
       "reveal": "You leave salt intake to individual choice. The food industry keeps its salty recipes, and the hypertension, strokes, and heart attacks keep mounting on a diet a little less salt would have eased.",
       "effects": {
@@ -4139,10 +4139,10 @@
       "assistive-devices",
       "access"
     ],
-    "prompt": "Millions who need wheelchairs, hearing aids, prosthetics, and white canes go without, shut out of work and life for want of a cheap device. The director wants a national assistive-device programme; the constituency is quiet and the budget contested.",
+    "prompt": "People who can't walk or hear don't have money for wheelchairs or hearing aids. You can buy them for everyone who needs them.",
     "left": {
       "id": "a",
-      "label": "Fund a national assistive-device programme.",
+      "label": "Buy wheelchairs and hearing aids for everyone.",
       "tooltip": "A wheelchair is a life returned to the world.",
       "reveal": "You fund wheelchairs, hearing aids, prosthetics, and canes at scale. The cost is real for a quiet constituency, but millions shut out for want of a cheap device rejoin work, school, and life.",
       "effects": {
@@ -4153,7 +4153,7 @@
     },
     "right": {
       "id": "b",
-      "label": "Leave assistive devices to charity.",
+      "label": "Let charities handle it instead.",
       "tooltip": "A device programme is a budget for a quiet few.",
       "reveal": "You leave assistive devices to scattered charity. The budget is spared, and millions stay shut out of work and life for want of the wheelchair, hearing aid, or cane they cannot afford.",
       "effects": {
@@ -4174,10 +4174,10 @@
       "code",
       "developers"
     ],
-    "prompt": "The construction boom throws up energy-guzzling, badly-ventilated buildings with no green standards. A green building code — insulation, ventilation, efficiency, green space — would cut energy and improve health; developers fight every cost-adding rule.",
+    "prompt": "New buildings waste a lot of electricity and have no green grass. You can force builders to be eco-friendly, but it costs them more.",
     "left": {
       "id": "a",
-      "label": "Enforce a green building code.",
+      "label": "Force builders to make eco-friendly buildings.",
       "tooltip": "A building built badly is built for fifty years of waste.",
       "reveal": "You mandate a green building code on new construction. The developers fight the added cost, but the new buildings use less energy, breathe better, and serve their occupants' health for decades.",
       "effects": {
@@ -4189,7 +4189,7 @@
     },
     "right": {
       "id": "b",
-      "label": "Leave construction to minimal standards.",
+      "label": "Let builders make cheap, wasteful buildings.",
       "tooltip": "A green code is a cost on every brick laid.",
       "reveal": "You keep building standards minimal. The developers keep their margins, and the boom keeps throwing up energy-guzzling, ill-ventilated buildings the country will live in, and pay to run, for fifty years.",
       "effects": {
@@ -4211,10 +4211,10 @@
       "cruelty",
       "welfare"
     ],
-    "prompt": "Working animals, strays, zoo inmates, and livestock suffer routine cruelty under laws a century old and never enforced. The officer wants a modern animal-welfare law and enforcement; the cause is dismissed by many as a luxury when people themselves suffer.",
+    "prompt": "Animals are being treated very meanly on the streets and in farms. You can make a law to protect animals from bullies.",
     "left": {
       "id": "a",
-      "label": "Enact a modern animal-welfare law.",
+      "label": "Make a law to protect the animals.",
       "tooltip": "A society cruel to its animals is coarsened toward its people too.",
       "reveal": "You pass and enforce a modern animal-welfare law. Many dismiss it as a luxury, but the routine cruelty to working animals, strays, and zoo inmates is curbed, and a coarseness is softened.",
       "effects": {
@@ -4225,7 +4225,7 @@
     },
     "right": {
       "id": "b",
-      "label": "Leave animal welfare aside.",
+      "label": "Ignore the animals because people are more important.",
       "tooltip": "I will not spend on beasts while people suffer.",
       "reveal": "You leave animal cruelty to the dead century-old law. The budget and attention stay on human needs, and the routine, casual cruelty to animals carries on unchecked and unremarked.",
       "effects": {
@@ -4246,10 +4246,10 @@
       "fogging",
       "dengue"
     ],
-    "prompt": "The mosquito-fogging the cities rely on against dengue is now near-useless — the mosquitoes are resistant and the larvae breed untouched. The director wants a shift to larval-source management; the public loves the visible fog and distrusts the invisible fix.",
+    "prompt": "The bug spray in the city isn't killing the mosquitoes anymore. You need to clean the dirty water where they live, but people just want to see the spray.",
     "left": {
       "id": "a",
-      "label": "Shift to larval-source management.",
+      "label": "Clean the dirty water to stop the mosquitoes.",
       "tooltip": "Fog kills the show; clearing the breeding kills the mosquito.",
       "reveal": "You shift from theatrical fogging to larval-source control and integrated management. The public misses the reassuring fog, but the mosquito populations and the dengue they carry actually begin to fall.",
       "effects": {
@@ -4259,7 +4259,7 @@
     },
     "right": {
       "id": "b",
-      "label": "Keep the reassuring fog.",
+      "label": "Keep using the useless bug spray to make people happy.",
       "tooltip": "The public wants to see the trucks fog the streets.",
       "reveal": "You keep the visible fogging the public loves. It reassures and achieves little against resistant mosquitoes breeding in untouched larvae, and the dengue seasons keep coming worse each year.",
       "effects": {
@@ -4280,10 +4280,10 @@
       "hospice",
       "dignity"
     ],
-    "prompt": "The terminally ill die in agony for want of palliative care and the morphine that could ease them — held back by fear of addiction and a system that abandons those it cannot cure. The director wants a national palliative-care programme; it draws no votes and little notice.",
+    "prompt": "Very sick people who are dying are in lots of pain. You can give them strong medicine to make them comfortable, but people are scared they will get addicted.",
     "left": {
       "id": "a",
-      "label": "Build national palliative care.",
+      "label": "Give them the medicine to stop their pain.",
       "tooltip": "A death without dignity is a final cruelty we can prevent.",
       "reveal": "You build palliative care and rational pain relief into the health system. There are no votes in dying patients, but the terminally ill stop ending their lives in needless agony, eased and accompanied.",
       "effects": {
@@ -4294,7 +4294,7 @@
     },
     "right": {
       "id": "b",
-      "label": "Leave the dying to cope.",
+      "label": "Leave them to suffer the pain.",
       "tooltip": "The budget is for the living and the curable.",
       "reveal": "You leave palliative care unfunded. The money goes to the curable, and the terminally ill keep dying in agony, abandoned by a system that has nothing for those it cannot save.",
       "effects": {
@@ -4315,10 +4315,10 @@
       "children",
       "education"
     ],
-    "prompt": "Children fail and drop out because no one notices they cannot see the board or hear the teacher — uncorrected vision and hearing mistaken for stupidity. The director wants universal school screening and free glasses and hearing aids; the cost is small but keeps getting cut.",
+    "prompt": "Kids fail school simply because they can't see the board. You can buy free glasses for kids who need them.",
     "left": {
       "id": "a",
-      "label": "Fund universal school screening.",
+      "label": "Give free glasses to kids at school.",
       "tooltip": "A child who cannot see the board is failed, not failing.",
       "reveal": "You fund vision and hearing screening and free glasses and aids in every school. The cost per child is small, and children once written off as dull turn out simply to have needed glasses, and they flourish.",
       "effects": {
@@ -4329,7 +4329,7 @@
     },
     "right": {
       "id": "b",
-      "label": "Leave screening to parents.",
+      "label": "Make parents buy the glasses themselves.",
       "tooltip": "A child's eyes are a family's errand.",
       "reveal": "You leave screening to parents who rarely think of it. The pennies are saved, and children keep failing and dropping out, their uncorrected sight and hearing mistaken for an inability to learn.",
       "effects": {
@@ -4350,10 +4350,10 @@
       "ramsar",
       "biodiversity"
     ],
-    "prompt": "A globally important wetland — a wintering ground for migratory birds and a nursery for fish — is being drained for farmland and development. The officer wants it protected under the international wetland convention; the encroaching farmers and developers resist.",
+    "prompt": "Builders want to drain a beautiful swamp where winter birds live so they can build houses. You can protect the swamp forever.",
     "left": {
       "id": "a",
-      "label": "Protect the wetland under the convention.",
+      "label": "Protect the swamp to save the birds.",
       "tooltip": "A wetland drained is a thousand species evicted.",
       "reveal": "You secure international protection and halt the draining. The encroaching farmers and developers protest the lost land, but the migratory birds, the fish nurseries, and the wetland's flood-buffering all survive.",
       "effects": {
@@ -4365,7 +4365,7 @@
     },
     "right": {
       "id": "b",
-      "label": "Let the wetland be drained.",
+      "label": "Let the builders drain the swamp.",
       "tooltip": "Wet land farmed is land made useful.",
       "reveal": "You let the wetland go to farmland and development. The land yields its short-term value, and a globally important refuge for birds and fish, and a natural flood-buffer, is drained away forever.",
       "effects": {
@@ -4387,10 +4387,10 @@
       "oral-cancer",
       "betel"
     ],
-    "prompt": "Oral disease is rampant and oral cancer — driven by the betel-nut and tobacco quid chewed by millions — is a leading cancer killer, yet dental care barely exists outside private clinics. The director wants public oral health and a betel-quid awareness drive; the betel trade resists.",
+    "prompt": "Chewing bad tobacco is giving people mouth cancer. You can send dentists to help and teach people to stop, but the tobacco sellers will be mad.",
     "left": {
       "id": "a",
-      "label": "Build public oral health and quid awareness.",
+      "label": "Send dentists and tell people to stop chewing tobacco.",
       "tooltip": "A mouth cancer caught late is a death; caught early, a scar.",
       "reveal": "You build basic public dental care and a campaign against the carcinogenic betel-tobacco quid. The betel trade and the deep habit resist, but oral disease and the cancers it breeds begin to recede.",
       "effects": {
@@ -4401,7 +4401,7 @@
     },
     "right": {
       "id": "b",
-      "label": "Leave oral health to private clinics.",
+      "label": "Leave it alone and let the dentists stay in the city.",
       "tooltip": "A toothache is hardly a national priority.",
       "reveal": "You leave dental care to those who can pay. The budget is spared, and oral disease and the betel-driven cancers keep spreading untreated among the millions who never see a dentist.",
       "effects": {
@@ -4422,10 +4422,10 @@
       "data",
       "transparency"
     ],
-    "prompt": "The country has almost no real air-quality monitoring, so the lethal pollution is unmeasured and unaddressed. The officer wants a public network of monitors with open, real-time data; some fear the numbers will be damning and the industries fear the accountability.",
+    "prompt": "No one knows how poisonous the air really is because there are no testing machines. You can put machines up, but the factories are scared of the truth.",
     "left": {
       "id": "a",
-      "label": "Build an open air-monitoring network.",
+      "label": "Put up machines to tell everyone the truth about the air.",
       "tooltip": "Pollution unmeasured is pollution unanswered.",
       "reveal": "You build a public, real-time air-monitoring network. The damning numbers embarrass the government and rattle the industries, but for the first time the lethal air can be measured, named, and fought.",
       "effects": {
@@ -4437,7 +4437,7 @@
     },
     "right": {
       "id": "b",
-      "label": "Leave the air unmeasured.",
+      "label": "Don't put up machines and keep it a secret.",
       "tooltip": "A number no one has is a scandal no one can prove.",
       "reveal": "You leave the air unmonitored. The lethal pollution stays unmeasured and deniable, the industries stay unaccountable, and the public chokes on an air no one will officially admit is killing them.",
       "effects": {
@@ -4459,10 +4459,10 @@
       "buildings",
       "preparedness"
     ],
-    "prompt": "The capital sits on a fault, crammed with buildings that would pancake in a major quake, and the country has almost no urban search-and-rescue capacity. The director wants a costly retrofit, code-enforcement, and rescue drive; the threat is invisible until the ground moves.",
+    "prompt": "The city buildings would all fall down if a big earthquake hit. You can spend money to fix them now, or just hope the earthquake never happens.",
     "left": {
       "id": "a",
-      "label": "Fund quake retrofit and rescue capacity.",
+      "label": "Spend money to make the buildings safe from earthquakes.",
       "tooltip": "A city built to fall is a mass grave waiting for a tremor.",
       "reveal": "You fund seismic retrofits, code enforcement, and urban search-and-rescue. The cost is enormous and the danger abstract, but a quake that would have buried hundreds of thousands becomes survivable.",
       "effects": {
@@ -4473,7 +4473,7 @@
     },
     "right": {
       "id": "b",
-      "label": "Hope the big quake holds off.",
+      "label": "Hope the big earthquake never happens.",
       "tooltip": "A retrofit of a whole city is a fortune against a maybe.",
       "reveal": "You leave the city to its fragile buildings and absent rescue capacity. The money goes to present needs, and the capital waits, a single major tremor away from a catastrophe of unimaginable scale.",
       "effects": {
@@ -4494,10 +4494,10 @@
       "pesticide",
       "rural"
     ],
-    "prompt": "Easy access to highly toxic farm pesticides makes them the method of countless impulsive rural suicides, especially among the young and women. The director wants the most lethal banned and the rest locked in community stores — a proven, cheap lifesaver the agro-chemical lobby resists.",
+    "prompt": "People are using dangerous farm poisons to hurt themselves when they are sad. You can lock up the poisons to keep people safe.",
     "left": {
       "id": "a",
-      "label": "Ban the most lethal pesticides, lock the rest.",
+      "label": "Lock up the poisons so people can't hurt themselves.",
       "tooltip": "An impulse survives if the poison is out of reach.",
       "reveal": "You ban the deadliest pesticides and require safe community storage. The agro-chemical lobby resists, but rural suicides — so often impulsive and survivable — fall sharply where the poison is no longer at hand.",
       "effects": {
@@ -4508,7 +4508,7 @@
     },
     "right": {
       "id": "b",
-      "label": "Leave the pesticides freely available.",
+      "label": "Leave the poisons out where anyone can grab them.",
       "tooltip": "A farmer needs his chemicals; the misuse is his own.",
       "reveal": "You leave the lethal pesticides on the open shelf. The lobby is content, and the impulsive rural suicides keep claiming the young and the despairing who reached, in a dark moment, for what was within arm's reach.",
       "effects": {
@@ -4529,10 +4529,10 @@
       "cold-chain",
       "coverage"
     ],
-    "prompt": "The vaccine cold chain — the refrigeration that keeps childhood vaccines potent from factory to village — is fraying, with failing fridges that quietly render vaccines useless. The director wants a costly overhaul; the failure is invisible until outbreaks return.",
+    "prompt": "The refrigerators that keep kids' medicines safe are breaking. If you don't buy new ones, the medicine won't work.",
     "left": {
       "id": "a",
-      "label": "Overhaul the vaccine cold chain.",
+      "label": "Buy new refrigerators to keep the medicine safe.",
       "tooltip": "A vaccine spoiled by a warm fridge is a child unprotected.",
       "reveal": "You overhaul the refrigeration and logistics from factory to village. The cost is real and the gain invisible, but the childhood vaccines that the country is so proud to deliver actually work when they arrive.",
       "effects": {
@@ -4543,7 +4543,7 @@
     },
     "right": {
       "id": "b",
-      "label": "Leave the cold chain to limp along.",
+      "label": "Keep using the broken refrigerators and hope it works.",
       "tooltip": "The fridges mostly work; the coverage looks fine on paper.",
       "reveal": "You leave the failing cold chain alone. The coverage numbers stay high on paper, and a quiet share of the vaccines reach children already spoiled and useless, until the old diseases creep back.",
       "effects": {
@@ -4564,10 +4564,10 @@
       "kidney",
       "access"
     ],
-    "prompt": "Chronic kidney disease — driven by diabetes, hypertension, and arsenic — is surging, and dialysis is scarce and ruinously expensive, so the poor simply die. The director wants subsidised dialysis centres across the regions; the per-patient cost is high and endless.",
+    "prompt": "Many people have very sick kidneys and need a special cleaning machine to stay alive. You can build cheap machine centers everywhere, but it costs a lot.",
     "left": {
       "id": "a",
-      "label": "Build subsidised regional dialysis.",
+      "label": "Build cheap kidney machine centers everywhere.",
       "tooltip": "A kidney patient priced out of dialysis is a patient sentenced to death.",
       "reveal": "You build subsidised dialysis across the regions. The per-patient cost is high and unending, but the poor with failing kidneys stop simply dying for want of a treatment the rich take for granted.",
       "effects": {
@@ -4578,7 +4578,7 @@
     },
     "right": {
       "id": "b",
-      "label": "Leave dialysis to private centres.",
+      "label": "Let people find their own expensive machines in the city.",
       "tooltip": "Dialysis for all is a cost with no ceiling.",
       "reveal": "You leave dialysis to the costly private centres. The open-ended cost is avoided, and the poor with kidney failure keep dying quietly at home, unable to afford the machine that would keep them alive.",
       "effects": {
@@ -4599,10 +4599,10 @@
       "hospitals",
       "hygiene"
     ],
-    "prompt": "A shocking share of clinics and hospitals lack clean water, functioning toilets, and hand-washing — so the places of healing spread infection and mothers give birth in filth. The director wants a WASH overhaul of every health facility; it is basic, costly, and chronically skipped.",
+    "prompt": "Hospitals are so dirty they don't even have clean water to wash hands. You can fix the pipes and toilets to make them clean.",
     "left": {
       "id": "a",
-      "label": "Fund WASH in every health facility.",
+      "label": "Fix the pipes and toilets to make hospitals clean.",
       "tooltip": "A maternity ward without clean water is a death-trap with a midwife.",
       "reveal": "You fund clean water, toilets, and hygiene in every clinic and hospital. The cost is real for something so basic, but mothers stop giving birth in filth and the places of healing stop spreading infection.",
       "effects": {
@@ -4613,7 +4613,7 @@
     },
     "right": {
       "id": "b",
-      "label": "Leave facility hygiene as it is.",
+      "label": "Leave the hospitals dirty.",
       "tooltip": "The wards function; plumbing is a refinement.",
       "reveal": "You leave the clinics without reliable water and toilets. The money goes elsewhere, and the health facilities keep spreading infection and delivering babies into unhygienic conditions that needlessly kill.",
       "effects": {
@@ -4634,10 +4634,10 @@
       "junk-food",
       "children"
     ],
-    "prompt": "As incomes rise, childhood obesity surges in the cities even as stunting persists in the villages — a double burden. The director wants junk food out of schools and healthy-eating standards; the snack industry and the kids resist.",
+    "prompt": "Kids are eating too much junk food at school and getting unhealthy. You can ban junk food, but the kids and the snack companies will complain.",
     "left": {
       "id": "a",
-      "label": "Ban junk food from schools.",
+      "label": "Ban junk food from all schools.",
       "tooltip": "A childhood fed on junk is a lifetime of disease bought early.",
       "reveal": "You ban junk food from schools and set healthy-eating standards. The snack industry and the children grumble, but the rising childhood obesity and the diseases it pre-orders begin to slow.",
       "effects": {
@@ -4648,7 +4648,7 @@
     },
     "right": {
       "id": "b",
-      "label": "Leave school food to the market.",
+      "label": "Let the kids keep eating junk food.",
       "tooltip": "A ban on a child's snack is a nanny-state errand.",
       "reveal": "You leave school food to the snack vendors. The children keep their crisps and fizzy drinks, and childhood obesity and the diabetes and heart disease it seeds keep climbing in the cities.",
       "effects": {
@@ -4669,10 +4669,10 @@
       "housing",
       "resilience"
     ],
-    "prompt": "In the flood-prone chars and haors, the poor rebuild fragile homes washed away every year. A programme of raised plinths, flood-resilient housing, and protected wells would break the cycle; the alternative is the cheaper, endless ritual of post-flood relief.",
+    "prompt": "Floods wash away the same poor houses every single year. You can build them tall, safe houses, or just keep giving them cheap emergency food.",
     "left": {
       "id": "a",
-      "label": "Fund flood-resilient housing.",
+      "label": "Build tall, safe houses that won't wash away.",
       "tooltip": "A home rebuilt every flood is a poverty rebuilt with it.",
       "reveal": "You fund raised plinths, resilient homes, and protected wells in the flood zones. The upfront cost is real, but families stop losing everything each monsoon and the endless cycle of relief and ruin is broken.",
       "effects": {
@@ -4683,7 +4683,7 @@
     },
     "right": {
       "id": "b",
-      "label": "Stick with post-flood relief.",
+      "label": "Just keep giving them emergency food every year.",
       "tooltip": "Resilient housing for the floodplain is a fortune; relief is cheap.",
       "reveal": "You keep providing relief after each flood. The upfront cost is dodged, and the floodplain poor keep losing their fragile homes and their meagre gains every single monsoon, trapped in the cycle.",
       "effects": {
@@ -4704,10 +4704,10 @@
       "donation",
       "safety"
     ],
-    "prompt": "The country runs on a commercial blood trade of paid, often-diseased donors, because the voluntary donation network is thin and the safe supply scarce. The director wants to build a real voluntary, screened blood system; it takes funding and a culture shift.",
+    "prompt": "People sell sick blood to hospitals for money. You can stop this and only take healthy blood from volunteers, but it takes time to set up.",
     "left": {
       "id": "a",
-      "label": "Build a voluntary, screened blood system.",
+      "label": "Make a safe system with only healthy volunteer blood.",
       "tooltip": "Blood bought from the desperate carries their diseases.",
       "reveal": "You build a real voluntary blood-donation and screening network. The funding and culture shift take time, but the commercial trade in diseased blood shrinks and patients get a safe supply when they bleed.",
       "effects": {
@@ -4718,7 +4718,7 @@
     },
     "right": {
       "id": "b",
-      "label": "Leave the commercial blood trade.",
+      "label": "Keep letting people sell their sick blood.",
       "tooltip": "The blood banks meet the demand as they are.",
       "reveal": "You leave the paid-donor trade in place. The supply is met cheaply, and patients keep receiving blood from paid, unscreened donors that carries hepatitis, HIV, and worse into their veins.",
       "effects": {
@@ -4739,10 +4739,10 @@
       "helplines",
       "stigma"
     ],
-    "prompt": "Suicide is rising, especially among the young and women, hidden by stigma and a law that still criminalises the attempt. The director wants decriminalisation, helplines, and responsible reporting; the conservatives resist 'condoning' it.",
+    "prompt": "Sad people who try to hurt themselves are treated like criminals and put in jail. You can change the rule and give them doctors instead.",
     "left": {
       "id": "a",
-      "label": "Decriminalise and build prevention.",
+      "label": "Stop treating them like criminals and give them doctors.",
       "tooltip": "A person in despair needs a hand, not handcuffs.",
       "reveal": "You decriminalise attempted suicide and build helplines and prevention. The conservatives object, but the despairing can seek help without fear of arrest, and the stigma that drove the silence begins to lift.",
       "effects": {
@@ -4753,7 +4753,7 @@
     },
     "right": {
       "id": "b",
-      "label": "Keep attempt criminalised.",
+      "label": "Keep treating them like criminals.",
       "tooltip": "Decriminalising suicide is seen as blessing it.",
       "reveal": "You leave the law and the stigma in place. The conservatives are unprovoked, and the suicidal keep their silence and their fear of the law, dying in numbers that helplines and care would have cut.",
       "effects": {
@@ -4774,10 +4774,10 @@
       "trauma",
       "enforcement"
     ],
-    "prompt": "The explosion of motorcycles and ride-share bikes has filled the trauma wards with head injuries, mostly from riders without helmets. The officer wants hard helmet enforcement; riders resent it and the ride-share boom prefers fewer rules.",
+    "prompt": "Too many motorcycle riders are crashing without helmets and hurting their heads. You can force them to wear helmets, but they will be annoyed.",
     "left": {
       "id": "a",
-      "label": "Enforce helmet and safety-gear laws.",
+      "label": "Force every rider to wear a safe helmet.",
       "tooltip": "A skull is cheaper to protect than to repair.",
       "reveal": "You enforce helmet and safety-gear laws hard. The riders and the ride-share lobby grumble, but the head injuries flooding the trauma wards drop and the road-death toll among the young eases.",
       "effects": {
@@ -4788,7 +4788,7 @@
     },
     "right": {
       "id": "b",
-      "label": "Leave helmet use to choice.",
+      "label": "Let them ride without helmets if they want to.",
       "tooltip": "A rider's skull is a rider's business.",
       "reveal": "You leave safety gear to personal choice. The riders keep their freedom and the ride-share boom its low friction, and the trauma wards keep filling with the head injuries a helmet would have prevented.",
       "effects": {
@@ -4809,10 +4809,10 @@
       "children",
       "introduction"
     ],
-    "prompt": "New vaccines against the rotavirus and pneumonia that kill so many small children are available but costly to add to the national schedule. The director wants them introduced now; the finance side balks at the added recurrent cost.",
+    "prompt": "There are amazing new medicines to protect little kids from getting sick, but they cost a lot of money to buy for everyone.",
     "left": {
       "id": "a",
-      "label": "Introduce the new childhood vaccines.",
+      "label": "Buy the amazing new medicines for all the kids.",
       "tooltip": "A child dead of a vaccine-preventable bug is a death we chose.",
       "reveal": "You add the rotavirus and pneumococcal vaccines to the schedule. The recurrent cost is real, but two of the biggest killers of small children — diarrhoea and pneumonia — are pushed back across a generation.",
       "effects": {
@@ -4823,7 +4823,7 @@
     },
     "right": {
       "id": "b",
-      "label": "Delay the costly new vaccines.",
+      "label": "Wait because it costs too much money right now.",
       "tooltip": "The schedule we have already saves most.",
       "reveal": "You hold off on the new vaccines to save the recurrent cost. The existing schedule rolls on, and small children keep dying of the rotavirus and pneumonia the new vaccines would have prevented.",
       "effects": {
@@ -4844,10 +4844,10 @@
       "health",
       "adaptation"
     ],
-    "prompt": "Climate change is reshaping disease — dengue spreading, heat killing, floods drowning clinics, salinity raising blood pressure in coastal women. The director wants the health system climate-proofed and climate-health surveillance built; it is a diffuse, long-horizon investment.",
+    "prompt": "Weird hot weather and floods are bringing new bugs and sicknesses. You can prepare hospitals for this, but it takes a lot of planning.",
     "left": {
       "id": "a",
-      "label": "Climate-proof the health system.",
+      "label": "Prepare the hospitals for the new weather sicknesses.",
       "tooltip": "A warming world writes new diseases; a wise state reads ahead.",
       "reveal": "You climate-proof health facilities and build climate-disease surveillance. The investment is diffuse and long-horizon, but the system braces for the dengue, heat, and salinity illnesses the changing climate is already bringing.",
       "effects": {
@@ -4858,7 +4858,7 @@
     },
     "right": {
       "id": "b",
-      "label": "Address health threats as they come.",
+      "label": "Just deal with the sicknesses whenever they happen.",
       "tooltip": "I will fight today's diseases, not the weather's.",
       "reveal": "You take climate-driven illness as it arrives. The money is spared the long-horizon investment, and the health system keeps being caught flat-footed by each new wave of climate-shifted disease.",
       "effects": {
@@ -4879,10 +4879,10 @@
       "beaches",
       "plastic"
     ],
-    "prompt": "The beaches and coastal waters are drowning in plastic litter — washed down the rivers and dumped by the tourist towns — choking marine life and the tourist economy alike. The officer wants cleanup, river-interception, and a coastal plastic ban; the cost and the tourist trade resist.",
+    "prompt": "The beautiful beaches are totally covered in plastic trash. You can clean it up and ban plastic, but the tourists and stores will complain.",
     "left": {
       "id": "a",
-      "label": "Fund cleanup and river-litter interception.",
+      "label": "Clean the beach and ban the plastic trash.",
       "tooltip": "A coast of plastic is a coast of death and lost trade.",
       "reveal": "You fund sustained beach cleanup, river-litter interception, and coastal plastic limits. The tourist towns grumble at the rules, but the beaches and waters clear, and the marine life and the tourist draw both recover.",
       "effects": {
@@ -4893,7 +4893,7 @@
     },
     "right": {
       "id": "b",
-      "label": "Leave the litter to the tides.",
+      "label": "Let the plastic trash stay on the beach.",
       "tooltip": "A beach cleanup is endless and the tourists come regardless.",
       "reveal": "You leave the marine litter to wash where it will. The cost is dodged, and the plastic keeps choking the marine life and burying the beaches the tourist economy depends on.",
       "effects": {
@@ -4915,10 +4915,10 @@
       "disability",
       "children"
     ],
-    "prompt": "Children with autism and developmental disorders are hidden, shamed, and shut out entirely for want of any diagnosis, therapy, or schooling. The director wants a national developmental-screening and early-intervention programme; the cause is poorly understood and easily skipped.",
+    "prompt": "Kids whose brains work a little differently are hidden away with no schools. You can build special classes to help them learn.",
     "left": {
       "id": "a",
-      "label": "Build developmental screening and therapy.",
+      "label": "Build special classes to help them learn.",
       "tooltip": "A child unreached early is a potential lost for life.",
       "reveal": "You build early screening, therapy, and inclusive schooling for developmental disorders. The cause is poorly understood, but children once hidden and written off gain diagnosis, support, and a place in the world.",
       "effects": {
@@ -4929,7 +4929,7 @@
     },
     "right": {
       "id": "b",
-      "label": "Leave developmental care to families.",
+      "label": "Leave them hidden at home.",
       "tooltip": "A niche of children is a poor claim on the budget.",
       "reveal": "You leave these children to families with nowhere to turn. The budget is spared, and children with autism and developmental disorders keep being hidden, shamed, and shut out for want of services that would have reached them.",
       "effects": {
@@ -4950,10 +4950,10 @@
       "waste",
       "flooding"
     ],
-    "prompt": "The cities' canals and riverbanks are choked with dumped solid waste, blocking drainage and breeding disease, while settlements and businesses dump with impunity. The officer wants enforced anti-dumping, regular clearing, and waste collection; it means confronting dumpers great and small.",
+    "prompt": "City rivers are clogged with garbage, causing floods and disease. You can force people to stop throwing garbage in the water.",
     "left": {
       "id": "a",
-      "label": "Enforce anti-dumping and clear the canals.",
+      "label": "Force everyone to stop throwing garbage in the water.",
       "tooltip": "A canal of garbage is a flood and a fever waiting to break.",
       "reveal": "You enforce anti-dumping, fund regular clearing, and extend collection. Dumpers great and small resist, but the canals flow, the drainage works, and the disease and flooding the garbage bred recede.",
       "effects": {
@@ -4965,7 +4965,7 @@
     },
     "right": {
       "id": "b",
-      "label": "Leave the canals to clog.",
+      "label": "Let them keep turning the rivers into garbage dumps.",
       "tooltip": "A war on every dumper is a war without end.",
       "reveal": "You leave the canals choked with waste. The confrontation is avoided, and the blocked drainage keeps flooding the city and the rotting garbage keeps breeding the disease that fills its clinics.",
       "effects": {
@@ -4986,10 +4986,10 @@
       "women",
       "workforce"
     ],
-    "prompt": "Working mothers, especially the garment workforce, have nowhere safe to leave their infants, so children are neglected and women forced out of work. The law mandates factory creches almost no one provides. The director wants real enforcement; employers call it unbearable.",
+    "prompt": "Working moms have nowhere safe to leave their babies. The law says factories must have baby rooms, but bosses ignore it.",
     "left": {
       "id": "a",
-      "label": "Enforce the workplace-creche mandate.",
+      "label": "Force the bosses to build the baby rooms.",
       "tooltip": "A mother who must choose between her baby and her wage is failed by both.",
       "reveal": "You enforce the creche mandate and support smaller employers to comply. The factory owners protest the cost, but working mothers gain safe childcare, infants are tended, and women stay in the workforce.",
       "effects": {
@@ -5001,7 +5001,7 @@
     },
     "right": {
       "id": "b",
-      "label": "Leave the creche law unenforced.",
+      "label": "Let the bosses keep ignoring the rule.",
       "tooltip": "A creche in every factory is a cost the owners will not bear.",
       "reveal": "You leave the creche mandate a dead letter. The owners keep their margins, and working mothers keep leaving infants untended or leaving the workforce entirely, the law on the books and ignored.",
       "effects": {
@@ -5022,10 +5022,10 @@
       "typhoid",
       "vaccines"
     ],
-    "prompt": "Cholera and typhoid still sweep the slums and flood zones from filthy water, and oral vaccines now exist to blunt them. The director wants targeted vaccination in the high-risk areas alongside the slow water fixes; the vaccines are costly and the diseases familiar.",
+    "prompt": "Dirty water gives people terrible stomach bugs. You can give them a special medicine shot to stop it while you fix the pipes.",
     "left": {
       "id": "a",
-      "label": "Run targeted cholera-typhoid vaccination.",
+      "label": "Give them the medicine shot to stop the stomach bugs.",
       "tooltip": "A vaccine now buys time the water fixes will take years to deliver.",
       "reveal": "You run oral vaccination campaigns in the slums and flood zones. The cost is real, but cholera and typhoid outbreaks shrink, buying the years the slow clean-water fixes will need to take hold.",
       "effects": {
@@ -5036,7 +5036,7 @@
     },
     "right": {
       "id": "b",
-      "label": "Wait for the water fixes alone.",
+      "label": "Wait until the water pipes are finally fixed.",
       "tooltip": "A vaccine is a patch; clean water is the cure.",
       "reveal": "You rely solely on the slow clean-water work and skip the vaccines. The money is saved, and cholera and typhoid keep sweeping the slums and flood zones in the long years before the water is ever fixed.",
       "effects": {
@@ -5057,10 +5057,10 @@
       "records",
       "privacy"
     ],
-    "prompt": "A national electronic health-record system would join up fragmented care, cut duplication, and power real planning — and concentrate the population's most intimate data in a system the state has not earned trust to hold securely. How far do you build it?",
+    "prompt": "You can put everyone's doctor records on a giant computer so they are easy to find. But people are scared the government will spy on their secrets.",
     "left": {
       "id": "a",
-      "label": "Build the integrated health-record system.",
+      "label": "Put all the records on the giant computer.",
       "tooltip": "Care that cannot remember the patient repeats every mistake.",
       "reveal": "You build the integrated electronic health records. Care joins up and planning sharpens, and the population's most intimate data pools in a system whose security the state must now be trusted to keep.",
       "effects": {
@@ -5071,7 +5071,7 @@
     },
     "right": {
       "id": "b",
-      "label": "Keep records local and fragmented.",
+      "label": "Keep the records on paper at the doctor's office.",
       "tooltip": "A central trove of every citizen's illness is a breach waiting to happen.",
       "reveal": "You keep health records local and disconnected. The intimate data is not pooled into one breachable trove, and care stays fragmented, duplicative, and blind to the patient's own history.",
       "effects": {
@@ -5092,10 +5092,10 @@
       "shisha",
       "youth"
     ],
-    "prompt": "Vaping and shisha lounges are spreading among urban youth, marketed as harmless and slipping through the tobacco laws. The officer wants them regulated and taxed like tobacco before the habit entrenches; the lounges, importers, and youth push back.",
+    "prompt": "Kids are smoking sweet-smelling vape pens. You can tax them and make strict rules just like normal cigarettes, but sellers will be mad.",
     "left": {
       "id": "a",
-      "label": "Regulate and tax vaping like tobacco.",
+      "label": "Tax and make strict rules for the vape pens.",
       "tooltip": "A new nicotine habit caught early is a generation spared.",
       "reveal": "You bring vaping and shisha under tobacco regulation and tax. The lounges and importers protest and the youth grumble, but a new nicotine epidemic is checked before it can entrench across a generation.",
       "effects": {
@@ -5106,7 +5106,7 @@
     },
     "right": {
       "id": "b",
-      "label": "Leave vaping unregulated.",
+      "label": "Let kids keep buying them easily.",
       "tooltip": "A trendy vapour is hardly a public-health emergency.",
       "reveal": "You leave vaping and shisha outside the tobacco rules. The lounges flourish and the trend spreads, and a fresh nicotine dependence takes root among the young before anyone moves to check it.",
       "effects": {
@@ -5127,10 +5127,10 @@
       "shelter",
       "livestock"
     ],
-    "prompt": "In the floods, the poor lose not just homes but the livestock that is their whole wealth, because the shelters take people but not animals — so families stay in the water to guard their cattle and drown. The director wants combined people-and-livestock shelters; purists call it a misuse of relief.",
+    "prompt": "During floods, poor farmers drown because they refuse to leave their cows behind. You can build safe houses for people AND their cows.",
     "left": {
       "id": "a",
-      "label": "Build combined people-and-livestock shelters.",
+      "label": "Build safe houses that fit people and cows.",
       "tooltip": "A family will not flee and leave its only wealth to drown.",
       "reveal": "You build shelters that take families and their animals together. The purists grumble about cattle in relief shelters, but families stop staying in the floodwater to guard their livestock, and fewer drown.",
       "effects": {
@@ -5141,7 +5141,7 @@
     },
     "right": {
       "id": "b",
-      "label": "Keep shelters for people only.",
+      "label": "Only build safe houses for people.",
       "tooltip": "A flood shelter is for human life, not cattle.",
       "reveal": "You keep the shelters people-only. The relief stays 'pure', and families keep refusing to flee — or fleeing and losing everything — because the shelter would not take the livestock that is all they own.",
       "effects": {
@@ -5162,10 +5162,10 @@
       "green-jobs",
       "informal"
     ],
-    "prompt": "An army of informal waste-pickers already recycles much of the cities' waste, unseen, unpaid fairly, and unprotected. Formalise them into the recycling system with IDs, fair pay, and gear — dignifying vital work — or leave them to the dumps and the middlemen?",
+    "prompt": "Poor people dig through the trash to recycle things for pennies. You can give them uniforms, safe tools, and real jobs.",
     "left": {
       "id": "a",
-      "label": "Formalise the waste-pickers into green jobs.",
+      "label": "Give them uniforms and real, safe jobs.",
       "tooltip": "The people who already recycle the city deserve to be seen.",
       "reveal": "You formalise the waste-pickers with IDs, fair pay, and protective gear. The middlemen who skimmed them resist, but vital, invisible work is dignified and the recycling it drives is strengthened.",
       "effects": {
@@ -5177,7 +5177,7 @@
     },
     "right": {
       "id": "b",
-      "label": "Leave waste-pickers to the dumps.",
+      "label": "Let them keep digging through the trash safely on their own.",
       "tooltip": "The informal trade works; why burden it with payroll?",
       "reveal": "You leave the waste-pickers informal and unprotected. The middlemen keep their cut, and the people who recycle the city's waste keep doing it unseen, underpaid, and exposed to every hazard of the dumps.",
       "effects": {
@@ -5198,10 +5198,10 @@
       "hospitals",
       "standards"
     ],
-    "prompt": "Private hospitals and diagnostic centres operate with wild variation in quality, some excellent and some lethal, with no accreditation to tell them apart. The director wants mandatory accreditation and public quality ratings; the private health industry resists.",
+    "prompt": "Some private hospitals are amazing, and some are deadly. You can test them all and put grades on the door so people know.",
     "left": {
       "id": "a",
-      "label": "Mandate accreditation and public ratings.",
+      "label": "Test them and put grades on the door.",
       "tooltip": "A patient choosing a hospital blind is a patient gambling with life.",
       "reveal": "You mandate accreditation and publish quality ratings. The private health industry fights the scrutiny, but the lethal clinics are exposed and forced to improve or close, and patients can finally choose with open eyes.",
       "effects": {
@@ -5213,7 +5213,7 @@
     },
     "right": {
       "id": "b",
-      "label": "Leave private health unaccredited.",
+      "label": "Let people guess which hospitals are safe.",
       "tooltip": "The private sector is a jewel I will not burden.",
       "reveal": "You leave private hospitals unaccredited. The industry stays content and connected, and patients keep gambling their lives on clinics that range, invisibly, from excellent to lethal.",
       "effects": {
@@ -5235,10 +5235,10 @@
       "household",
       "women"
     ],
-    "prompt": "Indoor air pollution from cooking smoke, damp, and crowding quietly kills more than the outdoor smog, striking women and children worst. The director wants ventilation, clean cooking, and housing improvement; the harm is invisible, inside the home, easily ignored.",
+    "prompt": "Cooking over smoky fires inside the house is quietly killing moms and kids. You can spend money to fix their houses and stoves.",
     "left": {
       "id": "a",
-      "label": "Fund indoor-air and clean-cooking programmes.",
+      "label": "Spend money to fix their houses and stoves.",
       "tooltip": "The deadliest air a woman breathes is in her own kitchen.",
       "reveal": "You fund ventilation, clean cooking, and housing improvement. The harm is invisible and the work diffuse, but the indoor smoke that quietly kills women and children in their own homes begins to clear.",
       "effects": {
@@ -5249,7 +5249,7 @@
     },
     "right": {
       "id": "b",
-      "label": "Leave indoor air to households.",
+      "label": "Let them keep cooking in the smoky houses.",
       "tooltip": "What happens inside a home is a family's own.",
       "reveal": "You leave indoor air pollution unaddressed. The budget is spared, and women and children keep dying quietly of the cooking smoke, damp, and crowding inside homes no programme reached.",
       "effects": {
@@ -5270,10 +5270,10 @@
       "drinks",
       "diabetes"
     ],
-    "prompt": "Sugary drinks are flooding the market and driving childhood obesity and diabetes, marketed hardest to the young. The director wants marketing curbs, front-of-pack warnings, and a ban on sales near schools; the beverage giants, big advertisers, resist.",
+    "prompt": "Sugary sodas are making kids very unhealthy. You can stop companies from selling soda near schools, but the companies will fight you.",
     "left": {
       "id": "a",
-      "label": "Curb marketing and sales near schools.",
+      "label": "Stop companies from selling soda near schools.",
       "tooltip": "A childhood drowned in sugar is a lifetime of disease prepaid.",
       "reveal": "You curb sugary-drink marketing, mandate warning labels, and bar sales near schools. The beverage giants pull their ads and protest, but children's sugar intake falls and the diabetes it pre-orders slows.",
       "effects": {
@@ -5284,7 +5284,7 @@
     },
     "right": {
       "id": "b",
-      "label": "Leave sugary drinks to the market.",
+      "label": "Let the companies keep selling soda to kids.",
       "tooltip": "A fizzy drink is a small pleasure to leave alone.",
       "reveal": "You leave the beverage market unchecked. The giants keep their ads and their school-gate sales, and childhood obesity and diabetes keep rising on the sugar marketed hardest to the young.",
       "effects": {
@@ -5305,10 +5305,10 @@
       "slums",
       "services"
     ],
-    "prompt": "Climate-displaced families from the drowning coast and eroding rivers pour into the city slums by the thousand, straining water, health, and shelter to breaking. Fund planned reception, services, and secondary-town development to absorb them, or let the slums swell untended?",
+    "prompt": "Thousands of people lost their farms to floods and are moving to the city. You can build new, nice neighborhoods for them, or let them live in the dirt.",
     "left": {
       "id": "a",
-      "label": "Plan for the climate migrants.",
+      "label": "Build new, nice neighborhoods for them.",
       "tooltip": "A city that ignores the tide of the displaced drowns in it.",
       "reveal": "You fund slum services, planned reception, and secondary towns to absorb the climate-displaced. The cost is real, but the newcomers find water, health, and a foothold instead of disease and despair in untended slums.",
       "effects": {
@@ -5319,7 +5319,7 @@
     },
     "right": {
       "id": "b",
-      "label": "Let the slums absorb them untended.",
+      "label": "Let them live in the dirt.",
       "tooltip": "The city has no budget for every family the river evicts.",
       "reveal": "You leave the climate migrants to the swelling slums. The money is spared, and the displaced pile into untended settlements with no water, health, or shelter, a humanitarian and disease crisis building street by street.",
       "effects": {
@@ -8904,10 +8904,10 @@
       "early-warning",
       "technology"
     ],
-    "prompt": "Time has not healed it — the conflict comes back armed. The cyclone early-warning system — once a world-leading lifesaver — has aged, its radars failing and its last-mile volunteer network fraying. The director wants a costly modernisation of radar, forecasting, and village warning; complacency says the old system still mostly works.",
+    "prompt": "Time has not healed it — the conflict comes back armed. The old storm warning alarms are breaking down. You can spend money to buy new ones, or hope the old ones keep working.",
     "left": {
       "id": "a",
-      "label": "Modernise the early-warning system.",
+      "label": "Buy new storm warning alarms.",
       "tooltip": "A warning that comes late or not at all is a coast unguarded.",
       "reveal": "You modernise the radar, forecasting, and the village warning network. The cost is real, but the country's proudest disaster achievement is renewed, and the next great cyclone meets a coast that knows it is coming.",
       "effects": {
@@ -8918,7 +8918,7 @@
     },
     "right": {
       "id": "b",
-      "label": "Rely on the ageing system.",
+      "label": "Hope the old alarms keep working.",
       "tooltip": "The old system has saved us before.",
       "reveal": "You leave the early-warning system to age. The money is saved, the failing radars and fraying volunteer network limp on, and the next cyclone finds the warnings late and patchy where they were once a marvel.",
       "effects": {
@@ -8939,10 +8939,10 @@
       "population",
       "women"
     ],
-    "prompt": "Once again, and with the whole house holding its breath. The fertility decline that was a national triumph has stalled, and the field-worker network that drove it is fraying for want of funding. The director wants to revive and modernise it — contraception, counselling, women's choice — against a quiet conservative pushback and budget neglect.",
+    "prompt": "Once again, and with the whole house holding its breath. Programs that help families decide how many kids to have are running out of money. You can fix them, but some strict people won't like it.",
     "left": {
       "id": "a",
-      "label": "Revive the family-planning network.",
+      "label": "Fix the family planning programs.",
       "tooltip": "A choice given to women is a future given to the nation.",
       "reveal": "You refund and modernise the family-planning programme. The conservatives grumble quietly, but contraception and counselling reach women again, the stalled fertility decline resumes, and women regain control of their lives.",
       "effects": {
@@ -8954,7 +8954,7 @@
     },
     "right": {
       "id": "b",
-      "label": "Let the programme keep fraying.",
+      "label": "Let the programs run out of money.",
       "tooltip": "Population is no longer the crisis it was.",
       "reveal": "You leave the network to decay. The budget is spared, and as the field-workers vanish the fertility decline reverses in the poorest regions, where women lose the choice the programme once gave them.",
       "effects": {
@@ -8975,10 +8975,10 @@
       "radiotherapy",
       "access"
     ],
-    "prompt": "The matter resurfaces in a harder year, patience exhausted. Cancer patients die waiting because the country has a handful of working radiotherapy machines for a population of millions, all in the capital. The director wants regional cancer centres and machines; the cost is enormous and the equipment notoriously prone to lying idle for want of upkeep.",
+    "prompt": "The matter resurfaces in a harder year, patience exhausted. People with cancer are dying because there are very few special machines to help them, and they are all in the big city. Buying more for other towns costs a lot.",
     "left": {
       "id": "a",
-      "label": "Build regional cancer centres.",
+      "label": "Buy cancer machines for other towns.",
       "tooltip": "A cancer patient who must reach the capital to be treated dies on the road.",
       "reveal": "You build cancer centres and radiotherapy across the regions, with upkeep contracts. The cost is vast, but cancer patients stop dying in queues for the capital's few machines, treated near home instead.",
       "effects": {
@@ -8989,7 +8989,7 @@
     },
     "right": {
       "id": "b",
-      "label": "Concentrate cancer care in the capital.",
+      "label": "Keep all the cancer care in the big city.",
       "tooltip": "Specialist care belongs where the specialists are.",
       "reveal": "You keep cancer care centralised. The capital's centres are excellent and unreachable, and the cancer patients of the provinces keep dying on waiting lists or on the long road to the city.",
       "effects": {
@@ -9010,10 +9010,10 @@
       "playgrounds",
       "children"
     ],
-    "prompt": "A later season of rule, the stakes now openly existential. The cities' last open spaces — parks, playgrounds, water bodies — are being grabbed and built over, leaving children nowhere to play and millions no green to breathe. The officer wants the remaining open spaces protected and reclaimed; developers and land-grabbers covet every inch.",
+    "prompt": "A later season of rule, the stakes now openly existential. Builders are paving over all the city parks so kids have nowhere to play. You can protect the parks, but the builders will be angry.",
     "left": {
       "id": "a",
-      "label": "Protect and reclaim urban open spaces.",
+      "label": "Protect the city parks so kids can play.",
       "tooltip": "A city with no playground raises its children indoors and ill.",
       "reveal": "You protect the parks and reclaim grabbed open spaces. The developers and grabbers rage at the lost plots, but children gain places to play and the suffocating city keeps a few lungs of green.",
       "effects": {
@@ -9025,7 +9025,7 @@
     },
     "right": {
       "id": "b",
-      "label": "Let the open spaces go to development.",
+      "label": "Let the builders pave over the parks.",
       "tooltip": "Prime urban land cannot sit idle as grass.",
       "reveal": "You let the parks and playgrounds be built over. The land yields its value to developers, and the city's children grow up with nowhere to run and its people with no green to breathe.",
       "effects": {
@@ -9046,10 +9046,10 @@
       "girls",
       "school"
     ],
-    "prompt": "It comes around again, and the margin for error is gone. Girls miss school and drop out entirely for want of menstrual products, clean toilets, and an end to the shame around periods. The director wants free pads, school toilets, and education, and to scrap the tax on sanitary products; the cost and the cultural squeamishness both resist.",
+    "prompt": "It comes around again, and the margin for error is gone. Girls are missing school because they don't have what they need for their periods. You can give out free supplies, but some people are too embarrassed to talk about it.",
     "left": {
       "id": "a",
-      "label": "Fund menstrual health and scrap the pad tax.",
+      "label": "Give out free supplies and talk about it.",
       "tooltip": "A girl kept from school by her period is a future taxed away.",
       "reveal": "You provide free pads, build girls' school toilets, and cut the sanitary-product tax. The squeamish object and the revenue dips, but girls stop missing school and dropping out over something so preventable.",
       "effects": {
@@ -9061,7 +9061,7 @@
     },
     "right": {
       "id": "b",
-      "label": "Leave menstrual needs to families.",
+      "label": "Leave it up to the families.",
       "tooltip": "Sanitary products are a household matter, not a budget line.",
       "reveal": "You leave the matter to families and the market. The tax revenue and the awkward conversation are both avoided, and girls keep missing school and dropping out for want of a pad and a clean toilet.",
       "effects": {
@@ -9082,10 +9082,10 @@
       "water",
       "health"
     ],
-    "prompt": "The same demand, but the reign is older and the knives sharper. In pockets of the country the groundwater carries excess fluoride and iron, crippling people with skeletal and dental fluorosis. The director wants targeted treatment and alternative supply for the affected areas; the harm is localised and the budget always has louder claims.",
+    "prompt": "The same demand, but the reign is older and the knives sharper. Bad chemicals in the water are making people's bones and teeth sick in some towns. You can spend money to clean it, but it only helps a few places.",
     "left": {
       "id": "a",
-      "label": "Fund treatment for the affected areas.",
+      "label": "Spend money to clean the water there.",
       "tooltip": "A well that cripples is a well that must be fixed.",
       "reveal": "You fund de-fluoridation and alternative supply for the affected pockets. The cost is real for a localised harm, but people stop being crippled by the water their own wells draw up.",
       "effects": {
@@ -9096,7 +9096,7 @@
     },
     "right": {
       "id": "b",
-      "label": "Leave the affected pockets to cope.",
+      "label": "Let those towns deal with it on their own.",
       "tooltip": "A localised problem is a localised cost I can defer.",
       "reveal": "You leave the fluoride-stricken areas to their wells. The budget goes to broader needs, and in those pockets people keep being bent and crippled by water no one will treat.",
       "effects": {
@@ -9117,10 +9117,10 @@
       "pollution",
       "health"
     ],
-    "prompt": "Years deep, the unresolved returns to be resolved for good. The cities are a wall of noise — hydraulic horns, loudspeakers, generators — wrecking hearing, sleep, and hearts, with laws no one enforces. The officer wants real enforcement and quiet zones around hospitals and schools; drivers and the public resent the crackdown.",
+    "prompt": "Years deep, the unresolved returns to be resolved for good. The city is so noisy it hurts people's ears and hearts. You can make rules to keep it quiet near hospitals, but drivers will be mad.",
     "left": {
       "id": "a",
-      "label": "Enforce noise limits and quiet zones.",
+      "label": "Make strict quiet rules near hospitals.",
       "tooltip": "A city that never quiets is a city that never heals.",
       "reveal": "You enforce the noise laws and ring hospitals and schools with quiet zones. Drivers and the public grumble at the crackdown on horns and loudspeakers, but sleep, hearing, and frayed nerves get a reprieve.",
       "effects": {
@@ -9131,7 +9131,7 @@
     },
     "right": {
       "id": "b",
-      "label": "Leave the noise unaddressed.",
+      "label": "Let the city stay noisy.",
       "tooltip": "A horn is the least of a driver's sins to police.",
       "reveal": "You leave the noise laws unenforced. The horns, loudspeakers, and generators blare on, and the city's hearing, sleep, and hearts keep paying the price of a din no one will silence.",
       "effects": {
@@ -9152,10 +9152,10 @@
       "emergency",
       "trauma"
     ],
-    "prompt": "The conflict reignites, and the world is watching this time. There is no real national ambulance service, so the injured and the labouring reach hospital by rickshaw, too late, and the road-trauma toll is appalling. The director wants a networked ambulance and 999 emergency-response system; it is costly to build and staff.",
+    "prompt": "The conflict reignites, and the world is watching this time. There are no good ambulances, so sick people don't get to the hospital in time. You can build a real 999 rescue system, but it costs a lot.",
     "left": {
       "id": "a",
-      "label": "Build a national ambulance network.",
+      "label": "Build a real 999 ambulance system.",
       "tooltip": "A golden hour wasted on a rickshaw is a life lost.",
       "reveal": "You build a networked ambulance and emergency-response service. The cost to build and staff is heavy, but the injured, the labouring, and the stricken start reaching care in time instead of too late.",
       "effects": {
@@ -9165,7 +9165,7 @@
     },
     "right": {
       "id": "b",
-      "label": "Leave emergency transport to chance.",
+      "label": "Leave people to find their own way to hospitals.",
       "tooltip": "A nationwide ambulance fleet is a fortune to run.",
       "reveal": "You leave the injured to rickshaws and luck. The money is saved, and the road-trauma victims and the labouring mothers keep dying on the way to a hospital an ambulance would have reached in time.",
       "effects": {
@@ -9186,10 +9186,10 @@
       "elimination",
       "poverty"
     ],
-    "prompt": "A familiar crisis, escalated by everything you let slide. Kala-azar, a deadly sandfly-borne disease of the poorest districts, is close to elimination — a last push of detection, treatment, and vector control could finish it, or neglect could let it roar back as it has before. Fund the final drive?",
+    "prompt": "A familiar crisis, escalated by everything you let slide. A deadly bug sickness is almost gone. You can spend a little more money to wipe it out forever, or stop now and risk it coming back.",
     "left": {
       "id": "a",
-      "label": "Fund the elimination final push.",
+      "label": "Spend money to wipe the sickness out forever.",
       "tooltip": "A disease near beaten and then abandoned simply returns.",
       "reveal": "You fund the last push of detection, treatment, and sandfly control. The cost is modest for the prize, and a deadly disease of the poorest is driven, this time, to genuine elimination.",
       "effects": {
@@ -9200,7 +9200,7 @@
     },
     "right": {
       "id": "b",
-      "label": "Ease off now it is nearly gone.",
+      "label": "Stop spending money now that it's almost gone.",
       "tooltip": "A near-eliminated disease is a problem nearly solved.",
       "reveal": "You ease off the programme prematurely. The budget is spared, and kala-azar, denied its final push, simmers and resurges in the poorest districts as it has every time before.",
       "effects": {
@@ -9221,10 +9221,10 @@
       "cataract",
       "access"
     ],
-    "prompt": "The fault line cracks wider; the decision can no longer wait. Hundreds of thousands are needlessly blind from cataracts a fifteen-minute surgery would cure, but the surgeons never reach the rural poor. The director wants mass cataract-surgery camps and rural eye care; it is cheap per sight restored, but unglamorous and easily skipped.",
+    "prompt": "The fault line cracks wider; the decision can no longer wait. Many poor people are blind, but a simple 15-minute doctor visit could fix their eyes. You can send doctors to the villages to help them.",
     "left": {
       "id": "a",
-      "label": "Fund mass cataract-surgery camps.",
+      "label": "Send eye doctors to the villages.",
       "tooltip": "A blindness a knife can cure is a blindness we choose to allow.",
       "reveal": "You fund cataract camps and rural eye care at scale. The cost per sight restored is tiny, and hundreds of thousands needlessly blind see again, returning to work and life.",
       "effects": {
@@ -9235,7 +9235,7 @@
     },
     "right": {
       "id": "b",
-      "label": "Leave eye care to the cities.",
+      "label": "Only keep eye doctors in the big cities.",
       "tooltip": "Specialist surgery belongs in specialist hospitals.",
       "reveal": "You keep eye surgery centralised in the cities. The camps go unfunded, and the rural poor keep going needlessly blind from a cataract a brief, cheap surgery would have cured.",
       "effects": {
@@ -9256,10 +9256,10 @@
       "labs",
       "outbreaks"
     ],
-    "prompt": "Late in the reign, the old question demands a heavier answer. The country flies blind into outbreaks for want of real-time disease surveillance, genomic sequencing, and biosafe labs — caught flat-footed every time. The director wants a permanent surveillance-and-lab backbone; the investment is large and invisible until the next epidemic.",
+    "prompt": "Late in the reign, the old question demands a heavier answer. The country is never ready when a new sickness spreads. You can build special science labs to watch for bugs, but they are expensive.",
     "left": {
       "id": "a",
-      "label": "Build the surveillance-and-lab backbone.",
+      "label": "Build special labs to watch for new bugs.",
       "tooltip": "An epidemic seen early is an epidemic stopped.",
       "reveal": "You build real-time surveillance, sequencing, and biosafe labs. The investment is large and unseen between crises, but the next outbreak is spotted early instead of discovered in the morgue.",
       "effects": {
@@ -9270,7 +9270,7 @@
     },
     "right": {
       "id": "b",
-      "label": "Stand up surveillance only in crises.",
+      "label": "Wait until people get sick to do something.",
       "tooltip": "A standing lab network is a fortune between epidemics.",
       "reveal": "You scramble to build surveillance only when an outbreak hits. The money is saved between crises, and the next epidemic again finds the country blind, learning of it only once it is everywhere.",
       "effects": {
@@ -9291,10 +9291,10 @@
       "pharmacy",
       "resistance"
     ],
-    "prompt": "It returns once more — and this round may be the one remembered. Antibiotics are sold over the counter like sweets, fuelling the drug resistance that will one day make infections untreatable. The director wants prescription-only enforcement and pharmacist training; the unlicensed pharmacies and the self-medicating public resist.",
+    "prompt": "It returns once more — and this round may be the one remembered. People are taking strong medicine like candy, which creates super-bugs. You can force stores to only sell it with a doctor's note.",
     "left": {
       "id": "a",
-      "label": "Enforce prescription-only antibiotics.",
+      "label": "Force stores to need a doctor's note.",
       "tooltip": "An antibiotic sold like a sweet is a superbug bred for free.",
       "reveal": "You enforce prescription-only sales and train pharmacists. The unlicensed pharmacies and the self-medicating public resist, but the reckless antibiotic use that breeds resistance begins to fall.",
       "effects": {
@@ -9305,7 +9305,7 @@
     },
     "right": {
       "id": "b",
-      "label": "Leave antibiotics on the open shelf.",
+      "label": "Let people keep buying it whenever they want.",
       "tooltip": "The poor cannot always reach a doctor for a prescription.",
       "reveal": "You leave antibiotics freely sold. Access stays easy for those who cannot reach a doctor, and the reckless overuse keeps breeding the resistance that will one day render the drugs useless for all.",
       "effects": {
@@ -9327,10 +9327,10 @@
       "ageing",
       "care"
     ],
-    "prompt": "The reckoning circles back, grown teeth in the waiting. The population is ageing fast, and the old joint-family care of elders is breaking down, leaving many abandoned and destitute. The director wants to build elderly day-care, geriatric health, and support; the demographic crisis still feels far off to most.",
+    "prompt": "The reckoning circles back, grown teeth in the waiting. Old people are being left alone with no one to care for them. You can build special homes to help them, but it costs money.",
     "left": {
       "id": "a",
-      "label": "Build elderly-care and geriatric services.",
+      "label": "Build special homes to help old people.",
       "tooltip": "A nation that abandons its old prepares its own abandonment.",
       "reveal": "You begin building day-care, geriatric health, and support for the elderly. The cost is real and the crisis still feels distant, but a system rises to catch the growing numbers the breaking joint family no longer can.",
       "effects": {
@@ -9340,7 +9340,7 @@
     },
     "right": {
       "id": "b",
-      "label": "Leave elder care to families.",
+      "label": "Make families take care of them on their own.",
       "tooltip": "The family has always cared for its old.",
       "reveal": "You leave the elderly to families increasingly unable to care for them. The budget is spared, and a swelling number of old people slide into abandonment and destitution with no system to catch them.",
       "effects": {
@@ -9361,10 +9361,10 @@
       "hospitals",
       "safety"
     ],
-    "prompt": "Another term, the same antagonist, the stakes raised again. Patients catch deadly drug-resistant infections in the very hospitals meant to heal them, for want of basic infection control — hand hygiene, sterilisation, isolation. The director wants enforced standards and accreditation; the hospitals resent the cost and scrutiny.",
+    "prompt": "Another term, the same antagonist, the stakes raised again. Hospitals are so dirty that people catch new sicknesses while they are there. You can force them to be clean, but they will complain.",
     "left": {
       "id": "a",
-      "label": "Enforce infection control and accreditation.",
+      "label": "Force the hospitals to be completely clean.",
       "tooltip": "A hospital that infects its patients is a hazard with a signboard.",
       "reveal": "You enforce infection-control standards and accreditation. The hospitals grumble at the cost and the scrutiny, but patients stop catching deadly resistant infections in the wards meant to cure them.",
       "effects": {
@@ -9376,7 +9376,7 @@
     },
     "right": {
       "id": "b",
-      "label": "Leave hospital hygiene to the hospitals.",
+      "label": "Let the hospitals stay dirty.",
       "tooltip": "Accreditation is a bureaucracy the wards can do without.",
       "reveal": "You leave infection control to each hospital's discretion. The cost and scrutiny are avoided, and patients keep walking in with one illness and out with a drug-resistant one the wards bred and gave them.",
       "effects": {
@@ -9397,10 +9397,10 @@
       "waste",
       "landfill"
     ],
-    "prompt": "The matter, long deferred, lands with the force of a verdict. Most of the cities' waste is wet organic matter that rots in the streets and overflows the landfills, when it could be composted into fertiliser. The director wants a citywide source-separation and composting system; it demands habit-change and steady funding.",
+    "prompt": "The matter, long deferred, lands with the force of a verdict. Garbage is rotting in the streets. You can make a system to turn the smelly garbage into plant food, but it takes hard work.",
     "left": {
       "id": "a",
-      "label": "Build citywide composting.",
+      "label": "Turn the smelly garbage into plant food.",
       "tooltip": "A banana peel is fertiliser, not a landfill.",
       "reveal": "You build source-separation and composting at scale. The habit-change is slow and the funding steady, but the organic waste becomes fertiliser instead of landfill and street-rot, and the dumps stop overflowing.",
       "effects": {
@@ -9411,7 +9411,7 @@
     },
     "right": {
       "id": "b",
-      "label": "Leave waste mixed and dumped.",
+      "label": "Just dump all the garbage in a big pile.",
       "tooltip": "Source-separation asks more of the public than they will give.",
       "reveal": "You leave the waste mixed and bound for the overflowing landfills. The habit-change is dodged, and the wet organic matter keeps rotting in the streets and the dumps when it could have fed the fields.",
       "effects": {
@@ -9433,10 +9433,10 @@
       "hypertension",
       "diet"
     ],
-    "prompt": "Years on and unhealed, the conflict returns to claim its answer. Sky-high salt intake is driving an epidemic of hypertension, strokes, and heart attacks. A national salt-reduction push — reformulating processed food, public awareness, front-of-pack labels — would save many lives cheaply; the food industry resists.",
+    "prompt": "Years on and unhealed, the conflict returns to claim its answer. People eat way too much salt, giving them heart attacks. You can make food companies use less salt, but they will fight you.",
     "left": {
       "id": "a",
-      "label": "Drive the national salt-reduction push.",
+      "label": "Force companies to use less salt.",
       "tooltip": "A pinch less salt across a nation is a flood of strokes prevented.",
       "reveal": "You push reformulation, labels, and awareness. The food industry resists changing its recipes, but salt intake edges down and the strokes and heart attacks it drives begin, across millions, to fall.",
       "effects": {
@@ -9447,7 +9447,7 @@
     },
     "right": {
       "id": "b",
-      "label": "Leave salt to the consumer.",
+      "label": "Let people eat as much salt as they want.",
       "tooltip": "A man may salt his own food as he likes.",
       "reveal": "You leave salt intake to individual choice. The food industry keeps its salty recipes, and the hypertension, strokes, and heart attacks keep mounting on a diet a little less salt would have eased.",
       "effects": {
@@ -9468,10 +9468,10 @@
       "assistive-devices",
       "access"
     ],
-    "prompt": "The same fault line, the harder hour, the narrower path. Millions who need wheelchairs, hearing aids, prosthetics, and white canes go without, shut out of work and life for want of a cheap device. The director wants a national assistive-device programme; the constituency is quiet and the budget contested.",
+    "prompt": "The same fault line, the harder hour, the narrower path. People who can't walk or hear don't have money for wheelchairs or hearing aids. You can buy them for everyone who needs them.",
     "left": {
       "id": "a",
-      "label": "Fund a national assistive-device programme.",
+      "label": "Buy wheelchairs and hearing aids for everyone.",
       "tooltip": "A wheelchair is a life returned to the world.",
       "reveal": "You fund wheelchairs, hearing aids, prosthetics, and canes at scale. The cost is real for a quiet constituency, but millions shut out for want of a cheap device rejoin work, school, and life.",
       "effects": {
@@ -9482,7 +9482,7 @@
     },
     "right": {
       "id": "b",
-      "label": "Leave assistive devices to charity.",
+      "label": "Let charities handle it instead.",
       "tooltip": "A device programme is a budget for a quiet few.",
       "reveal": "You leave assistive devices to scattered charity. The budget is spared, and millions stay shut out of work and life for want of the wheelchair, hearing aid, or cane they cannot afford.",
       "effects": {
@@ -9503,10 +9503,10 @@
       "code",
       "developers"
     ],
-    "prompt": "It comes back sharpened by every season you survived. The construction boom throws up energy-guzzling, badly-ventilated buildings with no green standards. A green building code — insulation, ventilation, efficiency, green space — would cut energy and improve health; developers fight every cost-adding rule.",
+    "prompt": "It comes back sharpened by every season you survived. New buildings waste a lot of electricity and have no green grass. You can force builders to be eco-friendly, but it costs them more.",
     "left": {
       "id": "a",
-      "label": "Enforce a green building code.",
+      "label": "Force builders to make eco-friendly buildings.",
       "tooltip": "A building built badly is built for fifty years of waste.",
       "reveal": "You mandate a green building code on new construction. The developers fight the added cost, but the new buildings use less energy, breathe better, and serve their occupants' health for decades.",
       "effects": {
@@ -9518,7 +9518,7 @@
     },
     "right": {
       "id": "b",
-      "label": "Leave construction to minimal standards.",
+      "label": "Let builders make cheap, wasteful buildings.",
       "tooltip": "A green code is a cost on every brick laid.",
       "reveal": "You keep building standards minimal. The developers keep their margins, and the boom keeps throwing up energy-guzzling, ill-ventilated buildings the country will live in, and pay to run, for fifty years.",
       "effects": {
@@ -9540,10 +9540,10 @@
       "cruelty",
       "welfare"
     ],
-    "prompt": "A later year of power, the old crisis now a true test of it. Working animals, strays, zoo inmates, and livestock suffer routine cruelty under laws a century old and never enforced. The officer wants a modern animal-welfare law and enforcement; the cause is dismissed by many as a luxury when people themselves suffer.",
+    "prompt": "A later year of power, the old crisis now a true test of it. Animals are being treated very meanly on the streets and in farms. You can make a law to protect animals from bullies.",
     "left": {
       "id": "a",
-      "label": "Enact a modern animal-welfare law.",
+      "label": "Make a law to protect the animals.",
       "tooltip": "A society cruel to its animals is coarsened toward its people too.",
       "reveal": "You pass and enforce a modern animal-welfare law. Many dismiss it as a luxury, but the routine cruelty to working animals, strays, and zoo inmates is curbed, and a coarseness is softened.",
       "effects": {
@@ -9554,7 +9554,7 @@
     },
     "right": {
       "id": "b",
-      "label": "Leave animal welfare aside.",
+      "label": "Ignore the animals because people are more important.",
       "tooltip": "I will not spend on beasts while people suffer.",
       "reveal": "You leave animal cruelty to the dead century-old law. The budget and attention stay on human needs, and the routine, casual cruelty to animals carries on unchecked and unremarked.",
       "effects": {
@@ -9575,10 +9575,10 @@
       "fogging",
       "dengue"
     ],
-    "prompt": "The unresolved returns, and this time it will not be deferred. The mosquito-fogging the cities rely on against dengue is now near-useless — the mosquitoes are resistant and the larvae breed untouched. The director wants a shift to larval-source management; the public loves the visible fog and distrusts the invisible fix.",
+    "prompt": "The unresolved returns, and this time it will not be deferred. The bug spray in the city isn't killing the mosquitoes anymore. You need to clean the dirty water where they live, but people just want to see the spray.",
     "left": {
       "id": "a",
-      "label": "Shift to larval-source management.",
+      "label": "Clean the dirty water to stop the mosquitoes.",
       "tooltip": "Fog kills the show; clearing the breeding kills the mosquito.",
       "reveal": "You shift from theatrical fogging to larval-source control and integrated management. The public misses the reassuring fog, but the mosquito populations and the dengue they carry actually begin to fall.",
       "effects": {
@@ -9588,7 +9588,7 @@
     },
     "right": {
       "id": "b",
-      "label": "Keep the reassuring fog.",
+      "label": "Keep using the useless bug spray to make people happy.",
       "tooltip": "The public wants to see the trucks fog the streets.",
       "reveal": "You keep the visible fogging the public loves. It reassures and achieves little against resistant mosquitoes breeding in untouched larvae, and the dengue seasons keep coming worse each year.",
       "effects": {
@@ -9609,10 +9609,10 @@
       "hospice",
       "dignity"
     ],
-    "prompt": "A term later, the same fault line tears open again. The terminally ill die in agony for want of palliative care and the morphine that could ease them — held back by fear of addiction and a system that abandons those it cannot cure. The director wants a national palliative-care programme; it draws no votes and little notice.",
+    "prompt": "A term later, the same fault line tears open again. Very sick people who are dying are in lots of pain. You can give them strong medicine to make them comfortable, but people are scared they will get addicted.",
     "left": {
       "id": "a",
-      "label": "Build national palliative care.",
+      "label": "Give them the medicine to stop their pain.",
       "tooltip": "A death without dignity is a final cruelty we can prevent.",
       "reveal": "You build palliative care and rational pain relief into the health system. There are no votes in dying patients, but the terminally ill stop ending their lives in needless agony, eased and accompanied.",
       "effects": {
@@ -9623,7 +9623,7 @@
     },
     "right": {
       "id": "b",
-      "label": "Leave the dying to cope.",
+      "label": "Leave them to suffer the pain.",
       "tooltip": "The budget is for the living and the curable.",
       "reveal": "You leave palliative care unfunded. The money goes to the curable, and the terminally ill keep dying in agony, abandoned by a system that has nothing for those it cannot save.",
       "effects": {
@@ -9644,10 +9644,10 @@
       "children",
       "education"
     ],
-    "prompt": "Years into your rule, the matter you thought buried resurfaces — harder. Children fail and drop out because no one notices they cannot see the board or hear the teacher — uncorrected vision and hearing mistaken for stupidity. The director wants universal school screening and free glasses and hearing aids; the cost is small but keeps getting cut.",
+    "prompt": "Years into your rule, the matter you thought buried resurfaces — harder. Kids fail school simply because they can't see the board. You can buy free glasses for kids who need them.",
     "left": {
       "id": "a",
-      "label": "Fund universal school screening.",
+      "label": "Give free glasses to kids at school.",
       "tooltip": "A child who cannot see the board is failed, not failing.",
       "reveal": "You fund vision and hearing screening and free glasses and aids in every school. The cost per child is small, and children once written off as dull turn out simply to have needed glasses, and they flourish.",
       "effects": {
@@ -9658,7 +9658,7 @@
     },
     "right": {
       "id": "b",
-      "label": "Leave screening to parents.",
+      "label": "Make parents buy the glasses themselves.",
       "tooltip": "A child's eyes are a family's errand.",
       "reveal": "You leave screening to parents who rarely think of it. The pennies are saved, and children keep failing and dropping out, their uncorrected sight and hearing mistaken for an inability to learn.",
       "effects": {
@@ -9679,10 +9679,10 @@
       "ramsar",
       "biodiversity"
     ],
-    "prompt": "A new season of power, an old problem with sharper teeth. A globally important wetland — a wintering ground for migratory birds and a nursery for fish — is being drained for farmland and development. The officer wants it protected under the international wetland convention; the encroaching farmers and developers resist.",
+    "prompt": "A new season of power, an old problem with sharper teeth. Builders want to drain a beautiful swamp where winter birds live so they can build houses. You can protect the swamp forever.",
     "left": {
       "id": "a",
-      "label": "Protect the wetland under the convention.",
+      "label": "Protect the swamp to save the birds.",
       "tooltip": "A wetland drained is a thousand species evicted.",
       "reveal": "You secure international protection and halt the draining. The encroaching farmers and developers protest the lost land, but the migratory birds, the fish nurseries, and the wetland's flood-buffering all survive.",
       "effects": {
@@ -9694,7 +9694,7 @@
     },
     "right": {
       "id": "b",
-      "label": "Let the wetland be drained.",
+      "label": "Let the builders drain the swamp.",
       "tooltip": "Wet land farmed is land made useful.",
       "reveal": "You let the wetland go to farmland and development. The land yields its short-term value, and a globally important refuge for birds and fish, and a natural flood-buffer, is drained away forever.",
       "effects": {
@@ -9716,10 +9716,10 @@
       "oral-cancer",
       "betel"
     ],
-    "prompt": "The crisis returns, and this time the cabinet is watching. Oral disease is rampant and oral cancer — driven by the betel-nut and tobacco quid chewed by millions — is a leading cancer killer, yet dental care barely exists outside private clinics. The director wants public oral health and a betel-quid awareness drive; the betel trade resists.",
+    "prompt": "The crisis returns, and this time the cabinet is watching. Chewing bad tobacco is giving people mouth cancer. You can send dentists to help and teach people to stop, but the tobacco sellers will be mad.",
     "left": {
       "id": "a",
-      "label": "Build public oral health and quid awareness.",
+      "label": "Send dentists and tell people to stop chewing tobacco.",
       "tooltip": "A mouth cancer caught late is a death; caught early, a scar.",
       "reveal": "You build basic public dental care and a campaign against the carcinogenic betel-tobacco quid. The betel trade and the deep habit resist, but oral disease and the cancers it breeds begin to recede.",
       "effects": {
@@ -9730,7 +9730,7 @@
     },
     "right": {
       "id": "b",
-      "label": "Leave oral health to private clinics.",
+      "label": "Leave it alone and let the dentists stay in the city.",
       "tooltip": "A toothache is hardly a national priority.",
       "reveal": "You leave dental care to those who can pay. The budget is spared, and oral disease and the betel-driven cancers keep spreading untreated among the millions who never see a dentist.",
       "effects": {
@@ -9751,10 +9751,10 @@
       "data",
       "transparency"
     ],
-    "prompt": "Once more the issue lands on your desk, the stakes higher than before. The country has almost no real air-quality monitoring, so the lethal pollution is unmeasured and unaddressed. The officer wants a public network of monitors with open, real-time data; some fear the numbers will be damning and the industries fear the accountability.",
+    "prompt": "Once more the issue lands on your desk, the stakes higher than before. No one knows how poisonous the air really is because there are no testing machines. You can put machines up, but the factories are scared of the truth.",
     "left": {
       "id": "a",
-      "label": "Build an open air-monitoring network.",
+      "label": "Put up machines to tell everyone the truth about the air.",
       "tooltip": "Pollution unmeasured is pollution unanswered.",
       "reveal": "You build a public, real-time air-monitoring network. The damning numbers embarrass the government and rattle the industries, but for the first time the lethal air can be measured, named, and fought.",
       "effects": {
@@ -9766,7 +9766,7 @@
     },
     "right": {
       "id": "b",
-      "label": "Leave the air unmeasured.",
+      "label": "Don't put up machines and keep it a secret.",
       "tooltip": "A number no one has is a scandal no one can prove.",
       "reveal": "You leave the air unmonitored. The lethal pollution stays unmeasured and deniable, the industries stay unaccountable, and the public chokes on an air no one will officially admit is killing them.",
       "effects": {
@@ -9788,10 +9788,10 @@
       "buildings",
       "preparedness"
     ],
-    "prompt": "Another year survived, and the reckoning circles back. The capital sits on a fault, crammed with buildings that would pancake in a major quake, and the country has almost no urban search-and-rescue capacity. The director wants a costly retrofit, code-enforcement, and rescue drive; the threat is invisible until the ground moves.",
+    "prompt": "Another year survived, and the reckoning circles back. The city buildings would all fall down if a big earthquake hit. You can spend money to fix them now, or just hope the earthquake never happens.",
     "left": {
       "id": "a",
-      "label": "Fund quake retrofit and rescue capacity.",
+      "label": "Spend money to make the buildings safe from earthquakes.",
       "tooltip": "A city built to fall is a mass grave waiting for a tremor.",
       "reveal": "You fund seismic retrofits, code enforcement, and urban search-and-rescue. The cost is enormous and the danger abstract, but a quake that would have buried hundreds of thousands becomes survivable.",
       "effects": {
@@ -9802,7 +9802,7 @@
     },
     "right": {
       "id": "b",
-      "label": "Hope the big quake holds off.",
+      "label": "Hope the big earthquake never happens.",
       "tooltip": "A retrofit of a whole city is a fortune against a maybe.",
       "reveal": "You leave the city to its fragile buildings and absent rescue capacity. The money goes to present needs, and the capital waits, a single major tremor away from a catastrophe of unimaginable scale.",
       "effects": {
@@ -9823,10 +9823,10 @@
       "pesticide",
       "rural"
     ],
-    "prompt": "The ground has shifted; the same demand arrives with new menace. Easy access to highly toxic farm pesticides makes them the method of countless impulsive rural suicides, especially among the young and women. The director wants the most lethal banned and the rest locked in community stores — a proven, cheap lifesaver the agro-chemical lobby resists.",
+    "prompt": "The ground has shifted; the same demand arrives with new menace. People are using dangerous farm poisons to hurt themselves when they are sad. You can lock up the poisons to keep people safe.",
     "left": {
       "id": "a",
-      "label": "Ban the most lethal pesticides, lock the rest.",
+      "label": "Lock up the poisons so people can't hurt themselves.",
       "tooltip": "An impulse survives if the poison is out of reach.",
       "reveal": "You ban the deadliest pesticides and require safe community storage. The agro-chemical lobby resists, but rural suicides — so often impulsive and survivable — fall sharply where the poison is no longer at hand.",
       "effects": {
@@ -9837,7 +9837,7 @@
     },
     "right": {
       "id": "b",
-      "label": "Leave the pesticides freely available.",
+      "label": "Leave the poisons out where anyone can grab them.",
       "tooltip": "A farmer needs his chemicals; the misuse is his own.",
       "reveal": "You leave the lethal pesticides on the open shelf. The lobby is content, and the impulsive rural suicides keep claiming the young and the despairing who reached, in a dark moment, for what was within arm's reach.",
       "effects": {
@@ -9858,10 +9858,10 @@
       "cold-chain",
       "coverage"
     ],
-    "prompt": "History rhymes: the conflict reopens deeper than last time. The vaccine cold chain — the refrigeration that keeps childhood vaccines potent from factory to village — is fraying, with failing fridges that quietly render vaccines useless. The director wants a costly overhaul; the failure is invisible until outbreaks return.",
+    "prompt": "History rhymes: the conflict reopens deeper than last time. The refrigerators that keep kids' medicines safe are breaking. If you don't buy new ones, the medicine won't work.",
     "left": {
       "id": "a",
-      "label": "Overhaul the vaccine cold chain.",
+      "label": "Buy new refrigerators to keep the medicine safe.",
       "tooltip": "A vaccine spoiled by a warm fridge is a child unprotected.",
       "reveal": "You overhaul the refrigeration and logistics from factory to village. The cost is real and the gain invisible, but the childhood vaccines that the country is so proud to deliver actually work when they arrive.",
       "effects": {
@@ -9872,7 +9872,7 @@
     },
     "right": {
       "id": "b",
-      "label": "Leave the cold chain to limp along.",
+      "label": "Keep using the broken refrigerators and hope it works.",
       "tooltip": "The fridges mostly work; the coverage looks fine on paper.",
       "reveal": "You leave the failing cold chain alone. The coverage numbers stay high on paper, and a quiet share of the vaccines reach children already spoiled and useless, until the old diseases creep back.",
       "effects": {
@@ -9893,10 +9893,10 @@
       "kidney",
       "access"
     ],
-    "prompt": "Mid-reign, the old wound is torn afresh. Chronic kidney disease — driven by diabetes, hypertension, and arsenic — is surging, and dialysis is scarce and ruinously expensive, so the poor simply die. The director wants subsidised dialysis centres across the regions; the per-patient cost is high and endless.",
+    "prompt": "Mid-reign, the old wound is torn afresh. Many people have very sick kidneys and need a special cleaning machine to stay alive. You can build cheap machine centers everywhere, but it costs a lot.",
     "left": {
       "id": "a",
-      "label": "Build subsidised regional dialysis.",
+      "label": "Build cheap kidney machine centers everywhere.",
       "tooltip": "A kidney patient priced out of dialysis is a patient sentenced to death.",
       "reveal": "You build subsidised dialysis across the regions. The per-patient cost is high and unending, but the poor with failing kidneys stop simply dying for want of a treatment the rich take for granted.",
       "effects": {
@@ -9907,7 +9907,7 @@
     },
     "right": {
       "id": "b",
-      "label": "Leave dialysis to private centres.",
+      "label": "Let people find their own expensive machines in the city.",
       "tooltip": "Dialysis for all is a cost with no ceiling.",
       "reveal": "You leave dialysis to the costly private centres. The open-ended cost is avoided, and the poor with kidney failure keep dying quietly at home, unable to afford the machine that would keep them alive.",
       "effects": {
@@ -9928,10 +9928,10 @@
       "hospitals",
       "hygiene"
     ],
-    "prompt": "The pressure you deferred has come due, larger now. A shocking share of clinics and hospitals lack clean water, functioning toilets, and hand-washing — so the places of healing spread infection and mothers give birth in filth. The director wants a WASH overhaul of every health facility; it is basic, costly, and chronically skipped.",
+    "prompt": "The pressure you deferred has come due, larger now. Hospitals are so dirty they don't even have clean water to wash hands. You can fix the pipes and toilets to make them clean.",
     "left": {
       "id": "a",
-      "label": "Fund WASH in every health facility.",
+      "label": "Fix the pipes and toilets to make hospitals clean.",
       "tooltip": "A maternity ward without clean water is a death-trap with a midwife.",
       "reveal": "You fund clean water, toilets, and hygiene in every clinic and hospital. The cost is real for something so basic, but mothers stop giving birth in filth and the places of healing stop spreading infection.",
       "effects": {
@@ -9942,7 +9942,7 @@
     },
     "right": {
       "id": "b",
-      "label": "Leave facility hygiene as it is.",
+      "label": "Leave the hospitals dirty.",
       "tooltip": "The wards function; plumbing is a refinement.",
       "reveal": "You leave the clinics without reliable water and toilets. The money goes elsewhere, and the health facilities keep spreading infection and delivering babies into unhygienic conditions that needlessly kill.",
       "effects": {
@@ -9963,10 +9963,10 @@
       "junk-food",
       "children"
     ],
-    "prompt": "A later term, and the quarrel has hardened into a test. As incomes rise, childhood obesity surges in the cities even as stunting persists in the villages — a double burden. The director wants junk food out of schools and healthy-eating standards; the snack industry and the kids resist.",
+    "prompt": "A later term, and the quarrel has hardened into a test. Kids are eating too much junk food at school and getting unhealthy. You can ban junk food, but the kids and the snack companies will complain.",
     "left": {
       "id": "a",
-      "label": "Ban junk food from schools.",
+      "label": "Ban junk food from all schools.",
       "tooltip": "A childhood fed on junk is a lifetime of disease bought early.",
       "reveal": "You ban junk food from schools and set healthy-eating standards. The snack industry and the children grumble, but the rising childhood obesity and the diseases it pre-orders begin to slow.",
       "effects": {
@@ -9977,7 +9977,7 @@
     },
     "right": {
       "id": "b",
-      "label": "Leave school food to the market.",
+      "label": "Let the kids keep eating junk food.",
       "tooltip": "A ban on a child's snack is a nanny-state errand.",
       "reveal": "You leave school food to the snack vendors. The children keep their crisps and fizzy drinks, and childhood obesity and the diabetes and heart disease it seeds keep climbing in the cities.",
       "effects": {
@@ -9998,10 +9998,10 @@
       "housing",
       "resilience"
     ],
-    "prompt": "The country has changed, but this fault line has not — only worsened. In the flood-prone chars and haors, the poor rebuild fragile homes washed away every year. A programme of raised plinths, flood-resilient housing, and protected wells would break the cycle; the alternative is the cheaper, endless ritual of post-flood relief.",
+    "prompt": "The country has changed, but this fault line has not — only worsened. Floods wash away the same poor houses every single year. You can build them tall, safe houses, or just keep giving them cheap emergency food.",
     "left": {
       "id": "a",
-      "label": "Fund flood-resilient housing.",
+      "label": "Build tall, safe houses that won't wash away.",
       "tooltip": "A home rebuilt every flood is a poverty rebuilt with it.",
       "reveal": "You fund raised plinths, resilient homes, and protected wells in the flood zones. The upfront cost is real, but families stop losing everything each monsoon and the endless cycle of relief and ruin is broken.",
       "effects": {
@@ -10012,7 +10012,7 @@
     },
     "right": {
       "id": "b",
-      "label": "Stick with post-flood relief.",
+      "label": "Just keep giving them emergency food every year.",
       "tooltip": "Resilient housing for the floodplain is a fortune; relief is cheap.",
       "reveal": "You keep providing relief after each flood. The upfront cost is dodged, and the floodplain poor keep losing their fragile homes and their meagre gains every single monsoon, trapped in the cycle.",
       "effects": {
@@ -10033,10 +10033,10 @@
       "donation",
       "safety"
     ],
-    "prompt": "It returns, as these things do, with the patience gone. The country runs on a commercial blood trade of paid, often-diseased donors, because the voluntary donation network is thin and the safe supply scarce. The director wants to build a real voluntary, screened blood system; it takes funding and a culture shift.",
+    "prompt": "It returns, as these things do, with the patience gone. People sell sick blood to hospitals for money. You can stop this and only take healthy blood from volunteers, but it takes time to set up.",
     "left": {
       "id": "a",
-      "label": "Build a voluntary, screened blood system.",
+      "label": "Make a safe system with only healthy volunteer blood.",
       "tooltip": "Blood bought from the desperate carries their diseases.",
       "reveal": "You build a real voluntary blood-donation and screening network. The funding and culture shift take time, but the commercial trade in diseased blood shrinks and patients get a safe supply when they bleed.",
       "effects": {
@@ -10047,7 +10047,7 @@
     },
     "right": {
       "id": "b",
-      "label": "Leave the commercial blood trade.",
+      "label": "Keep letting people sell their sick blood.",
       "tooltip": "The blood banks meet the demand as they are.",
       "reveal": "You leave the paid-donor trade in place. The supply is met cheaply, and patients keep receiving blood from paid, unscreened donors that carries hepatitis, HIV, and worse into their veins.",
       "effects": {
@@ -10068,10 +10068,10 @@
       "helplines",
       "stigma"
     ],
-    "prompt": "Years on, the matter is no longer private; the press is already circling. Suicide is rising, especially among the young and women, hidden by stigma and a law that still criminalises the attempt. The director wants decriminalisation, helplines, and responsible reporting; the conservatives resist 'condoning' it.",
+    "prompt": "Years on, the matter is no longer private; the press is already circling. Sad people who try to hurt themselves are treated like criminals and put in jail. You can change the rule and give them doctors instead.",
     "left": {
       "id": "a",
-      "label": "Decriminalise and build prevention.",
+      "label": "Stop treating them like criminals and give them doctors.",
       "tooltip": "A person in despair needs a hand, not handcuffs.",
       "reveal": "You decriminalise attempted suicide and build helplines and prevention. The conservatives object, but the despairing can seek help without fear of arrest, and the stigma that drove the silence begins to lift.",
       "effects": {
@@ -10082,7 +10082,7 @@
     },
     "right": {
       "id": "b",
-      "label": "Keep attempt criminalised.",
+      "label": "Keep treating them like criminals.",
       "tooltip": "Decriminalising suicide is seen as blessing it.",
       "reveal": "You leave the law and the stigma in place. The conservatives are unprovoked, and the suicidal keep their silence and their fear of the law, dying in numbers that helplines and care would have cut.",
       "effects": {
@@ -10103,10 +10103,10 @@
       "trauma",
       "enforcement"
     ],
-    "prompt": "The same knot, retied tighter, lands before you once more. The explosion of motorcycles and ride-share bikes has filled the trauma wards with head injuries, mostly from riders without helmets. The officer wants hard helmet enforcement; riders resent it and the ride-share boom prefers fewer rules.",
+    "prompt": "The same knot, retied tighter, lands before you once more. Too many motorcycle riders are crashing without helmets and hurting their heads. You can force them to wear helmets, but they will be annoyed.",
     "left": {
       "id": "a",
-      "label": "Enforce helmet and safety-gear laws.",
+      "label": "Force every rider to wear a safe helmet.",
       "tooltip": "A skull is cheaper to protect than to repair.",
       "reveal": "You enforce helmet and safety-gear laws hard. The riders and the ride-share lobby grumble, but the head injuries flooding the trauma wards drop and the road-death toll among the young eases.",
       "effects": {
@@ -10117,7 +10117,7 @@
     },
     "right": {
       "id": "b",
-      "label": "Leave helmet use to choice.",
+      "label": "Let them ride without helmets if they want to.",
       "tooltip": "A rider's skull is a rider's business.",
       "reveal": "You leave safety gear to personal choice. The riders keep their freedom and the ride-share boom its low friction, and the trauma wards keep filling with the head injuries a helmet would have prevented.",
       "effects": {
@@ -10138,10 +10138,10 @@
       "children",
       "introduction"
     ],
-    "prompt": "Another monsoon, another return of an argument you cannot end. New vaccines against the rotavirus and pneumonia that kill so many small children are available but costly to add to the national schedule. The director wants them introduced now; the finance side balks at the added recurrent cost.",
+    "prompt": "Another monsoon, another return of an argument you cannot end. There are amazing new medicines to protect little kids from getting sick, but they cost a lot of money to buy for everyone.",
     "left": {
       "id": "a",
-      "label": "Introduce the new childhood vaccines.",
+      "label": "Buy the amazing new medicines for all the kids.",
       "tooltip": "A child dead of a vaccine-preventable bug is a death we chose.",
       "reveal": "You add the rotavirus and pneumococcal vaccines to the schedule. The recurrent cost is real, but two of the biggest killers of small children — diarrhoea and pneumonia — are pushed back across a generation.",
       "effects": {
@@ -10152,7 +10152,7 @@
     },
     "right": {
       "id": "b",
-      "label": "Delay the costly new vaccines.",
+      "label": "Wait because it costs too much money right now.",
       "tooltip": "The schedule we have already saves most.",
       "reveal": "You hold off on the new vaccines to save the recurrent cost. The existing schedule rolls on, and small children keep dying of the rotavirus and pneumonia the new vaccines would have prevented.",
       "effects": {
@@ -10173,10 +10173,10 @@
       "health",
       "adaptation"
     ],
-    "prompt": "Deep into the reign, the issue demands a final-sounding answer. Climate change is reshaping disease — dengue spreading, heat killing, floods drowning clinics, salinity raising blood pressure in coastal women. The director wants the health system climate-proofed and climate-health surveillance built; it is a diffuse, long-horizon investment.",
+    "prompt": "Deep into the reign, the issue demands a final-sounding answer. Weird hot weather and floods are bringing new bugs and sicknesses. You can prepare hospitals for this, but it takes a lot of planning.",
     "left": {
       "id": "a",
-      "label": "Climate-proof the health system.",
+      "label": "Prepare the hospitals for the new weather sicknesses.",
       "tooltip": "A warming world writes new diseases; a wise state reads ahead.",
       "reveal": "You climate-proof health facilities and build climate-disease surveillance. The investment is diffuse and long-horizon, but the system braces for the dengue, heat, and salinity illnesses the changing climate is already bringing.",
       "effects": {
@@ -10187,7 +10187,7 @@
     },
     "right": {
       "id": "b",
-      "label": "Address health threats as they come.",
+      "label": "Just deal with the sicknesses whenever they happen.",
       "tooltip": "I will fight today's diseases, not the weather's.",
       "reveal": "You take climate-driven illness as it arrives. The money is spared the long-horizon investment, and the health system keeps being caught flat-footed by each new wave of climate-shifted disease.",
       "effects": {
@@ -10208,10 +10208,10 @@
       "beaches",
       "plastic"
     ],
-    "prompt": "The reckoning you postponed has matured into a crisis. The beaches and coastal waters are drowning in plastic litter — washed down the rivers and dumped by the tourist towns — choking marine life and the tourist economy alike. The officer wants cleanup, river-interception, and a coastal plastic ban; the cost and the tourist trade resist.",
+    "prompt": "The reckoning you postponed has matured into a crisis. The beautiful beaches are totally covered in plastic trash. You can clean it up and ban plastic, but the tourists and stores will complain.",
     "left": {
       "id": "a",
-      "label": "Fund cleanup and river-litter interception.",
+      "label": "Clean the beach and ban the plastic trash.",
       "tooltip": "A coast of plastic is a coast of death and lost trade.",
       "reveal": "You fund sustained beach cleanup, river-litter interception, and coastal plastic limits. The tourist towns grumble at the rules, but the beaches and waters clear, and the marine life and the tourist draw both recover.",
       "effects": {
@@ -10222,7 +10222,7 @@
     },
     "right": {
       "id": "b",
-      "label": "Leave the litter to the tides.",
+      "label": "Let the plastic trash stay on the beach.",
       "tooltip": "A beach cleanup is endless and the tourists come regardless.",
       "reveal": "You leave the marine litter to wash where it will. The cost is dodged, and the plastic keeps choking the marine life and burying the beaches the tourist economy depends on.",
       "effects": {
@@ -10244,10 +10244,10 @@
       "disability",
       "children"
     ],
-    "prompt": "A new chapter, the same antagonists, less room to manoeuvre. Children with autism and developmental disorders are hidden, shamed, and shut out entirely for want of any diagnosis, therapy, or schooling. The director wants a national developmental-screening and early-intervention programme; the cause is poorly understood and easily skipped.",
+    "prompt": "A new chapter, the same antagonists, less room to manoeuvre. Kids whose brains work a little differently are hidden away with no schools. You can build special classes to help them learn.",
     "left": {
       "id": "a",
-      "label": "Build developmental screening and therapy.",
+      "label": "Build special classes to help them learn.",
       "tooltip": "A child unreached early is a potential lost for life.",
       "reveal": "You build early screening, therapy, and inclusive schooling for developmental disorders. The cause is poorly understood, but children once hidden and written off gain diagnosis, support, and a place in the world.",
       "effects": {
@@ -10258,7 +10258,7 @@
     },
     "right": {
       "id": "b",
-      "label": "Leave developmental care to families.",
+      "label": "Leave them hidden at home.",
       "tooltip": "A niche of children is a poor claim on the budget.",
       "reveal": "You leave these children to families with nowhere to turn. The budget is spared, and children with autism and developmental disorders keep being hidden, shamed, and shut out for want of services that would have reached them.",
       "effects": {
@@ -10279,10 +10279,10 @@
       "waste",
       "flooding"
     ],
-    "prompt": "The old fault line widens; this time there is no quiet option. The cities' canals and riverbanks are choked with dumped solid waste, blocking drainage and breeding disease, while settlements and businesses dump with impunity. The officer wants enforced anti-dumping, regular clearing, and waste collection; it means confronting dumpers great and small.",
+    "prompt": "The old fault line widens; this time there is no quiet option. City rivers are clogged with garbage, causing floods and disease. You can force people to stop throwing garbage in the water.",
     "left": {
       "id": "a",
-      "label": "Enforce anti-dumping and clear the canals.",
+      "label": "Force everyone to stop throwing garbage in the water.",
       "tooltip": "A canal of garbage is a flood and a fever waiting to break.",
       "reveal": "You enforce anti-dumping, fund regular clearing, and extend collection. Dumpers great and small resist, but the canals flow, the drainage works, and the disease and flooding the garbage bred recede.",
       "effects": {
@@ -10294,7 +10294,7 @@
     },
     "right": {
       "id": "b",
-      "label": "Leave the canals to clog.",
+      "label": "Let them keep turning the rivers into garbage dumps.",
       "tooltip": "A war on every dumper is a war without end.",
       "reveal": "You leave the canals choked with waste. The confrontation is avoided, and the blocked drainage keeps flooding the city and the rotting garbage keeps breeding the disease that fills its clinics.",
       "effects": {
@@ -10315,10 +10315,10 @@
       "women",
       "workforce"
     ],
-    "prompt": "Time has not healed it — the conflict comes back armed. Working mothers, especially the garment workforce, have nowhere safe to leave their infants, so children are neglected and women forced out of work. The law mandates factory creches almost no one provides. The director wants real enforcement; employers call it unbearable.",
+    "prompt": "Time has not healed it — the conflict comes back armed. Working moms have nowhere safe to leave their babies. The law says factories must have baby rooms, but bosses ignore it.",
     "left": {
       "id": "a",
-      "label": "Enforce the workplace-creche mandate.",
+      "label": "Force the bosses to build the baby rooms.",
       "tooltip": "A mother who must choose between her baby and her wage is failed by both.",
       "reveal": "You enforce the creche mandate and support smaller employers to comply. The factory owners protest the cost, but working mothers gain safe childcare, infants are tended, and women stay in the workforce.",
       "effects": {
@@ -10330,7 +10330,7 @@
     },
     "right": {
       "id": "b",
-      "label": "Leave the creche law unenforced.",
+      "label": "Let the bosses keep ignoring the rule.",
       "tooltip": "A creche in every factory is a cost the owners will not bear.",
       "reveal": "You leave the creche mandate a dead letter. The owners keep their margins, and working mothers keep leaving infants untended or leaving the workforce entirely, the law on the books and ignored.",
       "effects": {
@@ -10351,10 +10351,10 @@
       "typhoid",
       "vaccines"
     ],
-    "prompt": "Once again, and with the whole house holding its breath. Cholera and typhoid still sweep the slums and flood zones from filthy water, and oral vaccines now exist to blunt them. The director wants targeted vaccination in the high-risk areas alongside the slow water fixes; the vaccines are costly and the diseases familiar.",
+    "prompt": "Once again, and with the whole house holding its breath. Dirty water gives people terrible stomach bugs. You can give them a special medicine shot to stop it while you fix the pipes.",
     "left": {
       "id": "a",
-      "label": "Run targeted cholera-typhoid vaccination.",
+      "label": "Give them the medicine shot to stop the stomach bugs.",
       "tooltip": "A vaccine now buys time the water fixes will take years to deliver.",
       "reveal": "You run oral vaccination campaigns in the slums and flood zones. The cost is real, but cholera and typhoid outbreaks shrink, buying the years the slow clean-water fixes will need to take hold.",
       "effects": {
@@ -10365,7 +10365,7 @@
     },
     "right": {
       "id": "b",
-      "label": "Wait for the water fixes alone.",
+      "label": "Wait until the water pipes are finally fixed.",
       "tooltip": "A vaccine is a patch; clean water is the cure.",
       "reveal": "You rely solely on the slow clean-water work and skip the vaccines. The money is saved, and cholera and typhoid keep sweeping the slums and flood zones in the long years before the water is ever fixed.",
       "effects": {
@@ -10386,10 +10386,10 @@
       "records",
       "privacy"
     ],
-    "prompt": "The matter resurfaces in a harder year, patience exhausted. A national electronic health-record system would join up fragmented care, cut duplication, and power real planning — and concentrate the population's most intimate data in a system the state has not earned trust to hold securely. How far do you build it?",
+    "prompt": "The matter resurfaces in a harder year, patience exhausted. You can put everyone's doctor records on a giant computer so they are easy to find. But people are scared the government will spy on their secrets.",
     "left": {
       "id": "a",
-      "label": "Build the integrated health-record system.",
+      "label": "Put all the records on the giant computer.",
       "tooltip": "Care that cannot remember the patient repeats every mistake.",
       "reveal": "You build the integrated electronic health records. Care joins up and planning sharpens, and the population's most intimate data pools in a system whose security the state must now be trusted to keep.",
       "effects": {
@@ -10400,7 +10400,7 @@
     },
     "right": {
       "id": "b",
-      "label": "Keep records local and fragmented.",
+      "label": "Keep the records on paper at the doctor's office.",
       "tooltip": "A central trove of every citizen's illness is a breach waiting to happen.",
       "reveal": "You keep health records local and disconnected. The intimate data is not pooled into one breachable trove, and care stays fragmented, duplicative, and blind to the patient's own history.",
       "effects": {
@@ -10421,10 +10421,10 @@
       "shisha",
       "youth"
     ],
-    "prompt": "A later season of rule, the stakes now openly existential. Vaping and shisha lounges are spreading among urban youth, marketed as harmless and slipping through the tobacco laws. The officer wants them regulated and taxed like tobacco before the habit entrenches; the lounges, importers, and youth push back.",
+    "prompt": "A later season of rule, the stakes now openly existential. Kids are smoking sweet-smelling vape pens. You can tax them and make strict rules just like normal cigarettes, but sellers will be mad.",
     "left": {
       "id": "a",
-      "label": "Regulate and tax vaping like tobacco.",
+      "label": "Tax and make strict rules for the vape pens.",
       "tooltip": "A new nicotine habit caught early is a generation spared.",
       "reveal": "You bring vaping and shisha under tobacco regulation and tax. The lounges and importers protest and the youth grumble, but a new nicotine epidemic is checked before it can entrench across a generation.",
       "effects": {
@@ -10435,7 +10435,7 @@
     },
     "right": {
       "id": "b",
-      "label": "Leave vaping unregulated.",
+      "label": "Let kids keep buying them easily.",
       "tooltip": "A trendy vapour is hardly a public-health emergency.",
       "reveal": "You leave vaping and shisha outside the tobacco rules. The lounges flourish and the trend spreads, and a fresh nicotine dependence takes root among the young before anyone moves to check it.",
       "effects": {
@@ -10456,10 +10456,10 @@
       "shelter",
       "livestock"
     ],
-    "prompt": "It comes around again, and the margin for error is gone. In the floods, the poor lose not just homes but the livestock that is their whole wealth, because the shelters take people but not animals — so families stay in the water to guard their cattle and drown. The director wants combined people-and-livestock shelters; purists call it a misuse of relief.",
+    "prompt": "It comes around again, and the margin for error is gone. During floods, poor farmers drown because they refuse to leave their cows behind. You can build safe houses for people AND their cows.",
     "left": {
       "id": "a",
-      "label": "Build combined people-and-livestock shelters.",
+      "label": "Build safe houses that fit people and cows.",
       "tooltip": "A family will not flee and leave its only wealth to drown.",
       "reveal": "You build shelters that take families and their animals together. The purists grumble about cattle in relief shelters, but families stop staying in the floodwater to guard their livestock, and fewer drown.",
       "effects": {
@@ -10470,7 +10470,7 @@
     },
     "right": {
       "id": "b",
-      "label": "Keep shelters for people only.",
+      "label": "Only build safe houses for people.",
       "tooltip": "A flood shelter is for human life, not cattle.",
       "reveal": "You keep the shelters people-only. The relief stays 'pure', and families keep refusing to flee — or fleeing and losing everything — because the shelter would not take the livestock that is all they own.",
       "effects": {
@@ -10491,10 +10491,10 @@
       "green-jobs",
       "informal"
     ],
-    "prompt": "The same demand, but the reign is older and the knives sharper. An army of informal waste-pickers already recycles much of the cities' waste, unseen, unpaid fairly, and unprotected. Formalise them into the recycling system with IDs, fair pay, and gear — dignifying vital work — or leave them to the dumps and the middlemen?",
+    "prompt": "The same demand, but the reign is older and the knives sharper. Poor people dig through the trash to recycle things for pennies. You can give them uniforms, safe tools, and real jobs.",
     "left": {
       "id": "a",
-      "label": "Formalise the waste-pickers into green jobs.",
+      "label": "Give them uniforms and real, safe jobs.",
       "tooltip": "The people who already recycle the city deserve to be seen.",
       "reveal": "You formalise the waste-pickers with IDs, fair pay, and protective gear. The middlemen who skimmed them resist, but vital, invisible work is dignified and the recycling it drives is strengthened.",
       "effects": {
@@ -10506,7 +10506,7 @@
     },
     "right": {
       "id": "b",
-      "label": "Leave waste-pickers to the dumps.",
+      "label": "Let them keep digging through the trash safely on their own.",
       "tooltip": "The informal trade works; why burden it with payroll?",
       "reveal": "You leave the waste-pickers informal and unprotected. The middlemen keep their cut, and the people who recycle the city's waste keep doing it unseen, underpaid, and exposed to every hazard of the dumps.",
       "effects": {
@@ -10527,10 +10527,10 @@
       "hospitals",
       "standards"
     ],
-    "prompt": "Years deep, the unresolved returns to be resolved for good. Private hospitals and diagnostic centres operate with wild variation in quality, some excellent and some lethal, with no accreditation to tell them apart. The director wants mandatory accreditation and public quality ratings; the private health industry resists.",
+    "prompt": "Years deep, the unresolved returns to be resolved for good. Some private hospitals are amazing, and some are deadly. You can test them all and put grades on the door so people know.",
     "left": {
       "id": "a",
-      "label": "Mandate accreditation and public ratings.",
+      "label": "Test them and put grades on the door.",
       "tooltip": "A patient choosing a hospital blind is a patient gambling with life.",
       "reveal": "You mandate accreditation and publish quality ratings. The private health industry fights the scrutiny, but the lethal clinics are exposed and forced to improve or close, and patients can finally choose with open eyes.",
       "effects": {
@@ -10542,7 +10542,7 @@
     },
     "right": {
       "id": "b",
-      "label": "Leave private health unaccredited.",
+      "label": "Let people guess which hospitals are safe.",
       "tooltip": "The private sector is a jewel I will not burden.",
       "reveal": "You leave private hospitals unaccredited. The industry stays content and connected, and patients keep gambling their lives on clinics that range, invisibly, from excellent to lethal.",
       "effects": {
@@ -10564,10 +10564,10 @@
       "household",
       "women"
     ],
-    "prompt": "The conflict reignites, and the world is watching this time. Indoor air pollution from cooking smoke, damp, and crowding quietly kills more than the outdoor smog, striking women and children worst. The director wants ventilation, clean cooking, and housing improvement; the harm is invisible, inside the home, easily ignored.",
+    "prompt": "The conflict reignites, and the world is watching this time. Cooking over smoky fires inside the house is quietly killing moms and kids. You can spend money to fix their houses and stoves.",
     "left": {
       "id": "a",
-      "label": "Fund indoor-air and clean-cooking programmes.",
+      "label": "Spend money to fix their houses and stoves.",
       "tooltip": "The deadliest air a woman breathes is in her own kitchen.",
       "reveal": "You fund ventilation, clean cooking, and housing improvement. The harm is invisible and the work diffuse, but the indoor smoke that quietly kills women and children in their own homes begins to clear.",
       "effects": {
@@ -10578,7 +10578,7 @@
     },
     "right": {
       "id": "b",
-      "label": "Leave indoor air to households.",
+      "label": "Let them keep cooking in the smoky houses.",
       "tooltip": "What happens inside a home is a family's own.",
       "reveal": "You leave indoor air pollution unaddressed. The budget is spared, and women and children keep dying quietly of the cooking smoke, damp, and crowding inside homes no programme reached.",
       "effects": {
@@ -10599,10 +10599,10 @@
       "drinks",
       "diabetes"
     ],
-    "prompt": "A familiar crisis, escalated by everything you let slide. Sugary drinks are flooding the market and driving childhood obesity and diabetes, marketed hardest to the young. The director wants marketing curbs, front-of-pack warnings, and a ban on sales near schools; the beverage giants, big advertisers, resist.",
+    "prompt": "A familiar crisis, escalated by everything you let slide. Sugary sodas are making kids very unhealthy. You can stop companies from selling soda near schools, but the companies will fight you.",
     "left": {
       "id": "a",
-      "label": "Curb marketing and sales near schools.",
+      "label": "Stop companies from selling soda near schools.",
       "tooltip": "A childhood drowned in sugar is a lifetime of disease prepaid.",
       "reveal": "You curb sugary-drink marketing, mandate warning labels, and bar sales near schools. The beverage giants pull their ads and protest, but children's sugar intake falls and the diabetes it pre-orders slows.",
       "effects": {
@@ -10613,7 +10613,7 @@
     },
     "right": {
       "id": "b",
-      "label": "Leave sugary drinks to the market.",
+      "label": "Let the companies keep selling soda to kids.",
       "tooltip": "A fizzy drink is a small pleasure to leave alone.",
       "reveal": "You leave the beverage market unchecked. The giants keep their ads and their school-gate sales, and childhood obesity and diabetes keep rising on the sugar marketed hardest to the young.",
       "effects": {
@@ -10634,10 +10634,10 @@
       "slums",
       "services"
     ],
-    "prompt": "The fault line cracks wider; the decision can no longer wait. Climate-displaced families from the drowning coast and eroding rivers pour into the city slums by the thousand, straining water, health, and shelter to breaking. Fund planned reception, services, and secondary-town development to absorb them, or let the slums swell untended?",
+    "prompt": "The fault line cracks wider; the decision can no longer wait. Thousands of people lost their farms to floods and are moving to the city. You can build new, nice neighborhoods for them, or let them live in the dirt.",
     "left": {
       "id": "a",
-      "label": "Plan for the climate migrants.",
+      "label": "Build new, nice neighborhoods for them.",
       "tooltip": "A city that ignores the tide of the displaced drowns in it.",
       "reveal": "You fund slum services, planned reception, and secondary towns to absorb the climate-displaced. The cost is real, but the newcomers find water, health, and a foothold instead of disease and despair in untended slums.",
       "effects": {
@@ -10648,7 +10648,7 @@
     },
     "right": {
       "id": "b",
-      "label": "Let the slums absorb them untended.",
+      "label": "Let them live in the dirt.",
       "tooltip": "The city has no budget for every family the river evicts.",
       "reveal": "You leave the climate migrants to the swelling slums. The money is spared, and the displaced pile into untended settlements with no water, health, or shelter, a humanitarian and disease crisis building street by street.",
       "effects": {

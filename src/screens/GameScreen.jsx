@@ -175,7 +175,7 @@ export default function GameScreen({ user, startMode = 'continue', gameMode, onE
     reviewTimer.current = setTimeout(() => {
       setReview(null);
       setGlow(new Set());
-    }, 1050);
+    }, 1600); // long enough to read the before → after breakdown
   };
 
   return (
@@ -283,7 +283,7 @@ export default function GameScreen({ user, startMode = 'continue', gameMode, onE
 
         <main className="flex flex-1 flex-col items-center justify-center gap-3 py-1">
           {endgame ? (
-            <CardView card={cardToShow} insightActive={insightOn} difficultyFactor={df} selectedSide={review?.side} onHoverSide={(ids) => setGlow(new Set(ids))} onAnswer={decide} />
+            <CardView card={cardToShow} insightActive={insightOn} difficultyFactor={df} selectedSide={review?.side} appliedDeltas={review ? state.lastDelta : null} metricsAfter={review ? state.metrics : null} onHoverSide={(ids) => setGlow(new Set(ids))} onAnswer={decide} />
           ) : openLoc || reviewing ? (
             <div className="flex w-full flex-col items-center gap-3">
               <div className="flex w-full items-center justify-between">
@@ -296,7 +296,7 @@ export default function GameScreen({ user, startMode = 'continue', gameMode, onE
                 </button>
               </div>
 
-              <CardView card={cardToShow} insightActive={insightOn} difficultyFactor={df} selectedSide={review?.side} onHoverSide={(ids) => setGlow(new Set(ids))} onAnswer={decide} />
+              <CardView card={cardToShow} insightActive={insightOn} difficultyFactor={df} selectedSide={review?.side} appliedDeltas={review ? state.lastDelta : null} metricsAfter={review ? state.metrics : null} onHoverSide={(ids) => setGlow(new Set(ids))} onAnswer={decide} />
               <span className="hud-label">
                 {state.locations[headerLoc]?.answered || 0}/5 answered · this department locks at 5
               </span>

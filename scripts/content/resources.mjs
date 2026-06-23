@@ -9,547 +9,547 @@ const ax = (speaker, portrait, tags, ...stages) => ({ speaker, portrait, tags, s
 export const RESOURCES = [
   // ── Rampal & the Sundarbans ─────────────────────────────────────────────────
   ax("Power Development Chairman", "official", ["coal", "sundarbans", "energy"],
-    sx("The coal plant near the mangrove forest is built and ready — and so are the protests. \"Switch it on and we add a thousand megawatts tomorrow,\" the Chairman says. The Sundarbans is a UNESCO heritage and the country's storm shield.",
-      ["Fire up the coal plant.", "The grid cannot run on heritage.", "The lights brighten across three divisions. The forest scientists warn the ash and warm water will gnaw at the mangroves for decades.", { RE: 12, FI: 6, EN: -14, GL: -6 }],
-      ["Mothball it and pivot the site to gas or solar.", "The Sundarbans is a wall against the sea; I will not breach it.", "You eat the stranded cost and convert the plan. Environmentalists rejoice; the power-hungry industrial belt grumbles in the dark.", { EN: 12, GL: 8, FI: -10, RE: -4 }]),
-    sx("With the plant running, fishers and scientists report acidified water and dying spawning grounds, and a global body weighs stripping the Sundarbans' heritage status. Your engineers say new scrubbers could cut the damage at a steep price.",
-      ["Fund the costly scrubbers and monitoring.", "If it must run, it must not poison.", "The retrofit eases the worst harm and saves the heritage listing. The treasury winces; the fisherfolk cautiously return to the water.", { EN: 8, GL: 6, RE: 4, FI: -10 }],
-      ["Dispute the science, keep costs down.", "I will not be lectured by foreign committees.", "You stonewall and save the money. The heritage status is downgraded, the fisheries keep declining, and the issue becomes a global black mark.", { FI: 4, RE: 6, EN: -12, GL: -10 }])),
+    sx("A giant, dirty power plant is ready to turn on right next to a famous, beautiful forest. People are protesting.",
+      ["Turn on the dirty power plant for electricity.", "The grid cannot run on heritage.", "The lights brighten across three divisions. The forest scientists warn the ash and warm water will gnaw at the mangroves for decades.", { RE: 12, FI: 6, EN: -14, GL: -6 }],
+      ["Keep it turned off and find clean energy instead.", "The Sundarbans is a wall against the sea; I will not breach it.", "You eat the stranded cost and convert the plan. Environmentalists rejoice; the power-hungry industrial belt grumbles in the dark.", { EN: 12, GL: 8, FI: -10, RE: -4 }]),
+    sx("The dirty power plant is killing the fish and the forest. You can buy expensive filters to stop the pollution.",
+      ["Buy the expensive filters to save the forest.", "If it must run, it must not poison.", "The retrofit eases the worst harm and saves the heritage listing. The treasury winces; the fisherfolk cautiously return to the water.", { EN: 8, GL: 6, RE: 4, FI: -10 }],
+      ["Pretend the pollution isn't real to save money.", "I will not be lectured by foreign committees.", "You stonewall and save the money. The heritage status is downgraded, the fisheries keep declining, and the issue becomes a global black mark.", { FI: 4, RE: 6, EN: -12, GL: -10 }])),
 
   // ── The cross-border power contract ─────────────────────────────────────────
   ax("Cross-Border Power Negotiator", "official", ["adani-style", "import", "tariff"],
-    sx("A giant Indian conglomerate offers electricity from a dedicated coal plant across the border — power on tap, but on terms auditors call lopsided: dollar-indexed and locked for twenty-five years.",
-      ["Sign the long import contract.", "Reliable power now beats a fair price later.", "The grid steadies and a powerful neighbour is pleased. The dollar-indexed bill balloons as the taka falls, draining reserves for decades.", { RE: 10, GL: 6, FI: -10, EN: -4 }],
-      ["Renegotiate or walk away.", "I will not chain the grid to a quarter-century of someone else's prices.", "You demand fairer terms. The seller threatens to pull out and the supply gap looms — but you keep the country off a 25-year leash.", { FI: 4, RE: -8, GL: -6, MI: 4 }])),
+    sx("A big company from another country wants to sell you electricity, but the rules are very unfair and will trap you for 25 years.",
+      ["Sign the unfair deal to get the electricity.", "Reliable power now beats a fair price later.", "The grid steadies and a powerful neighbour is pleased. The dollar-indexed bill balloons as the taka falls, draining reserves for decades.", { RE: 10, GL: 6, FI: -10, EN: -4 }],
+      ["Say no to the bad deal and walk away.", "I will not chain the grid to a quarter-century of someone else's prices.", "You demand fairer terms. The seller threatens to pull out and the supply gap looms — but you keep the country off a 25-year leash.", { FI: 4, RE: -8, GL: -6, MI: 4 }])),
 
   // ── Quick-rental capacity charges ───────────────────────────────────────────
   ax("Independent Power Producers' Lobby", "fixer", ["capacity-charge", "rental", "subsidy"],
-    sx("For years the state has paid 'capacity charges' to private rental power plants — billions for electricity never generated, locked in by indemnity laws. The lobby, thick with party donors, wants the contracts renewed; ending them could save a fortune.",
-      ["Renew the capacity-charge contracts.", "These owners fund the machine that funds me.", "The donors are delighted and the idle plants keep cashing cheques. The public learns it pays a king's ransom for power that never flows.", { RE: 4, FA: 6, FI: -10, EN: -6 }],
-      ["Let the contracts lapse, hold a real auction.", "I will not pay for electrons that do not exist.", "You end the racket and tender competitively. The donors rage and a short-term supply risk appears; the treasury stops haemorrhaging.", { FI: 10, GL: 6, EN: 4, FA: -8 }])),
+    sx("The government is paying rich friends billions of dollars for power plants that don't even make electricity.",
+      ["Keep paying your friends for doing nothing.", "These owners fund the machine that funds me.", "The donors are delighted and the idle plants keep cashing cheques. The public learns it pays a king's ransom for power that never flows.", { RE: 4, FA: 6, FI: -10, EN: -6 }],
+      ["Stop paying them and save the money.", "I will not pay for electrons that do not exist.", "You end the racket and tender competitively. The donors rage and a short-term supply risk appears; the treasury stops haemorrhaging.", { FI: 10, GL: 6, EN: 4, FA: -8 }])),
 
   // ── Offshore gas & maritime boundary ────────────────────────────────────────
   ax("Petrobangla Exploration Chief", "official", ["gas", "offshore", "maritime"],
-    sx("New offshore blocks sit in waters you won at sea tribunal — but exploring them risks reigniting a maritime spat, and only foreign supermajors have the deep-water rigs. The Chief wants to license fast before the gas crisis bites harder.",
-      ["License the supermajors aggressively.", "Domestic gas is worth a diplomatic frown.", "Rigs move in and the prospect of homegrown gas lifts spirits. The neighbour protests the blocks near the line, chilling relations.", { RE: 12, FI: 6, GL: -8 }],
-      ["Go slow with joint surveys and shared blocks.", "Gas under disputed water is gas in a lawsuit.", "You pursue cooperative surveys to keep the peace. The crisis deepens while committees map the seabed, and import bills climb.", { GL: 6, RE: -8, FI: -6 }])),
+    sx("There might be valuable gas deep in your ocean. You can let big foreign companies try to find it fast, but neighbors might get mad.",
+      ["Let the foreign companies look for the gas fast.", "Domestic gas is worth a diplomatic frown.", "Rigs move in and the prospect of homegrown gas lifts spirits. The neighbour protests the blocks near the line, chilling relations.", { RE: 12, FI: 6, GL: -8 }],
+      ["Go slowly and share the ocean with your neighbors safely.", "Gas under disputed water is gas in a lawsuit.", "You pursue cooperative surveys to keep the peace. The crisis deepens while committees map the seabed, and import bills climb.", { GL: 6, RE: -8, FI: -6 }])),
 
   // ── Ship-breaking ───────────────────────────────────────────────────────────
   ax("Sitakunda Yard Owner", "fixer", ["shipbreaking", "labour", "toxic"],
-    sx("The beaching yards that scrap the world's dead ships employ tens of thousands and feed the steel mills — and bury workers under falling plate and toxic ash. International rules would force costly 'green' yards. The owner warns reform means ruin and unemployment.",
-      ["Keep the beaching yards as they are.", "Steel and jobs outrank inspectors' ideals.", "The mills stay fed and the owners loyal. The death toll and the poisoned coastline keep the ugly headlines coming.", { RE: 8, FI: 6, EN: -12, GL: -6 }],
-      ["Mandate green ship-recycling standards.", "A yard that buries a worker a week is a slaughterhouse.", "You phase in safer yards with a transition fund. Costs rise and some yards close, but the deaths fall and the beaches begin to heal.", { EN: 10, GL: 8, FI: -8, RE: -4 }])),
+    sx("The beaches where workers break old ships are very dangerous and toxic. You can force them to be safe, but it costs a lot.",
+      ["Leave the beaches dangerous and cheap.", "Steel and jobs outrank inspectors' ideals.", "The mills stay fed and the owners loyal. The death toll and the poisoned coastline keep the ugly headlines coming.", { RE: 8, FI: 6, EN: -12, GL: -6 }],
+      ["Force them to make the beaches safe and clean.", "A yard that buries a worker a week is a slaughterhouse.", "You phase in safer yards with a transition fund. Costs rise and some yards close, but the deaths fall and the beaches begin to heal.", { EN: 10, GL: 8, FI: -8, RE: -4 }])),
 
   // ── Arsenic groundwater ─────────────────────────────────────────────────────
   ax("Public Health Hydrologist", "people", ["arsenic", "water", "wells"],
-    sx("The tube-wells that ended cholera are slowly poisoning millions with natural arsenic — the largest mass poisoning in history, the hydrologist says, and barely on the agenda. Safe piped water or deep wells would cost more than any photo-op returns.",
-      ["Fund a national safe-water programme.", "A nation cannot be poisoned by its own taps.", "You commit real money to deep wells and filtration. It is unglamorous, expensive, and will quietly save a generation of livers and lives.", { EN: 12, RE: 4, FI: -10 }],
-      ["Distribute cheap filters and move on.", "We have louder crises and thinner budgets.", "A token filter scheme lets you claim action for little cost. The cancers and lesions keep spreading where the cameras never go.", { FI: 4, RE: 4, EN: -10 }])),
+    sx("The water wells people drink from have natural poison in them, slowly making millions sick. Fixing it costs a lot of money.",
+      ["Spend a lot of money to give everyone clean, safe water.", "A nation cannot be poisoned by its own taps.", "You commit real money to deep wells and filtration. It is unglamorous, expensive, and will quietly save a generation of livers and lives.", { EN: 12, RE: 4, FI: -10 }],
+      ["Just hand out cheap filters and forget about it.", "We have louder crises and thinner budgets.", "A token filter scheme lets you claim action for little cost. The cancers and lesions keep spreading where the cameras never go.", { FI: 4, RE: 4, EN: -10 }])),
 
   // ── River sand mining ───────────────────────────────────────────────────────
   ax("Riverbank Erosion Officer", "official", ["sand-mining", "rivers", "erosion"],
-    sx("Illegal sand dredging feeds the construction boom — and eats riverbanks, swallowing villages and bridges into the current. The dredgers are protected by local strongmen tied to your party. Ban it, or let them keep digging?",
-      ["Tolerate the dredging for the building boom.", "Cement needs sand, and the party needs the strongmen.", "Construction roars and the local bosses stay loyal. Each monsoon the rivers take more homes, and the displaced have your name to curse.", { RE: 6, FA: 4, EN: -10, FI: 4 }],
-      ["Ban illegal mining and break the syndicates.", "A bridge in the river is no one's foundation.", "You move against the sand mafias. Construction costs rise and a few party bosses turn hostile; the riverbanks, and the villages on them, hold.", { EN: 10, GL: 4, RE: -4, FA: -6 }])),
+    sx("Bad gangs are digging up too much sand from the river, which makes the land collapse and destroys villages.",
+      ["Let them keep digging so builders have sand.", "Cement needs sand, and the party needs the strongmen.", "Construction roars and the local bosses stay loyal. Each monsoon the rivers take more homes, and the displaced have your name to curse.", { RE: 6, FA: 4, EN: -10, FI: 4 }],
+      ["Stop the gangs and protect the villages.", "A bridge in the river is no one's foundation.", "You move against the sand mafias. Construction costs rise and a few party bosses turn hostile; the riverbanks, and the villages on them, hold.", { EN: 10, GL: 4, RE: -4, FA: -6 }])),
 
   // ── Solar transition ────────────────────────────────────────────────────────
   ax("Renewables Director", "official", ["solar", "transition", "land"],
-    sx("Donors dangle cheap green finance for a solar push, but utility-scale panels need flat land — and the only flat land is fertile farmland in a country that must feed itself. Where should the megawatts come from?",
-      ["Convert farmland to solar parks for the cheap finance.", "Clean power now; we will import the rice.", "The grid greens fast on concessional money. Displaced farmers and a thinner harvest trade one dependency for another.", { RE: 8, GL: 6, EN: 4, FI: -4 }],
-      ["Push rooftop and floating solar instead.", "We will not pave our rice fields to please donors.", "You back distributed and floating arrays — slower, dearer per watt, but no farmer loses their field and the food map stays intact.", { EN: 8, RE: 4, FI: -8, GL: 4 }])),
+    sx("You can get cheap money to build giant solar panels, but they take up the good dirt needed to grow food.",
+      ["Put the solar panels on the good farming dirt.", "Clean power now; we will import the rice.", "The grid greens fast on concessional money. Displaced farmers and a thinner harvest trade one dependency for another.", { RE: 8, GL: 6, EN: 4, FI: -4 }],
+      ["Put the solar panels on roofs instead to save the farms.", "We will not pave our rice fields to please donors.", "You back distributed and floating arrays — slower, dearer per watt, but no farmer loses their field and the food map stays intact.", { EN: 8, RE: 4, FI: -8, GL: 4 }])),
 
   // ── BESPOKE INSTALMENT — real energy & resource dilemmas ────────────────────
 
   ax("Phulbari Coalfield Director", "official", ["coal", "open-pit", "displacement"],
-    sx("A foreign firm wants to open-pit mine the great northern coal seam — vast cheap energy, but it would uproot tens of thousands of farmers and drop the water table across the breadbasket. Villages there once died protesting this very mine.",
-      ["Approve the open-pit mine.", "The seam could power the nation for decades.", "Coal and investment flow north. Whole villages are cleared, the aquifer sinks, and the old protest reignites with funerals behind it.", { RE: 12, FI: 8, EN: -14, GL: -6 }],
-      ["Ban open-pit mining for good.", "I will not unhouse the breadbasket for coal.", "You kill the project and honour the dead of the old protests. The energy stays underground and the import bill stays high.", { EN: 12, FA: 4, RE: -8, FI: -6 }])),
+    sx("A company wants to dig a giant coal mine, but they have to destroy many farms and homes to do it.",
+      ["Let them destroy the farms to dig the giant mine.", "The seam could power the nation for decades.", "Coal and investment flow north. Whole villages are cleared, the aquifer sinks, and the old protest reignites with funerals behind it.", { RE: 12, FI: 8, EN: -14, GL: -6 }],
+      ["Say no to the giant mine to protect the farms.", "I will not unhouse the breadbasket for coal.", "You kill the project and honour the dead of the old protests. The energy stays underground and the import bill stays high.", { EN: 12, FA: 4, RE: -8, FI: -6 }])),
 
   ax("LNG Terminal Operator", "official", ["lng", "gas", "spot-market"],
-    sx("Domestic gas is running dry and the country now depends on imported LNG — but the spot price has spiked fourfold and the terminal operator wants you to keep buying at any cost to avoid blackouts.",
-      ["Keep buying LNG at the spike price.", "Lights and looms cannot wait for cheap gas.", "The grid holds through the crunch. The import bill devours dollars the reserves can scarcely spare.", { RE: 10, EN: 4, FI: -12 }],
-      ["Ration gas and accept rolling blackouts.", "I will not bankrupt us to keep every light on.", "You cut industrial gas and load-shed by schedule. Factories idle and tempers fray, but the dollars are saved.", { FI: 6, RE: -6, EN: -8 }])),
+    sx("The gas you buy from other countries just got super expensive. You can keep buying it, or let the lights go out sometimes.",
+      ["Keep buying the gas even though it is super expensive.", "Lights and looms cannot wait for cheap gas.", "The grid holds through the crunch. The import bill devours dollars the reserves can scarcely spare.", { RE: 10, EN: 4, FI: -12 }],
+      ["Stop buying it and let the power turn off sometimes.", "I will not bankrupt us to keep every light on.", "You cut industrial gas and load-shed by schedule. Factories idle and tempers fray, but the dollars are saved.", { FI: 6, RE: -6, EN: -8 }])),
 
   ax("Power Grid Chief", "official", ["grid", "system-loss", "theft"],
-    sx("A fifth of all electricity generated is lost or stolen — illegal hooks, complicit meter-readers, unpaid VIP connections. The chief wants prepaid meters and a purge of the linemen who run the racket.",
-      ["Roll out prepaid meters and purge the racket.", "Pay for the power you burn.", "Losses fall and revenue rises sharply. The linemen's union and the freeloading connections — some politically wired — push back hard.", { RE: 8, FI: 8, EN: -4, FA: -4 }],
-      ["Leave the connections and the linemen be.", "Do not pick a fight with every substation.", "The pilferage continues and the utilities stay broke. The honest customer subsidises the hook on the next pole.", { FA: 4, RE: -6, FI: -6 }])),
+    sx("People are stealing a lot of the country's electricity, and the meter checkers are helping them.",
+      ["Stop the stealing by making everyone use prepaid cards.", "Pay for the power you burn.", "Losses fall and revenue rises sharply. The linemen's union and the freeloading connections — some politically wired — push back hard.", { RE: 8, FI: 8, EN: -4, FA: -4 }],
+      ["Ignore it and let them keep stealing.", "Do not pick a fight with every substation.", "The pilferage continues and the utilities stay broke. The honest customer subsidises the hook on the next pole.", { FA: 4, RE: -6, FI: -6 }])),
 
   ax("Industrial Gas Board", "fixer", ["gas", "tariff", "industry"],
-    sx("Industry pays a fraction of the cost of its gas, and the board wants a steep price hike to fund new supply. The factory owners — your donors — warn that a hike now closes mills and kills jobs.",
-      ["Raise industrial gas prices to cost.", "Subsidised gas is a fire we cannot feed.", "The utilities can finally invest in new supply. The owners howl, some mills close, and your donor base cools.", { RE: 8, FI: 6, EN: -6, FA: -6 }],
-      ["Hold the subsidised industrial rate.", "Cheap gas keeps the looms turning.", "The factories stay competitive on cheap energy. The gas sector stays starved of the cash to find more of it.", { FA: 6, EN: 4, RE: -8, FI: -6 }])),
+    sx("Rich factory owners pay almost nothing for their gas. You can make them pay full price, but they will be angry.",
+      ["Make the factory owners pay full price.", "Subsidised gas is a fire we cannot feed.", "The utilities can finally invest in new supply. The owners howl, some mills close, and your donor base cools.", { RE: 8, FI: 6, EN: -6, FA: -6 }],
+      ["Let them keep paying almost nothing.", "Cheap gas keeps the looms turning.", "The factories stay competitive on cheap energy. The gas sector stays starved of the cash to find more of it.", { FA: 6, EN: 4, RE: -8, FI: -6 }])),
 
   ax("Hilsa Fishery Officer", "people", ["fishery", "hilsa", "ban"],
-    sx("The national fish is overfished to the brink; a strict breeding-season ban would let stocks recover but starve a million fishing families for two months. Enforcement means gunboats against desperate boats.",
-      ["Enforce the breeding ban hard.", "No fish tomorrow if we take them all today.", "Stocks rebound within seasons and the catch later booms. For two months the fishing villages go hungry and angry.", { RE: 10, EN: -6, FI: -4 }],
-      ["Allow fishing with token restrictions.", "I will not starve a million families now.", "The boats stay out and the families eat this season. The stock thins further toward a collapse that feeds no one.", { EN: 6, RE: -8, FA: 4 }])),
+    sx("The country's favorite fish are almost all gone. You need to stop people from fishing for two months so the babies can grow, but the fishers will be hungry.",
+      ["Stop all fishing to save the fish.", "No fish tomorrow if we take them all today.", "Stocks rebound within seasons and the catch later booms. For two months the fishing villages go hungry and angry.", { RE: 10, EN: -6, FI: -4 }],
+      ["Let them fish a little so they don't starve.", "I will not starve a million families now.", "The boats stay out and the families eat this season. The stock thins further toward a collapse that feeds no one.", { EN: 6, RE: -8, FA: 4 }])),
 
   ax("Bhola Gas Survey Lead", "official", ["gas", "onshore", "exploration"],
-    sx("A promising onshore gas field sits under a southern island, but tapping it fast needs a foreign supermajor and a pipeline through fragile wetlands. The survey lead wants speed; the ecologists want caution.",
-      ["Fast-track the field with a supermajor.", "Homegrown gas now eases everything.", "Domestic gas flows sooner and the import bill eases. The pipeline scars the wetlands and the ecologists raise the alarm.", { RE: 10, FI: 6, EN: -8 }],
-      ["Develop it slowly with a domestic firm.", "Our own gas, on our own careful terms.", "A national company develops it gently over years. The relief is slower; the wetlands and sovereignty are spared.", { RE: 4, EN: 4, FI: -6, GL: -4 }])),
+    sx("There is gas under a beautiful nature island. Big companies want to dig it up fast, but it might ruin the island.",
+      ["Let them dig it up fast.", "Homegrown gas now eases everything.", "Domestic gas flows sooner and the import bill eases. The pipeline scars the wetlands and the ecologists raise the alarm.", { RE: 10, FI: 6, EN: -8 }],
+      ["Dig very slowly and carefully to protect the island.", "Our own gas, on our own careful terms.", "A national company develops it gently over years. The relief is slower; the wetlands and sovereignty are spared.", { RE: 4, EN: 4, FI: -6, GL: -4 }])),
 
   ax("Heavy Minerals Concessionaire", "fixer", ["minerals", "sand", "coast"],
-    sx("The black sands of the southern beaches are rich in rare minerals a foreign miner will pay well to extract — at the cost of churning up the tourist coast and the turtle nesting grounds.",
-      ["Grant the coastal mining concession.", "Wealth lies in the sand we walk on.", "Mineral royalties flow into the treasury. The beaches are gouged, the tourism dwindles, and the turtles vanish.", { RE: 8, FI: 8, EN: -12, GL: -4 }],
-      ["Protect the coast and refuse the miner.", "Some sand is worth more left lying.", "You keep the beaches whole for tourism and turtles. The mineral fortune stays buried and the miner walks.", { EN: 10, GL: 4, RE: -6, FI: -6 }])),
+    sx("A company will pay you to dig up the beautiful tourist beaches to find rare rocks. It will ruin the beach for turtles and tourists.",
+      ["Let them dig up the beach for money.", "Wealth lies in the sand we walk on.", "Mineral royalties flow into the treasury. The beaches are gouged, the tourism dwindles, and the turtles vanish.", { RE: 8, FI: 8, EN: -12, GL: -4 }],
+      ["Protect the beach and say no to the company.", "Some sand is worth more left lying.", "You keep the beaches whole for tourism and turtles. The mineral fortune stays buried and the miner walks.", { EN: 10, GL: 4, RE: -6, FI: -6 }])),
 
   ax("Urea Plant Manager", "official", ["fertiliser", "gas-allocation", "agriculture"],
-    sx("The state fertiliser plant needs a big gas allocation to run, gas the power sector also wants for the grid. Feed the urea plant and farmers get cheap fertiliser; feed the grid and the lights stay on.",
-      ["Allocate the gas to fertiliser.", "Cheap urea is cheap rice is calm.", "Domestic urea keeps farmers and food prices steady. The power sector, short of that gas, load-sheds the cities.", { EN: 8, RE: 4, FI: -4 }],
-      ["Allocate the gas to the power grid.", "A dark city is a dangerous city.", "The grid stays lit through peak demand. Fertiliser output drops, prices rise, and the villages feel the pinch.", { RE: 6, MI: 4, EN: -8 }])),
+    sx("You only have enough gas to make plant food for farmers OR to keep the lights on in the city. You must choose one.",
+      ["Use the gas to make plant food for farmers.", "Cheap urea is cheap rice is calm.", "Domestic urea keeps farmers and food prices steady. The power sector, short of that gas, load-sheds the cities.", { EN: 8, RE: 4, FI: -4 }],
+      ["Use the gas to keep the city lights on.", "A dark city is a dangerous city.", "The grid stays lit through peak demand. Fertiliser output drops, prices rise, and the villages feel the pinch.", { RE: 6, MI: 4, EN: -8 }])),
 
   ax("Irrigation Power Officer", "official", ["irrigation", "subsidy", "groundwater"],
-    sx("Farmers pump groundwater for the dry-season rice crop on heavily subsidised electricity, draining both the aquifer and the budget. The officer wants to meter and price the irrigation power.",
-      ["Meter and price irrigation power.", "Free power drains the water and the treasury.", "Pumping grows efficient and the aquifer's fall slows. Farmers, hit with new bills, send their anger up the line.", { RE: 8, FI: 6, EN: -8, FA: -4 }],
-      ["Keep irrigation power free and flowing.", "The dry-season crop must not fail.", "The harvest is secure and the farmers content. The water table keeps dropping and the subsidy keeps bleeding.", { EN: 6, FA: 4, RE: -8, FI: -6 }])),
+    sx("Farmers get nearly free electricity to pump water, but they are wasting the water and costing you money.",
+      ["Charge the farmers for electricity so they stop wasting it.", "Free power drains the water and the treasury.", "Pumping grows efficient and the aquifer's fall slows. Farmers, hit with new bills, send their anger up the line.", { RE: 8, FI: 6, EN: -8, FA: -4 }],
+      ["Let the farmers keep using free electricity.", "The dry-season crop must not fail.", "The harvest is secure and the farmers content. The water table keeps dropping and the subsidy keeps bleeding.", { EN: 6, FA: 4, RE: -8, FI: -6 }])),
 
   ax("Waste-to-Energy Promoter", "official", ["waste", "incineration", "power"],
-    sx("A foreign firm offers to burn the capital's mountains of garbage for electricity — tidy and modern, but the incinerators emit toxins and undercut the tens of thousands who survive by sorting and recycling waste.",
-      ["Build the waste-to-energy incinerators.", "Turn the garbage mountains into megawatts.", "The dumps shrink and the grid gains power. The air near the plants worsens and the waste-pickers lose their livelihood.", { RE: 8, FI: 4, EN: -8 }],
-      ["Invest in recycling and the informal sector.", "The pickers are a workforce, not a problem.", "You formalise recycling and protect the pickers' living. Less spectacular than a power plant, and the dumps shrink slower.", { EN: 8, RE: -4, FI: -6 }])),
+    sx("A company wants to burn the city's trash to make power, but the smoke is bad and it takes jobs from poor trash-sorters.",
+      ["Let them burn the trash to make power.", "Turn the garbage mountains into megawatts.", "The dumps shrink and the grid gains power. The air near the plants worsens and the waste-pickers lose their livelihood.", { RE: 8, FI: 4, EN: -8 }],
+      ["Help the poor workers sort and recycle the trash instead.", "The pickers are a workforce, not a problem.", "You formalise recycling and protect the pickers' living. Less spectacular than a power plant, and the dumps shrink slower.", { EN: 8, RE: -4, FI: -6 }])),
 
   ax("Rooppur Waste Officer", "official", ["nuclear", "waste", "rooppur"],
-    sx("The new nuclear plant will soon produce spent fuel with nowhere safe to go. Russia offers to take it back — at a price and a dependency — or you build a domestic store you have no experience to manage.",
-      ["Ship the waste back to Russia.", "Let the builder keep its poison.", "The spent fuel leaves on Russian terms. The cost is steep and the dependency on Moscow deepens with each cask.", { RE: 4, GL: -6, FI: -6 }],
-      ["Build a domestic storage facility.", "A nuclear nation must handle its own ash.", "You commit to a homegrown store. It is a daunting first for your engineers, and a risk if mishandled, but it keeps you sovereign.", { RE: 4, EN: -4, FI: -6, GL: 4 }])),
+    sx("Your new power plant makes dangerous, glowing trash. Russia will take it away if you pay them, or you can try to store it safely yourself.",
+      ["Pay Russia to take the dangerous trash away.", "Let the builder keep its poison.", "The spent fuel leaves on Russian terms. The cost is steep and the dependency on Moscow deepens with each cask.", { RE: 4, GL: -6, FI: -6 }],
+      ["Build a place to hide the dangerous trash yourself.", "A nuclear nation must handle its own ash.", "You commit to a homegrown store. It is a daunting first for your engineers, and a risk if mishandled, but it keeps you sovereign.", { RE: 4, EN: -4, FI: -6, GL: 4 }])),
 
   ax("Tea Estate Labour Commissioner", "people", ["tea", "labour", "wages"],
-    sx("The tea-garden workers — generations bonded to the estates on a pittance — are striking for a living wage. The estate owners, a colonial-era elite, warn that doubling the daily rate ruins the gardens.",
-      ["Mandate a living wage in the gardens.", "A century of bondage is long enough.", "The pickers win a wage they can live on and bless your name. The estate owners cut output and lobby furiously against you.", { EN: 10, RE: 4, FI: -6, FA: -4 }],
-      ["Side with the owners to protect output.", "Ruin the gardens and everyone loses.", "Production holds and the owners stay sweet. The pickers return to their lines and their poverty, and remember who chose.", { RE: 6, FI: 4, EN: -10 }])),
+    sx("The poor people who pick tea leaves want to be paid a fair amount. The rich owners say paying more will ruin their business.",
+      ["Force the owners to pay the workers fairly.", "A century of bondage is long enough.", "The pickers win a wage they can live on and bless your name. The estate owners cut output and lobby furiously against you.", { EN: 10, RE: 4, FI: -6, FA: -4 }],
+      ["Help the owners keep the pay very low.", "Ruin the gardens and everyone loses.", "Production holds and the owners stay sweet. The pickers return to their lines and their poverty, and remember who chose.", { RE: 6, FI: 4, EN: -10 }])),
 
   ax("EV Transition Lead", "official", ["ev", "transport", "grid"],
-    sx("Electric three-wheelers and bikes are multiplying, cutting fuel imports but overloading a grid that wasn't built for them and threatening the petrol-pump and CNG economy.",
-      ["Embrace the EV surge with charging infrastructure.", "Electrify the streets and cut the fuel bill.", "Fuel imports drop and the air improves. The strained grid groans and the fuel-retail economy contracts painfully.", { RE: 6, EN: 8, FI: 4, FA: -4 }],
-      ["Throttle EVs to protect the grid and fuel trade.", "The wires and the pumps cannot take the shock.", "You slow the rollout to spare the grid and the pump owners. Fuel imports stay high and the cleaner future waits.", { RE: 4, FI: -4, EN: -6 }])),
+    sx("Many people are driving electric bikes, which saves gas but breaks the electric grid because it can't handle them all.",
+      ["Build more charging stations to help the electric bikes.", "Electrify the streets and cut the fuel bill.", "Fuel imports drop and the air improves. The strained grid groans and the fuel-retail economy contracts painfully.", { RE: 6, EN: 8, FI: 4, FA: -4 }],
+      ["Try to stop people from using electric bikes.", "The wires and the pumps cannot take the shock.", "You slow the rollout to spare the grid and the pump owners. Fuel imports stay high and the cleaner future waits.", { RE: 4, FI: -4, EN: -6 }])),
 
   ax("Forest Conservator", "official", ["forest", "logging", "sundarbans"],
-    sx("Organised gangs are felling the protected forests for timber and farmland, often with a forest officer's bribe. A real anti-logging operation means arming rangers against well-connected timber barons.",
-      ["Arm the rangers and break the timber gangs.", "A felled forest is a flood let in.", "The chainsaws fall silent under pressure and the canopy holds. The timber barons and their official partners turn dangerous.", { EN: 10, RE: 6, GL: 4, FA: -6 }],
-      ["Let the quiet felling continue.", "Do not war with the timber money.", "The forests keep thinning at the edges. Each lost hectare is one less wall against the next cyclone surge.", { FI: 4, EN: -10, RE: -4 }])),
+    sx("Bad gangs are chopping down the protected forests to sell the wood. You need to give park rangers guns to stop them.",
+      ["Give the rangers guns to stop the gangs.", "A felled forest is a flood let in.", "The chainsaws fall silent under pressure and the canopy holds. The timber barons and their official partners turn dangerous.", { EN: 10, RE: 6, GL: 4, FA: -6 }],
+      ["Let the gangs keep chopping down the trees.", "Do not war with the timber money.", "The forests keep thinning at the edges. Each lost hectare is one less wall against the next cyclone surge.", { FI: 4, EN: -10, RE: -4 }])),
 
   ax("Household Gas Connection Board", "people", ["gas", "household", "moratorium"],
-    sx("There is not enough gas for new household pipeline connections, yet millions on the waiting list — and your MPs — demand them. The board wants the moratorium held; the public wants the queue cleared.",
-      ["Lift the moratorium and connect households.", "The people were promised the blue flame.", "Families on the list finally get piped gas and cheer. The supply stretches thinner, pressure drops, and industry is starved.", { EN: 8, FA: 4, RE: -8 }],
-      ["Hold the moratorium, push bottled gas instead.", "I cannot pipe gas we do not have.", "You steer households to cylinders and keep the pipeline for industry. The waiting millions grumble at the broken promise.", { RE: 6, FI: -4, EN: -6 }])),
+    sx("There isn't enough gas for new homes, but angry people are demanding it because they already paid bribes to get it.",
+      ["Give the gas to the homes even though you don't have enough.", "The people were promised the blue flame.", "Families on the list finally get piped gas and cheer. The supply stretches thinner, pressure drops, and industry is starved.", { EN: 8, FA: 4, RE: -8 }],
+      ["Say no and tell them to use bottled gas instead.", "I cannot pipe gas we do not have.", "You steer households to cylinders and keep the pipeline for industry. The waiting millions grumble at the broken promise.", { RE: 6, FI: -4, EN: -6 }])),
 
   ax("Renewables Target Auditor", "official", ["renewables", "targets", "credibility"],
-    sx("You pledged an ambitious renewable-energy share by 2030 and are nowhere near it. The auditor says you can quietly water down the target, or pour real money into solar and wind to chase it honestly.",
-      ["Quietly lower the renewable target.", "A missed pledge is worse than a modest one.", "You revise the goal down before you miss it. The climate world notes the retreat and your green credibility dims.", { RE: 4, FI: 4, GL: -6, EN: -4 }],
-      ["Fund a real push to hit the target.", "I will meet the promise, not edit it.", "You commit serious money to solar and wind. The budget strains, but the pledge — and the cleaner grid — start to look real.", { EN: 8, GL: 6, RE: 4, FI: -8 }])),
+    sx("You promised the world you would use clean energy, but you lied and didn't build any.",
+      ["Quietly change your promise so you don't look bad.", "A missed pledge is worse than a modest one.", "You revise the goal down before you miss it. The climate world notes the retreat and your green credibility dims.", { RE: 4, FI: 4, GL: -6, EN: -4 }],
+      ["Spend a lot of money right now to build the clean energy.", "I will meet the promise, not edit it.", "You commit serious money to solar and wind. The budget strains, but the pledge — and the cleaner grid — start to look real.", { EN: 8, GL: 6, RE: 4, FI: -8 }])),
 
   ax("Stone Quarry Inspector", "official", ["quarry", "stone", "rivers"],
-    sx("Illegal stone extraction in the northeast is gutting riverbeds and hillsides, feeding the construction boom and the pockets of local strongmen. The inspector wants the quarries shut.",
-      ["Shut the illegal quarries.", "A gutted hillside is a landslide waiting.", "You halt the extraction and the rivers begin to settle. Construction-stone prices jump and the local bosses lose a racket and turn hostile.", { EN: 8, RE: 4, FI: -4, FA: -6 }],
-      ["Tolerate the quarrying for the building boom.", "The country is being built; it needs stone.", "Construction roars on cheap stone. The hills slump, the rivers choke, and the strongmen stay loyal and rich.", { RE: 6, FI: 4, EN: -10 }])),
+    sx("People are illegally breaking stones from the rivers, destroying nature, to build cities.",
+      ["Stop them from digging up the rivers.", "A gutted hillside is a landslide waiting.", "You halt the extraction and the rivers begin to settle. Construction-stone prices jump and the local bosses lose a racket and turn hostile.", { EN: 8, RE: 4, FI: -4, FA: -6 }],
+      ["Let them keep digging so builders have stones.", "The country is being built; it needs stone.", "Construction roars on cheap stone. The hills slump, the rivers choke, and the strongmen stay loyal and rich.", { RE: 6, FI: 4, EN: -10 }])),
 
   ax("Cross-Border Power Renegotiator", "official", ["import-power", "tariff", "india"],
-    sx("The dollar-indexed tariff on imported Indian electricity has ballooned as the taka fell, and a lopsided clause lets the seller pass on every cost. The renegotiator wants to reopen the contract — at the risk of the supplier pulling the plug.",
-      ["Demand the contract be reopened.", "I will not bleed dollars on a rigged clause.", "You force renegotiation and may claw back terms. The supplier threatens curtailment and a supply gap looms.", { FI: 6, RE: -6, GL: -6 }],
-      ["Honour the contract to keep the power flowing.", "A dark grid costs more than a bad clause.", "The electricity keeps coming uninterrupted. The dollar-indexed bill keeps climbing and draining the reserves.", { RE: 8, GL: 4, FI: -10 }])),
+    sx("The price of electricity you buy from a neighbor has gotten crazy high because of a bad contract.",
+      ["Demand they lower the price and fix the contract.", "I will not bleed dollars on a rigged clause.", "You force renegotiation and may claw back terms. The supplier threatens curtailment and a supply gap looms.", { FI: 6, RE: -6, GL: -6 }],
+      ["Keep paying the crazy high price to be safe.", "A dark grid costs more than a bad clause.", "The electricity keeps coming uninterrupted. The dollar-indexed bill keeps climbing and draining the reserves.", { RE: 8, GL: 4, FI: -10 }])),
 
   ax("Coastal Salinity Officer", "people", ["salinity", "agriculture", "shrimp"],
-    sx("Saltwater shrimp farms are lucrative dollar-earners, but the brine they flood the land with is poisoning the soil and the drinking water of the whole coastal belt. Rice farmers and shrimp barons are at war.",
-      ["Curb the shrimp farms, protect the freshwater.", "Salt money is killing the coast's water.", "You roll back the brine and the soil and wells begin to recover. The shrimp barons — major exporters — lobby and resist.", { EN: 10, RE: 4, FI: -6, FA: -4 }],
-      ["Let the lucrative shrimp farms expand.", "The dollars from shrimp are real and now.", "Export earnings rise on the back of the brine. The coastal belt's fields and drinking water grow saltier each season.", { FI: 6, RE: 4, EN: -12 }])),
+    sx("Shrimp farms make a lot of money, but the salty water they use is destroying the land where poor farmers grow rice.",
+      ["Stop the shrimp farms to protect the farmers' land.", "Salt money is killing the coast's water.", "You roll back the brine and the soil and wells begin to recover. The shrimp barons — major exporters — lobby and resist.", { EN: 10, RE: 4, FI: -6, FA: -4 }],
+      ["Let the shrimp farms grow because they make so much money.", "The dollars from shrimp are real and now.", "Export earnings rise on the back of the brine. The coastal belt's fields and drinking water grow saltier each season.", { FI: 6, RE: 4, EN: -12 }])),
 
   // ── Rooppur nuclear plant ───────────────────────────────────────────────────
   ax("Atomic Energy Chairman", "official", ["nuclear", "rooppur", "debt"],
-    sx("The Russian-built nuclear plant is nearly done, financed by a loan that will shadow the budget for decades, with sanctions pressure mounting over the Moscow tie. Fuel it up on schedule, or pause and renegotiate the terms?",
-      ["Fuel it on schedule, debt and sanctions be damned.", "A finished reactor left cold is the costliest folly.", "The plant comes online and adds clean baseload power. The repayment millstone settles on the budget, and the Russia tie draws cold stares from the West.", { RE: 10, GL: -8, FI: -6 }],
-      ["Pause and renegotiate the loan terms.", "A debt unexamined is a debt that devours.", "You halt commissioning to renegotiate. The power is delayed and Moscow is irritated, but you claw back better terms and a little distance from the sanctions glare.", { FI: 6, GL: 4, RE: -6 }])),
+    sx("Your big power plant from Russia is almost ready, but the rest of the world says you shouldn't work with Russia right now.",
+      ["Turn the plant on anyway, even if the world is mad.", "A finished reactor left cold is the costliest folly.", "The plant comes online and adds clean baseload power. The repayment millstone settles on the budget, and the Russia tie draws cold stares from the West.", { RE: 10, GL: -8, FI: -6 }],
+      ["Stop working on the plant until you fix the rules with everyone.", "A debt unexamined is a debt that devours.", "You halt commissioning to renegotiate. The power is delayed and Moscow is irritated, but you claw back better terms and a little distance from the sanctions glare.", { FI: 6, GL: 4, RE: -6 }])),
 
   // ── Phulbari open-pit coal ──────────────────────────────────────────────────
   ax("Mining Concession Director", "official", ["coal", "phulbari", "displacement"],
-    sx("A foreign company wants to open-pit mine the vast Phulbari coal seam — fuel for decades — but it would displace tens of thousands and drain the aquifer of a whole farming region. The last time it was proposed, three protesters were shot dead.",
-      ["Approve the open-pit mine.", "A seam this rich cannot stay buried.", "The contract is signed and the draglines arrive. Villages are marked for clearance, the protests reignite with the memory of the dead, and the region braces for a fight.", { RE: 10, FI: 6, EN: -12, GL: -4 }],
-      ["Refuse open-pit; pursue underground only.", "I will not drown a region to dig a hole.", "You bar the open pit and limit any extraction to less-disruptive methods. The yield is smaller and the company walks, but the farmland and the aquifer survive.", { EN: 10, GL: 4, RE: -6, FI: -4 }])),
+    sx("A big company wants to dig a massive hole to find coal. It will ruin the water for farmers and make people very angry.",
+      ["Let them dig the giant hole.", "A seam this rich cannot stay buried.", "The contract is signed and the draglines arrive. Villages are marked for clearance, the protests reignite with the memory of the dead, and the region braces for a fight.", { RE: 10, FI: 6, EN: -12, GL: -4 }],
+      ["Tell them no, they have to dig underground tunnels instead.", "I will not drown a region to dig a hole.", "You bar the open pit and limit any extraction to less-disruptive methods. The yield is smaller and the company walks, but the farmland and the aquifer survive.", { EN: 10, GL: 4, RE: -6, FI: -4 }])),
 
   // ── Electricity system loss & theft ─────────────────────────────────────────
   ax("Distribution Utility Chief", "official", ["electricity", "theft", "losses"],
-    sx("A fifth of the power you generate is stolen or lost — illegal hooks, bribed meter readers, crumbling lines. Fund a hard crackdown with prepaid meters and disconnections, hitting the poor hardest, or absorb the loss and keep the peace?",
-      ["Crack down hard with prepaid meters.", "Power given free bankrupts the power.", "The losses fall and the books improve. The poorest, suddenly metered and disconnected, feel the squeeze, and the line workers lose a lucrative racket.", { FI: 8, RE: 6, EN: -8 }],
-      ["Phase it in gently, subsidise the poorest.", "A meter that starves a family is a riot in waiting.", "You spread the reform over years with lifeline tariffs. The theft bleeds the utility longer, but no slum erupts over a dark Eid.", { EN: 6, FI: -6, RE: 2 }])),
+    sx("People are stealing electricity. You can force everyone to use prepaid cards to stop it, but poor people will struggle.",
+      ["Force everyone to use prepaid cards immediately.", "Power given free bankrupts the power.", "The losses fall and the books improve. The poorest, suddenly metered and disconnected, feel the squeeze, and the line workers lose a lucrative racket.", { FI: 8, RE: 6, EN: -8 }],
+      ["Add the cards slowly and help the poor people pay.", "A meter that starves a family is a riot in waiting.", "You spread the reform over years with lifeline tariffs. The theft bleeds the utility longer, but no slum erupts over a dark Eid.", { EN: 6, FI: -6, RE: 2 }])),
 
   // ── Power tariff hike ───────────────────────────────────────────────────────
   ax("Energy Regulator", "official", ["tariff", "subsidy", "cost"],
-    sx("Imported fuel costs have blown a hole in the power subsidy. The regulator presents a steep tariff hike to plug it — politically toxic but fiscally vital — or hold prices and let the subsidy keep bleeding the treasury?",
-      ["Raise the tariff to cover costs.", "Cheap power the state cannot afford is no gift.", "The hike steadies the books and enrages every household and factory. The opposition makes the electricity bill its rallying cry for the season.", { FI: 8, RE: 4, EN: -10 }],
-      ["Hold the tariff, eat the subsidy.", "I will not light my own funeral pyre with a price rise.", "Prices stay frozen and the public exhales. The subsidy gouges the budget deeper, crowding out the schools and clinics that might have been built.", { EN: 8, FI: -10, RE: -2 }])),
+    sx("Gas is too expensive. You have to raise the price of electricity for your people, or the government will run out of money.",
+      ["Raise the price of electricity for everyone.", "Cheap power the state cannot afford is no gift.", "The hike steadies the books and enrages every household and factory. The opposition makes the electricity bill its rallying cry for the season.", { FI: 8, RE: 4, EN: -10 }],
+      ["Keep it cheap and let the government lose money.", "I will not light my own funeral pyre with a price rise.", "Prices stay frozen and the public exhales. The subsidy gouges the budget deeper, crowding out the schools and clinics that might have been built.", { EN: 8, FI: -10, RE: -2 }])),
 
   // ── LNG terminal expansion ──────────────────────────────────────────────────
   ax("Petrobangla Chairman", "official", ["lng", "import", "dependence"],
-    sx("Domestic gas is running dry and a new floating LNG terminal would secure imports — but it locks the country into volatile world prices in dollars you do not have. The chairman wants it signed before winter shortages bite.",
-      ["Sign the LNG terminal deal.", "A cold factory is worse than an expensive one.", "The terminal is contracted and the supply secured. The country's energy now rides the global spot market, and every price spike abroad becomes a crisis at home.", { RE: 8, FI: -8, GL: 2 }],
-      ["Hold off; push domestic exploration first.", "Imported gas is a habit I cannot afford.", "You delay the terminal and pour money into drilling at home. Winter will be tight and shortages likely, but you refuse to mortgage the grid to a foreign spot price.", { RE: -6, FI: 4, EN: -4 }])),
+    sx("You can buy a giant floating gas tank from other countries to keep the lights on, but the price might jump wildly.",
+      ["Buy the giant floating gas tank.", "A cold factory is worse than an expensive one.", "The terminal is contracted and the supply secured. The country's energy now rides the global spot market, and every price spike abroad becomes a crisis at home.", { RE: 8, FI: -8, GL: 2 }],
+      ["Don't buy it, and try to find more gas at home instead.", "Imported gas is a habit I cannot afford.", "You delay the terminal and pour money into drilling at home. Winter will be tight and shortages likely, but you refuse to mortgage the grid to a foreign spot price.", { RE: -6, FI: 4, EN: -4 }])),
 
   // ── National exploration (Bapex) vs IOCs ────────────────────────────────────
   ax("Bapex Managing Director", "official", ["exploration", "gas", "sovereignty"],
-    sx("The national exploration company swears it can find and develop new gas fields cheaply — if you fund it instead of handing the blocks to international majors on production-sharing terms that ship most of the value abroad.",
-      ["Hand the blocks to the international majors.", "Foreign rigs find gas faster than national pride.", "The majors move in with capital and speed. Gas flows sooner, but the production-sharing terms send the lion's share of the value out of the country.", { RE: 8, FI: 4, GL: 2, EN: -2 }],
-      ["Fund Bapex to develop the blocks itself.", "Gas drawn by our own hands stays in our own pockets.", "You back the national company. Development is slower and riskier, but a strike would belong wholly to the nation, building skill that outlasts any contract.", { RE: -2, FI: -6, EN: 4 }])),
+    sx("Your own workers say they can find gas for cheap. Or you can hire foreign companies, who are faster but keep most of the money.",
+      ["Hire the foreign companies to do it fast.", "Foreign rigs find gas faster than national pride.", "The majors move in with capital and speed. Gas flows sooner, but the production-sharing terms send the lion's share of the value out of the country.", { RE: 8, FI: 4, GL: 2, EN: -2 }],
+      ["Let your own workers do it to save money.", "Gas drawn by our own hands stays in our own pockets.", "You back the national company. Development is slower and riskier, but a strike would belong wholly to the nation, building skill that outlasts any contract.", { RE: -2, FI: -6, EN: 4 }])),
 
   // ── Barind tract groundwater ────────────────────────────────────────────────
   ax("Irrigation Authority Head", "official", ["groundwater", "irrigation", "drought"],
-    sx("The deep tube-wells that made the parched Barind tract bloom with rice are draining the aquifer faster than the rains refill it. The head warns of a slow-motion desert; the farmers warn that any cut to pumping fails the harvest now.",
-      ["Keep the pumps running at full tilt.", "A failed harvest topples a government faster than a dry decade.", "The rice keeps coming and the farmers stay calm. The water table sinks another year toward the day the wells suck only dust.", { EN: 4, FI: 2, RE: -10 }],
-      ["Cap pumping, shift to drought-hardy crops.", "A region that mines its own water has a deadline.", "You ration the aquifer and push less-thirsty crops. This season's yields dip and the farmers grumble, but the Barind may still have water in a generation.", { RE: 8, EN: -4, FI: -4 }])),
+    sx("Farmers are pumping too much water out of the ground to grow rice. Soon the land will turn into a desert.",
+      ["Let them keep pumping water to grow rice now.", "A failed harvest topples a government faster than a dry decade.", "The rice keeps coming and the farmers stay calm. The water table sinks another year toward the day the wells suck only dust.", { EN: 4, FI: 2, RE: -10 }],
+      ["Stop them from pumping so much, even if the rice dies.", "A region that mines its own water has a deadline.", "You ration the aquifer and push less-thirsty crops. This season's yields dip and the farmers grumble, but the Barind may still have water in a generation.", { RE: 8, EN: -4, FI: -4 }])),
 
   // ── Tannery pollution relocation ────────────────────────────────────────────
   ax("Environment Inspector", "official", ["tanneries", "pollution", "leather"],
-    sx("The relocated leather tanneries still dump untreated chromium effluent straight into the river because the promised treatment plant was never finished. The inspector wants them shut until it works; the exporters threaten to flee the country.",
-      ["Let the tanneries keep running.", "Leather earns dollars the river cannot.", "The exports continue and the chromium flows. A whole river system and the people who drink from it pay the toll, and the unbuilt treatment plant stays a fiction.", { FI: 6, RE: 2, EN: -12 }],
-      ["Shut them until the treatment plant works.", "A river is not a sewer for export earnings.", "You close the estate until it cleans up. Exporters rage and some relocate abroad, but the river gets a chance and the rule finally has teeth.", { EN: 10, RE: 4, FI: -8, GL: 2 }])),
+    sx("Leather factories are dumping poison chemicals right into the river because they didn't finish building their cleaner.",
+      ["Let the factories keep running and dumping poison.", "Leather earns dollars the river cannot.", "The exports continue and the chromium flows. A whole river system and the people who drink from it pay the toll, and the unbuilt treatment plant stays a fiction.", { FI: 6, RE: 2, EN: -12 }],
+      ["Shut the factories down until they fix their cleaner.", "A river is not a sewer for export earnings.", "You close the estate until it cleans up. Exporters rage and some relocate abroad, but the river gets a chance and the rule finally has teeth.", { EN: 10, RE: 4, FI: -8, GL: 2 }])),
 
   // ── Deep-sea port (Matarbari/Payra) ─────────────────────────────────────────
   ax("Ports Development Chairman", "official", ["port", "infrastructure", "debt"],
-    sx("A deep-sea port would transform trade — and Japanese, Chinese, and Indian backers compete to build it, each deal carrying strategic strings. Pick a patron, or build it slower on your own dime?",
-      ["Take the cheapest foreign deal and its strings.", "A port now is worth a patron's leash.", "Construction races ahead on foreign money. The port rises fast, and so does the geopolitical debt — the chosen patron now has a foothold on your coast.", { RE: 8, FI: 4, GL: -6 }],
-      ["Build slower, financed at home.", "A harbour bought with strings docks foreign warships.", "You forgo the fast foreign money for a slower, self-funded build. The port is years away, but no rival power gains a berth in your strategic waters.", { GL: 6, RE: -4, FI: -6 }])),
+    sx("Big countries want to build a deep ocean dock for you, but they will want to control you if they do.",
+      ["Pick the cheapest big country and let them build it.", "A port now is worth a patron's leash.", "Construction races ahead on foreign money. The port rises fast, and so does the geopolitical debt — the chosen patron now has a foothold on your coast.", { RE: 8, FI: 4, GL: -6 }],
+      ["Build it slowly yourself with your own money.", "A harbour bought with strings docks foreign warships.", "You forgo the fast foreign money for a slower, self-funded build. The port is years away, but no rival power gains a berth in your strategic waters.", { GL: 6, RE: -4, FI: -6 }])),
 
   // ── Jaflong stone quarrying ─────────────────────────────────────────────────
   ax("District Mineral Officer", "official", ["quarrying", "stone", "rivers"],
-    sx("In the northeast, illegal stone quarrying is gutting the riverbeds and hill slopes, feeding the construction boom but collapsing banks and killing labourers in cave-ins. Enforce the ban, or keep the cheap aggregate flowing?",
-      ["Let the quarrying continue.", "The cities are built on this stone.", "The aggregate keeps the construction sector cheap and humming. The rivers braid into ruin, the slopes slump, and another pit swallows another crew.", { FI: 6, RE: -4, EN: -10 }],
-      ["Enforce the quarrying ban.", "Stone pulled from a living river kills it.", "You shut the illegal pits and the riverbeds begin to heal. Construction costs tick up and the local mafias lose a fortune, sending their muscle against your officers.", { EN: 8, RE: 6, FI: -6, MI: -2 }])),
+    sx("People are illegally breaking stones from the hillsides to build cities. It destroys nature and kills workers when rocks fall.",
+      ["Let them keep breaking the stones.", "The cities are built on this stone.", "The aggregate keeps the construction sector cheap and humming. The rivers braid into ruin, the slopes slump, and another pit swallows another crew.", { FI: 6, RE: -4, EN: -10 }],
+      ["Send police to stop them completely.", "Stone pulled from a living river kills it.", "You shut the illegal pits and the riverbeds begin to heal. Construction costs tick up and the local mafias lose a fortune, sending their muscle against your officers.", { EN: 8, RE: 6, FI: -6, MI: -2 }])),
 
   // ── Hilsa fishery ban season ────────────────────────────────────────────────
   ax("Fisheries Director", "people", ["hilsa", "fishing", "livelihoods"],
-    sx("The national fish spawns only if you enforce a strict fishing ban during the breeding season — but that means tens of thousands of fishing families with no income for weeks. Enforce the ban hard, or look away to spare the hunger?",
-      ["Enforce the breeding-season ban hard.", "A fish that cannot spawn feeds no one next year.", "Patrols keep the nets out of the water and the stocks rebound spectacularly. The fishing families go hungry for the weeks of the ban, and resent every patrol boat.", { RE: 8, EN: -6, FI: 2 }],
-      ["Relax the ban to spare the families.", "A starving fisherman cannot wait for next season.", "You ease enforcement and the families eat. The catch this season holds, but the spawning falters and next year's nets come up lighter.", { EN: 6, RE: -8, FI: -2 }])),
+    sx("You have to ban fishing while the fish have babies, but this means poor fishing families will have no food for weeks.",
+      ["Enforce the strict ban to save the fish.", "A fish that cannot spawn feeds no one next year.", "Patrols keep the nets out of the water and the stocks rebound spectacularly. The fishing families go hungry for the weeks of the ban, and resent every patrol boat.", { RE: 8, EN: -6, FI: 2 }],
+      ["Let them fish a little so they don't starve.", "A starving fisherman cannot wait for next season.", "You ease enforcement and the families eat. The catch this season holds, but the spawning falters and next year's nets come up lighter.", { EN: 6, RE: -8, FI: -2 }])),
 
   // ── Rooftop solar net metering ──────────────────────────────────────────────
   ax("Renewable Energy Adviser", "official", ["solar", "net-metering", "transition"],
-    sx("A net-metering scheme would let factories and homes put rooftop solar on the grid and sell back the surplus — cutting imports and emissions. The utilities resist, since every rooftop panel is a customer they lose. Whose side do you take?",
-      ["Side with the utilities, stall net metering.", "A grid undercut by a million rooftops collapses.", "You protect the utilities' monopoly and the rooftops stay bare. Fuel imports stay high, and the clean-energy future drifts another few years out of reach.", { FI: 2, RE: -4, EN: -6 }],
-      ["Mandate generous net metering.", "Every rooftop is a power plant I did not have to build.", "You force the grid open to rooftop solar. The utilities howl about lost revenue, but imports ease, the air clears, and a solar industry takes root.", { EN: 8, RE: 6, FI: -4 }])),
+    sx("You can let people put solar panels on their roofs and sell extra power back to the government. Power companies hate this.",
+      ["Side with the power companies and say no to roof panels.", "A grid undercut by a million rooftops collapses.", "You protect the utilities' monopoly and the rooftops stay bare. Fuel imports stay high, and the clean-energy future drifts another few years out of reach.", { FI: 2, RE: -4, EN: -6 }],
+      ["Say yes to the roof panels and let people sell power.", "Every rooftop is a power plant I did not have to build.", "You force the grid open to rooftop solar. The utilities howl about lost revenue, but imports ease, the air clears, and a solar industry takes root.", { EN: 8, RE: 6, FI: -4 }])),
 
   // ── Cross-border grid import ────────────────────────────────────────────────
   ax("Grid Interconnection Officer", "ambassador", ["grid", "import", "regional"],
-    sx("You can import cheap hydropower across the border through a regional grid — clean, plentiful, and a hedge against fuel shocks. But it deepens dependence on a giant neighbour who could, in a quarrel, simply pull the plug.",
-      ["Sign the cross-border power import.", "Cheap clean power outweighs a distant risk.", "The hydropower flows in and bills ease. Your grid now leans on a neighbour's goodwill, a switch in a foreign capital that could one day darken your cities.", { RE: 8, FI: 4, GL: 2, MI: -4 }],
-      ["Decline; build domestic capacity instead.", "A switch in another's hand is a noose in waiting.", "You forgo the cheap import for self-reliance. Power stays costlier and dirtier for now, but no foreign hand rests on your grid's master switch.", { MI: 4, RE: -4, FI: -4 }])),
+    sx("You can buy cheap, clean power from a neighbor, but they could shut your lights off easily if they get mad at you.",
+      ["Buy the cheap power from the neighbor.", "Cheap clean power outweighs a distant risk.", "The hydropower flows in and bills ease. Your grid now leans on a neighbour's goodwill, a switch in a foreign capital that could one day darken your cities.", { RE: 8, FI: 4, GL: 2, MI: -4 }],
+      ["Don't buy it, and build your own power plants safely.", "A switch in another's hand is a noose in waiting.", "You forgo the cheap import for self-reliance. Power stays costlier and dirtier for now, but no foreign hand rests on your grid's master switch.", { MI: 4, RE: -4, FI: -4 }])),
 
   // ── Fertilizer gas feedstock ────────────────────────────────────────────────
   ax("Agriculture Minister", "official", ["fertilizer", "gas", "food"],
-    sx("The state fertilizer plants devour scarce gas to make cheap urea for farmers — gas the power sector is desperate for. Keep feeding the fertilizer plants for food security, or divert the gas to keep the lights on?",
-      ["Keep gas flowing to fertilizer.", "Cheap urea is cheap rice is a calm country.", "The farmers get their subsidised urea and the harvest holds. The power sector starves of the diverted gas, and load-shedding creeps back into the cities.", { EN: 6, FI: -4, RE: -4 }],
-      ["Divert the gas to power generation.", "A dark grid stops a country faster than dear fertilizer.", "You redirect the gas to the turbines and the lights stay on. Fertilizer prices climb, farmers protest, and the next harvest carries a question mark.", { RE: 6, EN: -6, FI: 2 }])),
+    sx("You only have enough gas to make plant food for the farms OR to keep the city's power on.",
+      ["Give the gas to the farms for food.", "Cheap urea is cheap rice is a calm country.", "The farmers get their subsidised urea and the harvest holds. The power sector starves of the diverted gas, and load-shedding creeps back into the cities.", { EN: 6, FI: -4, RE: -4 }],
+      ["Give the gas to the city for power.", "A dark grid stops a country faster than dear fertilizer.", "You redirect the gas to the turbines and the lights stay on. Fertilizer prices climb, farmers protest, and the next harvest carries a question mark.", { RE: 6, EN: -6, FI: 2 }])),
 
   // ── Capacity-charge indemnity renewal ───────────────────────────────────────
   ax("Power Cell Director", "fixer", ["capacity-charge", "indemnity", "rentals"],
-    sx("The notorious law that lets you award power-plant contracts with no tender and no legal challenge — source of the ruinous 'capacity charges' paid to idle plants — is up for renewal. The director's friends in the rental business want it extended.",
-      ["Renew the no-tender indemnity law.", "My donors' plants must keep their guarantees.", "The law is extended and the capacity charges keep flowing to idle plants. Your rental-baron donors are delighted, and the public keeps paying for power it never receives.", { FI: -4, RE: 2, EN: -8, FA: 4 }],
-      ["Let the indemnity law lapse.", "Paying for electricity that never comes is a scandal I will end.", "You let the shield expire and open the sector to tenders and lawsuits. The rental barons rage and threaten, but the rip-off capacity charges finally face daylight.", { EN: 8, FI: 6, RE: -2, FA: -4 }])),
+    sx("There is a bad rule that lets you give big contracts to your rich friends without checking if it's a fair price.",
+      ["Keep the bad rule so your friends stay rich.", "My donors' plants must keep their guarantees.", "The law is extended and the capacity charges keep flowing to idle plants. Your rental-baron donors are delighted, and the public keeps paying for power it never receives.", { FI: -4, RE: 2, EN: -8, FA: 4 }],
+      ["Get rid of the bad rule to make things fair.", "Paying for electricity that never comes is a scandal I will end.", "You let the shield expire and open the sector to tenders and lawsuits. The rental barons rage and threaten, but the rip-off capacity charges finally face daylight.", { EN: 8, FI: 6, RE: -2, FA: -4 }])),
 
   // ── Brick kilns and topsoil ─────────────────────────────────────────────────
   ax("Environment Inspector", "people", ["brick-kilns", "topsoil", "air"],
-    sx("Thousands of illegal brick kilns ring the cities, burning coal and fertile topsoil into smog that chokes the capital every winter. The inspector wants them forced onto clean technology or shut; the kiln owners employ a million workers.",
-      ["Leave the kilns as they are.", "A million jobs outweigh a season of smog.", "The kilns keep firing and the workers keep their wages. The capital's winter air becomes the world's worst, and the cropland loses its skin one kiln at a time.", { FI: 4, EN: -12, RE: -4 }],
-      ["Force clean kilns or closure.", "Bricks baked from topsoil and smog cost more than they earn.", "You mandate cleaner zigzag technology and shut the worst offenders. Some kilns close and workers are displaced, but the air and the farmland get a reprieve.", { EN: 10, RE: 6, FI: -6 }])),
+    sx("Dirty brick factories are making the city air poisonous. You can shut them down, but thousands of poor workers will lose their jobs.",
+      ["Leave the dirty brick factories open for the jobs.", "A million jobs outweigh a season of smog.", "The kilns keep firing and the workers keep their wages. The capital's winter air becomes the world's worst, and the cropland loses its skin one kiln at a time.", { FI: 4, EN: -12, RE: -4 }],
+      ["Force them to be clean or shut them down.", "Bricks baked from topsoil and smog cost more than they earn.", "You mandate cleaner zigzag technology and shut the worst offenders. Some kilns close and workers are displaced, but the air and the farmland get a reprieve.", { EN: 10, RE: 6, FI: -6 }])),
 
   // ── Marine trawler overfishing ──────────────────────────────────────────────
   ax("Coast Guard Commander", "general", ["fishing", "trawlers", "maritime"],
-    sx("Foreign industrial trawlers are sweeping your newly-won maritime zone bare, often with bribed permits, while artisanal fishers come home empty. Mount costly patrols to drive them out, or keep taking the licence fees and look away?",
-      ["Keep the licence fees, look away.", "The fees are certain; the patrols are expensive.", "The foreign trawlers keep dragging your waters and the fees fill a ledger. The small fishers' nets come up empty, and the fishery heads toward collapse.", { FI: 6, RE: -8, EN: -6 }],
-      ["Patrol hard and expel the trawlers.", "A sea swept bare by foreigners feeds no one here.", "You fund the patrols and drive the foreign fleets out. It costs the navy dearly and angers the licence-buyers' governments, but the stocks and the artisanal fishers recover.", { RE: 8, EN: 6, FI: -6, GL: -2 }])),
+    sx("Giant ships from other countries are stealing all the fish from your ocean.",
+      ["Look away because the giant ships pay you secret fees.", "The fees are certain; the patrols are expensive.", "The foreign trawlers keep dragging your waters and the fees fill a ledger. The small fishers' nets come up empty, and the fishery heads toward collapse.", { FI: 6, RE: -8, EN: -6 }],
+      ["Send your guards to chase the giant ships away.", "A sea swept bare by foreigners feeds no one here.", "You fund the patrols and drive the foreign fleets out. It costs the navy dearly and angers the licence-buyers' governments, but the stocks and the artisanal fishers recover.", { RE: 8, EN: 6, FI: -6, GL: -2 }])),
 
   // ── E-waste and recycling ───────────────────────────────────────────────────
   ax("Industries Secretary", "official", ["e-waste", "recycling", "toxics"],
-    sx("The country has become a dumping ground for the world's electronic waste, picked apart by hand — including children's — in toxic backyard yards. Crack down and demand a formal recycling industry, or keep the cheap scrap trade flowing?",
-      ["Let the informal e-waste trade run.", "Scrap is scrap, and it employs the poor.", "The backyard yards keep smelting circuit boards over open fires. The lead and cadmium seep into the children who work them, and the world keeps shipping its poison here.", { FI: 4, RE: -2, EN: -10 }],
-      ["Mandate a formal recycling industry.", "I will not let the world poison our children for scrap.", "You ban the backyard trade and license proper recyclers. The cheap scrap economy contracts, but the toxic exposure falls and a real industry begins to form.", { EN: 8, RE: 4, FI: -4, GL: 2 }])),
+    sx("Other countries are dumping their broken computers and phones here. Poor kids are taking them apart with their bare hands in toxic dirt.",
+      ["Let them keep taking apart the toxic garbage.", "Scrap is scrap, and it employs the poor.", "The backyard yards keep smelting circuit boards over open fires. The lead and cadmium seep into the children who work them, and the world keeps shipping its poison here.", { FI: 4, RE: -2, EN: -10 }],
+      ["Make strict rules so it is done safely in real factories.", "I will not let the world poison our children for scrap.", "You ban the backyard trade and license proper recyclers. The cheap scrap economy contracts, but the toxic exposure falls and a real industry begins to form.", { EN: 8, RE: 4, FI: -4, GL: 2 }])),
 
   // ── Sundarbans community livelihoods ────────────────────────────────────────
   ax("Forest Conservator", "relief", ["sundarbans", "forest", "livelihoods"],
-    sx("To protect the mangrove forest you can bar the honey-collectors, woodcutters, and fishers whose families have lived off it for centuries — or let them keep harvesting and watch it thin. The forest cannot bear both protection and people forever.",
-      ["Bar the forest communities for conservation.", "A forest emptied of axes survives.", "You evict the harvesters and the mangroves recover. Generations of forest families lose their only livelihood, and resentment festers along the forest's edge.", { RE: 8, EN: -6, FA: -2 }],
-      ["Let the communities keep harvesting sustainably.", "A forest is kept by those who live in it, not those who fence it.", "You license sustainable, limited harvesting and bring the communities into protection. The forest thins more slowly, and its people become its guardians instead of its enemies.", { EN: 6, RE: 2, FI: -2 }])),
+    sx("To save the big forest, you have to kick out the poor villagers who collect honey and catch fish there to survive.",
+      ["Kick the poor villagers out to save the forest.", "A forest emptied of axes survives.", "You evict the harvesters and the mangroves recover. Generations of forest families lose their only livelihood, and resentment festers along the forest's edge.", { RE: 8, EN: -6, FA: -2 }],
+      ["Let the villagers stay and gather a little bit of food.", "A forest is kept by those who live in it, not those who fence it.", "You license sustainable, limited harvesting and bring the communities into protection. The forest thins more slowly, and its people become its guardians instead of its enemies.", { EN: 6, RE: 2, FI: -2 }])),
 
   // ── Jute revival ────────────────────────────────────────────────────────────
   ax("Jute Ministry Secretary", "official", ["jute", "industry", "heritage"],
-    sx("The state jute mills — once the 'golden fibre' that built the economy — bleed losses every year, kept alive for the workers and the heritage. Shut the rotting mills to stop the bleeding, or pour in another bailout and a modernisation gamble?",
-      ["Shut the loss-making jute mills.", "Nostalgia is not a balance sheet.", "You close the mills and stem the losses. Tens of thousands of workers and a piece of national identity are cast off, and the jute towns turn against you.", { FI: 8, RE: 2, EN: -8 }],
-      ["Bail out and modernise the mills.", "The golden fibre may yet be gold again.", "You fund a modernisation push toward jute textiles and bioplastics. It is a costly gamble, but the workers keep their looms and a heritage industry gets one more chance.", { EN: 6, RE: 4, FI: -8 }])),
+    sx("Old government factories are losing money every day. You can shut them down, or pay to fix them up even though it's risky.",
+      ["Shut down the losing factories.", "Nostalgia is not a balance sheet.", "You close the mills and stem the losses. Tens of thousands of workers and a piece of national identity are cast off, and the jute towns turn against you.", { FI: 8, RE: 2, EN: -8 }],
+      ["Pay to fix them up and keep trying.", "The golden fibre may yet be gold again.", "You fund a modernisation push toward jute textiles and bioplastics. It is a costly gamble, but the workers keep their looms and a heritage industry gets one more chance.", { EN: 6, RE: 4, FI: -8 }])),
 
   // ── Payra coal terminal ─────────────────────────────────────────────────────
   ax("Coal Import Coordinator", "official", ["coal", "import", "logistics"],
-    sx("Your new coal plants need a steady stream of imported coal, and a dedicated deep-water terminal would lock in cheap supply for decades. It also chains the country to coal long after the world has moved to phase it out.",
-      ["Build the dedicated coal terminal.", "My plants are built; they must be fed.", "The terminal secures decades of cheap coal for the plants you have. You also build infrastructure the world is racing to abandon, a stranded asset waiting to happen.", { RE: 8, FI: 2, EN: -10, GL: -4 }],
-      ["Cancel the terminal, plan for coal's exit.", "A terminal for a dying fuel is a tomb I am paying to dig.", "You scrap the terminal and begin planning coal's phase-out. The existing plants run short-fed and costly, but you stop sinking money into a stranded future.", { EN: 8, GL: 4, RE: -6, FI: -2 }])),
+    sx("Your power plants need dirty coal to run. You can build a giant dock just for coal, which means you'll be stuck using dirty coal for years.",
+      ["Build the giant coal dock.", "My plants are built; they must be fed.", "The terminal secures decades of cheap coal for the plants you have. You also build infrastructure the world is racing to abandon, a stranded asset waiting to happen.", { RE: 8, FI: 2, EN: -10, GL: -4 }],
+      ["Say no and start moving away from dirty coal.", "A terminal for a dying fuel is a tomb I am paying to dig.", "You scrap the terminal and begin planning coal's phase-out. The existing plants run short-fed and costly, but you stop sinking money into a stranded future.", { EN: 8, GL: 4, RE: -6, FI: -2 }])),
 
   // ── Capital water and sewerage overhaul ─────────────────────────────────────
   ax("WASA Managing Director", "people", ["water", "dhaka", "pollution"],
-    sx("The capital's piped water is so contaminated that millions boil it or buy it by the jar, while the rivers ringing the city are biologically dead. Fund a vast overhaul of treatment and sewerage, or keep patching and let people cope?",
-      ["Keep patching the old system.", "A full overhaul is a budget I do not have.", "You make do with repairs and the taps keep running brown. The dead rivers stay dead, the bottled-water bills crush the poor, and waterborne disease simmers on.", { FI: 4, EN: -8, RE: -4 }],
-      ["Fund the full water and sewerage overhaul.", "A capital that cannot drink its own water is failing.", "You commit to the costly rebuild of treatment and sewers. The budget groans for years, but a generation may finally drink from the tap without fear.", { EN: 10, RE: 6, FI: -10 }])),
+    sx("The city's water is so dirty everyone has to boil it before drinking. Fixing the pipes will cost a huge amount of money.",
+      ["Keep the old, dirty pipes and let people boil water.", "A full overhaul is a budget I do not have.", "You make do with repairs and the taps keep running brown. The dead rivers stay dead, the bottled-water bills crush the poor, and waterborne disease simmers on.", { FI: 4, EN: -8, RE: -4 }],
+      ["Pay the huge amount of money to completely fix the pipes.", "A capital that cannot drink its own water is failing.", "You commit to the costly rebuild of treatment and sewers. The budget groans for years, but a generation may finally drink from the tap without fear.", { EN: 10, RE: 6, FI: -10 }])),
 
   // ── Magurchhara-style gas blowout ───────────────────────────────────────────
   ax("Petrobangla Chairman", "official", ["gas", "blowout", "compensation"],
-    sx("A foreign operator's well has blown out, burning a forest and a fortune in gas for weeks. The company offers a token settlement and denies liability. Fight for full compensation, or take the quiet money and move on?",
-      ["Take the token settlement quietly.", "A long fight scares off the next investor.", "You accept the pittance and sign away the claim. The reserve and the forest are gone for nothing, and every future operator learns that recklessness here is cheap.", { FI: 2, GL: 2, RE: -8, EN: -6 }],
-      ["Demand full compensation in court.", "A burned reserve is a debt the burner will pay.", "You sue for the true value of the lost gas and the scorched land. The investor climate cools and the case drags, but you set a precedent that negligence here has a price.", { RE: 4, EN: 4, FI: -2, GL: -4 }])),
+    sx("A foreign company's gas well blew up, burning a forest and lots of gas. They offer a tiny bit of money and say it's not their fault.",
+      ["Take the tiny bit of money quietly.", "A long fight scares off the next investor.", "You accept the pittance and sign away the claim. The reserve and the forest are gone for nothing, and every future operator learns that recklessness here is cheap.", { FI: 2, GL: 2, RE: -8, EN: -6 }],
+      ["Take them to court and demand all the money to fix the forest.", "A burned reserve is a debt the burner will pay.", "You sue for the true value of the lost gas and the scorched land. The investor climate cools and the case drags, but you set a precedent that negligence here has a price.", { RE: 4, EN: 4, FI: -2, GL: -4 }])),
 
   // ── Household gas connection moratorium ─────────────────────────────────────
   ax("Energy Secretary", "people", ["gas", "households", "rationing"],
-    sx("With gas reserves dwindling, you have frozen new household pipeline connections — but millions on the waiting list, who have paid bribes for years, are furious. Lift the freeze to win goodwill, or hold it to ration the dying reserve for industry?",
-      ["Lift the freeze, connect the households.", "A promised connection denied is a vote lost.", "The taps open for the waiting millions and the goodwill flows. The reserve drains faster toward the day the gas simply runs out, for homes and factories alike.", { EN: 8, RE: -10, FI: -2 }],
-      ["Hold the freeze, ration gas for industry.", "Gas burned in a stove builds nothing; gas in a factory builds a country.", "You keep the freeze and steer the gas to industry and power. The waiting millions seethe, but the reserve stretches further and the factories keep running.", { RE: 6, FI: 4, EN: -8 }])),
+    sx("Gas is running out, so you stopped giving gas pipes to new homes. Millions of angry people are waiting.",
+      ["Give gas to the homes to make people happy.", "A promised connection denied is a vote lost.", "The taps open for the waiting millions and the goodwill flows. The reserve drains faster toward the day the gas simply runs out, for homes and factories alike.", { EN: 8, RE: -10, FI: -2 }],
+      ["Keep the gas locked up and save it for factories.", "Gas burned in a stove builds nothing; gas in a factory builds a country.", "You keep the freeze and steer the gas to industry and power. The waiting millions seethe, but the reserve stretches further and the factories keep running.", { RE: 6, FI: 4, EN: -8 }])),
 
   // ── Karnaphuli tunnel / mega-infra toll ─────────────────────────────────────
   ax("Bridges Authority Chairman", "official", ["infrastructure", "toll", "debt"],
-    sx("A signature river tunnel has opened on foreign loans, but traffic is a fraction of the rosy forecasts that justified it. Set punishing tolls to service the debt, or keep tolls low and let the loss sit on the public books?",
-      ["Set high tolls to service the debt.", "The users of the tunnel should pay for it.", "The tolls bite and the debt is serviced. Hauliers reroute to avoid the cost, traffic thins further, and the showpiece becomes a monument to optimistic forecasts.", { FI: 6, RE: 2, EN: -6 }],
-      ["Keep tolls low, absorb the loss.", "A tunnel no one can afford to use is a tomb.", "You keep the toll cheap and the traffic builds. The debt sits unpaid on the public ledger, a quiet weight that some future budget will have to carry.", { EN: 6, RE: 2, FI: -8 }])),
+    sx("A cool new river tunnel was built with borrowed money, but hardly anyone drives through it.",
+      ["Charge a high price to drive through so you can pay back the loan.", "The users of the tunnel should pay for it.", "The tolls bite and the debt is serviced. Hauliers reroute to avoid the cost, traffic thins further, and the showpiece becomes a monument to optimistic forecasts.", { FI: 6, RE: 2, EN: -6 }],
+      ["Keep the price low and let the government lose money.", "A tunnel no one can afford to use is a tomb.", "You keep the toll cheap and the traffic builds. The debt sits unpaid on the public ledger, a quiet weight that some future budget will have to carry.", { EN: 6, RE: 2, FI: -8 }])),
 
   // ── EV and charging transition ──────────────────────────────────────────────
   ax("Transport Electrification Adviser", "official", ["ev", "transport", "imports"],
-    sx("Imported vehicle fuel drains your dollars by the billion. The adviser proposes aggressive incentives for electric vehicles and a charging network — slashing the oil bill over time, but stranding the gas-station economy and demanding more grid power up front.",
-      ["Push hard for the EV transition.", "Every electric mile is a dollar that stays home.", "Incentives and chargers roll out and the EVs come. The fuel-import bill begins its long decline, while the grid strains and the petrol-pump economy starts to wither.", { RE: 6, FI: 4, EN: 4, GL: 2 }],
-      ["Stick with the existing fuel fleet.", "A grid this fragile cannot charge a nation's cars.", "You hold off and keep the petrol economy intact. The fuel-import bill keeps bleeding dollars, but the strained grid is spared and the pump-workers keep their trade.", { FI: -4, RE: -4, EN: -2 }])),
+    sx("Buying gas from other countries costs too much money. You can help people buy electric cars instead, but it will upset the gas stations and use a lot of electricity.",
+      ["Push hard to get everyone electric cars.", "Every electric mile is a dollar that stays home.", "Incentives and chargers roll out and the EVs come. The fuel-import bill begins its long decline, while the grid strains and the petrol-pump economy starts to wither.", { RE: 6, FI: 4, EN: 4, GL: 2 }],
+      ["Keep using regular gas cars.", "A grid this fragile cannot charge a nation's cars.", "You hold off and keep the petrol economy intact. The fuel-import bill keeps bleeding dollars, but the strained grid is spared and the pump-workers keep their trade.", { FI: -4, RE: -4, EN: -2 }])),
 
   // ── Coastal wind power ──────────────────────────────────────────────────────
   ax("Renewable Energy Adviser", "official", ["wind", "coast", "renewables"],
-    sx("The coast has strong, steady wind, and a foreign developer offers a large wind farm — clean power, but on prime coastal land that fishers and salt-farmers use, at a guaranteed tariff higher than coal.",
-      ["Approve the coastal wind farm.", "Wind is the one fuel no one can embargo.", "The turbines rise and clean power flows. The fishers and salt-farmers lose ground and the tariff is steep, but the country gains a fuel free of import and emission.", { RE: 6, EN: 4, FI: -4 }],
-      ["Reject it to protect the coastal commons.", "A green plant on stolen land is not clean.", "You refuse to displace the coastal livelihoods for the turbines. The clean-power gain is forgone, but the fishers and salt-farmers keep the shore they have always worked.", { EN: 4, RE: -4, FI: 2 }])),
+    sx("A foreign company wants to build giant windmills on the beach for clean power. But this will take up the land where fishermen and farmers work.",
+      ["Say yes and build the windmills on the beach.", "Wind is the one fuel no one can embargo.", "The turbines rise and clean power flows. The fishers and salt-farmers lose ground and the tariff is steep, but the country gains a fuel free of import and emission.", { RE: 6, EN: 4, FI: -4 }],
+      ["Say no to protect the fishermen and farmers.", "A green plant on stolen land is not clean.", "You refuse to displace the coastal livelihoods for the turbines. The clean-power gain is forgone, but the fishers and salt-farmers keep the shore they have always worked.", { EN: 4, RE: -4, FI: 2 }])),
 
   // ── Char land allocation ────────────────────────────────────────────────────
   ax("Land Reform Commissioner", "people", ["char-land", "landless", "grabbing"],
-    sx("New river islands — fertile silt 'chars' — have surfaced, and they are state land by law. Distribute them to the landless families who already farm them, or let the local strongmen who 'manage' the chars formalise their grab?",
-      ["Let the strongmen formalise their hold.", "The chars are already governed by those who hold them.", "The mastans get their titles and the landless become their tenants. A vast tract of fertile new land entrenches the very feudalism land reform was meant to end.", { FI: 2, RE: 2, EN: -8, MI: 2 }],
-      ["Distribute the chars to the landless.", "New land should make new owners, not new landlords.", "You title the chars to the families who farm them. The strongmen lose a prize and send their thugs, but thousands of landless households gain ground of their own.", { EN: 10, RE: 4, MI: -4, FA: -2 }])),
+    sx("New mud islands just popped up in the river, and they belong to the government.",
+      ["Let rich bullies steal the islands.", "The chars are already governed by those who hold them.", "The mastans get their titles and the landless become their tenants. A vast tract of fertile new land entrenches the very feudalism land reform was meant to end.", { FI: 2, RE: 2, EN: -8, MI: 2 }],
+      ["Give the islands to poor, homeless farmers.", "New land should make new owners, not new landlords.", "You title the chars to the families who farm them. The strongmen lose a prize and send their thugs, but thousands of landless households gain ground of their own.", { EN: 10, RE: 4, MI: -4, FA: -2 }])),
 
   // ── Haor wetland protection ─────────────────────────────────────────────────
   ax("Wetlands Director", "relief", ["haor", "wetland", "flash-flood"],
-    sx("The vast northeastern haor wetlands — a boro rice crop, a fishery, a bird sanctuary — are being diked for year-round farming, which raises yields but destroys the flood-pulse the whole ecosystem depends on. The director begs you to choose.",
-      ["Allow the diking for higher yields.", "More crops from the same water is progress.", "The dikes go up and the rice doubles for a while. The fishery crashes, the birds vanish, and one bad flash-flood now drowns a crop the wetland used to absorb.", { FI: 4, RE: -6, EN: -8 }],
-      ["Protect the natural flood-pulse.", "A wetland drained is a famine deferred.", "You halt the conversion and protect the flood-pulse. The single-crop yields stay modest, but the fishery, the birds, and the wetland's flood defence all survive.", { EN: 8, RE: 6, FI: -4 }])),
+    sx("Farmers are building walls in the big wetlands to grow more food. But the walls destroy nature and hurt the birds and fish.",
+      ["Let them build walls to grow more food.", "More crops from the same water is progress.", "The dikes go up and the rice doubles for a while. The fishery crashes, the birds vanish, and one bad flash-flood now drowns a crop the wetland used to absorb.", { FI: 4, RE: -6, EN: -8 }],
+      ["Stop them to protect nature and the animals.", "A wetland drained is a famine deferred.", "You halt the conversion and protect the flood-pulse. The single-crop yields stay modest, but the fishery, the birds, and the wetland's flood defence all survive.", { EN: 8, RE: 6, FI: -4 }])),
 
   // ── St Martin's coral island ────────────────────────────────────────────────
   ax("Tourism Board Chair", "official", ["coral", "tourism", "island"],
-    sx("The country's only coral island is being loved to death — hotels on the dunes, day-trippers trampling the reef, plastic everywhere. Cap visitors and tear down illegal resorts to save the reef, or keep the tourist revenue flowing?",
-      ["Keep the tourism flowing.", "The island earns its keep in tourist taka.", "The hotels stay and the boats keep coming. The reef bleaches and breaks under the crowds, and the one coral ecosystem in the country slides toward death.", { FI: 6, RE: -4, EN: -8 }],
-      ["Cap visitors, demolish illegal resorts.", "A dead reef draws no one.", "You ration access and raze the illegal hotels. The local tourist economy takes a blow and the resort-owners sue, but the reef gets a fighting chance to recover.", { EN: 8, RE: 6, FI: -6 }])),
+    sx("Your beautiful coral island is being ruined by too many tourists and their trash.",
+      ["Let everyone keep coming for the money.", "The island earns its keep in tourist taka.", "The hotels stay and the boats keep coming. The reef bleaches and breaks under the crowds, and the one coral ecosystem in the country slides toward death.", { FI: 6, RE: -4, EN: -8 }],
+      ["Stop some people from visiting and tear down bad hotels.", "A dead reef draws no one.", "You ration access and raze the illegal hotels. The local tourist economy takes a blow and the resort-owners sue, but the reef gets a fighting chance to recover.", { EN: 8, RE: 6, FI: -6 }])),
 
   // ── National plastics ban ───────────────────────────────────────────────────
   ax("Environment Secretary", "official", ["plastic", "pollution", "ban"],
-    sx("Single-use plastic chokes every drain, river, and field — and clogs the very canals whose blockage floods the capital. The secretary proposes a hard ban and a jute-bag mandate. The plastics industry, a big employer and donor, will fight to the death.",
-      ["Hold off on the plastics ban.", "A ban that kills an industry kills jobs and donors.", "You spare the plastics industry and the bags keep flowing. The drains clog, the floods worsen, and the microplastics work their way into the fish and the people.", { FI: 4, FA: 2, EN: -10, RE: -4 }],
-      ["Enforce the ban, mandate jute bags.", "A drain choked with plastic drowns a city.", "You ban the worst single-use plastics and revive the jute-bag trade. The plastics lobby rages and some jobs vanish, but the drains clear and a jute revival stirs.", { EN: 10, RE: 6, FI: -6, FA: -2 }])),
+    sx("Plastic trash is clogging up all the rivers and making the city flood. A helper wants to ban plastic bags completely, but plastic makers will be very angry.",
+      ["Don't ban the plastic bags yet.", "A ban that kills an industry kills jobs and donors.", "You spare the plastics industry and the bags keep flowing. The drains clog, the floods worsen, and the microplastics work their way into the fish and the people.", { FI: 4, FA: 2, EN: -10, RE: -4 }],
+      ["Ban the plastic bags and force people to use safe cloth bags.", "A drain choked with plastic drowns a city.", "You ban the worst single-use plastics and revive the jute-bag trade. The plastics lobby rages and some jobs vanish, but the drains clear and a jute revival stirs.", { EN: 10, RE: 6, FI: -6, FA: -2 }])),
 
   // ── Heavy mineral sands ─────────────────────────────────────────────────────
   ax("Geological Survey Director", "official", ["minerals", "sands", "mining"],
-    sx("The coastal beaches hold valuable heavy-mineral sands — zircon, titanium, rare earths — that a foreign miner wants to extract. Real money, but strip-mining the beaches would gut the storm-buffering dunes and the turtle nesting grounds.",
-      ["Approve the beach mineral mining.", "Rare earths in the sand are riches wasted unmined.", "The miners move in and the export earnings begin. The dunes that blunt the cyclones are carried away by the truckload, and the coast loses its natural armour.", { FI: 8, RE: 6, EN: -10 }],
-      ["Keep the beaches and dunes intact.", "Dunes that stop a cyclone are worth more than zircon.", "You refuse the concession. The mineral wealth stays buried, but the dunes keep standing between the storms and the people behind them.", { EN: 8, RE: -2, FI: -4 }])),
+    sx("The beaches have special sand that a company wants to dig up for money. But digging it up will destroy the beach and the turtle nests.",
+      ["Let them dig up the beach for money.", "Rare earths in the sand are riches wasted unmined.", "The miners move in and the export earnings begin. The dunes that blunt the cyclones are carried away by the truckload, and the coast loses its natural armour.", { FI: 8, RE: 6, EN: -10 }],
+      ["Say no and protect the beach and turtles.", "Dunes that stop a cyclone are worth more than zircon.", "You refuse the concession. The mineral wealth stays buried, but the dunes keep standing between the storms and the people behind them.", { EN: 8, RE: -2, FI: -4 }])),
 
   // ── Embankment and polder repair ────────────────────────────────────────────
   ax("Water Development Chief", "people", ["embankment", "polder", "flood"],
-    sx("The coastal embankments that hold back the tides are decades old and failing; one big surge could drown a district. Fund a massive repair programme, or keep doing emergency patch-jobs after each breach — cheaper now, catastrophic later?",
-      ["Keep patching breaches as they come.", "A full rebuild is a budget I will spend on the next disaster.", "You fund only the emergency repairs. Each cyclone breaches the weak embankments anew, salting fields and drowning homes the rebuild would have saved.", { FI: 4, RE: -4, EN: -8 }],
-      ["Fund the full embankment rebuild.", "An embankment is cheap next to the district it saves.", "You commit to rebuilding the polders properly. The cost is huge and slow to show, but a coastal district gains a real wall against the rising, angrier sea.", { EN: 10, RE: 6, FI: -10 }])),
+    sx("The walls holding the ocean back are old and breaking. A big storm could drown everyone.",
+      ["Just patch the broken spots for now.", "A full rebuild is a budget I will spend on the next disaster.", "You fund only the emergency repairs. Each cyclone breaches the weak embankments anew, salting fields and drowning homes the rebuild would have saved.", { FI: 4, RE: -4, EN: -8 }],
+      ["Spend a lot of money to completely rebuild the walls.", "An embankment is cheap next to the district it saves.", "You commit to rebuilding the polders properly. The cost is huge and slow to show, but a coastal district gains a real wall against the rising, angrier sea.", { EN: 10, RE: 6, FI: -10 }])),
 
   // ── Cement limestone import dependence ──────────────────────────────────────
   ax("Industries Secretary", "official", ["cement", "limestone", "import"],
-    sx("The construction boom runs on cement from imported clinker and limestone, draining dollars. A domestic limestone quarry in the hills could cut the import bill — at the cost of blasting a forested range the indigenous communities hold sacred.",
-      ["Open the domestic limestone quarry.", "A boom this big cannot run on imports forever.", "The quarry opens and the cement-import bill eases. The sacred range is blasted apart, the indigenous communities are displaced, and another grievance hardens in the hills.", { FI: 6, RE: 6, EN: -10 }],
-      ["Keep importing, spare the sacred range.", "Some hills are worth more standing than crushed.", "You leave the range intact and keep paying for imports. The dollar drain continues, but the forest and the communities who revere it are spared the dynamite.", { EN: 8, RE: -4, FI: -4 }])),
+    sx("Builders are buying rocks from other countries. You can blast your own hills to get rocks instead, but those hills are sacred to native people.",
+      ["Blast the sacred hills for rocks.", "A boom this big cannot run on imports forever.", "The quarry opens and the cement-import bill eases. The sacred range is blasted apart, the indigenous communities are displaced, and another grievance hardens in the hills.", { FI: 6, RE: 6, EN: -10 }],
+      ["Keep buying rocks from other countries.", "Some hills are worth more standing than crushed.", "You leave the range intact and keep paying for imports. The dollar drain continues, but the forest and the communities who revere it are spared the dynamite.", { EN: 8, RE: -4, FI: -4 }])),
 
   // ── Antibiotic-laden fish feed ──────────────────────────────────────────────
   ax("Fisheries Director", "doctor", ["aquaculture", "antibiotics", "exports"],
-    sx("The booming farmed-fish and shrimp sector dopes its ponds with banned antibiotics, and Europe is threatening to reject the exports over residue limits. Crack down hard — costly and unpopular with farmers — or keep certifying and hope the testing misses it?",
-      ["Keep certifying, hope the tests miss it.", "A crackdown now empties a thousand ponds.", "You keep the exports flowing on a wink. One bad batch detected abroad triggers a blanket ban, and a whole export sector collapses overnight on a gamble.", { FI: 4, RE: 2, EN: -6, GL: -4 }],
-      ["Crack down on the banned antibiotics.", "An export caught dirty loses the whole market.", "You enforce the residue limits hard. The farmers howl at the cost and the disease losses, but the exports clear European labs and the market stays open.", { GL: 6, EN: 4, FI: -4, RE: 2 }])),
+    sx("Fish farmers are giving their fish illegal medicine. Other countries won't buy the fish if they find out.",
+      ["Pretend you didn't notice and hope no one finds out.", "A crackdown now empties a thousand ponds.", "You keep the exports flowing on a wink. One bad batch detected abroad triggers a blanket ban, and a whole export sector collapses overnight on a gamble.", { FI: 4, RE: 2, EN: -6, GL: -4 }],
+      ["Stop the farmers from using the illegal medicine.", "An export caught dirty loses the whole market.", "You enforce the residue limits hard. The farmers howl at the cost and the disease losses, but the exports clear European labs and the market stays open.", { GL: 6, EN: 4, FI: -4, RE: 2 }])),
 
   // ── Capital dredging of rivers ──────────────────────────────────────────────
   ax("Water Development Chief", "official", ["dredging", "rivers", "navigation"],
-    sx("The country's rivers — its cheapest highways — are silting up, stranding the cargo boats that move grain and goods. A vast dredging programme would reopen them, but the cheapest spoil dumping ruins floodplains and fisheries.",
-      ["Dredge fast and dump spoil cheaply.", "Open rivers move a nation; tidy disposal can wait.", "The channels reopen and the cargo flows again. The carelessly dumped spoil buries floodplains and chokes fisheries, trading one waterway's life for another's.", { RE: 6, FI: 4, EN: -8 }],
-      ["Dredge carefully with managed spoil.", "A river reopened by ruining another is no gain.", "You dredge with proper spoil management and floodplain protection. It is slower and dearer, but the rivers reopen without killing the wetlands beside them.", { RE: 6, EN: 4, FI: -6 }])),
+    sx("The rivers are full of mud and big boats are getting stuck. You can dig the mud out fast and dump it anywhere, or do it carefully so it doesn't hurt the fish.",
+      ["Dig fast and dump the mud anywhere.", "Open rivers move a nation; tidy disposal can wait.", "The channels reopen and the cargo flows again. The carelessly dumped spoil buries floodplains and chokes fisheries, trading one waterway's life for another's.", { RE: 6, FI: 4, EN: -8 }],
+      ["Dig carefully so you don't hurt the fish.", "A river reopened by ruining another is no gain.", "You dredge with proper spoil management and floodplain protection. It is slower and dearer, but the rivers reopen without killing the wetlands beside them.", { RE: 6, EN: 4, FI: -6 }])),
 
   // ── Offshore gas bidding round ──────────────────────────────────────────────
   ax("Petrobangla Chairman", "ambassador", ["offshore", "gas", "bidding"],
-    sx("With the maritime boundary settled, you can finally open the deep offshore blocks to international bidding. The majors want generous, low-royalty terms to take the deep-water risk. How hard do you bargain — gas in hand, or the nation's full share?",
-      ["Offer generous terms to attract the majors.", "Gas undiscovered earns nothing; bring the rigs.", "The sweet terms draw the majors and the drilling begins. Gas may flow within years, but the low royalties mean the nation pockets a thin slice of its own seabed.", { RE: 8, GL: 4, FI: -2 }],
-      ["Bargain hard for the nation's full share.", "Our seabed, our terms.", "You hold out for higher royalties and faster work commitments. Some bidders walk and exploration slows, but any gas found will pay the nation what it is worth.", { FI: 4, RE: -4, GL: -2 }])),
+    sx("Big companies want to dig for gas deep in your ocean. They want an easy deal where they keep most of the money.",
+      ["Give them an easy deal so they start working fast.", "Gas undiscovered earns nothing; bring the rigs.", "The sweet terms draw the majors and the drilling begins. Gas may flow within years, but the low royalties mean the nation pockets a thin slice of its own seabed.", { RE: 8, GL: 4, FI: -2 }],
+      ["Demand a fair share for your country.", "Our seabed, our terms.", "You hold out for higher royalties and faster work commitments. Some bidders walk and exploration slows, but any gas found will pay the nation what it is worth.", { FI: 4, RE: -4, GL: -2 }])),
 
   // ── Salt farmers vs industrial salt ─────────────────────────────────────────
   ax("Commerce Secretary", "people", ["salt", "farmers", "import"],
-    sx("A glut has crashed the price of locally-farmed salt, ruining the coastal salt-farmers, while industry lobbies to import cheap foreign salt. Protect the farmers with an import ban, or let the cheap salt in?",
-      ["Allow the cheap salt imports.", "Industry runs on the cheapest input.", "The factories get their cheap salt and the lobby is pleased. The coastal salt-farmers, undercut to ruin, abandon the pans, and a coastal livelihood dies out.", { FI: 4, RE: -2, EN: -8 }],
-      ["Ban imports to protect the salt-farmers.", "A coast of ruined salt-pans is a coast of empty hands.", "You shut out the foreign salt and prop up the local price. Industry grumbles at the cost, but the salt-farmers keep their pans and their precarious living.", { EN: 8, RE: 2, FI: -4 }])),
+    sx("The price of salt is too low, and your poor salt farmers are going broke. Other countries sell it even cheaper.",
+      ["Let the cheap salt in from other countries.", "Industry runs on the cheapest input.", "The factories get their cheap salt and the lobby is pleased. The coastal salt-farmers, undercut to ruin, abandon the pans, and a coastal livelihood dies out.", { FI: 4, RE: -2, EN: -8 }],
+      ["Ban the cheap salt to protect your poor farmers.", "A coast of ruined salt-pans is a coast of empty hands.", "You shut out the foreign salt and prop up the local price. Industry grumbles at the cost, but the salt-farmers keep their pans and their precarious living.", { EN: 8, RE: 2, FI: -4 }])),
 
   // ── Forest plantation monoculture ───────────────────────────────────────────
   ax("Forest Conservator", "official", ["forest", "plantation", "biodiversity"],
-    sx("To hit your 'green coverage' targets cheaply, the department wants to blanket cleared hills with fast-growing acacia and eucalyptus — green on paper, but a desert for wildlife that sucks the water table dry. The alternative is slower native-species restoration.",
-      ["Plant the fast monoculture for green targets.", "A number on a chart is a number won.", "The hills go green with acacia and the coverage statistics soar. Beneath the uniform canopy nothing lives, and the water table drops under the thirsty exotics.", { RE: 4, FI: 2, EN: -6 }],
-      ["Restore slow native forest instead.", "A plantation is not a forest.", "You fund mixed native restoration. The 'green coverage' rises slowly and the targets slip, but a real forest — water, wildlife, and all — begins to return.", { EN: 8, RE: 4, FI: -4 }])),
+    sx("You need to plant more trees. You can plant cheap, fast-growing trees that hurt the soil, or slow, natural trees that help animals.",
+      ["Plant the cheap, fast trees.", "A number on a chart is a number won.", "The hills go green with acacia and the coverage statistics soar. Beneath the uniform canopy nothing lives, and the water table drops under the thirsty exotics.", { RE: 4, FI: 2, EN: -6 }],
+      ["Plant the slow, natural trees.", "A plantation is not a forest.", "You fund mixed native restoration. The 'green coverage' rises slowly and the targets slip, but a real forest — water, wildlife, and all — begins to return.", { EN: 8, RE: 4, FI: -4 }])),
 
   // ── New gas discovery windfall ──────────────────────────────────────────────
   ax("Petrobangla Chairman", "official", ["gas", "discovery", "windfall"],
-    sx("Exploration has struck a major new onshore gas field — a genuine windfall. Burn it fast and cheap to win an easy few years of plenty, or husband it as a long-term reserve and feedstock for industry?",
-      ["Burn it fast for a few easy years.", "Plenty now buys loyalty now.", "You open the taps and the country enjoys cheap, abundant gas. The field empties in a handful of years, and the windfall is gone before it built anything lasting.", { EN: 8, RE: -6, FI: 2 }],
-      ["Husband it as a long-term reserve.", "A field burned in five years is five years of folly.", "You meter the new field for industry and the long haul. The public sees no instant bonanza, but the reserve underwrites a decade of factories and fertiliser.", { RE: 10, FI: 4, EN: -2 }])),
+    sx("You found a lot of extra gas under the ground. Use it all up fast so things are cheap right now, or save it for the future?",
+      ["Use it up fast to make things cheap now.", "Plenty now buys loyalty now.", "You open the taps and the country enjoys cheap, abundant gas. The field empties in a handful of years, and the windfall is gone before it built anything lasting.", { EN: 8, RE: -6, FI: 2 }],
+      ["Save it carefully for the future.", "A field burned in five years is five years of folly.", "You meter the new field for industry and the long haul. The public sees no instant bonanza, but the reserve underwrites a decade of factories and fertiliser.", { RE: 10, FI: 4, EN: -2 }])),
 
   // ── Rampal expansion phase two ──────────────────────────────────────────────
   ax("Power Development Chairman", "official", ["coal", "sundarbans", "expansion"],
-    sx("The coal plant beside the mangrove forest is running, and its backers now want a second, larger unit on the same site. The chairman calls it cheap megawatts on proven ground; the scientists warn it doubles the threat to the forest the country shelters behind.",
-      ["Approve the second coal unit.", "Proven ground builds the cheapest megawatts.", "The expansion is greenlit and the capacity doubles. So does the ash, the warm effluent, and the shipping traffic gnawing at the forest's edge.", { RE: 8, FI: 4, EN: -12, GL: -4 }],
-      ["Cap the site, build clean capacity elsewhere.", "I will not double a bet against the forest.", "You forbid the second unit and steer new capacity to cleaner sites. The cheap megawatts are forgone, but the mangrove shield is not made to carry twice the load.", { EN: 10, GL: 4, RE: -4, FI: -2 }])),
+    sx("The dirty power plant next to the beautiful forest wants to build a second, bigger plant right next to it. Scientists say this is a terrible idea.",
+      ["Let them build the second dirty power plant.", "Proven ground builds the cheapest megawatts.", "The expansion is greenlit and the capacity doubles. So does the ash, the warm effluent, and the shipping traffic gnawing at the forest's edge.", { RE: 8, FI: 4, EN: -12, GL: -4 }],
+      ["Say no and build clean power somewhere else.", "I will not double a bet against the forest.", "You forbid the second unit and steer new capacity to cleaner sites. The cheap megawatts are forgone, but the mangrove shield is not made to carry twice the load.", { EN: 10, GL: 4, RE: -4, FI: -2 }])),
 
   // ── Indigenous mineral rights ───────────────────────────────────────────────
   ax("Hill Resources Officer", "people", ["indigenous", "minerals", "cht"],
-    sx("A survey has found valuable minerals under indigenous land in the hill tracts. The communities, citing the peace accord, demand consent and a share; the mining lobby says national resources belong to the nation. The officer awaits your call.",
-      ["Mine without indigenous consent.", "The nation's minerals are the nation's, not a clan's.", "You authorise extraction over the communities' objections. The minerals flow and so does the fury; the peace accord, already brittle, cracks a little wider.", { RE: 8, FI: 4, EN: -10, GL: -4 }],
-      ["Require consent and a community share.", "Wealth dug from a people's land owes that people.", "You make extraction conditional on consent and royalties to the communities. The lobby fumes at the precedent, but the hills, for once, share in their own ground's wealth.", { EN: 8, GL: 4, RE: -2, FI: -4 }])),
+    sx("You found valuable rocks under the land where native people live in the hills. They say you must ask permission and share the money.",
+      ["Take the rocks without asking permission.", "The nation's minerals are the nation's, not a clan's.", "You authorise extraction over the communities' objections. The minerals flow and so does the fury; the peace accord, already brittle, cracks a little wider.", { RE: 8, FI: 4, EN: -10, GL: -4 }],
+      ["Ask permission and share the money with them.", "Wealth dug from a people's land owes that people.", "You make extraction conditional on consent and royalties to the communities. The lobby fumes at the precedent, but the hills, for once, share in their own ground's wealth.", { EN: 8, GL: 4, RE: -2, FI: -4 }])),
 
   // ── Prepaid irrigation metering ─────────────────────────────────────────────
   ax("Irrigation Authority Head", "people", ["irrigation", "water", "metering"],
-    sx("Free, unmetered irrigation power has farmers pumping groundwater with abandon. The head proposes prepaid meters to curb the waste and the subsidy bleed — but a metered pump in a bad season is a farmer's ruin.",
-      ["Meter the irrigation pumps.", "Water and power given free are water and power wasted.", "The meters go on and the reckless pumping eases, sparing the aquifer and the subsidy. In the dry years, though, a metered pump becomes one more cost a failing farmer cannot meet.", { RE: 6, FI: 6, EN: -8 }],
-      ["Keep irrigation free and unmetered.", "A meter on a farmer's pump is a meter on his harvest.", "You leave the pumps free and the farmers easy. The aquifer keeps falling and the subsidy keeps bleeding, but no farmer loses a crop to a card with no credit on it.", { EN: 6, RE: -6, FI: -6 }])),
+    sx("Farmers pump water for free, but they waste a lot. You can make them pay for it using prepaid cards, but they might go broke if it's a bad year.",
+      ["Make them use prepaid cards to pay for water.", "Water and power given free are water and power wasted.", "The meters go on and the reckless pumping eases, sparing the aquifer and the subsidy. In the dry years, though, a metered pump becomes one more cost a failing farmer cannot meet.", { RE: 6, FI: 6, EN: -8 }],
+      ["Let them keep pumping water for free.", "A meter on a farmer's pump is a meter on his harvest.", "You leave the pumps free and the farmers easy. The aquifer keeps falling and the subsidy keeps bleeding, but no farmer loses a crop to a card with no credit on it.", { EN: 6, RE: -6, FI: -6 }])),
 
   // ── Ship-breaking worker safety ─────────────────────────────────────────────
   ax("Labour Inspector", "doctor", ["ship-breaking", "safety", "workers"],
-    sx("The ship-breaking beaches that feed the country's steel are death-traps — no safety gear, asbestos, men cut in half by falling plate, child labour at the torches. The inspector demands enforced standards; the owners say the margins cannot bear them.",
-      ["Leave the yards to their own ways.", "Cheap steel needs cheap hands.", "The yards keep running on blood and asbestos. The steel stays cheap, the casualty list grows, and the next exposé brands the beaches the world's most lethal workplace.", { FI: 6, RE: 4, EN: -10 }],
-      ["Enforce hard safety standards.", "Steel bought with a man a week is too dear.", "You force protective gear, asbestos controls, and an end to child labour. Margins thin and some yards close, but men stop dying by the dozen on the tide line.", { EN: 10, GL: 4, FI: -6, RE: -2 }])),
+    sx("The places where men take apart old ships are deadly. People get hurt or die. Bosses say making it safe costs too much money.",
+      ["Leave the deadly shipyards alone.", "Cheap steel needs cheap hands.", "The yards keep running on blood and asbestos. The steel stays cheap, the casualty list grows, and the next exposé brands the beaches the world's most lethal workplace.", { FI: 6, RE: 4, EN: -10 }],
+      ["Force the bosses to make the shipyards safe.", "Steel bought with a man a week is too dear.", "You force protective gear, asbestos controls, and an end to child labour. Margins thin and some yards close, but men stop dying by the dozen on the tide line.", { EN: 10, GL: 4, FI: -6, RE: -2 }])),
 
   // ── The grand inter-river link canal ────────────────────────────────────────
   ax("Water Development Chief", "official", ["rivers", "canal", "mega-project"],
-    sx("Engineers propose a colossal canal to divert water from the wet south to the drought-prone north — a nation-reshaping project. The chief calls it a permanent answer to the north's thirst; ecologists warn it could wreck the rivers at both ends.",
-      ["Greenlight the grand canal.", "A nation that moves its own water masters its fate.", "The mega-project launches to fanfare and a flood of contracts. The drought-prone north dreams of water, while ecologists count the rivers the canal will starve and drown.", { RE: 6, FI: -6, EN: -4 }],
-      ["Shelve it for smaller, local schemes.", "A canal that breaks two rivers to fill one is folly.", "You set aside the grand scheme for modest local water projects. The headline-grabbing fix is gone, but the rivers keep their flow and the money spreads wider.", { EN: 6, RE: 2, FI: -2 }]),
-    sx("You pressed ahead, and the canal's intake has dried the wetlands and fisheries of the donor basin, igniting protests there even as the north celebrates its new water. The donor districts demand the intake be throttled back.",
-      ["Keep the intake at full flow for the north.", "The north's thirst was the whole point.", "You hold the flow and the north blooms. The donor basin's fisheries collapse and its people, betrayed, turn the canal into a symbol of one region drained for another.", { RE: 4, EN: -10, FI: 2 }],
-      ["Throttle the intake to spare the donor basin.", "I will not drown one region to water another.", "You cut the diversion back to a sustainable flow. The north's gains shrink and its boosters grumble, but the donor basin's wetlands and fishers are pulled back from ruin.", { EN: 8, RE: -2, FI: -2 }]),
-    sx("With the canal half-built and half-cursed, the politically connected contractors demand the full budget regardless of the scaled-back flow, threatening to abandon the works and sue. Pay them off, or face a stalled, litigated ruin in the landscape?",
-      ["Pay the contractors in full.", "A half-dug canal is worse than none.", "You pay out to keep the works moving. The connected contractors pocket the windfall, the budget bleeds, and the project limps on under a cloud of inflated bills.", { RE: 2, FI: -8, FA: 2, EN: -2 }],
-      ["Hold them to the scaled-back contract.", "I will not be extorted by my own diggers.", "You refuse the padded claim and renegotiate to the reduced scope. The contractors threaten and litigate, but the public is spared paying full price for half a canal.", { FI: 4, EN: 2, FA: -2, RE: -2 }])),
+    sx("Engineers want to dig a giant ditch to move water from wet places to dry places. It costs a fortune and might ruin the rivers.",
+      ["Say yes to digging the giant water ditch.", "A nation that moves its own water masters its fate.", "The mega-project launches to fanfare and a flood of contracts. The drought-prone north dreams of water, while ecologists count the rivers the canal will starve and drown.", { RE: 6, FI: -6, EN: -4 }],
+      ["Say no and stick to smaller, safer ideas.", "A canal that breaks two rivers to fill one is folly.", "You set aside the grand scheme for modest local water projects. The headline-grabbing fix is gone, but the rivers keep their flow and the money spreads wider.", { EN: 6, RE: 2, FI: -2 }]),
+    sx("The giant ditch is taking too much water. The wet places are now drying out, and angry people want you to turn the water down.",
+      ["Keep taking all the water to the dry places.", "The north's thirst was the whole point.", "You hold the flow and the north blooms. The donor basin's fisheries collapse and its people, betrayed, turn the canal into a symbol of one region drained for another.", { RE: 4, EN: -10, FI: 2 }],
+      ["Turn the water down to save the wet places.", "I will not drown one region to water another.", "You cut the diversion back to a sustainable flow. The north's gains shrink and its boosters grumble, but the donor basin's wetlands and fishers are pulled back from ruin.", { EN: 8, RE: -2, FI: -2 }]),
+    sx("The builders of the ditch are mad because you slowed them down. They threaten to quit unless you pay them all the money anyway.",
+      ["Pay the builders all the money.", "A half-dug canal is worse than none.", "You pay out to keep the works moving. The connected contractors pocket the windfall, the budget bleeds, and the project limps on under a cloud of inflated bills.", { RE: 2, FI: -8, FA: 2, EN: -2 }],
+      ["Tell them to follow the rules and only pay for what they do.", "I will not be extorted by my own diggers.", "You refuse the padded claim and renegotiate to the reduced scope. The contractors threaten and litigate, but the public is spared paying full price for half a canal.", { FI: 4, EN: 2, FA: -2, RE: -2 }])),
 
   // ── National grid single point of failure ───────────────────────────────────
   ax("Grid Operations Chief", "official", ["grid", "blackout", "resilience"],
-    sx("The national grid is so brittle that a single fault can — and once did — black out the entire country at once. The chief wants a costly redesign with regional islanding and redundancy; the money is wanted elsewhere until the next blackout.",
-      ["Fund the grid-resilience redesign.", "A grid that fails all at once fails the whole nation at once.", "You fund islanding, redundancy, and modern controls. The cost is heavy and the benefit invisible between failures, but a single fault can no longer plunge the entire country into darkness.", { RE: 8, EN: 4, FI: -8 }],
-      ["Patch the grid and hope.", "A full redesign is a budget for a disaster that may not come.", "You make do with patches. The money goes elsewhere, the brittle grid stays brittle, and the country waits, one bad fault away from another total nationwide blackout.", { FI: 4, RE: -6, EN: -4 }])),
+    sx("The country's power wires are so weak that one mistake could turn off the lights for everyone at once. Fixing it costs a ton of money.",
+      ["Spend the money to fix the wires perfectly.", "A grid that fails all at once fails the whole nation at once.", "You fund islanding, redundancy, and modern controls. The cost is heavy and the benefit invisible between failures, but a single fault can no longer plunge the entire country into darkness.", { RE: 8, EN: 4, FI: -8 }],
+      ["Just put tape on it and hope the lights stay on.", "A full redesign is a budget for a disaster that may not come.", "You make do with patches. The money goes elsewhere, the brittle grid stays brittle, and the country waits, one bad fault away from another total nationwide blackout.", { FI: 4, RE: -6, EN: -4 }])),
 
   // ── Solar home systems vs grid extension ────────────────────────────────────
   ax("Rural Electrification Chief", "people", ["solar", "off-grid", "rural"],
-    sx("Remote villages can be reached by costly grid extension or by the off-grid solar home systems the country pioneered. Push solar to the last villages now, or wait years to bring them the grid that powers heavier loads?",
-      ["Push off-grid solar to the last villages.", "Light tonight beats a grid in a decade.", "You blanket the remote villages with solar home systems. Millions get clean light and phone-charging now, though the small panels cannot run the mills and pumps a grid eventually would.", { EN: 8, RE: 4, FI: -4 }],
-      ["Wait and extend the full grid.", "A village deserves real power, not a panel.", "You hold out to bring the villages the full grid. They wait years longer in darkness, but when the lines arrive they carry the heavy loads that solar panels never could.", { RE: 4, EN: -4, FI: -2 }])),
+    sx("Faraway villages don't have electricity. You can give them small solar panels now, or make them wait years for big power lines to be built.",
+      ["Give them the small solar panels right now.", "Light tonight beats a grid in a decade.", "You blanket the remote villages with solar home systems. Millions get clean light and phone-charging now, though the small panels cannot run the mills and pumps a grid eventually would.", { EN: 8, RE: 4, FI: -4 }],
+      ["Make them wait for the big power lines.", "A village deserves real power, not a panel.", "You hold out to bring the villages the full grid. They wait years longer in darkness, but when the lines arrive they carry the heavy loads that solar panels never could.", { RE: 4, EN: -4, FI: -2 }])),
 
   // ── Coal-plant retirement / just transition ─────────────────────────────────
   ax("Power Transition Adviser", "people", ["coal", "retirement", "workers"],
-    sx("Pressure mounts to retire the ageing, dirty coal plants ahead of schedule. Doing so cleans the air and the country's image, but strands billions in assets and throws thousands of plant and mine workers out of work in towns built on coal.",
-      ["Retire the coal plants with a just transition.", "A dying industry should be eased to rest, not abandoned.", "You retire the plants early and fund retraining and new industry for the coal towns. The stranded-asset cost is steep, but the air clears, the image brightens, and the workers are not simply discarded.", { EN: 8, GL: 4, RE: -2, FI: -8 }],
-      ["Keep the coal plants running to term.", "I will not strand billions and a workforce for an early exit.", "You keep the coal plants running to their full life. The assets and jobs are preserved, the towns stay employed, and the dirty smoke and the climate criticism keep mounting year on year.", { RE: 4, FI: 2, EN: -8, GL: -4 }])),
+    sx("People want you to shut down old, dirty coal plants early to clean the air. But shutting them down will leave thousands of workers without jobs.",
+      ["Shut down the dirty plants and try to help the workers.", "A dying industry should be eased to rest, not abandoned.", "You retire the plants early and fund retraining and new industry for the coal towns. The stranded-asset cost is steep, but the air clears, the image brightens, and the workers are not simply discarded.", { EN: 8, GL: 4, RE: -2, FI: -8 }],
+      ["Keep the dirty plants open so workers keep their jobs.", "I will not strand billions and a workforce for an early exit.", "You keep the coal plants running to their full life. The assets and jobs are preserved, the towns stay employed, and the dirty smoke and the climate criticism keep mounting year on year.", { RE: 4, FI: 2, EN: -8, GL: -4 }])),
 
   // ── Strategic petroleum reserve ─────────────────────────────────────────────
   ax("Energy Security Director", "official", ["fuel", "reserve", "resilience"],
-    sx("The country holds only days of fuel stock, leaving it dangerously exposed to any supply shock or blockade. The director wants a costly strategic petroleum reserve; the capital is large and the threat feels abstract in calm times.",
-      ["Build a strategic fuel reserve.", "A nation with days of fuel is a nation days from paralysis.", "You build the strategic reserve and expand storage. The capital outlay is large, but the next supply shock or blockade meets a buffer instead of an instant fuel crisis.", { RE: 8, MI: 2, FI: -8 }],
-      ["Run on thin fuel stocks.", "A reserve is a fortune frozen against a maybe.", "You keep stocks thin to save the capital. The money stays free for other needs, and the country stays days away from paralysis should any supply shock or blockade come.", { FI: 4, RE: -6, MI: -2 }])),
+    sx("The country only has enough gas for a few days if there is an emergency. Building a giant tank to save extra gas costs a lot.",
+      ["Build the giant tank to save extra gas for emergencies.", "A nation with days of fuel is a nation days from paralysis.", "You build the strategic reserve and expand storage. The capital outlay is large, but the next supply shock or blockade meets a buffer instead of an instant fuel crisis.", { RE: 8, MI: 2, FI: -8 }],
+      ["Do not build the tank and hope there are no emergencies.", "A reserve is a fortune frozen against a maybe.", "You keep stocks thin to save the capital. The money stays free for other needs, and the country stays days away from paralysis should any supply shock or blockade come.", { FI: 4, RE: -6, MI: -2 }])),
 
   // ── LPG for rural cooking ───────────────────────────────────────────────────
   ax("Energy Access Director", "people", ["lpg", "cooking", "health"],
-    sx("Most rural households still cook on smoky biomass, ruining women's lungs and the forests. A push to make bottled LPG cheap and available — through subsidy and a safe distribution network — would change that. Or leave the woodsmoke as it is?",
-      ["Subsidise rural LPG access.", "A woman's lungs are worth more than the price of a cylinder.", "You subsidise LPG and build safe distribution. Woodsmoke recedes from kitchens, women's health improves and the forests get a reprieve, and the subsidy and cylinder-safety burden fall on the budget.", { EN: 8, RE: 4, FI: -6 }],
-      ["Leave rural cooking to biomass.", "An LPG subsidy is a cost the budget cannot carry.", "You leave rural kitchens to firewood and dung. The budget is spared, and women keep breathing woodsmoke into ruined lungs while the forests keep falling for fuel.", { FI: 4, RE: -4, EN: -6 }])),
+    sx("People in villages cook over smoky fires that hurt their lungs and chop down too many trees. You can pay to help them buy clean cooking gas.",
+      ["Help pay for clean cooking gas.", "A woman's lungs are worth more than the price of a cylinder.", "You subsidise LPG and build safe distribution. Woodsmoke recedes from kitchens, women's health improves and the forests get a reprieve, and the subsidy and cylinder-safety burden fall on the budget.", { EN: 8, RE: 4, FI: -6 }],
+      ["Let them keep cooking over smoky fires.", "An LPG subsidy is a cost the budget cannot carry.", "You leave rural kitchens to firewood and dung. The budget is spared, and women keep breathing woodsmoke into ruined lungs while the forests keep falling for fuel.", { FI: 4, RE: -4, EN: -6 }])),
 
   // ── Gas pipeline from a neighbour ───────────────────────────────────────────
   ax("Energy Diplomacy Director", "ambassador", ["pipeline", "gas", "dependence"],
-    sx("A regional gas pipeline could bring steady, cheaper gas across borders for decades — energy security of a kind — but it depends on neighbours' goodwill, chaining your grid to a fuel and transit route others control.",
-      ["Commit to the cross-border gas pipeline.", "Steady gas for decades is worth a careful diplomacy.", "You commit to the pipeline and cheaper gas begins to flow. Your energy security improves and your dependence deepens, your grid now hostage to a transit route and a neighbour's goodwill.", { RE: 8, FI: 2, GL: 2, MI: -4 }],
-      ["Invest in domestic supply instead.", "A pipeline through a neighbour is a valve in his hand.", "You forgo the pipeline for domestic exploration and LNG. The gas is costlier and slower, but no foreign hand rests on the valve that feeds your grid.", { MI: 4, RE: -4, FI: -4 }])),
+    sx("You can share a big gas pipe with a neighbor for cheap energy. But if you get in a fight, they could turn off your gas.",
+      ["Build the shared gas pipe.", "Steady gas for decades is worth a careful diplomacy.", "You commit to the pipeline and cheaper gas begins to flow. Your energy security improves and your dependence deepens, your grid now hostage to a transit route and a neighbour's goodwill.", { RE: 8, FI: 2, GL: 2, MI: -4 }],
+      ["Don't do it, and find your own gas at home.", "A pipeline through a neighbour is a valve in his hand.", "You forgo the pipeline for domestic exploration and LNG. The gas is costlier and slower, but no foreign hand rests on the valve that feeds your grid.", { MI: 4, RE: -4, FI: -4 }])),
 
   // ── Nuclear-waste storage ───────────────────────────────────────────────────
   ax("Atomic Energy Chairman", "official", ["nuclear", "waste", "safety"],
-    sx("The new nuclear plant will soon produce spent fuel that must be stored safely for generations, and no permanent solution exists. Fund a proper long-term storage and safety regime now, or rely on the foreign builder's vague take-back promise?",
-      ["Fund proper long-term waste storage.", "A poison that lasts ten thousand years deserves a plan.", "You invest in genuine spent-fuel storage and safety. The cost is large and the benefit unseen for decades, but you do not leave a radioactive legacy to be improvised by your grandchildren.", { RE: 4, EN: 6, FI: -8 }],
-      ["Rely on the builder's take-back promise.", "The Russians said they would handle it; let them.", "You lean on the foreign builder's vague assurances and defer the problem. The money is saved now, and a growing pile of spent fuel waits on a promise no contract firmly guarantees.", { FI: 4, RE: 2, EN: -6 }])),
+    sx("The nuclear plant will make dangerous glowing trash. You can spend money to build a safe hiding spot, or trust the builders who pinky-promised to take it back later.",
+      ["Spend the money to build a safe hiding spot now.", "A poison that lasts ten thousand years deserves a plan.", "You invest in genuine spent-fuel storage and safety. The cost is large and the benefit unseen for decades, but you do not leave a radioactive legacy to be improvised by your grandchildren.", { RE: 4, EN: 6, FI: -8 }],
+      ["Trust the builders to take it back later.", "The Russians said they would handle it; let them.", "You lean on the foreign builder's vague assurances and defer the problem. The money is saved now, and a growing pile of spent fuel waits on a promise no contract firmly guarantees.", { FI: 4, RE: 2, EN: -6 }])),
 
   // ── Captive industrial power ────────────────────────────────────────────────
   ax("Power Regulator", "official", ["captive-power", "industry", "grid"],
-    sx("Big factories run their own gas-fired captive power plants, abandoning the unreliable grid — which starves it of its best customers and worsens it for everyone else. Force them back onto the grid, or let industry self-supply?",
-      ["Force big industry back onto the grid.", "A grid the strong abandon collapses on the weak.", "You compel the factories to draw from the grid and surrender their gas. The grid's finances and reliability improve for all, and the industrialists rage at losing their dependable captive power.", { RE: 6, EN: 4, FI: 2, FA: -4 }],
-      ["Let industry keep captive power.", "A factory that cannot trust the grid will make its own.", "You let the factories self-supply. Industry keeps its reliable power, and the grid, abandoned by its best customers, grows weaker and dearer for the households and small firms left on it.", { RE: -4, FA: 2, EN: -4 }])),
+    sx("Big factories are building their own private power plants because the city's power breaks too much. This makes the city's power even worse for normal people.",
+      ["Force the factories to use the city's power.", "A grid the strong abandon collapses on the weak.", "You compel the factories to draw from the grid and surrender their gas. The grid's finances and reliability improve for all, and the industrialists rage at losing their dependable captive power.", { RE: 6, EN: 4, FI: 2, FA: -4 }],
+      ["Let the factories use their own private power.", "A factory that cannot trust the grid will make its own.", "You let the factories self-supply. Industry keeps its reliable power, and the grid, abandoned by its best customers, grows weaker and dearer for the households and small firms left on it.", { RE: -4, FA: 2, EN: -4 }])),
 
   // ── GM crop / Bt brinjal ────────────────────────────────────────────────────
   ax("Agriculture Research Director", "doctor", ["gm-crops", "seeds", "farmers"],
-    sx("A genetically-modified pest-resistant crop could cut pesticide use and lift yields, but activists warn of seed-company dependence and unknown risks, and the public is uneasy. Approve and promote it, or hold back?",
-      ["Approve and promote the GM crop.", "A crop that needs no poison feeds more for less.", "You approve the GM variety and yields rise as pesticide use falls. The activists protest seed dependence and unknown risks, and farmers gain a hardier crop and a tie to the seed company that owns it.", { RE: 6, EN: 2, FI: 2 }],
-      ["Hold back on the GM crop.", "I will not bet the food supply on an untested gene.", "You decline to approve it, citing precaution. The pesticide-heavy status quo persists and yields stay flat, but the food supply is not staked on a technology the public distrusts and a seed firm controls.", { EN: 2, RE: -2 }])),
+    sx("Scientists made special seeds that bugs won't eat. It helps grow more food, but people are scared it's unnatural and gives too much power to the seed company.",
+      ["Use the special seeds to grow more food.", "A crop that needs no poison feeds more for less.", "You approve the GM variety and yields rise as pesticide use falls. The activists protest seed dependence and unknown risks, and farmers gain a hardier crop and a tie to the seed company that owns it.", { RE: 6, EN: 2, FI: 2 }],
+      ["Say no to the special seeds.", "I will not bet the food supply on an untested gene.", "You decline to approve it, citing precaution. The pesticide-heavy status quo persists and yields stay flat, but the food supply is not staked on a technology the public distrusts and a seed firm controls.", { EN: 2, RE: -2 }])),
 
   // ── Coastal greenbelt mangroves ─────────────────────────────────────────────
   ax("Coastal Afforestation Chief", "relief", ["mangroves", "greenbelt", "cyclone"],
-    sx("A planted mangrove greenbelt along the coast would blunt cyclones and storm surges and nurse fisheries — but the land is coveted for shrimp farms and salt pans, and the planting is slow and easily encroached. Commit to the greenbelt?",
-      ["Commit to the coastal mangrove greenbelt.", "A wall of trees stops a wave no concrete can.", "You commit land and money to the greenbelt and protect it from encroachment. The shrimp and salt interests resist losing the coast, but a living storm-barrier rises and the fisheries it nurses revive.", { EN: 8, RE: 4, FI: -4, FA: -2 }],
-      ["Leave the coast to shrimp and salt.", "The coast earns more in ponds than in trees.", "You let the lucrative shrimp and salt keep the coast. The export earnings flow, the greenbelt goes unplanted, and the next cyclone hits a shore stripped of the trees that would have softened it.", { FI: 4, RE: -2, EN: -6 }])),
+    sx("Planting a wall of trees by the ocean will stop big waves from killing people during storms. But rich guys want that land for shrimp farms.",
+      ["Plant the trees to save people from storms.", "A wall of trees stops a wave no concrete can.", "You commit land and money to the greenbelt and protect it from encroachment. The shrimp and salt interests resist losing the coast, but a living storm-barrier rises and the fisheries it nurses revive.", { EN: 8, RE: 4, FI: -4, FA: -2 }],
+      ["Let the rich guys use the land for shrimp farms.", "The coast earns more in ponds than in trees.", "You let the lucrative shrimp and salt keep the coast. The export earnings flow, the greenbelt goes unplanted, and the next cyclone hits a shore stripped of the trees that would have softened it.", { FI: 4, RE: -2, EN: -6 }])),
 
   // ── Reserve-forest encroachment ─────────────────────────────────────────────
   ax("Forest Conservator", "shadow", ["forest", "encroachment", "powerful"],
-    sx("Reserve forest is being carved up and grabbed for resorts, plantations, and estates by the politically powerful, the boundary pillars quietly moved. The conservator can mount evictions and restore the boundaries, confronting connected grabbers, or look the other way.",
-      ["Evict the grabbers, restore the forest.", "A reserve forest sold off in pieces is a lung removed.", "You evict the encroachers and reset the boundaries, however connected they are. The powerful grabbers rage and litigate, but the reserve forest is clawed back from the resort-builders and planters.", { EN: 8, RE: 6, FA: -6 }],
-      ["Look the other way.", "The men moving those pillars are men I rely on.", "You leave the encroachments alone. The connected grabbers keep their slices of forest, the boundary pillars stay where they were quietly moved, and the reserve shrinks resort by resort.", { FA: 4, FI: 2, EN: -8, RE: -4 }])),
+    sx("Powerful people are sneaking into the protected forest and building hotels. You can kick them out, or pretend you didn't see.",
+      ["Kick them out and save the forest.", "A reserve forest sold off in pieces is a lung removed.", "You evict the encroachers and reset the boundaries, however connected they are. The powerful grabbers rage and litigate, but the reserve forest is clawed back from the resort-builders and planters.", { EN: 8, RE: 6, FA: -6 }],
+      ["Pretend you didn't see anything.", "The men moving those pillars are men I rely on.", "You leave the encroachments alone. The connected grabbers keep their slices of forest, the boundary pillars stay where they were quietly moved, and the reserve shrinks resort by resort.", { FA: 4, FI: 2, EN: -8, RE: -4 }])),
 
   // ── Rooftop / floating solar mandate ────────────────────────────────────────
   ax("Renewable Energy Adviser", "official", ["solar", "floating", "land"],
-    sx("Land is scarce, but your reservoirs, canals, and factory rooftops could host vast floating and rooftop solar arrays. The adviser wants a hard mandate and incentives to cover them; the utilities and some industries resist the disruption and cost.",
-      ["Mandate floating and rooftop solar.", "A nation short of land is rich in roofs and water.", "You mandate solar on reservoirs, canals, and rooftops. The utilities and industries grumble at the cost and disruption, but clean power grows without consuming farmland, and imports ease.", { EN: 6, RE: 6, FI: -4 }],
-      ["Leave solar deployment to the market.", "A mandate forces cost on the unwilling.", "You leave solar to voluntary uptake. The disruption and cost are avoided, and the rooftops and reservoirs stay bare while the country keeps burning imported fuel it need not.", { FI: 2, RE: -4, EN: -4 }])),
+    sx("You can force big factories to put solar panels on their roofs and over canals to make clean power. The factory bosses will complain about the cost.",
+      ["Force the factories to put up solar panels.", "A nation short of land is rich in roofs and water.", "You mandate solar on reservoirs, canals, and rooftops. The utilities and industries grumble at the cost and disruption, but clean power grows without consuming farmland, and imports ease.", { EN: 6, RE: 6, FI: -4 }],
+      ["Let the factories choose if they want solar panels or not.", "A mandate forces cost on the unwilling.", "You leave solar to voluntary uptake. The disruption and cost are avoided, and the rooftops and reservoirs stay bare while the country keeps burning imported fuel it need not.", { FI: 2, RE: -4, EN: -4 }])),
 
   // ── Hard-rock mine at Maddhapara ────────────────────────────────────────────
   ax("Mining Bureau Director", "fixer", ["hard-rock", "mining", "contracts"],
-    sx("The country's only hard-rock mine, run at a chronic loss under a padded foreign contract, supplies stone the construction boom craves. Renegotiate the corrupt contract and modernise — angering connected middlemen — or keep importing the difference?",
-      ["Renegotiate the contract and modernise.", "A mine that loses money on every stone is a contract, not a mine.", "You tear up the padded contract and modernise operations. The connected middlemen who skimmed it howl, but the mine moves toward profit and supplies the construction stone now imported at cost.", { RE: 6, FI: 4, FA: -4 }],
-      ["Keep the contract and import the rest.", "The men running that contract are not lightly crossed.", "You leave the loss-making contract intact and import the shortfall. The middlemen stay happy and the mine stays a drain, and the construction boom keeps paying to import stone you have under your own ground.", { FA: 4, RE: -2, FI: -4 }])),
+    sx("The only rock mine in the country loses money because of a bad contract with a foreign company. If you change it, the rich middlemen will be angry.",
+      ["Fix the bad contract and make the mine better.", "A mine that loses money on every stone is a contract, not a mine.", "You tear up the padded contract and modernise operations. The connected middlemen who skimmed it howl, but the mine moves toward profit and supplies the construction stone now imported at cost.", { RE: 6, FI: 4, FA: -4 }],
+      ["Keep the bad contract and buy rocks from other countries.", "The men running that contract are not lightly crossed.", "You leave the loss-making contract intact and import the shortfall. The middlemen stay happy and the mine stays a drain, and the construction boom keeps paying to import stone you have under your own ground.", { FA: 4, RE: -2, FI: -4 }])),
 
   // ── Rock-phosphate / fertilizer feedstock ───────────────────────────────────
   ax("Fertilizer Supply Director", "official", ["fertilizer", "phosphate", "import"],
-    sx("The country imports nearly all the rock phosphate and potash its fertilizer depends on, leaving farmers exposed to world price spikes. Lock in costly long-term supply contracts and buffers, or buy cheaper on the spot market and risk the next shock?",
-      ["Lock in long-term supply and buffers.", "A harvest hostage to a world price is a famine on a futures chart.", "You sign long-term phosphate and potash contracts and build buffer stocks. The cost and commitment are real, but the farmers are shielded from the next world price spike that would have wrecked a season.", { RE: 6, EN: 4, FI: -6 }],
-      ["Buy cheap on the spot market.", "Why pay to hedge a price that might fall?", "You keep buying fertilizer feedstock cheaply on the spot market. The savings are real in calm years, and the next price spike passes straight through to the farmers and the harvest.", { FI: 4, RE: -4, EN: -4 }])),
+    sx("Farmers need plant food from other countries. You can sign a long, expensive contract to be safe, or just buy it when you need it and hope the price is low.",
+      ["Sign the long, expensive contract to be safe.", "A harvest hostage to a world price is a famine on a futures chart.", "You sign long-term phosphate and potash contracts and build buffer stocks. The cost and commitment are real, but the farmers are shielded from the next world price spike that would have wrecked a season.", { RE: 6, EN: 4, FI: -6 }],
+      ["Buy it cheap right now and risk higher prices later.", "Why pay to hedge a price that might fall?", "You keep buying fertilizer feedstock cheaply on the spot market. The savings are real in calm years, and the next price spike passes straight through to the farmers and the harvest.", { FI: 4, RE: -4, EN: -4 }])),
 
   // ── Improved cookstove programme ────────────────────────────────────────────
   ax("Energy Access Director", "people", ["cookstoves", "health", "forests"],
-    sx("Cheap, clean-burning improved cookstoves would cut the woodsmoke killing rural women and the deforestation feeding their fires — a modest, proven intervention that still needs subsidy, distribution, and patience to change a deep habit.",
-      ["Roll out improved cookstoves widely.", "A better stove is a longer life and a standing tree.", "You subsidise and distribute clean cookstoves across the villages. The habit is slow to change and the cost real, but women's lungs and the forests both get relief, fire by fire.", { EN: 6, RE: 4, FI: -4 }],
-      ["Leave cooking habits alone.", "A stove programme is a small return for a real cost.", "You skip the cookstove push. The budget is spared, and rural women keep cooking over smoky open fires, their lungs and the surrounding forests paying the quiet price.", { FI: 2, RE: -2, EN: -4 }])),
+    sx("You can give village moms special new stoves that don't make deadly smoke. But they cost money and people are used to their old smoky fires.",
+      ["Give out the special new stoves.", "A better stove is a longer life and a standing tree.", "You subsidise and distribute clean cookstoves across the villages. The habit is slow to change and the cost real, but women's lungs and the forests both get relief, fire by fire.", { EN: 6, RE: 4, FI: -4 }],
+      ["Leave the old smoky fires alone.", "A stove programme is a small return for a real cost.", "You skip the cookstove push. The budget is spared, and rural women keep cooking over smoky open fires, their lungs and the surrounding forests paying the quiet price.", { FI: 2, RE: -2, EN: -4 }])),
 
   // ── Independent power-producer renegotiation ────────────────────────────────
   ax("Power Cell Director", "fixer", ["ipp", "contracts", "renegotiation"],
-    sx("The old independent power-producer contracts lock in dollar-indexed tariffs far above today's market, draining the utility — and they were signed with firms tied to your own party. Force a renegotiation and anger the donors, or honour the ruinous terms?",
-      ["Force the IPP contracts down.", "A tariff from a fatter year is a wound in a leaner one.", "You force the IPPs to renegotiate toward market rates. The party-linked producers rage and threaten arbitration, but the utility stops bleeding dollars on power priced for a richer decade.", { RE: 4, FI: 6, FA: -6 }],
-      ["Honour the costly IPP terms.", "My donors' contracts are not lightly reopened.", "You honour the old terms to keep the donor-producers content. They stay loyal and rich, and the utility keeps paying dollar-indexed tariffs that drain it and, through it, every consumer.", { FA: 4, RE: -2, FI: -6 }])),
+    sx("The government pays crazy high prices for power from factories owned by your friends. You can force them to lower the prices, but they will be mad.",
+      ["Force your friends to lower the prices.", "A tariff from a fatter year is a wound in a leaner one.", "You force the IPPs to renegotiate toward market rates. The party-linked producers rage and threaten arbitration, but the utility stops bleeding dollars on power priced for a richer decade.", { RE: 4, FI: 6, FA: -6 }],
+      ["Keep paying your friends the crazy high prices.", "My donors' contracts are not lightly reopened.", "You honour the old terms to keep the donor-producers content. They stay loyal and rich, and the utility keeps paying dollar-indexed tariffs that drain it and, through it, every consumer.", { FA: 4, RE: -2, FI: -6 }])),
 
   // ── Surface-water city supply ───────────────────────────────────────────────
   ax("Water Supply Director", "official", ["water", "surface", "groundwater"],
-    sx("The big cities drink their aquifers dry because surface-water treatment is costly to build. The director wants a major shift to treated river water to save the sinking groundwater; but the capital is enormous and the rivers themselves need cleaning first.",
-      ["Build the surface-water supply system.", "A city drinking its own foundations away is doomed.", "You commit to treated surface water and the river-cleaning it requires. The capital is vast and the build long, but the aquifers steady and the cities gain a sustainable source of drink.", { RE: 6, EN: 6, FI: -10 }],
-      ["Keep pumping the groundwater.", "Surface water is a budget for the next decade, not this one.", "You keep the cities on cheap, fast groundwater. The money is saved now, and the aquifers keep falling and the land keeps sinking toward the day the wells run dry or the ground gives way.", { FI: 4, RE: -6, EN: -4 }])),
+    sx("The city is drinking all the underground water. You can build a giant system to clean river water instead, but it costs a lot and the rivers are gross.",
+      ["Build the giant system to clean river water.", "A city drinking its own foundations away is doomed.", "You commit to treated surface water and the river-cleaning it requires. The capital is vast and the build long, but the aquifers steady and the cities gain a sustainable source of drink.", { RE: 6, EN: 6, FI: -10 }],
+      ["Keep drinking the underground water.", "Surface water is a budget for the next decade, not this one.", "You keep the cities on cheap, fast groundwater. The money is saved now, and the aquifers keep falling and the land keeps sinking toward the day the wells run dry or the ground gives way.", { FI: 4, RE: -6, EN: -4 }])),
 
   // ── Dairy and livestock self-sufficiency ────────────────────────────────────
   ax("Livestock Development Director", "people", ["dairy", "livestock", "imports"],
-    sx("The country imports most of its milk powder while smallholder dairy farmers struggle for want of feed, breeds, and a fair market. Drive a costly push for domestic dairy self-sufficiency, or keep importing the cheaper foreign powder?",
-      ["Drive domestic dairy self-sufficiency.", "A nation that imports its milk has surrendered its breakfast.", "You invest in feed, breeds, chilling, and markets for smallholder dairy. The importers fight and the build is slow, but domestic milk grows and a vast cohort of small farmers gains a living.", { EN: 8, RE: 2, FI: -6 }],
-      ["Keep importing cheap milk powder.", "Cheap powder feeds children the budget cannot.", "You keep relying on imported powder. Milk stays cheap on the shelf, and the smallholder dairy farmers keep struggling against a foreign product the state will not help them beat.", { FI: 2, RE: -2, EN: -4 }])),
+    sx("You buy almost all your milk powder from other countries. You can spend a lot of money to help your own farmers make milk, or just keep buying it cheap from away.",
+      ["Spend money to help your own farmers make milk.", "A nation that imports its milk has surrendered its breakfast.", "You invest in feed, breeds, chilling, and markets for smallholder dairy. The importers fight and the build is slow, but domestic milk grows and a vast cohort of small farmers gains a living.", { EN: 8, RE: 2, FI: -6 }],
+      ["Keep buying cheap milk powder from other countries.", "Cheap powder feeds children the budget cannot.", "You keep relying on imported powder. Milk stays cheap on the shelf, and the smallholder dairy farmers keep struggling against a foreign product the state will not help them beat.", { FI: 2, RE: -2, EN: -4 }])),
 
   // ── Pond and canal re-excavation ────────────────────────────────────────────
   ax("Water Development Officer", "people", ["ponds", "canals", "irrigation"],
-    sx("A vast programme to re-excavate the silted-up ponds and canals would restore irrigation, fish, and flood-buffering across the countryside — labour-intensive, leak-prone to local graft, but transformative for rural water. Launch it big?",
-      ["Launch the big re-excavation programme.", "A cleared canal waters a hundred fields.", "You launch the mass re-excavation, creating rural jobs and restoring water bodies. Some funds leak to local graft, but irrigation, fisheries, and flood-buffering revive across the countryside.", { EN: 8, RE: 6, FI: -6 }],
-      ["Keep it small and tightly controlled.", "A vast labour scheme is a vast skimming opportunity.", "You run only a modest, closely-audited version. The graft is contained, and most silted ponds and canals stay choked, their irrigation and flood-buffering lost to the countryside.", { FI: 2, RE: 2, EN: -2 }])),
+    sx("The old village ponds are full of mud. You can pay people to dig them out so fish can live there again, but local bosses might steal some of the money.",
+      ["Pay to dig out the old ponds.", "A cleared canal waters a hundred fields.", "You launch the mass re-excavation, creating rural jobs and restoring water bodies. Some funds leak to local graft, but irrigation, fisheries, and flood-buffering revive across the countryside.", { EN: 8, RE: 6, FI: -6 }],
+      ["Keep it small and safe so nobody steals money.", "A vast labour scheme is a vast skimming opportunity.", "You run only a modest, closely-audited version. The graft is contained, and most silted ponds and canals stay choked, their irrigation and flood-buffering lost to the countryside.", { FI: 2, RE: 2, EN: -2 }])),
 
   // ── Seed-company monopoly ───────────────────────────────────────────────────
   ax("Agriculture Research Director", "people", ["seeds", "monopoly", "sovereignty"],
-    sx("A handful of seed companies are cornering the market with hybrids that cannot be saved and replanted, binding farmers to buy anew each season. The director wants a strong public seed system to preserve farmer-saved varieties; the seed firms lobby hard.",
-      ["Build a strong public seed system.", "A farmer who cannot save his seed is a tenant of a corporation.", "You fund public seed banks and farmer-saved varieties alongside the hybrids. The seed companies lobby furiously, but farmers keep an alternative to buying their seed anew every single season.", { EN: 6, RE: 4, FI: -4 }],
-      ["Leave seeds to the market.", "The hybrids yield more; the market knows best.", "You leave the seed market to the companies. Yields from the hybrids are high, and the farmers grow ever more dependent on buying patented seed each season from a shrinking handful of firms.", { RE: 2, FI: 2, EN: -4 }])),
+    sx("A few companies sell seeds that farmers have to buy brand new every year. You can help farmers save their own seeds, but the seed companies will be angry.",
+      ["Help farmers save their own seeds.", "A farmer who cannot save his seed is a tenant of a corporation.", "You fund public seed banks and farmer-saved varieties alongside the hybrids. The seed companies lobby furiously, but farmers keep an alternative to buying their seed anew every single season.", { EN: 6, RE: 4, FI: -4 }],
+      ["Let the companies keep selling new seeds every year.", "The hybrids yield more; the market knows best.", "You leave the seed market to the companies. Yields from the hybrids are high, and the farmers grow ever more dependent on buying patented seed each season from a shrinking handful of firms.", { RE: 2, FI: 2, EN: -4 }])),
 
   // ── Eastern refinery expansion ──────────────────────────────────────────────
   ax("Petroleum Refining Director", "official", ["refinery", "fuel", "self-reliance"],
