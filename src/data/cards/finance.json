@@ -11,7 +11,7 @@
       "forex",
       "imf"
     ],
-    "prompt": "Honourable leader! The bank boss says the country is running out of money fast, but you have been pretending you have more. He says people will find out the truth soon.",
+    "prompt": "Dear Sir — The bank boss says the country is running out of money fast, but you have been pretending you have more. He says people will find out the truth soon.",
     "left": {
       "id": "a",
       "label": "Keep pretending you have lots of money.",
@@ -47,7 +47,7 @@
       "forex",
       "imf"
     ],
-    "prompt": "Sir, urgent news. You are spending all the country's savings to make your money look strong. The bank boss says you must stop, even if it makes things very expensive.",
+    "prompt": "Honourable leader! You are spending all the country's savings to make your money look strong. The bank boss says you must stop, even if it makes things very expensive.",
     "left": {
       "id": "a",
       "label": "Stop spending savings and let prices go up.",
@@ -83,7 +83,7 @@
       "forex",
       "imf"
     ],
-    "prompt": "Sir, forgive me — You are out of money. A big global bank will give you emergency money, but only if you make gas prices very high right now. Your helpers say angry people will fill the streets.",
+    "prompt": "Central Bank Governor reports: You are out of money. A big global bank will give you emergency money, but only if you make gas prices very high right now. Your helpers say angry people will fill the streets.",
     "left": {
       "id": "a",
       "label": "Take the money and raise gas prices.",
@@ -121,7 +121,7 @@
       "default-loans",
       "cronies"
     ],
-    "prompt": "A word, sir! Rich families who give you money are secretly stealing from the banks. If you tell the truth, the banks will look broken. If you hide it, the banks will rot from the inside.",
+    "prompt": "A note from the Finance Ministry reads: Rich families who give you money are secretly stealing from the banks. If you tell the truth, the banks will look broken. If you hide it, the banks will rot from the inside.",
     "left": {
       "id": "a",
       "label": "Keep hiding it so the banks look fine.",
@@ -159,7 +159,7 @@
       "default-loans",
       "cronies"
     ],
-    "prompt": "Sir, we have a problem. You caught the biggest bank thief, but he owns TV stations and helps your team. He offers to pay back a little bit and say nice things about you on TV if you let him go.",
+    "prompt": "Word from the Finance Ministry, sir — You caught the biggest bank thief, but he owns TV stations and helps your team. He offers to pay back a little bit and say nice things about you on TV if you let him go.",
     "left": {
       "id": "a",
       "label": "Take the deal and the nice TV news.",
@@ -197,7 +197,7 @@
       "hundi",
       "diaspora"
     ],
-    "prompt": "Sir! Workers in other countries are sending money home secretly because it's cheaper. This means your government doesn't get to count it. You can offer them a bonus to send it legally.",
+    "prompt": "Expatriate Welfare Secretary: Workers in other countries are sending money home secretly because it's cheaper. This means your government doesn't get to count it. You can offer them a bonus to send it legally.",
     "left": {
       "id": "a",
       "label": "Pay them a bonus to send money legally.",
@@ -233,7 +233,7 @@
       "exports",
       "wages"
     ],
-    "prompt": "Mr. Prime Minister, sir! People who buy your country's clothes say you must pay workers more and make factories safer, or they will stop buying. Factory owners say paying more will ruin them.",
+    "prompt": "Sir, a message from the Finance Ministry: People who buy your country's clothes say you must pay workers more and make factories safer, or they will stop buying. Factory owners say paying more will ruin them.",
     "left": {
       "id": "a",
       "label": "Force the owners to pay workers more.",
@@ -271,7 +271,7 @@
       "infrastructure",
       "china"
     ],
-    "prompt": "Your Excellency! You built giant bridges and trains using borrowed money. Now you must pay it back, but you don't have enough. One lender wants to own your boat docks if you can't pay.",
+    "prompt": "You built giant bridges and trains using borrowed money. Now you must pay it back, but you don't have enough. One lender wants to own your boat docks if you can't pay. What are your orders, sir?",
     "left": {
       "id": "a",
       "label": "Let them own the boat docks so you get more time.",
@@ -309,7 +309,7 @@
       "capital-flight",
       "elite"
     ],
-    "prompt": "Prime Minister! Rich people who complain about the country are secretly hiding their money in other countries. Many of them are your friends.",
+    "prompt": "Financial Intelligence Chief awaits your word. Rich people who complain about the country are secretly hiding their money in other countries. Many of them are your friends.",
     "left": {
       "id": "a",
       "label": "Hide the secret so your friends don't get in trouble.",
@@ -346,7 +346,7 @@
       "subsidies",
       "food"
     ],
-    "prompt": "Sir — Food is too expensive and people are hungry and angry. You can buy cheap food from other countries to help, but it will cost the government a lot of money.",
+    "prompt": "Sir! Food is too expensive and people are hungry and angry. You can buy cheap food from other countries to help, but it will cost the government a lot of money.",
     "left": {
       "id": "a",
       "label": "Buy the cheap food from outside to help people.",
@@ -383,7 +383,7 @@
       "markets",
       "confidence"
     ],
-    "prompt": "Honourable leader! A judge who grades your country's money is going to give you a bad grade. He hints he will give you a good grade if you secretly give him gifts.",
+    "prompt": "Mr. Prime Minister, sir! A judge who grades your country's money is going to give you a bad grade. He hints he will give you a good grade if you secretly give him gifts.",
     "left": {
       "id": "a",
       "label": "Secretly give him gifts to get a good grade.",
@@ -419,7 +419,7 @@
       "nbr",
       "informal"
     ],
-    "prompt": "Sir, urgent news. Almost nobody pays taxes. Your helper wants to force shopkeepers to pay, but those shopkeepers give you money for your campaigns.",
+    "prompt": "Your Excellency! Almost nobody pays taxes. Your helper wants to force shopkeepers to pay, but those shopkeepers give you money for your campaigns.",
     "left": {
       "id": "a",
       "label": "Force the shopkeepers to pay taxes.",
@@ -456,7 +456,7 @@
       "whitening",
       "budget"
     ],
-    "prompt": "Sir, forgive me — People are hiding stolen money. You can let them keep it if they pay a tiny tax, and you won't ask any questions. This rewards bad guys but gives you some money.",
+    "prompt": "Dear Sir — People are hiding stolen money. You can let them keep it if they pay a tiny tax, and you won't ask any questions. This rewards bad guys but gives you some money.",
     "left": {
       "id": "a",
       "label": "Let them keep the stolen money and pay a tiny tax.",
@@ -492,7 +492,7 @@
       "market",
       "retail"
     ],
-    "prompt": "A word, sir! The stock market is crashing and normal people are losing their money. They are very angry. Your helper wants to create a fake rule to stop prices from dropping.",
+    "prompt": "Honourable leader! The stock market is crashing and normal people are losing their money. They are very angry. Your helper wants to create a fake rule to stop prices from dropping.",
     "left": {
       "id": "a",
       "label": "Make the fake rule to stop prices from dropping.",
@@ -528,7 +528,7 @@
       "market",
       "retail"
     ],
-    "prompt": "Sir, we have a problem. The stock market is broken. A very rich man says he will fix it, but only if you give him a free bank and a phone company in return.",
+    "prompt": "Stock Exchange Chair reports: The stock market is broken. A very rich man says he will fix it, but only if you give him a free bank and a phone company in return.",
     "left": {
       "id": "a",
       "label": "Give him the bank and phone company so he fixes it.",
@@ -565,7 +565,7 @@
       "debt",
       "markets"
     ],
-    "prompt": "Sir! You need money fast. You can borrow a lot of money from the world, but you will have to pay back way too much extra money for ten years.",
+    "prompt": "A note from the Finance Ministry reads: You need money fast. You can borrow a lot of money from the world, but you will have to pay back way too much extra money for ten years.",
     "left": {
       "id": "a",
       "label": "Borrow the money right now.",
@@ -601,7 +601,7 @@
       "fertiliser",
       "farmers"
     ],
-    "prompt": "Mr. Prime Minister, sir! Plant food for farmers is very expensive now. If you don't help pay for it, the crops will die. But helping will cost almost all your money.",
+    "prompt": "Word from the Finance Ministry, sir — Plant food for farmers is very expensive now. If you don't help pay for it, the crops will die. But helping will cost almost all your money.",
     "left": {
       "id": "a",
       "label": "Pay for the plant food so crops can grow.",
@@ -638,7 +638,7 @@
       "welfare",
       "funding"
     ],
-    "prompt": "Your Excellency! You promised to give old people money when they retire, and everyone loves it. But secretly, you don't have enough money to pay them later.",
+    "prompt": "Pension Authority Head: You promised to give old people money when they retire, and everyone loves it. But secretly, you don't have enough money to pay them later.",
     "left": {
       "id": "a",
       "label": "Keep making the promise and worry about the money later.",
@@ -674,7 +674,7 @@
       "merger",
       "weak-banks"
     ],
-    "prompt": "Prime Minister! Five banks are completely broken but pretending to be okay. You can force them to join good banks, but your rich friends will lose their jobs there.",
+    "prompt": "Sir, a message from the Finance Ministry: Five banks are completely broken but pretending to be okay. You can force them to join good banks, but your rich friends will lose their jobs there.",
     "left": {
       "id": "a",
       "label": "Force them to join the good banks.",
@@ -710,7 +710,7 @@
       "bkash",
       "fintech"
     ],
-    "prompt": "Sir — Poor people use their phones to get their paychecks. The big phone company wants to charge them more money to get their cash.",
+    "prompt": "Poor people use their phones to get their paychecks. The big phone company wants to charge them more money to get their cash. What are your orders, sir?",
     "left": {
       "id": "a",
       "label": "Stop the company from charging more money.",
@@ -746,7 +746,7 @@
       "laundering",
       "trade"
     ],
-    "prompt": "Honourable leader! People are sneaking billions of dollars out of the country using fake shopping bills. The worst bad guys are friends with your leaders.",
+    "prompt": "Customs Intelligence Chief awaits your word. People are sneaking billions of dollars out of the country using fake shopping bills. The worst bad guys are friends with your leaders.",
     "left": {
       "id": "a",
       "label": "Stop the fake bills and catch everyone.",
@@ -782,7 +782,7 @@
       "bpc",
       "subsidy"
     ],
-    "prompt": "Sir, urgent news. The government sells gas for cars super cheap and loses money every day. You can make a rule so the price changes automatically, so you don't have to be the bad guy.",
+    "prompt": "Sir! The government sells gas for cars super cheap and loses money every day. You can make a rule so the price changes automatically, so you don't have to be the bad guy.",
     "left": {
       "id": "a",
       "label": "Make the automatic price rule.",
@@ -818,7 +818,7 @@
       "dual-rate",
       "taka"
     ],
-    "prompt": "Sir, forgive me — The official price of your country's money is fake, so people use a secret black market. You can fix the official price, but it will make everything cost more for everyone at once.",
+    "prompt": "Mr. Prime Minister, sir! The official price of your country's money is fake, so people use a secret black market. You can fix the official price, but it will make everything cost more for everyone at once.",
     "left": {
       "id": "a",
       "label": "Fix the price and make things cost more.",
@@ -854,7 +854,7 @@
       "debt",
       "geopolitics"
     ],
-    "prompt": "A word, sir! China wants to give you cheap money to build a cool new road. Your enemies say it is a trap to make you owe China forever.",
+    "prompt": "Your Excellency! China wants to give you cheap money to build a cool new road. Your enemies say it is a trap to make you owe China forever.",
     "left": {
       "id": "a",
       "label": "Take China's money to build the road.",
@@ -890,7 +890,7 @@
       "civil-service",
       "budget"
     ],
-    "prompt": "Sir, we have a problem. Millions of government workers want a big pay raise. If you pay them, they will love you, but it will use up all the money meant for building schools and hospitals.",
+    "prompt": "Dear Sir — Millions of government workers want a big pay raise. If you pay them, they will love you, but it will use up all the money meant for building schools and hospitals.",
     "left": {
       "id": "a",
       "label": "Give them a giant pay raise.",
@@ -927,7 +927,7 @@
       "incentive",
       "exports"
     ],
-    "prompt": "Sir! You give extra money to people who sell clothes to other countries. The world bank says this is unfair and you must stop. The clothes makers will be very angry.",
+    "prompt": "Honourable leader! You give extra money to people who sell clothes to other countries. The world bank says this is unfair and you must stop. The clothes makers will be very angry.",
     "left": {
       "id": "a",
       "label": "Keep giving them the extra money.",
@@ -964,7 +964,7 @@
       "inflation",
       "central-bank"
     ],
-    "prompt": "Mr. Prime Minister, sir! You don't have enough money to pay your bills. A helper says you can just print fake money to pay them. It feels easy now, but will make everything super expensive later.",
+    "prompt": "Deficit Financing Officer reports: You don't have enough money to pay your bills. A helper says you can just print fake money to pay them. It feels easy now, but will make everything super expensive later.",
     "left": {
       "id": "a",
       "label": "Print fake money to pay the bills.",
@@ -1000,7 +1000,7 @@
       "ecommerce",
       "refunds"
     ],
-    "prompt": "Your Excellency! A fake online store stole money from thousands of families. They are crying outside your office and want their money back.",
+    "prompt": "A note from the Finance Ministry reads: A fake online store stole money from thousands of families. They are crying outside your office and want their money back.",
     "left": {
       "id": "a",
       "label": "Use government money to pay them back.",
@@ -1036,7 +1036,7 @@
       "surcharge",
       "elite"
     ],
-    "prompt": "Prime Minister! A helper says you should charge very rich people a big new tax. Normal people will cheer, but your rich friends will be furious.",
+    "prompt": "Word from the Finance Ministry, sir — A helper says you should charge very rich people a big new tax. Normal people will cheer, but your rich friends will be furious.",
     "left": {
       "id": "a",
       "label": "Charge the rich people the big new tax.",
@@ -1072,7 +1072,7 @@
       "luxury",
       "reserves"
     ],
-    "prompt": "Sir — To save money, you can stop stores from buying fancy things like cars and makeup from other countries. Rich people will be mad when the shelves are empty.",
+    "prompt": "Import Policy Officer: To save money, you can stop stores from buying fancy things like cars and makeup from other countries. Rich people will be mad when the shelves are empty.",
     "left": {
       "id": "a",
       "label": "Stop the fancy things from coming in.",
@@ -1109,7 +1109,7 @@
       "defaulters",
       "banks"
     ],
-    "prompt": "Honourable leader! People who borrow money and never pay it back want you to change the rules so they look like good guys again. This makes the banks look good but rewards bad behavior.",
+    "prompt": "Sir, a message from the Finance Ministry: People who borrow money and never pay it back want you to change the rules so they look like good guys again. This makes the banks look good but rewards bad behavior.",
     "left": {
       "id": "a",
       "label": "Change the rules to make them look like good guys.",
@@ -1146,7 +1146,7 @@
       "jute",
       "state-firms"
     ],
-    "prompt": "Sir, urgent news. Old government factories lose money every single year, but they give jobs to many people. Your helper wants to close them.",
+    "prompt": "Old government factories lose money every single year, but they give jobs to many people. Your helper wants to close them. What are your orders, sir?",
     "left": {
       "id": "a",
       "label": "Close the old factories.",
@@ -1183,7 +1183,7 @@
       "savings",
       "rates"
     ],
-    "prompt": "Sir, forgive me — You give old people a really good deal when they save money with the government. But it costs the government too much.",
+    "prompt": "National Savings Director awaits your word. You give old people a really good deal when they save money with the government. But it costs the government too much.",
     "left": {
       "id": "a",
       "label": "Stop giving them the really good deal.",
@@ -1219,7 +1219,7 @@
       "tax-holiday",
       "investment"
     ],
-    "prompt": "A word, sir! A foreign company wants to build a big factory and create jobs. But they want you to promise they don't have to pay taxes for a very long time.",
+    "prompt": "Sir! A foreign company wants to build a big factory and create jobs. But they want you to promise they don't have to pay taxes for a very long time.",
     "left": {
       "id": "a",
       "label": "Promise they don't have to pay taxes for a long time.",
@@ -1256,7 +1256,7 @@
       "tax",
       "health"
     ],
-    "prompt": "Sir, we have a problem. Doctors want you to put a huge tax on cigarettes to stop people from getting sick. But cigarette makers pay you a lot of money and many farmers grow the plants.",
+    "prompt": "Mr. Prime Minister, sir! Doctors want you to put a huge tax on cigarettes to stop people from getting sick. But cigarette makers pay you a lot of money and many farmers grow the plants.",
     "left": {
       "id": "a",
       "label": "Put a huge tax on cigarettes.",
@@ -1292,7 +1292,7 @@
       "black-money",
       "registration"
     ],
-    "prompt": "Sir! People lie about how much their houses cost on paper so they don't have to pay taxes. If you use computers to fix this, powerful people will be caught.",
+    "prompt": "Your Excellency! People lie about how much their houses cost on paper so they don't have to pay taxes. If you use computers to fix this, powerful people will be caught.",
     "left": {
       "id": "a",
       "label": "Use computers to fix it and catch them.",
@@ -1329,7 +1329,7 @@
       "pilgrims",
       "cost"
     ],
-    "prompt": "Mr. Prime Minister, sir! Airplanes cost too much for poor families to take their big religious trip. You can use government money to pay for part of their tickets.",
+    "prompt": "Dear Sir — Airplanes cost too much for poor families to take their big religious trip. You can use government money to pay for part of their tickets.",
     "left": {
       "id": "a",
       "label": "Pay for part of their tickets.",
@@ -1367,7 +1367,7 @@
       "fund",
       "graft"
     ],
-    "prompt": "Your Excellency! The money meant to help save the earth from storms was stolen by your own team members. You can investigate and take it back, but it will embarrass your team.",
+    "prompt": "Honourable leader! The money meant to help save the earth from storms was stolen by your own team members. You can investigate and take it back, but it will embarrass your team.",
     "left": {
       "id": "a",
       "label": "Investigate and take the stolen money back.",
@@ -1404,7 +1404,7 @@
       "sovereign-fund",
       "investment"
     ],
-    "prompt": "Prime Minister! A helper wants to take your emergency money from the bank and spend it to build big things at home. It is brave, but if an emergency happens, you will have no money.",
+    "prompt": "Sovereign Fund Proponent reports: A helper wants to take your emergency money from the bank and spend it to build big things at home. It is brave, but if an emergency happens, you will have no money.",
     "left": {
       "id": "a",
       "label": "Take the emergency money and build big things.",
@@ -1441,7 +1441,7 @@
       "digitisation",
       "compliance"
     ],
-    "prompt": "Sir — Shopkeepers are putting tax money in their own pockets. You can force them to use smart computers to stop this, but millions of them will be angry and vote against you.",
+    "prompt": "A note from the Finance Ministry reads: Shopkeepers are putting tax money in their own pockets. You can force them to use smart computers to stop this, but millions of them will be angry and vote against you.",
     "left": {
       "id": "a",
       "label": "Force them to use the smart computers.",
@@ -1478,7 +1478,7 @@
       "compliance",
       "wages"
     ],
-    "prompt": "Honourable leader! Buyers from other countries want proof that your factories pay workers fairly. Being fair costs owners money. Faking the proof risks losing the buyers forever.",
+    "prompt": "Word from the Finance Ministry, sir — Buyers from other countries want proof that your factories pay workers fairly. Being fair costs owners money. Faking the proof risks losing the buyers forever.",
     "left": {
       "id": "a",
       "label": "Force the owners to be completely fair.",
@@ -1516,7 +1516,7 @@
       "tax",
       "whitening"
     ],
-    "prompt": "Sir, urgent news. Bad guys have hidden, stolen money. You can pass a rule that lets them keep it safely if they pay a tiny tax. Honest people think this is very unfair.",
+    "prompt": "Revenue Board Chairman: Bad guys have hidden, stolen money. You can pass a rule that lets them keep it safely if they pay a tiny tax. Honest people think this is very unfair.",
     "left": {
       "id": "a",
       "label": "Let them keep it safely for a tiny tax.",
@@ -1553,7 +1553,7 @@
       "crash",
       "retail"
     ],
-    "prompt": "Sir, forgive me — Bad guys tricked normal people into losing all their money in the stock market. You can spend government money to pay the normal people back and punish the bad guys.",
+    "prompt": "Sir, a message from the Finance Ministry: Bad guys tricked normal people into losing all their money in the stock market. You can spend government money to pay the normal people back and punish the bad guys.",
     "left": {
       "id": "a",
       "label": "Pay the normal people back and punish the bad guys.",
@@ -1590,7 +1590,7 @@
       "privatisation",
       "jobs"
     ],
-    "prompt": "A word, sir! The government owns old factories and airplanes that lose money every day. You can shut them down, or keep them running just so workers keep their jobs.",
+    "prompt": "The government owns old factories and airplanes that lose money every day. You can shut them down, or keep them running just so workers keep their jobs. What are your orders, sir?",
     "left": {
       "id": "a",
       "label": "Shut them down and stop losing money.",
@@ -1626,7 +1626,7 @@
       "welfare",
       "future"
     ],
-    "prompt": "Sir, we have a problem. You want to help poor workers save money for when they get old. You can use government money to help them, or force them to use only their own money.",
+    "prompt": "Pension Authority Director awaits your word. You want to help poor workers save money for when they get old. You can use government money to help them, or force them to use only their own money.",
     "left": {
       "id": "a",
       "label": "Use government money to help them save.",
@@ -1771,7 +1771,7 @@
       "defaulters",
       "favours"
     ],
-    "prompt": "Prime Minister! Rich people who never pay back their bank loans want you to give them a super easy deal again. It makes the banks look okay on paper, but lets the bad guys win.",
+    "prompt": "Dear Sir — Rich people who never pay back their bank loans want you to give them a super easy deal again. It makes the banks look okay on paper, but lets the bad guys win.",
     "left": {
       "id": "a",
       "label": "Give them the super easy deal.",
@@ -1809,7 +1809,7 @@
       "debt",
       "markets"
     ],
-    "prompt": "Sir — You can borrow a huge amount of money from the world right now. But you will owe them so much extra money that it will hurt your country for a long time.",
+    "prompt": "Honourable leader! You can borrow a huge amount of money from the world right now. But you will owe them so much extra money that it will hurt your country for a long time.",
     "left": {
       "id": "a",
       "label": "Borrow the huge amount of money.",
@@ -1845,7 +1845,7 @@
       "syndicate",
       "food"
     ],
-    "prompt": "Honourable leader! Bad sellers are hiding food to make it cost more. Some of them give you money.",
+    "prompt": "Trading Corporation Chief reports: Bad sellers are hiding food to make it cost more. Some of them give you money.",
     "left": {
       "id": "a",
       "label": "Stop the bad sellers and bring in cheap food.",
@@ -1881,7 +1881,7 @@
       "ports",
       "corruption"
     ],
-    "prompt": "Sir, urgent news. Guards at the boat docks are taking secret money instead of charging the right taxes.",
+    "prompt": "A note from the Finance Ministry reads: Guards at the boat docks are taking secret money instead of charging the right taxes.",
     "left": {
       "id": "a",
       "label": "Use computers to stop them from stealing.",
@@ -1919,7 +1919,7 @@
       "elite",
       "evasion"
     ],
-    "prompt": "Sir, forgive me — Rich people are not paying their taxes, so normal workers have to pay more.",
+    "prompt": "Word from the Finance Ministry, sir — Rich people are not paying their taxes, so normal workers have to pay more.",
     "left": {
       "id": "a",
       "label": "Force the rich people to pay their taxes.",
@@ -1956,7 +1956,7 @@
       "remittances",
       "inclusion"
     ],
-    "prompt": "A word, sir! Paying with phones can help people send money safely, but regular banks don't like it.",
+    "prompt": "Digital Finance Adviser: Paying with phones can help people send money safely, but regular banks don't like it.",
     "left": {
       "id": "a",
       "label": "Help people use their phones to send money safely.",
@@ -1993,7 +1993,7 @@
       "bureaucracy",
       "budget"
     ],
-    "prompt": "Sir, we have a problem. Government workers want a giant raise. If you pay them, they will be happy, but you won't have money for other things.",
+    "prompt": "Sir, a message from the Finance Ministry: Government workers want a giant raise. If you pay them, they will be happy, but you won't have money for other things.",
     "left": {
       "id": "a",
       "label": "Give them the giant raise.",
@@ -2030,7 +2030,7 @@
       "over-invoicing",
       "capital-flight"
     ],
-    "prompt": "Sir! Your rich friends are secretly sending their money to other countries.",
+    "prompt": "Your rich friends are secretly sending their money to other countries. What are your orders, sir?",
     "left": {
       "id": "a",
       "label": "Build a strong team to stop them.",
@@ -2067,7 +2067,7 @@
       "fdi",
       "incentives"
     ],
-    "prompt": "Mr. Prime Minister, sir! Foreign companies want free land and no taxes for a long time to build factories here.",
+    "prompt": "Investment Authority Chief awaits your word. Foreign companies want free land and no taxes for a long time to build factories here.",
     "left": {
       "id": "a",
       "label": "Give them free things so they build factories.",
@@ -2104,7 +2104,7 @@
       "printing",
       "inflation"
     ],
-    "prompt": "Your Excellency! You have no money to pay bills. You can print fake money now, but it will ruin everything later.",
+    "prompt": "Sir! You have no money to pay bills. You can print fake money now, but it will ruin everything later.",
     "left": {
       "id": "a",
       "label": "Print the fake money to pay bills.",
@@ -2140,7 +2140,7 @@
       "farmers",
       "credit"
     ],
-    "prompt": "Prime Minister! Poor farmers can't borrow money because banks only lend to rich people.",
+    "prompt": "Mr. Prime Minister, sir! Poor farmers can't borrow money because banks only lend to rich people.",
     "left": {
       "id": "a",
       "label": "Force banks to lend money to poor farmers.",
@@ -2175,7 +2175,7 @@
       "festival",
       "wages"
     ],
-    "prompt": "Sir — A big holiday is coming and factory owners can't pay their workers. The workers will be very mad.",
+    "prompt": "Your Excellency! A big holiday is coming and factory owners can't pay their workers. The workers will be very mad.",
     "left": {
       "id": "a",
       "label": "Give the owners government money to pay the workers.",
@@ -2211,7 +2211,7 @@
       "diversification",
       "garments"
     ],
-    "prompt": "Honourable leader! Your country only sells clothes to the world. You can try to sell new things like medicine and computers, but it is slow and hard.",
+    "prompt": "Dear Sir — Your country only sells clothes to the world. You can try to sell new things like medicine and computers, but it is slow and hard.",
     "left": {
       "id": "a",
       "label": "Try to sell new things like medicine and computers.",
@@ -2248,7 +2248,7 @@
       "freelancers",
       "youth"
     ],
-    "prompt": "Sir, urgent news. Young people making money online are having a hard time getting paid because of bad rules.",
+    "prompt": "Honourable leader! Young people making money online are having a hard time getting paid because of bad rules.",
     "left": {
       "id": "a",
       "label": "Change the rules to help them get paid easily.",
@@ -2284,7 +2284,7 @@
       "second-homes",
       "elite"
     ],
-    "prompt": "Sir, forgive me — News reporters found out your leaders secretly own big houses in other countries using stolen money.",
+    "prompt": "Financial Intelligence Chief reports: News reporters found out your leaders secretly own big houses in other countries using stolen money.",
     "left": {
       "id": "a",
       "label": "Help catch them and take the money back.",
@@ -2322,7 +2322,7 @@
       "regulation",
       "capital-controls"
     ],
-    "prompt": "A word, sir! Young people are using digital internet money. It might be dangerous, but everyone is doing it.",
+    "prompt": "A note from the Finance Ministry reads: Young people are using digital internet money. It might be dangerous, but everyone is doing it.",
     "left": {
       "id": "a",
       "label": "Ban all internet money.",
@@ -2359,7 +2359,7 @@
       "infrastructure",
       "contracts"
     ],
-    "prompt": "Sir, we have a problem. A company wants to build a big road for free, but they will charge everyone to drive on it for a very long time.",
+    "prompt": "Word from the Finance Ministry, sir — A company wants to build a big road for free, but they will charge everyone to drive on it for a very long time.",
     "left": {
       "id": "a",
       "label": "Let them build it and charge people.",
@@ -2396,7 +2396,7 @@
       "spending",
       "quality"
     ],
-    "prompt": "Sir! Every year, people rush to spend government money on badly made projects just before time runs out.",
+    "prompt": "Planning Commission Member: Every year, people rush to spend government money on badly made projects just before time runs out.",
     "left": {
       "id": "a",
       "label": "Stop the rush and only build a few good things.",
@@ -2433,7 +2433,7 @@
       "debt",
       "poverty"
     ],
-    "prompt": "Mr. Prime Minister, sir! Poor people are borrowing too much money from too many places and are stuck. You can make rules to stop this, but the lenders will be mad.",
+    "prompt": "Sir, a message from the Finance Ministry: Poor people are borrowing too much money from too many places and are stuck. You can make rules to stop this, but the lenders will be mad.",
     "left": {
       "id": "a",
       "label": "Make rules to protect the poor people.",
@@ -2470,7 +2470,7 @@
       "budget",
       "spending"
     ],
-    "prompt": "Your Excellency! The army wants a lot more money for cool new gear. If you give it to them, you can't build schools and hospitals.",
+    "prompt": "The army wants a lot more money for cool new gear. If you give it to them, you can't build schools and hospitals. What are your orders, sir?",
     "left": {
       "id": "a",
       "label": "Give the army the money they want.",
@@ -2508,7 +2508,7 @@
       "transparency",
       "audit"
     ],
-    "prompt": "Prime Minister! You have been counting money you already promised to others, making you look richer than you are.",
+    "prompt": "Auditor General awaits your word. You have been counting money you already promised to others, making you look richer than you are.",
     "left": {
       "id": "a",
       "label": "Tell the truth about having less money.",
@@ -2544,7 +2544,7 @@
       "banks",
       "scandal"
     ],
-    "prompt": "Sir — A group of bad guys stole a giant amount of money from a government bank.",
+    "prompt": "Sir! A group of bad guys stole a giant amount of money from a government bank.",
     "left": {
       "id": "a",
       "label": "Investigate them in front of everyone.",
@@ -2582,7 +2582,7 @@
       "banks",
       "scandal"
     ],
-    "prompt": "Honourable leader! A second bank was robbed the same way. The checker wants to make strong rules that would stop your friends from controlling the banks.",
+    "prompt": "Mr. Prime Minister, sir! A second bank was robbed the same way. The checker wants to make strong rules that would stop your friends from controlling the banks.",
     "left": {
       "id": "a",
       "label": "Make the strong rules to stop the stealing.",
@@ -2620,7 +2620,7 @@
       "incentive",
       "reserves"
     ],
-    "prompt": "Sir, urgent news. Workers far away are using secret ways to send money home. You can pay them a bonus to use the safe banks instead.",
+    "prompt": "Your Excellency! Workers far away are using secret ways to send money home. You can pay them a bonus to use the safe banks instead.",
     "left": {
       "id": "a",
       "label": "Pay the bonus so they use safe banks.",
@@ -2656,7 +2656,7 @@
       "incentive",
       "reserves"
     ],
-    "prompt": "Sir, forgive me — Factory owners are jealous of the bonus you gave the workers. They demand a bonus too, or they will hide their money.",
+    "prompt": "Dear Sir — Factory owners are jealous of the bonus you gave the workers. They demand a bonus too, or they will hide their money.",
     "left": {
       "id": "a",
       "label": "Give the factory owners the bonus too.",
@@ -2692,7 +2692,7 @@
       "lc",
       "reserves"
     ],
-    "prompt": "A word, sir! You can stop people from buying things from other countries to save money. But this will hurt factories that need parts.",
+    "prompt": "Honourable leader! You can stop people from buying things from other countries to save money. But this will hurt factories that need parts.",
     "left": {
       "id": "a",
       "label": "Stop people from buying things from other countries.",
@@ -2729,7 +2729,7 @@
       "lc",
       "reserves"
     ],
-    "prompt": "Sir, we have a problem. Stopping buying things caused a big problem. Now there is not enough medicine or food.",
+    "prompt": "Central Bank Governor reports: Stopping buying things caused a big problem. Now there is not enough medicine or food.",
     "left": {
       "id": "a",
       "label": "Keep the strict rules to save money.",
@@ -2765,7 +2765,7 @@
       "statistics",
       "credibility"
     ],
-    "prompt": "Sir! You can change the math to make your country look super rich and successful, even if it's a lie.",
+    "prompt": "A note from the Finance Ministry reads: You can change the math to make your country look super rich and successful, even if it's a lie.",
     "left": {
       "id": "a",
       "label": "Use the fake math to look great.",
@@ -2801,7 +2801,7 @@
       "labour",
       "cost"
     ],
-    "prompt": "Mr. Prime Minister, sir! You can pass a rule that all workers must be paid a fair amount. The bosses say this will cost them too much money.",
+    "prompt": "Word from the Finance Ministry, sir — You can pass a rule that all workers must be paid a fair amount. The bosses say this will cost them too much money.",
     "left": {
       "id": "a",
       "label": "Make a rule that pays workers fairly.",
@@ -2837,7 +2837,7 @@
       "ponzi",
       "fraud"
     ],
-    "prompt": "Your Excellency! A famous online store is stealing everyone's money. You need to stop them quickly before they run away.",
+    "prompt": "Consumer Protection Director: A famous online store is stealing everyone's money. You need to stop them quickly before they run away.",
     "left": {
       "id": "a",
       "label": "Stop them and arrest them immediately.",
@@ -2873,7 +2873,7 @@
       "embezzlement",
       "regulator"
     ],
-    "prompt": "Prime Minister! One bad guy stole all the money from a money-lending business and ran away.",
+    "prompt": "Sir, a message from the Finance Ministry: One bad guy stole all the money from a money-lending business and ran away.",
     "left": {
       "id": "a",
       "label": "Chase him down and punish the people who helped him.",
@@ -2911,7 +2911,7 @@
       "monetary",
       "independence"
     ],
-    "prompt": "Sir — Your helpers want the bank boss to break the rules to make you look good for the election. The bank boss says this is dangerous.",
+    "prompt": "Your helpers want the bank boss to break the rules to make you look good for the election. The bank boss says this is dangerous. What are your orders, sir?",
     "left": {
       "id": "a",
       "label": "Force the bank boss to break the rules.",
@@ -2948,7 +2948,7 @@
       "farmers",
       "rice"
     ],
-    "prompt": "Honourable leader! The farmers picked their rice. You can pay them a high price to help them, or a low price to save government money.",
+    "prompt": "Food Directorate Chief awaits your word. The farmers picked their rice. You can pay them a high price to help them, or a low price to save government money.",
     "left": {
       "id": "a",
       "label": "Pay a high price to help the farmers.",
@@ -2982,7 +2982,7 @@
       "inflation",
       "poor"
     ],
-    "prompt": "Sir, urgent news. Food is too expensive and poor people are starving. You can open the emergency food stores now, or save them just in case things get even worse.",
+    "prompt": "Sir! Food is too expensive and poor people are starving. You can open the emergency food stores now, or save them just in case things get even worse.",
     "left": {
       "id": "a",
       "label": "Open the emergency food stores now.",
@@ -3016,7 +3016,7 @@
       "education",
       "poverty"
     ],
-    "prompt": "Sir, forgive me — You can pay poor mothers money if they promise to keep their kids in school and take them to the doctor.",
+    "prompt": "Mr. Prime Minister, sir! You can pay poor mothers money if they promise to keep their kids in school and take them to the doctor.",
     "left": {
       "id": "a",
       "label": "Pay the mothers to help the kids.",
@@ -3051,7 +3051,7 @@
       "wealth",
       "elite"
     ],
-    "prompt": "A word, sir! Rich people have giant, empty houses that they don't pay taxes on. You can tax their houses to get money for the country.",
+    "prompt": "Your Excellency! Rich people have giant, empty houses that they don't pay taxes on. You can tax their houses to get money for the country.",
     "left": {
       "id": "a",
       "label": "Tax the giant houses.",
@@ -3088,7 +3088,7 @@
       "big-tech",
       "revenue"
     ],
-    "prompt": "Sir, we have a problem. Big internet companies make lots of money in your country but pay no tax. You can make them pay, but they might get angry.",
+    "prompt": "Dear Sir — Big internet companies make lots of money in your country but pay no tax. You can make them pay, but they might get angry.",
     "left": {
       "id": "a",
       "label": "Make the big internet companies pay tax.",
@@ -3123,7 +3123,7 @@
       "infrastructure",
       "funding"
     ],
-    "prompt": "Sir! You can ask people from your country living far away to lend you money to build things. But if you lose it, they will be very hurt.",
+    "prompt": "Honourable leader! You can ask people from your country living far away to lend you money to build things. But if you lose it, they will be very hurt.",
     "left": {
       "id": "a",
       "label": "Ask them to lend you the money.",
@@ -3158,7 +3158,7 @@
       "irrigation",
       "subsidy"
     ],
-    "prompt": "Mr. Prime Minister, sir! The gas farmers need to water their crops is too expensive. You can help pay for the gas, or let the farmers struggle.",
+    "prompt": "Agriculture Finance Secretary reports: The gas farmers need to water their crops is too expensive. You can help pay for the gas, or let the farmers struggle.",
     "left": {
       "id": "a",
       "label": "Help pay for the gas to save the crops.",
@@ -3194,7 +3194,7 @@
       "health",
       "revenue"
     ],
-    "prompt": "Your Excellency! You can put a high tax on junk food and cigarettes so people buy less and stay healthy. But the people who make them will be mad.",
+    "prompt": "A note from the Finance Ministry reads: You can put a high tax on junk food and cigarettes so people buy less and stay healthy. But the people who make them will be mad.",
     "left": {
       "id": "a",
       "label": "Put a high tax on junk food and cigarettes.",
@@ -3230,7 +3230,7 @@
       "debt",
       "discipline"
     ],
-    "prompt": "Prime Minister! You can make a strict law that stops the government from borrowing too much money. This makes you safe but stops you from spending freely.",
+    "prompt": "Word from the Finance Ministry, sir — You can make a strict law that stops the government from borrowing too much money. This makes you safe but stops you from spending freely.",
     "left": {
       "id": "a",
       "label": "Make the strict law to be safe.",
@@ -3266,7 +3266,7 @@
       "multinationals",
       "evasion"
     ],
-    "prompt": "Sir — Huge world companies are tricking the math so they don't pay taxes in your country. You can stop them, but they might leave.",
+    "prompt": "Large Taxpayer Unit Chief: Huge world companies are tricking the math so they don't pay taxes in your country. You can stop them, but they might leave.",
     "left": {
       "id": "a",
       "label": "Stop their tricks and make them pay.",
@@ -3301,7 +3301,7 @@
       "farmers",
       "climate"
     ],
-    "prompt": "Honourable leader! Bad weather keeps destroying farmers' crops. You can create an insurance plan to protect them, but it costs a lot to set up.",
+    "prompt": "Sir, a message from the Finance Ministry: Bad weather keeps destroying farmers' crops. You can create an insurance plan to protect them, but it costs a lot to set up.",
     "left": {
       "id": "a",
       "label": "Create the insurance plan to protect them.",
@@ -3336,7 +3336,7 @@
       "investment",
       "risk"
     ],
-    "prompt": "Sir, urgent news. Workers' retirement money is safe but growing slowly. You can try to make it grow faster by investing in risky things, but they might lose it all.",
+    "prompt": "Workers' retirement money is safe but growing slowly. You can try to make it grow faster by investing in risky things, but they might lose it all. What are your orders, sir?",
     "left": {
       "id": "a",
       "label": "Try to make it grow faster in risky things.",
@@ -3371,7 +3371,7 @@
       "sme",
       "leakage"
     ],
-    "prompt": "Sir, forgive me — You have emergency money to save businesses. If you give it out fast, rich friends will grab it all. If you are careful, it will reach small shops.",
+    "prompt": "Stimulus Coordination Chief awaits your word. You have emergency money to save businesses. If you give it out fast, rich friends will grab it all. If you are careful, it will reach small shops.",
     "left": {
       "id": "a",
       "label": "Give it out fast through the banks.",
@@ -3407,7 +3407,7 @@
       "market",
       "manipulation"
     ],
-    "prompt": "A word, sir! Rich people are playing a game with the stock market to steal from normal people.",
+    "prompt": "Sir! Rich people are playing a game with the stock market to steal from normal people.",
     "left": {
       "id": "a",
       "label": "Make strict rules to keep it fair.",
@@ -3444,7 +3444,7 @@
       "exposure",
       "concentration"
     ],
-    "prompt": "Sir, we have a problem. A few giant businesses have borrowed almost all the money. If they fail, the country fails. You can force them to stop borrowing so much.",
+    "prompt": "Mr. Prime Minister, sir! A few giant businesses have borrowed almost all the money. If they fail, the country fails. You can force them to stop borrowing so much.",
     "left": {
       "id": "a",
       "label": "Force them to stop borrowing so much.",
@@ -3482,7 +3482,7 @@
       "family-control",
       "governance"
     ],
-    "prompt": "Sir! One family is allowed to control a whole bank forever, which makes it easy for them to steal. You can change the rule, but they are your friends.",
+    "prompt": "Your Excellency! One family is allowed to control a whole bank forever, which makes it easy for them to steal. You can change the rule, but they are your friends.",
     "left": {
       "id": "a",
       "label": "Change the rule to stop them from controlling it forever.",
@@ -3520,7 +3520,7 @@
       "tariffs",
       "industry"
     ],
-    "prompt": "Mr. Prime Minister, sir! Super cheap toys and tools from other countries are hurting your own factories. You can tax them to save your jobs, but things will cost more.",
+    "prompt": "Dear Sir — Super cheap toys and tools from other countries are hurting your own factories. You can tax them to save your jobs, but things will cost more.",
     "left": {
       "id": "a",
       "label": "Tax the cheap foreign things to save your jobs.",
@@ -3556,7 +3556,7 @@
       "losses",
       "transparency"
     ],
-    "prompt": "Your Excellency! Government factories are losing tons of money secretly. You can tell everyone the truth, which will be shocking, or keep hiding it.",
+    "prompt": "Honourable leader! Government factories are losing tons of money secretly. You can tell everyone the truth, which will be shocking, or keep hiding it.",
     "left": {
       "id": "a",
       "label": "Tell the honest truth about the lost money.",
@@ -3592,7 +3592,7 @@
       "compliance",
       "reputation"
     ],
-    "prompt": "Prime Minister! The world says your country lets bad guys hide stolen money. They will punish you unless you stop them, but the bad guys are your friends.",
+    "prompt": "Anti-Money-Laundering Director reports: The world says your country lets bad guys hide stolen money. They will punish you unless you stop them, but the bad guys are your friends.",
     "left": {
       "id": "a",
       "label": "Stop the bad guys to protect your country.",
@@ -3628,7 +3628,7 @@
       "property",
       "corruption"
     ],
-    "prompt": "Sir — Powerful people hide their stolen houses by putting them in other people's names. You can make a law to catch them and take the houses.",
+    "prompt": "A note from the Finance Ministry reads: Powerful people hide their stolen houses by putting them in other people's names. You can make a law to catch them and take the houses.",
     "left": {
       "id": "a",
       "label": "Make the law and take the stolen houses.",
@@ -3666,7 +3666,7 @@
       "smuggling",
       "policy"
     ],
-    "prompt": "Honourable leader! People are secretly sneaking gold through your airports, and the police are helping them for money.",
+    "prompt": "Word from the Finance Ministry, sir — People are secretly sneaking gold through your airports, and the police are helping them for money.",
     "left": {
       "id": "a",
       "label": "Make it legal to bring gold in and charge a fair tax.",
@@ -3703,7 +3703,7 @@
       "drawback",
       "fraud"
     ],
-    "prompt": "Sir, urgent news. People are tricking the government into giving them extra money for things they never really made or sold.",
+    "prompt": "Customs Commissioner: People are tricking the government into giving them extra money for things they never really made or sold.",
     "left": {
       "id": "a",
       "label": "Use computers to check everything and stop the trick.",
@@ -3739,7 +3739,7 @@
       "duty",
       "diversion"
     ],
-    "prompt": "Sir, forgive me — Factory owners get cheap materials to make things to sell far away, but they secretly sell them at home to get richer.",
+    "prompt": "Sir, a message from the Finance Ministry: Factory owners get cheap materials to make things to sell far away, but they secretly sell them at home to get richer.",
     "left": {
       "id": "a",
       "label": "Check their factories closely to stop the secret selling.",
@@ -3775,7 +3775,7 @@
       "wealth",
       "dynasty"
     ],
-    "prompt": "A word, sir! Very rich families pass down all their money to their kids without paying any taxes. You could tax this money to help the country.",
+    "prompt": "Very rich families pass down all their money to their kids without paying any taxes. You could tax this money to help the country. What are your orders, sir?",
     "left": {
       "id": "a",
       "label": "Make them pay a tax when they pass down money.",
@@ -3811,7 +3811,7 @@
       "poverty",
       "resilience"
     ],
-    "prompt": "Sir, we have a problem. Poor families lose everything if someone gets sick or a storm hits. You could help them buy cheap protection plans to keep them safe.",
+    "prompt": "Insurance Regulator awaits your word. Poor families lose everything if someone gets sick or a storm hits. You could help them buy cheap protection plans to keep them safe.",
     "left": {
       "id": "a",
       "label": "Help them get cheap protection plans for bad days.",
@@ -3953,7 +3953,7 @@
       "allowance",
       "poverty"
     ],
-    "prompt": "Prime Minister! Poor moms have to work very hard right until their babies are born. You can give them money so they can stay home and rest.",
+    "prompt": "Dear Sir — Poor moms have to work very hard right until their babies are born. You can give them money so they can stay home and rest.",
     "left": {
       "id": "a",
       "label": "Give the moms money to rest and care for their babies.",
@@ -3988,7 +3988,7 @@
       "printing",
       "graft"
     ],
-    "prompt": "Sir — The people printing free school books for kids are stealing money and making bad books. They are friends with your team.",
+    "prompt": "Honourable leader! The people printing free school books for kids are stealing money and making bad books. They are friends with your team.",
     "left": {
       "id": "a",
       "label": "Fix the book printing so kids get good books.",
@@ -4025,7 +4025,7 @@
       "informal",
       "compliance"
     ],
-    "prompt": "Honourable leader! Very few people pay taxes. You can ask normal workers and small stores to pay, but they will be very mad because they never have before.",
+    "prompt": "Revenue Board Chairman reports: Very few people pay taxes. You can ask normal workers and small stores to pay, but they will be very mad because they never have before.",
     "left": {
       "id": "a",
       "label": "Make the normal workers and small stores pay taxes.",
@@ -4060,7 +4060,7 @@
       "redenomination",
       "confidence"
     ],
-    "prompt": "Sir, urgent news. Your money has too many zeros on it because prices went way up over the years. Someone wants to chop the zeros off just to make it look nicer.",
+    "prompt": "A note from the Finance Ministry reads: Your money has too many zeros on it because prices went way up over the years. Someone wants to chop the zeros off just to make it look nicer.",
     "left": {
       "id": "a",
       "label": "Chop the zeros off to make the money look nicer.",
@@ -4095,7 +4095,7 @@
       "rural",
       "inclusion"
     ],
-    "prompt": "Sir, forgive me — You can let tiny village shops act like banks so poor people can easily save money. Big banks are scared they will lose money from fraud.",
+    "prompt": "Word from the Finance Ministry, sir — You can let tiny village shops act like banks so poor people can easily save money. Big banks are scared they will lose money from fraud.",
     "left": {
       "id": "a",
       "label": "Let the tiny shops act like banks.",
@@ -4130,7 +4130,7 @@
       "conditions",
       "reform"
     ],
-    "prompt": "A word, sir! A big world bank offers you cheap money, but only if you promise to follow their strict rules for how you run things.",
+    "prompt": "External Finance Secretary: A big world bank offers you cheap money, but only if you promise to follow their strict rules for how you run things.",
     "left": {
       "id": "a",
       "label": "Take the money and follow their strict rules.",
@@ -4167,7 +4167,7 @@
       "workers",
       "enforcement"
     ],
-    "prompt": "Sir, we have a problem. Bosses everywhere are tricking workers and not paying them their full money. You can create a strong police team to stop them.",
+    "prompt": "Sir, a message from the Finance Ministry: Bosses everywhere are tricking workers and not paying them their full money. You can create a strong police team to stop them.",
     "left": {
       "id": "a",
       "label": "Create a strong team to make bosses pay the workers.",
@@ -4204,7 +4204,7 @@
       "banks",
       "bailout"
     ],
-    "prompt": "Sir! Government banks are empty because bad managers stole the money. You need to give them more money to stay open.",
+    "prompt": "Government banks are empty because bad managers stole the money. You need to give them more money to stay open. What are your orders, sir?",
     "left": {
       "id": "a",
       "label": "Give them the money with no extra rules.",
@@ -4242,7 +4242,7 @@
       "turnover-tax",
       "simplicity"
     ],
-    "prompt": "Mr. Prime Minister, sir! Tiny stores have to do really hard math to pay taxes. You can make it super easy for them, but you might collect less money overall.",
+    "prompt": "Revenue Board Chairman awaits your word. Tiny stores have to do really hard math to pay taxes. You can make it super easy for them, but you might collect less money overall.",
     "left": {
       "id": "a",
       "label": "Make the taxes super easy for tiny stores.",
@@ -4277,7 +4277,7 @@
       "credit",
       "distortion"
     ],
-    "prompt": "Your Excellency! Your helpers want banks to give cheap money to businesses owned by your friends. The bank boss says this is a bad idea.",
+    "prompt": "Sir! Your helpers want banks to give cheap money to businesses owned by your friends. The bank boss says this is a bad idea.",
     "left": {
       "id": "a",
       "label": "Force the banks to give cheap money to your friends.",
@@ -4315,7 +4315,7 @@
       "inflation",
       "growth"
     ],
-    "prompt": "Prime Minister! Everything in the stores costs too much. You can make it harder for people to borrow money to fix prices, but it slows down businesses.",
+    "prompt": "Mr. Prime Minister, sir! Everything in the stores costs too much. You can make it harder for people to borrow money to fix prices, but it slows down businesses.",
     "left": {
       "id": "a",
       "label": "Make it harder to borrow money so prices drop.",
@@ -4351,7 +4351,7 @@
       "screening",
       "sovereignty"
     ],
-    "prompt": "Sir — Other countries want to buy your boat docks and phone companies. You can check them first to stay safe, or let anyone buy to get money fast.",
+    "prompt": "Your Excellency! Other countries want to buy your boat docks and phone companies. You can check them first to stay safe, or let anyone buy to get money fast.",
     "left": {
       "id": "a",
       "label": "Check who is buying things to keep the country safe.",
@@ -4387,7 +4387,7 @@
       "digitisation",
       "corruption"
     ],
-    "prompt": "Honourable leader! The papers that show who owns land are messy and full of lies. You can use computers to fix it, but corrupt helpers will be mad.",
+    "prompt": "Dear Sir — The papers that show who owns land are messy and full of lies. You can use computers to fix it, but corrupt helpers will be mad.",
     "left": {
       "id": "a",
       "label": "Use computers to make the land papers honest.",
@@ -4424,7 +4424,7 @@
       "efficiency",
       "trade"
     ],
-    "prompt": "Sir, urgent news. Your big boat dock is too slow and messy. You can fix it with robots, but the bad groups who make money from the mess will fight you.",
+    "prompt": "Honourable leader! Your big boat dock is too slow and messy. You can fix it with robots, but the bad groups who make money from the mess will fight you.",
     "left": {
       "id": "a",
       "label": "Fix the dock and stop the bad groups.",
@@ -4461,7 +4461,7 @@
       "cash",
       "transparency"
     ],
-    "prompt": "Sir, forgive me — Everyone uses paper money, making it easy to hide stealing. You can force people to pay with phones, but poor people might struggle.",
+    "prompt": "Digital Finance Adviser reports: Everyone uses paper money, making it easy to hide stealing. You can force people to pay with phones, but poor people might struggle.",
     "left": {
       "id": "a",
       "label": "Force people to start paying with their phones.",
@@ -4496,7 +4496,7 @@
       "auction",
       "revenue"
     ],
-    "prompt": "A word, sir! You are selling new invisible waves that make cell phones work. You can charge companies a lot, or sell them cheap so internet is cheaper for everyone.",
+    "prompt": "A note from the Finance Ministry reads: You are selling new invisible waves that make cell phones work. You can charge companies a lot, or sell them cheap so internet is cheaper for everyone.",
     "left": {
       "id": "a",
       "label": "Charge a lot of money to make the government rich.",
@@ -4532,7 +4532,7 @@
       "losses",
       "soe"
     ],
-    "prompt": "Sir, we have a problem. Your country's airplane company loses money every day because it's run badly. You keep paying to keep it flying to look cool.",
+    "prompt": "Word from the Finance Ministry, sir — Your country's airplane company loses money every day because it's run badly. You keep paying to keep it flying to look cool.",
     "left": {
       "id": "a",
       "label": "Fix the airplane company or sell it to someone else.",
@@ -4569,7 +4569,7 @@
       "climate",
       "revenue"
     ],
-    "prompt": "Sir! You can charge a tax on things that make dirty smoke. It helps the earth, but makes things more expensive for people who already don't have enough money.",
+    "prompt": "Fiscal Climate Adviser: You can charge a tax on things that make dirty smoke. It helps the earth, but makes things more expensive for people who already don't have enough money.",
     "left": {
       "id": "a",
       "label": "Start charging the dirty smoke tax.",
@@ -4606,7 +4606,7 @@
       "stock-market",
       "elite"
     ],
-    "prompt": "Mr. Prime Minister, sir! Rich people who make a lot of money in the stock market don't pay taxes on it. If you tax them, they might crash the market on purpose.",
+    "prompt": "Sir, a message from the Finance Ministry: Rich people who make a lot of money in the stock market don't pay taxes on it. If you tax them, they might crash the market on purpose.",
     "left": {
       "id": "a",
       "label": "Make the rich people pay taxes on that money.",
@@ -4642,7 +4642,7 @@
       "transparency",
       "data"
     ],
-    "prompt": "Your Excellency! The big world bank wants to tell everyone the honest, ugly truth about your country's money problems. You can try to push them to hide it.",
+    "prompt": "The big world bank wants to tell everyone the honest, ugly truth about your country's money problems. You can try to push them to hide it. What are your orders, sir?",
     "left": {
       "id": "a",
       "label": "Let them tell everyone the honest truth.",
@@ -4677,7 +4677,7 @@
       "safety",
       "factories"
     ],
-    "prompt": "Prime Minister! A factory broke and fell down. Now everyone demands factories be made safer. Owners want your help to avoid paying for safety.",
+    "prompt": "Industrial Safety Secretary awaits your word. A factory broke and fell down. Now everyone demands factories be made safer. Owners want your help to avoid paying for safety.",
     "left": {
       "id": "a",
       "label": "Force the owners to make their factories super safe.",
@@ -4715,7 +4715,7 @@
       "duty",
       "industry"
     ],
-    "prompt": "Sir — Factory bosses want to bring in big machines without paying taxes. But some of them trick you and bring in normal stuff to sell instead.",
+    "prompt": "Sir! Factory bosses want to bring in big machines without paying taxes. But some of them trick you and bring in normal stuff to sell instead.",
     "left": {
       "id": "a",
       "label": "Let them bring in all machines without taxes.",
@@ -4751,7 +4751,7 @@
       "hi-tech-park",
       "jobs"
     ],
-    "prompt": "Honourable leader! You can build a giant computer park to create smart jobs. If you don't spend enough money, it will just be empty buildings.",
+    "prompt": "Mr. Prime Minister, sir! You can build a giant computer park to create smart jobs. If you don't spend enough money, it will just be empty buildings.",
     "left": {
       "id": "a",
       "label": "Spend a lot to make the computer park amazing.",
@@ -4787,7 +4787,7 @@
       "entrepreneurs",
       "credit"
     ],
-    "prompt": "Sir, urgent news. Women who want to start small shops can't borrow money from banks. You can create a special fund just to help them.",
+    "prompt": "Your Excellency! Women who want to start small shops can't borrow money from banks. You can create a special fund just to help them.",
     "left": {
       "id": "a",
       "label": "Create the special fund to help women start shops.",
@@ -4822,7 +4822,7 @@
       "patronage",
       "local"
     ],
-    "prompt": "Sir, forgive me — Your politicians get a big bag of money every year to fix their towns. Most of them use it to build their own houses or help friends.",
+    "prompt": "Dear Sir — Your politicians get a big bag of money every year to fix their towns. Most of them use it to build their own houses or help friends.",
     "left": {
       "id": "a",
       "label": "Keep giving the politicians the bag of money.",
@@ -4859,7 +4859,7 @@
       "markets",
       "reform"
     ],
-    "prompt": "A word, sir! The world will say your country is bad with money unless you raise taxes and cut help for the poor. People will hate you for it.",
+    "prompt": "Honourable leader! The world will say your country is bad with money unless you raise taxes and cut help for the poor. People will hate you for it.",
     "left": {
       "id": "a",
       "label": "Raise taxes to prove you are good with money.",
@@ -4895,7 +4895,7 @@
       "veterans",
       "spending"
     ],
-    "prompt": "Sir, we have a problem. The list of old war heroes who get free money is growing because people are lying and faking papers. You can clean the list up.",
+    "prompt": "Budget Secretary reports: The list of old war heroes who get free money is growing because people are lying and faking papers. You can clean the list up.",
     "left": {
       "id": "a",
       "label": "Check the papers and kick the liars off the list.",
@@ -4932,7 +4932,7 @@
       "ride-share",
       "workers"
     ],
-    "prompt": "Sir! Delivery and driving apps give young people jobs, but the bosses don't protect them or pay them enough.",
+    "prompt": "A note from the Finance Ministry reads: Delivery and driving apps give young people jobs, but the bosses don't protect them or pay them enough.",
     "left": {
       "id": "a",
       "label": "Make strong rules to protect the delivery drivers.",
@@ -4967,7 +4967,7 @@
       "regional",
       "trade"
     ],
-    "prompt": "Mr. Prime Minister, sir! You can make a deal to trade freely with neighbors. It helps sell your things, but cheap neighbor things might close your own shops.",
+    "prompt": "Word from the Finance Ministry, sir — You can make a deal to trade freely with neighbors. It helps sell your things, but cheap neighbor things might close your own shops.",
     "left": {
       "id": "a",
       "label": "Sign the deal to trade freely with neighbors.",
@@ -5003,7 +5003,7 @@
       "property",
       "informality"
     ],
-    "prompt": "Your Excellency! The tax to buy a house is so high that everyone lies about the price. If you lower the tax, more people might be honest.",
+    "prompt": "Revenue Board Chairman: The tax to buy a house is so high that everyone lies about the price. If you lower the tax, more people might be honest.",
     "left": {
       "id": "a",
       "label": "Lower the tax to make people honest.",
@@ -5038,7 +5038,7 @@
       "manufacturing",
       "cluster"
     ],
-    "prompt": "Prime Minister! Poor, tiny workshops make important parts for your machines. You can give them training and money to grow big, or ignore them for flashier things.",
+    "prompt": "Sir, a message from the Finance Ministry: Poor, tiny workshops make important parts for your machines. You can give them training and money to grow big, or ignore them for flashier things.",
     "left": {
       "id": "a",
       "label": "Help the tiny workshops grow and become better.",
@@ -5074,7 +5074,7 @@
       "loan",
       "megaproject"
     ],
-    "prompt": "Sir — A bank offers cheap money to build a road, but they demand you build it perfectly without any cheating or stealing by your builders.",
+    "prompt": "A bank offers cheap money to build a road, but they demand you build it perfectly without any cheating or stealing by your builders. What are your orders, sir?",
     "left": {
       "id": "a",
       "label": "Take the money and build the road perfectly.",
@@ -5111,7 +5111,7 @@
       "high-note",
       "black-money"
     ],
-    "prompt": "Honourable leader! You can print a really big piece of money. It makes carrying cash easy, but also makes it super easy for bad guys to hide stolen money.",
+    "prompt": "Central Bank Governor awaits your word. You can print a really big piece of money. It makes carrying cash easy, but also makes it super easy for bad guys to hide stolen money.",
     "left": {
       "id": "a",
       "label": "Print the really big piece of money.",
@@ -5146,7 +5146,7 @@
       "informal",
       "licensing"
     ],
-    "prompt": "Sir, urgent news. People selling food on the street have to pay bad police officers every day to not get kicked out. You can give them real licenses.",
+    "prompt": "Sir! People selling food on the street have to pay bad police officers every day to not get kicked out. You can give them real licenses.",
     "left": {
       "id": "a",
       "label": "Give the street sellers real licenses so they are safe.",
@@ -5183,7 +5183,7 @@
       "losses",
       "subsidy"
     ],
-    "prompt": "Sir, forgive me — Government trains lose money on every ride because tickets are so cheap. But poor people need those cheap trains.",
+    "prompt": "Mr. Prime Minister, sir! Government trains lose money on every ride because tickets are so cheap. But poor people need those cheap trains.",
     "left": {
       "id": "a",
       "label": "Make the tickets cost more and fire extra workers.",
@@ -5218,7 +5218,7 @@
       "api",
       "self-reliance"
     ],
-    "prompt": "A word, sir! Your medicine makers buy all their magic ingredients from other countries. You can build a special park to make the ingredients at home.",
+    "prompt": "Your Excellency! Your medicine makers buy all their magic ingredients from other countries. You can build a special park to make the ingredients at home.",
     "left": {
       "id": "a",
       "label": "Build the special park to make the magic ingredients.",
@@ -5255,7 +5255,7 @@
       "internet",
       "access"
     ],
-    "prompt": "Sir, we have a problem. Phones and internet are taxed heavily to get the government money. But this makes it too expensive for poor people to use the internet.",
+    "prompt": "Dear Sir — Phones and internet are taxed heavily to get the government money. But this makes it too expensive for poor people to use the internet.",
     "left": {
       "id": "a",
       "label": "Keep the high taxes to make the government rich.",
@@ -5290,7 +5290,7 @@
       "heritage",
       "artisans"
     ],
-    "prompt": "Sir! People who make beautiful clothes by hand are going out of business because machines are faster. You can step in to save their art.",
+    "prompt": "Honourable leader! People who make beautiful clothes by hand are going out of business because machines are faster. You can step in to save their art.",
     "left": {
       "id": "a",
       "label": "Give them money and help so they can keep making clothes by hand.",
@@ -5325,7 +5325,7 @@
       "wages",
       "investment"
     ],
-    "prompt": "Mr. Prime Minister, sir! Special factory zones ban workers from grouping up to ask for better pay. If you let them group up, the foreign owners might get scared and leave.",
+    "prompt": "Export Zone Authority Chief reports: Special factory zones ban workers from grouping up to ask for better pay. If you let them group up, the foreign owners might get scared and leave.",
     "left": {
       "id": "a",
       "label": "Let the workers group up and ask for better pay.",
@@ -5363,7 +5363,7 @@
       "compliance",
       "burden"
     ],
-    "prompt": "Your Excellency! The government secretly takes a little tax money from almost everything people do. It's easy money, but it is very unfair to poor people.",
+    "prompt": "A note from the Finance Ministry reads: The government secretly takes a little tax money from almost everything people do. It's easy money, but it is very unfair to poor people.",
     "left": {
       "id": "a",
       "label": "Fix the taxes so they are fair to everyone.",
@@ -5398,7 +5398,7 @@
       "deficit",
       "populism"
     ],
-    "prompt": "Prime Minister! Your friends want to promise to give away tons of free stuff right before an election to win votes, even though you don't have the money.",
+    "prompt": "Word from the Finance Ministry, sir — Your friends want to promise to give away tons of free stuff right before an election to win votes, even though you don't have the money.",
     "left": {
       "id": "a",
       "label": "Promise to give away tons of free stuff to win.",
@@ -5434,7 +5434,7 @@
       "deficit",
       "populism"
     ],
-    "prompt": "Sir — You promised to build lots of things, but the money is gone. You can just announce more fake projects to look good, or quietly finish the old ones.",
+    "prompt": "Budget Secretary: You promised to build lots of things, but the money is gone. You can just announce more fake projects to look good, or quietly finish the old ones.",
     "left": {
       "id": "a",
       "label": "Announce more fake projects to look good.",
@@ -5470,7 +5470,7 @@
       "forex",
       "imf"
     ],
-    "prompt": "A term later, the same fault line tears open again. Honourable leader! The bank boss says the country is running out of money fast, but you have been pretending you have more. He says people will find out the truth soon.",
+    "prompt": "A term later, the same fault line tears open again. Dear Sir — The bank boss says the country is running out of money fast, but you have been pretending you have more. He says people will find out the truth soon.",
     "left": {
       "id": "a",
       "label": "Keep pretending you have lots of money.",
@@ -5506,7 +5506,7 @@
       "forex",
       "imf"
     ],
-    "prompt": "Years into your rule, the matter you thought buried resurfaces — harder. Sir, urgent news. You are spending all the country's savings to make your money look strong. The bank boss says you must stop, even if it makes things very expensive.",
+    "prompt": "Years into your rule, the matter you thought buried resurfaces — harder. Honourable leader! You are spending all the country's savings to make your money look strong. The bank boss says you must stop, even if it makes things very expensive.",
     "left": {
       "id": "a",
       "label": "Stop spending savings and let prices go up.",
@@ -5542,7 +5542,7 @@
       "forex",
       "imf"
     ],
-    "prompt": "A new season of power, an old problem with sharper teeth. Sir, forgive me — You are out of money. A big global bank will give you emergency money, but only if you make gas prices very high right now. Your helpers say angry people will fill the streets.",
+    "prompt": "A new season of power, an old problem with sharper teeth. Central Bank Governor reports: You are out of money. A big global bank will give you emergency money, but only if you make gas prices very high right now. Your helpers say angry people will fill the streets.",
     "left": {
       "id": "a",
       "label": "Take the money and raise gas prices.",
@@ -5580,7 +5580,7 @@
       "default-loans",
       "cronies"
     ],
-    "prompt": "The crisis returns, and this time the cabinet is watching. A word, sir! Rich families who give you money are secretly stealing from the banks. If you tell the truth, the banks will look broken. If you hide it, the banks will rot from the inside.",
+    "prompt": "The crisis returns, and this time the cabinet is watching. A note from the Finance Ministry reads: Rich families who give you money are secretly stealing from the banks. If you tell the truth, the banks will look broken. If you hide it, the banks will rot from the inside.",
     "left": {
       "id": "a",
       "label": "Keep hiding it so the banks look fine.",
@@ -5618,7 +5618,7 @@
       "default-loans",
       "cronies"
     ],
-    "prompt": "Once more the issue lands on your desk, the stakes higher than before. Sir, we have a problem. You caught the biggest bank thief, but he owns TV stations and helps your team. He offers to pay back a little bit and say nice things about you on TV if you let him go.",
+    "prompt": "Once more the issue lands on your desk, the stakes higher than before. Word from the Finance Ministry, sir — You caught the biggest bank thief, but he owns TV stations and helps your team. He offers to pay back a little bit and say nice things about you on TV if you let him go.",
     "left": {
       "id": "a",
       "label": "Take the deal and the nice TV news.",
@@ -5656,7 +5656,7 @@
       "hundi",
       "diaspora"
     ],
-    "prompt": "Another year survived, and the reckoning circles back. Sir! Workers in other countries are sending money home secretly because it's cheaper. This means your government doesn't get to count it. You can offer them a bonus to send it legally.",
+    "prompt": "Another year survived, and the reckoning circles back. Expatriate Welfare Secretary: Workers in other countries are sending money home secretly because it's cheaper. This means your government doesn't get to count it. You can offer them a bonus to send it legally.",
     "left": {
       "id": "a",
       "label": "Pay them a bonus to send money legally.",
@@ -5692,7 +5692,7 @@
       "exports",
       "wages"
     ],
-    "prompt": "The ground has shifted; the same demand arrives with new menace. Mr. Prime Minister, sir! People who buy your country's clothes say you must pay workers more and make factories safer, or they will stop buying. Factory owners say paying more will ruin them.",
+    "prompt": "The ground has shifted; the same demand arrives with new menace. Sir, a message from the Finance Ministry: People who buy your country's clothes say you must pay workers more and make factories safer, or they will stop buying. Factory owners say paying more will ruin them.",
     "left": {
       "id": "a",
       "label": "Force the owners to pay workers more.",
@@ -5730,7 +5730,7 @@
       "infrastructure",
       "china"
     ],
-    "prompt": "History rhymes: the conflict reopens deeper than last time. Your Excellency! You built giant bridges and trains using borrowed money. Now you must pay it back, but you don't have enough. One lender wants to own your boat docks if you can't pay.",
+    "prompt": "History rhymes: the conflict reopens deeper than last time. You built giant bridges and trains using borrowed money. Now you must pay it back, but you don't have enough. One lender wants to own your boat docks if you can't pay. What are your orders, sir?",
     "left": {
       "id": "a",
       "label": "Let them own the boat docks so you get more time.",
@@ -5768,7 +5768,7 @@
       "capital-flight",
       "elite"
     ],
-    "prompt": "Mid-reign, the old wound is torn afresh. Prime Minister! Rich people who complain about the country are secretly hiding their money in other countries. Many of them are your friends.",
+    "prompt": "Mid-reign, the old wound is torn afresh. Financial Intelligence Chief awaits your word. Rich people who complain about the country are secretly hiding their money in other countries. Many of them are your friends.",
     "left": {
       "id": "a",
       "label": "Hide the secret so your friends don't get in trouble.",
@@ -5805,7 +5805,7 @@
       "subsidies",
       "food"
     ],
-    "prompt": "The pressure you deferred has come due, larger now. Sir — Food is too expensive and people are hungry and angry. You can buy cheap food from other countries to help, but it will cost the government a lot of money.",
+    "prompt": "The pressure you deferred has come due, larger now. Sir! Food is too expensive and people are hungry and angry. You can buy cheap food from other countries to help, but it will cost the government a lot of money.",
     "left": {
       "id": "a",
       "label": "Buy the cheap food from outside to help people.",
@@ -5842,7 +5842,7 @@
       "markets",
       "confidence"
     ],
-    "prompt": "A later term, and the quarrel has hardened into a test. Honourable leader! A judge who grades your country's money is going to give you a bad grade. He hints he will give you a good grade if you secretly give him gifts.",
+    "prompt": "A later term, and the quarrel has hardened into a test. Mr. Prime Minister, sir! A judge who grades your country's money is going to give you a bad grade. He hints he will give you a good grade if you secretly give him gifts.",
     "left": {
       "id": "a",
       "label": "Secretly give him gifts to get a good grade.",
@@ -5878,7 +5878,7 @@
       "nbr",
       "informal"
     ],
-    "prompt": "The country has changed, but this fault line has not — only worsened. Sir, urgent news. Almost nobody pays taxes. Your helper wants to force shopkeepers to pay, but those shopkeepers give you money for your campaigns.",
+    "prompt": "The country has changed, but this fault line has not — only worsened. Your Excellency! Almost nobody pays taxes. Your helper wants to force shopkeepers to pay, but those shopkeepers give you money for your campaigns.",
     "left": {
       "id": "a",
       "label": "Force the shopkeepers to pay taxes.",
@@ -5915,7 +5915,7 @@
       "whitening",
       "budget"
     ],
-    "prompt": "It returns, as these things do, with the patience gone. Sir, forgive me — People are hiding stolen money. You can let them keep it if they pay a tiny tax, and you won't ask any questions. This rewards bad guys but gives you some money.",
+    "prompt": "It returns, as these things do, with the patience gone. Dear Sir — People are hiding stolen money. You can let them keep it if they pay a tiny tax, and you won't ask any questions. This rewards bad guys but gives you some money.",
     "left": {
       "id": "a",
       "label": "Let them keep the stolen money and pay a tiny tax.",
@@ -5951,7 +5951,7 @@
       "market",
       "retail"
     ],
-    "prompt": "Years on, the matter is no longer private; the press is already circling. A word, sir! The stock market is crashing and normal people are losing their money. They are very angry. Your helper wants to create a fake rule to stop prices from dropping.",
+    "prompt": "Years on, the matter is no longer private; the press is already circling. Honourable leader! The stock market is crashing and normal people are losing their money. They are very angry. Your helper wants to create a fake rule to stop prices from dropping.",
     "left": {
       "id": "a",
       "label": "Make the fake rule to stop prices from dropping.",
@@ -5987,7 +5987,7 @@
       "market",
       "retail"
     ],
-    "prompt": "The same knot, retied tighter, lands before you once more. Sir, we have a problem. The stock market is broken. A very rich man says he will fix it, but only if you give him a free bank and a phone company in return.",
+    "prompt": "The same knot, retied tighter, lands before you once more. Stock Exchange Chair reports: The stock market is broken. A very rich man says he will fix it, but only if you give him a free bank and a phone company in return.",
     "left": {
       "id": "a",
       "label": "Give him the bank and phone company so he fixes it.",
@@ -6024,7 +6024,7 @@
       "debt",
       "markets"
     ],
-    "prompt": "Another monsoon, another return of an argument you cannot end. Sir! You need money fast. You can borrow a lot of money from the world, but you will have to pay back way too much extra money for ten years.",
+    "prompt": "Another monsoon, another return of an argument you cannot end. A note from the Finance Ministry reads: You need money fast. You can borrow a lot of money from the world, but you will have to pay back way too much extra money for ten years.",
     "left": {
       "id": "a",
       "label": "Borrow the money right now.",
@@ -6060,7 +6060,7 @@
       "fertiliser",
       "farmers"
     ],
-    "prompt": "Deep into the reign, the issue demands a final-sounding answer. Mr. Prime Minister, sir! Plant food for farmers is very expensive now. If you don't help pay for it, the crops will die. But helping will cost almost all your money.",
+    "prompt": "Deep into the reign, the issue demands a final-sounding answer. Word from the Finance Ministry, sir — Plant food for farmers is very expensive now. If you don't help pay for it, the crops will die. But helping will cost almost all your money.",
     "left": {
       "id": "a",
       "label": "Pay for the plant food so crops can grow.",
@@ -6097,7 +6097,7 @@
       "welfare",
       "funding"
     ],
-    "prompt": "The reckoning you postponed has matured into a crisis. Your Excellency! You promised to give old people money when they retire, and everyone loves it. But secretly, you don't have enough money to pay them later.",
+    "prompt": "The reckoning you postponed has matured into a crisis. Pension Authority Head: You promised to give old people money when they retire, and everyone loves it. But secretly, you don't have enough money to pay them later.",
     "left": {
       "id": "a",
       "label": "Keep making the promise and worry about the money later.",
@@ -6133,7 +6133,7 @@
       "merger",
       "weak-banks"
     ],
-    "prompt": "A new chapter, the same antagonists, less room to manoeuvre. Prime Minister! Five banks are completely broken but pretending to be okay. You can force them to join good banks, but your rich friends will lose their jobs there.",
+    "prompt": "A new chapter, the same antagonists, less room to manoeuvre. Sir, a message from the Finance Ministry: Five banks are completely broken but pretending to be okay. You can force them to join good banks, but your rich friends will lose their jobs there.",
     "left": {
       "id": "a",
       "label": "Force them to join the good banks.",
@@ -6169,7 +6169,7 @@
       "bkash",
       "fintech"
     ],
-    "prompt": "The old fault line widens; this time there is no quiet option. Sir — Poor people use their phones to get their paychecks. The big phone company wants to charge them more money to get their cash.",
+    "prompt": "The old fault line widens; this time there is no quiet option. Poor people use their phones to get their paychecks. The big phone company wants to charge them more money to get their cash. What are your orders, sir?",
     "left": {
       "id": "a",
       "label": "Stop the company from charging more money.",
@@ -6205,7 +6205,7 @@
       "laundering",
       "trade"
     ],
-    "prompt": "Time has not healed it — the conflict comes back armed. Honourable leader! People are sneaking billions of dollars out of the country using fake shopping bills. The worst bad guys are friends with your leaders.",
+    "prompt": "Time has not healed it — the conflict comes back armed. Customs Intelligence Chief awaits your word. People are sneaking billions of dollars out of the country using fake shopping bills. The worst bad guys are friends with your leaders.",
     "left": {
       "id": "a",
       "label": "Stop the fake bills and catch everyone.",
@@ -6241,7 +6241,7 @@
       "bpc",
       "subsidy"
     ],
-    "prompt": "Once again, and with the whole house holding its breath. Sir, urgent news. The government sells gas for cars super cheap and loses money every day. You can make a rule so the price changes automatically, so you don't have to be the bad guy.",
+    "prompt": "Once again, and with the whole house holding its breath. Sir! The government sells gas for cars super cheap and loses money every day. You can make a rule so the price changes automatically, so you don't have to be the bad guy.",
     "left": {
       "id": "a",
       "label": "Make the automatic price rule.",
@@ -6277,7 +6277,7 @@
       "dual-rate",
       "taka"
     ],
-    "prompt": "The matter resurfaces in a harder year, patience exhausted. Sir, forgive me — The official price of your country's money is fake, so people use a secret black market. You can fix the official price, but it will make everything cost more for everyone at once.",
+    "prompt": "The matter resurfaces in a harder year, patience exhausted. Mr. Prime Minister, sir! The official price of your country's money is fake, so people use a secret black market. You can fix the official price, but it will make everything cost more for everyone at once.",
     "left": {
       "id": "a",
       "label": "Fix the price and make things cost more.",
@@ -6313,7 +6313,7 @@
       "debt",
       "geopolitics"
     ],
-    "prompt": "A later season of rule, the stakes now openly existential. A word, sir! China wants to give you cheap money to build a cool new road. Your enemies say it is a trap to make you owe China forever.",
+    "prompt": "A later season of rule, the stakes now openly existential. Your Excellency! China wants to give you cheap money to build a cool new road. Your enemies say it is a trap to make you owe China forever.",
     "left": {
       "id": "a",
       "label": "Take China's money to build the road.",
@@ -6349,7 +6349,7 @@
       "civil-service",
       "budget"
     ],
-    "prompt": "It comes around again, and the margin for error is gone. Sir, we have a problem. Millions of government workers want a big pay raise. If you pay them, they will love you, but it will use up all the money meant for building schools and hospitals.",
+    "prompt": "It comes around again, and the margin for error is gone. Dear Sir — Millions of government workers want a big pay raise. If you pay them, they will love you, but it will use up all the money meant for building schools and hospitals.",
     "left": {
       "id": "a",
       "label": "Give them a giant pay raise.",
@@ -6386,7 +6386,7 @@
       "incentive",
       "exports"
     ],
-    "prompt": "The same demand, but the reign is older and the knives sharper. Sir! You give extra money to people who sell clothes to other countries. The world bank says this is unfair and you must stop. The clothes makers will be very angry.",
+    "prompt": "The same demand, but the reign is older and the knives sharper. Honourable leader! You give extra money to people who sell clothes to other countries. The world bank says this is unfair and you must stop. The clothes makers will be very angry.",
     "left": {
       "id": "a",
       "label": "Keep giving them the extra money.",
@@ -6423,7 +6423,7 @@
       "inflation",
       "central-bank"
     ],
-    "prompt": "Years deep, the unresolved returns to be resolved for good. Mr. Prime Minister, sir! You don't have enough money to pay your bills. A helper says you can just print fake money to pay them. It feels easy now, but will make everything super expensive later.",
+    "prompt": "Years deep, the unresolved returns to be resolved for good. Deficit Financing Officer reports: You don't have enough money to pay your bills. A helper says you can just print fake money to pay them. It feels easy now, but will make everything super expensive later.",
     "left": {
       "id": "a",
       "label": "Print fake money to pay the bills.",
@@ -6459,7 +6459,7 @@
       "ecommerce",
       "refunds"
     ],
-    "prompt": "The conflict reignites, and the world is watching this time. Your Excellency! A fake online store stole money from thousands of families. They are crying outside your office and want their money back.",
+    "prompt": "The conflict reignites, and the world is watching this time. A note from the Finance Ministry reads: A fake online store stole money from thousands of families. They are crying outside your office and want their money back.",
     "left": {
       "id": "a",
       "label": "Use government money to pay them back.",
@@ -6495,7 +6495,7 @@
       "surcharge",
       "elite"
     ],
-    "prompt": "A familiar crisis, escalated by everything you let slide. Prime Minister! A helper says you should charge very rich people a big new tax. Normal people will cheer, but your rich friends will be furious.",
+    "prompt": "A familiar crisis, escalated by everything you let slide. Word from the Finance Ministry, sir — A helper says you should charge very rich people a big new tax. Normal people will cheer, but your rich friends will be furious.",
     "left": {
       "id": "a",
       "label": "Charge the rich people the big new tax.",
@@ -6531,7 +6531,7 @@
       "luxury",
       "reserves"
     ],
-    "prompt": "The fault line cracks wider; the decision can no longer wait. Sir — To save money, you can stop stores from buying fancy things like cars and makeup from other countries. Rich people will be mad when the shelves are empty.",
+    "prompt": "The fault line cracks wider; the decision can no longer wait. Import Policy Officer: To save money, you can stop stores from buying fancy things like cars and makeup from other countries. Rich people will be mad when the shelves are empty.",
     "left": {
       "id": "a",
       "label": "Stop the fancy things from coming in.",
@@ -6568,7 +6568,7 @@
       "defaulters",
       "banks"
     ],
-    "prompt": "Late in the reign, the old question demands a heavier answer. Honourable leader! People who borrow money and never pay it back want you to change the rules so they look like good guys again. This makes the banks look good but rewards bad behavior.",
+    "prompt": "Late in the reign, the old question demands a heavier answer. Sir, a message from the Finance Ministry: People who borrow money and never pay it back want you to change the rules so they look like good guys again. This makes the banks look good but rewards bad behavior.",
     "left": {
       "id": "a",
       "label": "Change the rules to make them look like good guys.",
@@ -6605,7 +6605,7 @@
       "jute",
       "state-firms"
     ],
-    "prompt": "It returns once more — and this round may be the one remembered. Sir, urgent news. Old government factories lose money every single year, but they give jobs to many people. Your helper wants to close them.",
+    "prompt": "It returns once more — and this round may be the one remembered. Old government factories lose money every single year, but they give jobs to many people. Your helper wants to close them. What are your orders, sir?",
     "left": {
       "id": "a",
       "label": "Close the old factories.",
@@ -6642,7 +6642,7 @@
       "savings",
       "rates"
     ],
-    "prompt": "The reckoning circles back, grown teeth in the waiting. Sir, forgive me — You give old people a really good deal when they save money with the government. But it costs the government too much.",
+    "prompt": "The reckoning circles back, grown teeth in the waiting. National Savings Director awaits your word. You give old people a really good deal when they save money with the government. But it costs the government too much.",
     "left": {
       "id": "a",
       "label": "Stop giving them the really good deal.",
@@ -6678,7 +6678,7 @@
       "tax-holiday",
       "investment"
     ],
-    "prompt": "Another term, the same antagonist, the stakes raised again. A word, sir! A foreign company wants to build a big factory and create jobs. But they want you to promise they don't have to pay taxes for a very long time.",
+    "prompt": "Another term, the same antagonist, the stakes raised again. Sir! A foreign company wants to build a big factory and create jobs. But they want you to promise they don't have to pay taxes for a very long time.",
     "left": {
       "id": "a",
       "label": "Promise they don't have to pay taxes for a long time.",
@@ -6715,7 +6715,7 @@
       "tax",
       "health"
     ],
-    "prompt": "The matter, long deferred, lands with the force of a verdict. Sir, we have a problem. Doctors want you to put a huge tax on cigarettes to stop people from getting sick. But cigarette makers pay you a lot of money and many farmers grow the plants.",
+    "prompt": "The matter, long deferred, lands with the force of a verdict. Mr. Prime Minister, sir! Doctors want you to put a huge tax on cigarettes to stop people from getting sick. But cigarette makers pay you a lot of money and many farmers grow the plants.",
     "left": {
       "id": "a",
       "label": "Put a huge tax on cigarettes.",
@@ -6751,7 +6751,7 @@
       "black-money",
       "registration"
     ],
-    "prompt": "Years on and unhealed, the conflict returns to claim its answer. Sir! People lie about how much their houses cost on paper so they don't have to pay taxes. If you use computers to fix this, powerful people will be caught.",
+    "prompt": "Years on and unhealed, the conflict returns to claim its answer. Your Excellency! People lie about how much their houses cost on paper so they don't have to pay taxes. If you use computers to fix this, powerful people will be caught.",
     "left": {
       "id": "a",
       "label": "Use computers to fix it and catch them.",
@@ -6788,7 +6788,7 @@
       "pilgrims",
       "cost"
     ],
-    "prompt": "The same fault line, the harder hour, the narrower path. Mr. Prime Minister, sir! Airplanes cost too much for poor families to take their big religious trip. You can use government money to pay for part of their tickets.",
+    "prompt": "The same fault line, the harder hour, the narrower path. Dear Sir — Airplanes cost too much for poor families to take their big religious trip. You can use government money to pay for part of their tickets.",
     "left": {
       "id": "a",
       "label": "Pay for part of their tickets.",
@@ -6826,7 +6826,7 @@
       "fund",
       "graft"
     ],
-    "prompt": "It comes back sharpened by every season you survived. Your Excellency! The money meant to help save the earth from storms was stolen by your own team members. You can investigate and take it back, but it will embarrass your team.",
+    "prompt": "It comes back sharpened by every season you survived. Honourable leader! The money meant to help save the earth from storms was stolen by your own team members. You can investigate and take it back, but it will embarrass your team.",
     "left": {
       "id": "a",
       "label": "Investigate and take the stolen money back.",
@@ -6863,7 +6863,7 @@
       "sovereign-fund",
       "investment"
     ],
-    "prompt": "A later year of power, the old crisis now a true test of it. Prime Minister! A helper wants to take your emergency money from the bank and spend it to build big things at home. It is brave, but if an emergency happens, you will have no money.",
+    "prompt": "A later year of power, the old crisis now a true test of it. Sovereign Fund Proponent reports: A helper wants to take your emergency money from the bank and spend it to build big things at home. It is brave, but if an emergency happens, you will have no money.",
     "left": {
       "id": "a",
       "label": "Take the emergency money and build big things.",
@@ -6900,7 +6900,7 @@
       "digitisation",
       "compliance"
     ],
-    "prompt": "The unresolved returns, and this time it will not be deferred. Sir — Shopkeepers are putting tax money in their own pockets. You can force them to use smart computers to stop this, but millions of them will be angry and vote against you.",
+    "prompt": "The unresolved returns, and this time it will not be deferred. A note from the Finance Ministry reads: Shopkeepers are putting tax money in their own pockets. You can force them to use smart computers to stop this, but millions of them will be angry and vote against you.",
     "left": {
       "id": "a",
       "label": "Force them to use the smart computers.",
@@ -6937,7 +6937,7 @@
       "compliance",
       "wages"
     ],
-    "prompt": "A term later, the same fault line tears open again. Honourable leader! Buyers from other countries want proof that your factories pay workers fairly. Being fair costs owners money. Faking the proof risks losing the buyers forever.",
+    "prompt": "A term later, the same fault line tears open again. Word from the Finance Ministry, sir — Buyers from other countries want proof that your factories pay workers fairly. Being fair costs owners money. Faking the proof risks losing the buyers forever.",
     "left": {
       "id": "a",
       "label": "Force the owners to be completely fair.",
@@ -6975,7 +6975,7 @@
       "tax",
       "whitening"
     ],
-    "prompt": "Years into your rule, the matter you thought buried resurfaces — harder. Sir, urgent news. Bad guys have hidden, stolen money. You can pass a rule that lets them keep it safely if they pay a tiny tax. Honest people think this is very unfair.",
+    "prompt": "Years into your rule, the matter you thought buried resurfaces — harder. Revenue Board Chairman: Bad guys have hidden, stolen money. You can pass a rule that lets them keep it safely if they pay a tiny tax. Honest people think this is very unfair.",
     "left": {
       "id": "a",
       "label": "Let them keep it safely for a tiny tax.",
@@ -7012,7 +7012,7 @@
       "crash",
       "retail"
     ],
-    "prompt": "A new season of power, an old problem with sharper teeth. Sir, forgive me — Bad guys tricked normal people into losing all their money in the stock market. You can spend government money to pay the normal people back and punish the bad guys.",
+    "prompt": "A new season of power, an old problem with sharper teeth. Sir, a message from the Finance Ministry: Bad guys tricked normal people into losing all their money in the stock market. You can spend government money to pay the normal people back and punish the bad guys.",
     "left": {
       "id": "a",
       "label": "Pay the normal people back and punish the bad guys.",
@@ -7049,7 +7049,7 @@
       "privatisation",
       "jobs"
     ],
-    "prompt": "The crisis returns, and this time the cabinet is watching. A word, sir! The government owns old factories and airplanes that lose money every day. You can shut them down, or keep them running just so workers keep their jobs.",
+    "prompt": "The crisis returns, and this time the cabinet is watching. The government owns old factories and airplanes that lose money every day. You can shut them down, or keep them running just so workers keep their jobs. What are your orders, sir?",
     "left": {
       "id": "a",
       "label": "Shut them down and stop losing money.",
@@ -7085,7 +7085,7 @@
       "welfare",
       "future"
     ],
-    "prompt": "Once more the issue lands on your desk, the stakes higher than before. Sir, we have a problem. You want to help poor workers save money for when they get old. You can use government money to help them, or force them to use only their own money.",
+    "prompt": "Once more the issue lands on your desk, the stakes higher than before. Pension Authority Director awaits your word. You want to help poor workers save money for when they get old. You can use government money to help them, or force them to use only their own money.",
     "left": {
       "id": "a",
       "label": "Use government money to help them save.",
@@ -7230,7 +7230,7 @@
       "defaulters",
       "favours"
     ],
-    "prompt": "Mid-reign, the old wound is torn afresh. Prime Minister! Rich people who never pay back their bank loans want you to give them a super easy deal again. It makes the banks look okay on paper, but lets the bad guys win.",
+    "prompt": "Mid-reign, the old wound is torn afresh. Dear Sir — Rich people who never pay back their bank loans want you to give them a super easy deal again. It makes the banks look okay on paper, but lets the bad guys win.",
     "left": {
       "id": "a",
       "label": "Give them the super easy deal.",
@@ -7268,7 +7268,7 @@
       "debt",
       "markets"
     ],
-    "prompt": "The pressure you deferred has come due, larger now. Sir — You can borrow a huge amount of money from the world right now. But you will owe them so much extra money that it will hurt your country for a long time.",
+    "prompt": "The pressure you deferred has come due, larger now. Honourable leader! You can borrow a huge amount of money from the world right now. But you will owe them so much extra money that it will hurt your country for a long time.",
     "left": {
       "id": "a",
       "label": "Borrow the huge amount of money.",
@@ -7304,7 +7304,7 @@
       "syndicate",
       "food"
     ],
-    "prompt": "A later term, and the quarrel has hardened into a test. Honourable leader! Bad sellers are hiding food to make it cost more. Some of them give you money.",
+    "prompt": "A later term, and the quarrel has hardened into a test. Trading Corporation Chief reports: Bad sellers are hiding food to make it cost more. Some of them give you money.",
     "left": {
       "id": "a",
       "label": "Stop the bad sellers and bring in cheap food.",
@@ -7340,7 +7340,7 @@
       "ports",
       "corruption"
     ],
-    "prompt": "The country has changed, but this fault line has not — only worsened. Sir, urgent news. Guards at the boat docks are taking secret money instead of charging the right taxes.",
+    "prompt": "The country has changed, but this fault line has not — only worsened. A note from the Finance Ministry reads: Guards at the boat docks are taking secret money instead of charging the right taxes.",
     "left": {
       "id": "a",
       "label": "Use computers to stop them from stealing.",
@@ -7378,7 +7378,7 @@
       "elite",
       "evasion"
     ],
-    "prompt": "It returns, as these things do, with the patience gone. Sir, forgive me — Rich people are not paying their taxes, so normal workers have to pay more.",
+    "prompt": "It returns, as these things do, with the patience gone. Word from the Finance Ministry, sir — Rich people are not paying their taxes, so normal workers have to pay more.",
     "left": {
       "id": "a",
       "label": "Force the rich people to pay their taxes.",
@@ -7415,7 +7415,7 @@
       "remittances",
       "inclusion"
     ],
-    "prompt": "Years on, the matter is no longer private; the press is already circling. A word, sir! Paying with phones can help people send money safely, but regular banks don't like it.",
+    "prompt": "Years on, the matter is no longer private; the press is already circling. Digital Finance Adviser: Paying with phones can help people send money safely, but regular banks don't like it.",
     "left": {
       "id": "a",
       "label": "Help people use their phones to send money safely.",
@@ -7452,7 +7452,7 @@
       "bureaucracy",
       "budget"
     ],
-    "prompt": "The same knot, retied tighter, lands before you once more. Sir, we have a problem. Government workers want a giant raise. If you pay them, they will be happy, but you won't have money for other things.",
+    "prompt": "The same knot, retied tighter, lands before you once more. Sir, a message from the Finance Ministry: Government workers want a giant raise. If you pay them, they will be happy, but you won't have money for other things.",
     "left": {
       "id": "a",
       "label": "Give them the giant raise.",
@@ -7489,7 +7489,7 @@
       "over-invoicing",
       "capital-flight"
     ],
-    "prompt": "Another monsoon, another return of an argument you cannot end. Sir! Your rich friends are secretly sending their money to other countries.",
+    "prompt": "Another monsoon, another return of an argument you cannot end. Your rich friends are secretly sending their money to other countries. What are your orders, sir?",
     "left": {
       "id": "a",
       "label": "Build a strong team to stop them.",
@@ -7526,7 +7526,7 @@
       "fdi",
       "incentives"
     ],
-    "prompt": "Deep into the reign, the issue demands a final-sounding answer. Mr. Prime Minister, sir! Foreign companies want free land and no taxes for a long time to build factories here.",
+    "prompt": "Deep into the reign, the issue demands a final-sounding answer. Investment Authority Chief awaits your word. Foreign companies want free land and no taxes for a long time to build factories here.",
     "left": {
       "id": "a",
       "label": "Give them free things so they build factories.",
@@ -7563,7 +7563,7 @@
       "printing",
       "inflation"
     ],
-    "prompt": "The reckoning you postponed has matured into a crisis. Your Excellency! You have no money to pay bills. You can print fake money now, but it will ruin everything later.",
+    "prompt": "The reckoning you postponed has matured into a crisis. Sir! You have no money to pay bills. You can print fake money now, but it will ruin everything later.",
     "left": {
       "id": "a",
       "label": "Print the fake money to pay bills.",
@@ -7599,7 +7599,7 @@
       "farmers",
       "credit"
     ],
-    "prompt": "A new chapter, the same antagonists, less room to manoeuvre. Prime Minister! Poor farmers can't borrow money because banks only lend to rich people.",
+    "prompt": "A new chapter, the same antagonists, less room to manoeuvre. Mr. Prime Minister, sir! Poor farmers can't borrow money because banks only lend to rich people.",
     "left": {
       "id": "a",
       "label": "Force banks to lend money to poor farmers.",
@@ -7634,7 +7634,7 @@
       "festival",
       "wages"
     ],
-    "prompt": "The old fault line widens; this time there is no quiet option. Sir — A big holiday is coming and factory owners can't pay their workers. The workers will be very mad.",
+    "prompt": "The old fault line widens; this time there is no quiet option. Your Excellency! A big holiday is coming and factory owners can't pay their workers. The workers will be very mad.",
     "left": {
       "id": "a",
       "label": "Give the owners government money to pay the workers.",
@@ -7670,7 +7670,7 @@
       "diversification",
       "garments"
     ],
-    "prompt": "Time has not healed it — the conflict comes back armed. Honourable leader! Your country only sells clothes to the world. You can try to sell new things like medicine and computers, but it is slow and hard.",
+    "prompt": "Time has not healed it — the conflict comes back armed. Dear Sir — Your country only sells clothes to the world. You can try to sell new things like medicine and computers, but it is slow and hard.",
     "left": {
       "id": "a",
       "label": "Try to sell new things like medicine and computers.",
@@ -7707,7 +7707,7 @@
       "freelancers",
       "youth"
     ],
-    "prompt": "Once again, and with the whole house holding its breath. Sir, urgent news. Young people making money online are having a hard time getting paid because of bad rules.",
+    "prompt": "Once again, and with the whole house holding its breath. Honourable leader! Young people making money online are having a hard time getting paid because of bad rules.",
     "left": {
       "id": "a",
       "label": "Change the rules to help them get paid easily.",
@@ -7743,7 +7743,7 @@
       "second-homes",
       "elite"
     ],
-    "prompt": "The matter resurfaces in a harder year, patience exhausted. Sir, forgive me — News reporters found out your leaders secretly own big houses in other countries using stolen money.",
+    "prompt": "The matter resurfaces in a harder year, patience exhausted. Financial Intelligence Chief reports: News reporters found out your leaders secretly own big houses in other countries using stolen money.",
     "left": {
       "id": "a",
       "label": "Help catch them and take the money back.",
@@ -7781,7 +7781,7 @@
       "regulation",
       "capital-controls"
     ],
-    "prompt": "A later season of rule, the stakes now openly existential. A word, sir! Young people are using digital internet money. It might be dangerous, but everyone is doing it.",
+    "prompt": "A later season of rule, the stakes now openly existential. A note from the Finance Ministry reads: Young people are using digital internet money. It might be dangerous, but everyone is doing it.",
     "left": {
       "id": "a",
       "label": "Ban all internet money.",
@@ -7818,7 +7818,7 @@
       "infrastructure",
       "contracts"
     ],
-    "prompt": "It comes around again, and the margin for error is gone. Sir, we have a problem. A company wants to build a big road for free, but they will charge everyone to drive on it for a very long time.",
+    "prompt": "It comes around again, and the margin for error is gone. Word from the Finance Ministry, sir — A company wants to build a big road for free, but they will charge everyone to drive on it for a very long time.",
     "left": {
       "id": "a",
       "label": "Let them build it and charge people.",
@@ -7855,7 +7855,7 @@
       "spending",
       "quality"
     ],
-    "prompt": "The same demand, but the reign is older and the knives sharper. Sir! Every year, people rush to spend government money on badly made projects just before time runs out.",
+    "prompt": "The same demand, but the reign is older and the knives sharper. Planning Commission Member: Every year, people rush to spend government money on badly made projects just before time runs out.",
     "left": {
       "id": "a",
       "label": "Stop the rush and only build a few good things.",
@@ -7892,7 +7892,7 @@
       "debt",
       "poverty"
     ],
-    "prompt": "Years deep, the unresolved returns to be resolved for good. Mr. Prime Minister, sir! Poor people are borrowing too much money from too many places and are stuck. You can make rules to stop this, but the lenders will be mad.",
+    "prompt": "Years deep, the unresolved returns to be resolved for good. Sir, a message from the Finance Ministry: Poor people are borrowing too much money from too many places and are stuck. You can make rules to stop this, but the lenders will be mad.",
     "left": {
       "id": "a",
       "label": "Make rules to protect the poor people.",
@@ -7929,7 +7929,7 @@
       "budget",
       "spending"
     ],
-    "prompt": "The conflict reignites, and the world is watching this time. Your Excellency! The army wants a lot more money for cool new gear. If you give it to them, you can't build schools and hospitals.",
+    "prompt": "The conflict reignites, and the world is watching this time. The army wants a lot more money for cool new gear. If you give it to them, you can't build schools and hospitals. What are your orders, sir?",
     "left": {
       "id": "a",
       "label": "Give the army the money they want.",
@@ -7967,7 +7967,7 @@
       "transparency",
       "audit"
     ],
-    "prompt": "A familiar crisis, escalated by everything you let slide. Prime Minister! You have been counting money you already promised to others, making you look richer than you are.",
+    "prompt": "A familiar crisis, escalated by everything you let slide. Auditor General awaits your word. You have been counting money you already promised to others, making you look richer than you are.",
     "left": {
       "id": "a",
       "label": "Tell the truth about having less money.",
@@ -8003,7 +8003,7 @@
       "banks",
       "scandal"
     ],
-    "prompt": "The fault line cracks wider; the decision can no longer wait. Sir — A group of bad guys stole a giant amount of money from a government bank.",
+    "prompt": "The fault line cracks wider; the decision can no longer wait. Sir! A group of bad guys stole a giant amount of money from a government bank.",
     "left": {
       "id": "a",
       "label": "Investigate them in front of everyone.",
@@ -8041,7 +8041,7 @@
       "banks",
       "scandal"
     ],
-    "prompt": "Late in the reign, the old question demands a heavier answer. Honourable leader! A second bank was robbed the same way. The checker wants to make strong rules that would stop your friends from controlling the banks.",
+    "prompt": "Late in the reign, the old question demands a heavier answer. Mr. Prime Minister, sir! A second bank was robbed the same way. The checker wants to make strong rules that would stop your friends from controlling the banks.",
     "left": {
       "id": "a",
       "label": "Make the strong rules to stop the stealing.",
@@ -8079,7 +8079,7 @@
       "incentive",
       "reserves"
     ],
-    "prompt": "It returns once more — and this round may be the one remembered. Sir, urgent news. Workers far away are using secret ways to send money home. You can pay them a bonus to use the safe banks instead.",
+    "prompt": "It returns once more — and this round may be the one remembered. Your Excellency! Workers far away are using secret ways to send money home. You can pay them a bonus to use the safe banks instead.",
     "left": {
       "id": "a",
       "label": "Pay the bonus so they use safe banks.",
@@ -8115,7 +8115,7 @@
       "incentive",
       "reserves"
     ],
-    "prompt": "The reckoning circles back, grown teeth in the waiting. Sir, forgive me — Factory owners are jealous of the bonus you gave the workers. They demand a bonus too, or they will hide their money.",
+    "prompt": "The reckoning circles back, grown teeth in the waiting. Dear Sir — Factory owners are jealous of the bonus you gave the workers. They demand a bonus too, or they will hide their money.",
     "left": {
       "id": "a",
       "label": "Give the factory owners the bonus too.",
@@ -8151,7 +8151,7 @@
       "lc",
       "reserves"
     ],
-    "prompt": "Another term, the same antagonist, the stakes raised again. A word, sir! You can stop people from buying things from other countries to save money. But this will hurt factories that need parts.",
+    "prompt": "Another term, the same antagonist, the stakes raised again. Honourable leader! You can stop people from buying things from other countries to save money. But this will hurt factories that need parts.",
     "left": {
       "id": "a",
       "label": "Stop people from buying things from other countries.",
@@ -8188,7 +8188,7 @@
       "lc",
       "reserves"
     ],
-    "prompt": "The matter, long deferred, lands with the force of a verdict. Sir, we have a problem. Stopping buying things caused a big problem. Now there is not enough medicine or food.",
+    "prompt": "The matter, long deferred, lands with the force of a verdict. Central Bank Governor reports: Stopping buying things caused a big problem. Now there is not enough medicine or food.",
     "left": {
       "id": "a",
       "label": "Keep the strict rules to save money.",
@@ -8224,7 +8224,7 @@
       "statistics",
       "credibility"
     ],
-    "prompt": "Years on and unhealed, the conflict returns to claim its answer. Sir! You can change the math to make your country look super rich and successful, even if it's a lie.",
+    "prompt": "Years on and unhealed, the conflict returns to claim its answer. A note from the Finance Ministry reads: You can change the math to make your country look super rich and successful, even if it's a lie.",
     "left": {
       "id": "a",
       "label": "Use the fake math to look great.",
@@ -8260,7 +8260,7 @@
       "labour",
       "cost"
     ],
-    "prompt": "The same fault line, the harder hour, the narrower path. Mr. Prime Minister, sir! You can pass a rule that all workers must be paid a fair amount. The bosses say this will cost them too much money.",
+    "prompt": "The same fault line, the harder hour, the narrower path. Word from the Finance Ministry, sir — You can pass a rule that all workers must be paid a fair amount. The bosses say this will cost them too much money.",
     "left": {
       "id": "a",
       "label": "Make a rule that pays workers fairly.",
@@ -8296,7 +8296,7 @@
       "ponzi",
       "fraud"
     ],
-    "prompt": "It comes back sharpened by every season you survived. Your Excellency! A famous online store is stealing everyone's money. You need to stop them quickly before they run away.",
+    "prompt": "It comes back sharpened by every season you survived. Consumer Protection Director: A famous online store is stealing everyone's money. You need to stop them quickly before they run away.",
     "left": {
       "id": "a",
       "label": "Stop them and arrest them immediately.",
@@ -8332,7 +8332,7 @@
       "embezzlement",
       "regulator"
     ],
-    "prompt": "A later year of power, the old crisis now a true test of it. Prime Minister! One bad guy stole all the money from a money-lending business and ran away.",
+    "prompt": "A later year of power, the old crisis now a true test of it. Sir, a message from the Finance Ministry: One bad guy stole all the money from a money-lending business and ran away.",
     "left": {
       "id": "a",
       "label": "Chase him down and punish the people who helped him.",
@@ -8370,7 +8370,7 @@
       "monetary",
       "independence"
     ],
-    "prompt": "The unresolved returns, and this time it will not be deferred. Sir — Your helpers want the bank boss to break the rules to make you look good for the election. The bank boss says this is dangerous.",
+    "prompt": "The unresolved returns, and this time it will not be deferred. Your helpers want the bank boss to break the rules to make you look good for the election. The bank boss says this is dangerous. What are your orders, sir?",
     "left": {
       "id": "a",
       "label": "Force the bank boss to break the rules.",
@@ -8407,7 +8407,7 @@
       "farmers",
       "rice"
     ],
-    "prompt": "A term later, the same fault line tears open again. Honourable leader! The farmers picked their rice. You can pay them a high price to help them, or a low price to save government money.",
+    "prompt": "A term later, the same fault line tears open again. Food Directorate Chief awaits your word. The farmers picked their rice. You can pay them a high price to help them, or a low price to save government money.",
     "left": {
       "id": "a",
       "label": "Pay a high price to help the farmers.",
@@ -8441,7 +8441,7 @@
       "inflation",
       "poor"
     ],
-    "prompt": "Years into your rule, the matter you thought buried resurfaces — harder. Sir, urgent news. Food is too expensive and poor people are starving. You can open the emergency food stores now, or save them just in case things get even worse.",
+    "prompt": "Years into your rule, the matter you thought buried resurfaces — harder. Sir! Food is too expensive and poor people are starving. You can open the emergency food stores now, or save them just in case things get even worse.",
     "left": {
       "id": "a",
       "label": "Open the emergency food stores now.",
@@ -8475,7 +8475,7 @@
       "education",
       "poverty"
     ],
-    "prompt": "A new season of power, an old problem with sharper teeth. Sir, forgive me — You can pay poor mothers money if they promise to keep their kids in school and take them to the doctor.",
+    "prompt": "A new season of power, an old problem with sharper teeth. Mr. Prime Minister, sir! You can pay poor mothers money if they promise to keep their kids in school and take them to the doctor.",
     "left": {
       "id": "a",
       "label": "Pay the mothers to help the kids.",
@@ -8510,7 +8510,7 @@
       "wealth",
       "elite"
     ],
-    "prompt": "The crisis returns, and this time the cabinet is watching. A word, sir! Rich people have giant, empty houses that they don't pay taxes on. You can tax their houses to get money for the country.",
+    "prompt": "The crisis returns, and this time the cabinet is watching. Your Excellency! Rich people have giant, empty houses that they don't pay taxes on. You can tax their houses to get money for the country.",
     "left": {
       "id": "a",
       "label": "Tax the giant houses.",
@@ -8547,7 +8547,7 @@
       "big-tech",
       "revenue"
     ],
-    "prompt": "Once more the issue lands on your desk, the stakes higher than before. Sir, we have a problem. Big internet companies make lots of money in your country but pay no tax. You can make them pay, but they might get angry.",
+    "prompt": "Once more the issue lands on your desk, the stakes higher than before. Dear Sir — Big internet companies make lots of money in your country but pay no tax. You can make them pay, but they might get angry.",
     "left": {
       "id": "a",
       "label": "Make the big internet companies pay tax.",
@@ -8582,7 +8582,7 @@
       "infrastructure",
       "funding"
     ],
-    "prompt": "Another year survived, and the reckoning circles back. Sir! You can ask people from your country living far away to lend you money to build things. But if you lose it, they will be very hurt.",
+    "prompt": "Another year survived, and the reckoning circles back. Honourable leader! You can ask people from your country living far away to lend you money to build things. But if you lose it, they will be very hurt.",
     "left": {
       "id": "a",
       "label": "Ask them to lend you the money.",
@@ -8617,7 +8617,7 @@
       "irrigation",
       "subsidy"
     ],
-    "prompt": "The ground has shifted; the same demand arrives with new menace. Mr. Prime Minister, sir! The gas farmers need to water their crops is too expensive. You can help pay for the gas, or let the farmers struggle.",
+    "prompt": "The ground has shifted; the same demand arrives with new menace. Agriculture Finance Secretary reports: The gas farmers need to water their crops is too expensive. You can help pay for the gas, or let the farmers struggle.",
     "left": {
       "id": "a",
       "label": "Help pay for the gas to save the crops.",
@@ -8653,7 +8653,7 @@
       "health",
       "revenue"
     ],
-    "prompt": "History rhymes: the conflict reopens deeper than last time. Your Excellency! You can put a high tax on junk food and cigarettes so people buy less and stay healthy. But the people who make them will be mad.",
+    "prompt": "History rhymes: the conflict reopens deeper than last time. A note from the Finance Ministry reads: You can put a high tax on junk food and cigarettes so people buy less and stay healthy. But the people who make them will be mad.",
     "left": {
       "id": "a",
       "label": "Put a high tax on junk food and cigarettes.",
@@ -8689,7 +8689,7 @@
       "debt",
       "discipline"
     ],
-    "prompt": "Mid-reign, the old wound is torn afresh. Prime Minister! You can make a strict law that stops the government from borrowing too much money. This makes you safe but stops you from spending freely.",
+    "prompt": "Mid-reign, the old wound is torn afresh. Word from the Finance Ministry, sir — You can make a strict law that stops the government from borrowing too much money. This makes you safe but stops you from spending freely.",
     "left": {
       "id": "a",
       "label": "Make the strict law to be safe.",
@@ -8725,7 +8725,7 @@
       "multinationals",
       "evasion"
     ],
-    "prompt": "The pressure you deferred has come due, larger now. Sir — Huge world companies are tricking the math so they don't pay taxes in your country. You can stop them, but they might leave.",
+    "prompt": "The pressure you deferred has come due, larger now. Large Taxpayer Unit Chief: Huge world companies are tricking the math so they don't pay taxes in your country. You can stop them, but they might leave.",
     "left": {
       "id": "a",
       "label": "Stop their tricks and make them pay.",
@@ -8760,7 +8760,7 @@
       "farmers",
       "climate"
     ],
-    "prompt": "A later term, and the quarrel has hardened into a test. Honourable leader! Bad weather keeps destroying farmers' crops. You can create an insurance plan to protect them, but it costs a lot to set up.",
+    "prompt": "A later term, and the quarrel has hardened into a test. Sir, a message from the Finance Ministry: Bad weather keeps destroying farmers' crops. You can create an insurance plan to protect them, but it costs a lot to set up.",
     "left": {
       "id": "a",
       "label": "Create the insurance plan to protect them.",
@@ -8795,7 +8795,7 @@
       "investment",
       "risk"
     ],
-    "prompt": "The country has changed, but this fault line has not — only worsened. Sir, urgent news. Workers' retirement money is safe but growing slowly. You can try to make it grow faster by investing in risky things, but they might lose it all.",
+    "prompt": "The country has changed, but this fault line has not — only worsened. Workers' retirement money is safe but growing slowly. You can try to make it grow faster by investing in risky things, but they might lose it all. What are your orders, sir?",
     "left": {
       "id": "a",
       "label": "Try to make it grow faster in risky things.",
@@ -8830,7 +8830,7 @@
       "sme",
       "leakage"
     ],
-    "prompt": "It returns, as these things do, with the patience gone. Sir, forgive me — You have emergency money to save businesses. If you give it out fast, rich friends will grab it all. If you are careful, it will reach small shops.",
+    "prompt": "It returns, as these things do, with the patience gone. Stimulus Coordination Chief awaits your word. You have emergency money to save businesses. If you give it out fast, rich friends will grab it all. If you are careful, it will reach small shops.",
     "left": {
       "id": "a",
       "label": "Give it out fast through the banks.",
@@ -8866,7 +8866,7 @@
       "market",
       "manipulation"
     ],
-    "prompt": "Years on, the matter is no longer private; the press is already circling. A word, sir! Rich people are playing a game with the stock market to steal from normal people.",
+    "prompt": "Years on, the matter is no longer private; the press is already circling. Sir! Rich people are playing a game with the stock market to steal from normal people.",
     "left": {
       "id": "a",
       "label": "Make strict rules to keep it fair.",
@@ -8903,7 +8903,7 @@
       "exposure",
       "concentration"
     ],
-    "prompt": "The same knot, retied tighter, lands before you once more. Sir, we have a problem. A few giant businesses have borrowed almost all the money. If they fail, the country fails. You can force them to stop borrowing so much.",
+    "prompt": "The same knot, retied tighter, lands before you once more. Mr. Prime Minister, sir! A few giant businesses have borrowed almost all the money. If they fail, the country fails. You can force them to stop borrowing so much.",
     "left": {
       "id": "a",
       "label": "Force them to stop borrowing so much.",
@@ -8941,7 +8941,7 @@
       "family-control",
       "governance"
     ],
-    "prompt": "Another monsoon, another return of an argument you cannot end. Sir! One family is allowed to control a whole bank forever, which makes it easy for them to steal. You can change the rule, but they are your friends.",
+    "prompt": "Another monsoon, another return of an argument you cannot end. Your Excellency! One family is allowed to control a whole bank forever, which makes it easy for them to steal. You can change the rule, but they are your friends.",
     "left": {
       "id": "a",
       "label": "Change the rule to stop them from controlling it forever.",
@@ -8979,7 +8979,7 @@
       "tariffs",
       "industry"
     ],
-    "prompt": "Deep into the reign, the issue demands a final-sounding answer. Mr. Prime Minister, sir! Super cheap toys and tools from other countries are hurting your own factories. You can tax them to save your jobs, but things will cost more.",
+    "prompt": "Deep into the reign, the issue demands a final-sounding answer. Dear Sir — Super cheap toys and tools from other countries are hurting your own factories. You can tax them to save your jobs, but things will cost more.",
     "left": {
       "id": "a",
       "label": "Tax the cheap foreign things to save your jobs.",
@@ -9015,7 +9015,7 @@
       "losses",
       "transparency"
     ],
-    "prompt": "The reckoning you postponed has matured into a crisis. Your Excellency! Government factories are losing tons of money secretly. You can tell everyone the truth, which will be shocking, or keep hiding it.",
+    "prompt": "The reckoning you postponed has matured into a crisis. Honourable leader! Government factories are losing tons of money secretly. You can tell everyone the truth, which will be shocking, or keep hiding it.",
     "left": {
       "id": "a",
       "label": "Tell the honest truth about the lost money.",
@@ -9051,7 +9051,7 @@
       "compliance",
       "reputation"
     ],
-    "prompt": "A new chapter, the same antagonists, less room to manoeuvre. Prime Minister! The world says your country lets bad guys hide stolen money. They will punish you unless you stop them, but the bad guys are your friends.",
+    "prompt": "A new chapter, the same antagonists, less room to manoeuvre. Anti-Money-Laundering Director reports: The world says your country lets bad guys hide stolen money. They will punish you unless you stop them, but the bad guys are your friends.",
     "left": {
       "id": "a",
       "label": "Stop the bad guys to protect your country.",
@@ -9087,7 +9087,7 @@
       "property",
       "corruption"
     ],
-    "prompt": "The old fault line widens; this time there is no quiet option. Sir — Powerful people hide their stolen houses by putting them in other people's names. You can make a law to catch them and take the houses.",
+    "prompt": "The old fault line widens; this time there is no quiet option. A note from the Finance Ministry reads: Powerful people hide their stolen houses by putting them in other people's names. You can make a law to catch them and take the houses.",
     "left": {
       "id": "a",
       "label": "Make the law and take the stolen houses.",
@@ -9125,7 +9125,7 @@
       "smuggling",
       "policy"
     ],
-    "prompt": "Time has not healed it — the conflict comes back armed. Honourable leader! People are secretly sneaking gold through your airports, and the police are helping them for money.",
+    "prompt": "Time has not healed it — the conflict comes back armed. Word from the Finance Ministry, sir — People are secretly sneaking gold through your airports, and the police are helping them for money.",
     "left": {
       "id": "a",
       "label": "Make it legal to bring gold in and charge a fair tax.",
@@ -9162,7 +9162,7 @@
       "drawback",
       "fraud"
     ],
-    "prompt": "Once again, and with the whole house holding its breath. Sir, urgent news. People are tricking the government into giving them extra money for things they never really made or sold.",
+    "prompt": "Once again, and with the whole house holding its breath. Customs Commissioner: People are tricking the government into giving them extra money for things they never really made or sold.",
     "left": {
       "id": "a",
       "label": "Use computers to check everything and stop the trick.",
@@ -9198,7 +9198,7 @@
       "duty",
       "diversion"
     ],
-    "prompt": "The matter resurfaces in a harder year, patience exhausted. Sir, forgive me — Factory owners get cheap materials to make things to sell far away, but they secretly sell them at home to get richer.",
+    "prompt": "The matter resurfaces in a harder year, patience exhausted. Sir, a message from the Finance Ministry: Factory owners get cheap materials to make things to sell far away, but they secretly sell them at home to get richer.",
     "left": {
       "id": "a",
       "label": "Check their factories closely to stop the secret selling.",
@@ -9234,7 +9234,7 @@
       "wealth",
       "dynasty"
     ],
-    "prompt": "A later season of rule, the stakes now openly existential. A word, sir! Very rich families pass down all their money to their kids without paying any taxes. You could tax this money to help the country.",
+    "prompt": "A later season of rule, the stakes now openly existential. Very rich families pass down all their money to their kids without paying any taxes. You could tax this money to help the country. What are your orders, sir?",
     "left": {
       "id": "a",
       "label": "Make them pay a tax when they pass down money.",
@@ -9270,7 +9270,7 @@
       "poverty",
       "resilience"
     ],
-    "prompt": "It comes around again, and the margin for error is gone. Sir, we have a problem. Poor families lose everything if someone gets sick or a storm hits. You could help them buy cheap protection plans to keep them safe.",
+    "prompt": "It comes around again, and the margin for error is gone. Insurance Regulator awaits your word. Poor families lose everything if someone gets sick or a storm hits. You could help them buy cheap protection plans to keep them safe.",
     "left": {
       "id": "a",
       "label": "Help them get cheap protection plans for bad days.",
@@ -9412,7 +9412,7 @@
       "allowance",
       "poverty"
     ],
-    "prompt": "A familiar crisis, escalated by everything you let slide. Prime Minister! Poor moms have to work very hard right until their babies are born. You can give them money so they can stay home and rest.",
+    "prompt": "A familiar crisis, escalated by everything you let slide. Dear Sir — Poor moms have to work very hard right until their babies are born. You can give them money so they can stay home and rest.",
     "left": {
       "id": "a",
       "label": "Give the moms money to rest and care for their babies.",
@@ -9447,7 +9447,7 @@
       "printing",
       "graft"
     ],
-    "prompt": "The fault line cracks wider; the decision can no longer wait. Sir — The people printing free school books for kids are stealing money and making bad books. They are friends with your team.",
+    "prompt": "The fault line cracks wider; the decision can no longer wait. Honourable leader! The people printing free school books for kids are stealing money and making bad books. They are friends with your team.",
     "left": {
       "id": "a",
       "label": "Fix the book printing so kids get good books.",
@@ -9484,7 +9484,7 @@
       "informal",
       "compliance"
     ],
-    "prompt": "Late in the reign, the old question demands a heavier answer. Honourable leader! Very few people pay taxes. You can ask normal workers and small stores to pay, but they will be very mad because they never have before.",
+    "prompt": "Late in the reign, the old question demands a heavier answer. Revenue Board Chairman reports: Very few people pay taxes. You can ask normal workers and small stores to pay, but they will be very mad because they never have before.",
     "left": {
       "id": "a",
       "label": "Make the normal workers and small stores pay taxes.",
@@ -9519,7 +9519,7 @@
       "redenomination",
       "confidence"
     ],
-    "prompt": "It returns once more — and this round may be the one remembered. Sir, urgent news. Your money has too many zeros on it because prices went way up over the years. Someone wants to chop the zeros off just to make it look nicer.",
+    "prompt": "It returns once more — and this round may be the one remembered. A note from the Finance Ministry reads: Your money has too many zeros on it because prices went way up over the years. Someone wants to chop the zeros off just to make it look nicer.",
     "left": {
       "id": "a",
       "label": "Chop the zeros off to make the money look nicer.",
@@ -9554,7 +9554,7 @@
       "rural",
       "inclusion"
     ],
-    "prompt": "The reckoning circles back, grown teeth in the waiting. Sir, forgive me — You can let tiny village shops act like banks so poor people can easily save money. Big banks are scared they will lose money from fraud.",
+    "prompt": "The reckoning circles back, grown teeth in the waiting. Word from the Finance Ministry, sir — You can let tiny village shops act like banks so poor people can easily save money. Big banks are scared they will lose money from fraud.",
     "left": {
       "id": "a",
       "label": "Let the tiny shops act like banks.",
@@ -9589,7 +9589,7 @@
       "conditions",
       "reform"
     ],
-    "prompt": "Another term, the same antagonist, the stakes raised again. A word, sir! A big world bank offers you cheap money, but only if you promise to follow their strict rules for how you run things.",
+    "prompt": "Another term, the same antagonist, the stakes raised again. External Finance Secretary: A big world bank offers you cheap money, but only if you promise to follow their strict rules for how you run things.",
     "left": {
       "id": "a",
       "label": "Take the money and follow their strict rules.",
@@ -9626,7 +9626,7 @@
       "workers",
       "enforcement"
     ],
-    "prompt": "The matter, long deferred, lands with the force of a verdict. Sir, we have a problem. Bosses everywhere are tricking workers and not paying them their full money. You can create a strong police team to stop them.",
+    "prompt": "The matter, long deferred, lands with the force of a verdict. Sir, a message from the Finance Ministry: Bosses everywhere are tricking workers and not paying them their full money. You can create a strong police team to stop them.",
     "left": {
       "id": "a",
       "label": "Create a strong team to make bosses pay the workers.",
@@ -9663,7 +9663,7 @@
       "banks",
       "bailout"
     ],
-    "prompt": "Years on and unhealed, the conflict returns to claim its answer. Sir! Government banks are empty because bad managers stole the money. You need to give them more money to stay open.",
+    "prompt": "Years on and unhealed, the conflict returns to claim its answer. Government banks are empty because bad managers stole the money. You need to give them more money to stay open. What are your orders, sir?",
     "left": {
       "id": "a",
       "label": "Give them the money with no extra rules.",
@@ -9701,7 +9701,7 @@
       "turnover-tax",
       "simplicity"
     ],
-    "prompt": "The same fault line, the harder hour, the narrower path. Mr. Prime Minister, sir! Tiny stores have to do really hard math to pay taxes. You can make it super easy for them, but you might collect less money overall.",
+    "prompt": "The same fault line, the harder hour, the narrower path. Revenue Board Chairman awaits your word. Tiny stores have to do really hard math to pay taxes. You can make it super easy for them, but you might collect less money overall.",
     "left": {
       "id": "a",
       "label": "Make the taxes super easy for tiny stores.",
@@ -9736,7 +9736,7 @@
       "credit",
       "distortion"
     ],
-    "prompt": "It comes back sharpened by every season you survived. Your Excellency! Your helpers want banks to give cheap money to businesses owned by your friends. The bank boss says this is a bad idea.",
+    "prompt": "It comes back sharpened by every season you survived. Sir! Your helpers want banks to give cheap money to businesses owned by your friends. The bank boss says this is a bad idea.",
     "left": {
       "id": "a",
       "label": "Force the banks to give cheap money to your friends.",
@@ -9774,7 +9774,7 @@
       "inflation",
       "growth"
     ],
-    "prompt": "A later year of power, the old crisis now a true test of it. Prime Minister! Everything in the stores costs too much. You can make it harder for people to borrow money to fix prices, but it slows down businesses.",
+    "prompt": "A later year of power, the old crisis now a true test of it. Mr. Prime Minister, sir! Everything in the stores costs too much. You can make it harder for people to borrow money to fix prices, but it slows down businesses.",
     "left": {
       "id": "a",
       "label": "Make it harder to borrow money so prices drop.",
@@ -9810,7 +9810,7 @@
       "screening",
       "sovereignty"
     ],
-    "prompt": "The unresolved returns, and this time it will not be deferred. Sir — Other countries want to buy your boat docks and phone companies. You can check them first to stay safe, or let anyone buy to get money fast.",
+    "prompt": "The unresolved returns, and this time it will not be deferred. Your Excellency! Other countries want to buy your boat docks and phone companies. You can check them first to stay safe, or let anyone buy to get money fast.",
     "left": {
       "id": "a",
       "label": "Check who is buying things to keep the country safe.",
@@ -9846,7 +9846,7 @@
       "digitisation",
       "corruption"
     ],
-    "prompt": "A term later, the same fault line tears open again. Honourable leader! The papers that show who owns land are messy and full of lies. You can use computers to fix it, but corrupt helpers will be mad.",
+    "prompt": "A term later, the same fault line tears open again. Dear Sir — The papers that show who owns land are messy and full of lies. You can use computers to fix it, but corrupt helpers will be mad.",
     "left": {
       "id": "a",
       "label": "Use computers to make the land papers honest.",
@@ -9883,7 +9883,7 @@
       "efficiency",
       "trade"
     ],
-    "prompt": "Years into your rule, the matter you thought buried resurfaces — harder. Sir, urgent news. Your big boat dock is too slow and messy. You can fix it with robots, but the bad groups who make money from the mess will fight you.",
+    "prompt": "Years into your rule, the matter you thought buried resurfaces — harder. Honourable leader! Your big boat dock is too slow and messy. You can fix it with robots, but the bad groups who make money from the mess will fight you.",
     "left": {
       "id": "a",
       "label": "Fix the dock and stop the bad groups.",
@@ -9920,7 +9920,7 @@
       "cash",
       "transparency"
     ],
-    "prompt": "A new season of power, an old problem with sharper teeth. Sir, forgive me — Everyone uses paper money, making it easy to hide stealing. You can force people to pay with phones, but poor people might struggle.",
+    "prompt": "A new season of power, an old problem with sharper teeth. Digital Finance Adviser reports: Everyone uses paper money, making it easy to hide stealing. You can force people to pay with phones, but poor people might struggle.",
     "left": {
       "id": "a",
       "label": "Force people to start paying with their phones.",
@@ -9955,7 +9955,7 @@
       "auction",
       "revenue"
     ],
-    "prompt": "The crisis returns, and this time the cabinet is watching. A word, sir! You are selling new invisible waves that make cell phones work. You can charge companies a lot, or sell them cheap so internet is cheaper for everyone.",
+    "prompt": "The crisis returns, and this time the cabinet is watching. A note from the Finance Ministry reads: You are selling new invisible waves that make cell phones work. You can charge companies a lot, or sell them cheap so internet is cheaper for everyone.",
     "left": {
       "id": "a",
       "label": "Charge a lot of money to make the government rich.",
@@ -9991,7 +9991,7 @@
       "losses",
       "soe"
     ],
-    "prompt": "Once more the issue lands on your desk, the stakes higher than before. Sir, we have a problem. Your country's airplane company loses money every day because it's run badly. You keep paying to keep it flying to look cool.",
+    "prompt": "Once more the issue lands on your desk, the stakes higher than before. Word from the Finance Ministry, sir — Your country's airplane company loses money every day because it's run badly. You keep paying to keep it flying to look cool.",
     "left": {
       "id": "a",
       "label": "Fix the airplane company or sell it to someone else.",
@@ -10028,7 +10028,7 @@
       "climate",
       "revenue"
     ],
-    "prompt": "Another year survived, and the reckoning circles back. Sir! You can charge a tax on things that make dirty smoke. It helps the earth, but makes things more expensive for people who already don't have enough money.",
+    "prompt": "Another year survived, and the reckoning circles back. Fiscal Climate Adviser: You can charge a tax on things that make dirty smoke. It helps the earth, but makes things more expensive for people who already don't have enough money.",
     "left": {
       "id": "a",
       "label": "Start charging the dirty smoke tax.",
@@ -10065,7 +10065,7 @@
       "stock-market",
       "elite"
     ],
-    "prompt": "The ground has shifted; the same demand arrives with new menace. Mr. Prime Minister, sir! Rich people who make a lot of money in the stock market don't pay taxes on it. If you tax them, they might crash the market on purpose.",
+    "prompt": "The ground has shifted; the same demand arrives with new menace. Sir, a message from the Finance Ministry: Rich people who make a lot of money in the stock market don't pay taxes on it. If you tax them, they might crash the market on purpose.",
     "left": {
       "id": "a",
       "label": "Make the rich people pay taxes on that money.",
@@ -10101,7 +10101,7 @@
       "transparency",
       "data"
     ],
-    "prompt": "History rhymes: the conflict reopens deeper than last time. Your Excellency! The big world bank wants to tell everyone the honest, ugly truth about your country's money problems. You can try to push them to hide it.",
+    "prompt": "History rhymes: the conflict reopens deeper than last time. The big world bank wants to tell everyone the honest, ugly truth about your country's money problems. You can try to push them to hide it. What are your orders, sir?",
     "left": {
       "id": "a",
       "label": "Let them tell everyone the honest truth.",
@@ -10136,7 +10136,7 @@
       "safety",
       "factories"
     ],
-    "prompt": "Mid-reign, the old wound is torn afresh. Prime Minister! A factory broke and fell down. Now everyone demands factories be made safer. Owners want your help to avoid paying for safety.",
+    "prompt": "Mid-reign, the old wound is torn afresh. Industrial Safety Secretary awaits your word. A factory broke and fell down. Now everyone demands factories be made safer. Owners want your help to avoid paying for safety.",
     "left": {
       "id": "a",
       "label": "Force the owners to make their factories super safe.",
@@ -10174,7 +10174,7 @@
       "duty",
       "industry"
     ],
-    "prompt": "The pressure you deferred has come due, larger now. Sir — Factory bosses want to bring in big machines without paying taxes. But some of them trick you and bring in normal stuff to sell instead.",
+    "prompt": "The pressure you deferred has come due, larger now. Sir! Factory bosses want to bring in big machines without paying taxes. But some of them trick you and bring in normal stuff to sell instead.",
     "left": {
       "id": "a",
       "label": "Let them bring in all machines without taxes.",
@@ -10210,7 +10210,7 @@
       "hi-tech-park",
       "jobs"
     ],
-    "prompt": "A later term, and the quarrel has hardened into a test. Honourable leader! You can build a giant computer park to create smart jobs. If you don't spend enough money, it will just be empty buildings.",
+    "prompt": "A later term, and the quarrel has hardened into a test. Mr. Prime Minister, sir! You can build a giant computer park to create smart jobs. If you don't spend enough money, it will just be empty buildings.",
     "left": {
       "id": "a",
       "label": "Spend a lot to make the computer park amazing.",
@@ -10246,7 +10246,7 @@
       "entrepreneurs",
       "credit"
     ],
-    "prompt": "The country has changed, but this fault line has not — only worsened. Sir, urgent news. Women who want to start small shops can't borrow money from banks. You can create a special fund just to help them.",
+    "prompt": "The country has changed, but this fault line has not — only worsened. Your Excellency! Women who want to start small shops can't borrow money from banks. You can create a special fund just to help them.",
     "left": {
       "id": "a",
       "label": "Create the special fund to help women start shops.",
@@ -10281,7 +10281,7 @@
       "patronage",
       "local"
     ],
-    "prompt": "It returns, as these things do, with the patience gone. Sir, forgive me — Your politicians get a big bag of money every year to fix their towns. Most of them use it to build their own houses or help friends.",
+    "prompt": "It returns, as these things do, with the patience gone. Dear Sir — Your politicians get a big bag of money every year to fix their towns. Most of them use it to build their own houses or help friends.",
     "left": {
       "id": "a",
       "label": "Keep giving the politicians the bag of money.",
@@ -10318,7 +10318,7 @@
       "markets",
       "reform"
     ],
-    "prompt": "Years on, the matter is no longer private; the press is already circling. A word, sir! The world will say your country is bad with money unless you raise taxes and cut help for the poor. People will hate you for it.",
+    "prompt": "Years on, the matter is no longer private; the press is already circling. Honourable leader! The world will say your country is bad with money unless you raise taxes and cut help for the poor. People will hate you for it.",
     "left": {
       "id": "a",
       "label": "Raise taxes to prove you are good with money.",
@@ -10354,7 +10354,7 @@
       "veterans",
       "spending"
     ],
-    "prompt": "The same knot, retied tighter, lands before you once more. Sir, we have a problem. The list of old war heroes who get free money is growing because people are lying and faking papers. You can clean the list up.",
+    "prompt": "The same knot, retied tighter, lands before you once more. Budget Secretary reports: The list of old war heroes who get free money is growing because people are lying and faking papers. You can clean the list up.",
     "left": {
       "id": "a",
       "label": "Check the papers and kick the liars off the list.",
@@ -10391,7 +10391,7 @@
       "ride-share",
       "workers"
     ],
-    "prompt": "Another monsoon, another return of an argument you cannot end. Sir! Delivery and driving apps give young people jobs, but the bosses don't protect them or pay them enough.",
+    "prompt": "Another monsoon, another return of an argument you cannot end. A note from the Finance Ministry reads: Delivery and driving apps give young people jobs, but the bosses don't protect them or pay them enough.",
     "left": {
       "id": "a",
       "label": "Make strong rules to protect the delivery drivers.",
@@ -10426,7 +10426,7 @@
       "regional",
       "trade"
     ],
-    "prompt": "Deep into the reign, the issue demands a final-sounding answer. Mr. Prime Minister, sir! You can make a deal to trade freely with neighbors. It helps sell your things, but cheap neighbor things might close your own shops.",
+    "prompt": "Deep into the reign, the issue demands a final-sounding answer. Word from the Finance Ministry, sir — You can make a deal to trade freely with neighbors. It helps sell your things, but cheap neighbor things might close your own shops.",
     "left": {
       "id": "a",
       "label": "Sign the deal to trade freely with neighbors.",
@@ -10462,7 +10462,7 @@
       "property",
       "informality"
     ],
-    "prompt": "The reckoning you postponed has matured into a crisis. Your Excellency! The tax to buy a house is so high that everyone lies about the price. If you lower the tax, more people might be honest.",
+    "prompt": "The reckoning you postponed has matured into a crisis. Revenue Board Chairman: The tax to buy a house is so high that everyone lies about the price. If you lower the tax, more people might be honest.",
     "left": {
       "id": "a",
       "label": "Lower the tax to make people honest.",
@@ -10497,7 +10497,7 @@
       "manufacturing",
       "cluster"
     ],
-    "prompt": "A new chapter, the same antagonists, less room to manoeuvre. Prime Minister! Poor, tiny workshops make important parts for your machines. You can give them training and money to grow big, or ignore them for flashier things.",
+    "prompt": "A new chapter, the same antagonists, less room to manoeuvre. Sir, a message from the Finance Ministry: Poor, tiny workshops make important parts for your machines. You can give them training and money to grow big, or ignore them for flashier things.",
     "left": {
       "id": "a",
       "label": "Help the tiny workshops grow and become better.",
@@ -10533,7 +10533,7 @@
       "loan",
       "megaproject"
     ],
-    "prompt": "The old fault line widens; this time there is no quiet option. Sir — A bank offers cheap money to build a road, but they demand you build it perfectly without any cheating or stealing by your builders.",
+    "prompt": "The old fault line widens; this time there is no quiet option. A bank offers cheap money to build a road, but they demand you build it perfectly without any cheating or stealing by your builders. What are your orders, sir?",
     "left": {
       "id": "a",
       "label": "Take the money and build the road perfectly.",
@@ -10570,7 +10570,7 @@
       "high-note",
       "black-money"
     ],
-    "prompt": "Time has not healed it — the conflict comes back armed. Honourable leader! You can print a really big piece of money. It makes carrying cash easy, but also makes it super easy for bad guys to hide stolen money.",
+    "prompt": "Time has not healed it — the conflict comes back armed. Central Bank Governor awaits your word. You can print a really big piece of money. It makes carrying cash easy, but also makes it super easy for bad guys to hide stolen money.",
     "left": {
       "id": "a",
       "label": "Print the really big piece of money.",
@@ -10605,7 +10605,7 @@
       "informal",
       "licensing"
     ],
-    "prompt": "Once again, and with the whole house holding its breath. Sir, urgent news. People selling food on the street have to pay bad police officers every day to not get kicked out. You can give them real licenses.",
+    "prompt": "Once again, and with the whole house holding its breath. Sir! People selling food on the street have to pay bad police officers every day to not get kicked out. You can give them real licenses.",
     "left": {
       "id": "a",
       "label": "Give the street sellers real licenses so they are safe.",
@@ -10642,7 +10642,7 @@
       "losses",
       "subsidy"
     ],
-    "prompt": "The matter resurfaces in a harder year, patience exhausted. Sir, forgive me — Government trains lose money on every ride because tickets are so cheap. But poor people need those cheap trains.",
+    "prompt": "The matter resurfaces in a harder year, patience exhausted. Mr. Prime Minister, sir! Government trains lose money on every ride because tickets are so cheap. But poor people need those cheap trains.",
     "left": {
       "id": "a",
       "label": "Make the tickets cost more and fire extra workers.",
@@ -10677,7 +10677,7 @@
       "api",
       "self-reliance"
     ],
-    "prompt": "A later season of rule, the stakes now openly existential. A word, sir! Your medicine makers buy all their magic ingredients from other countries. You can build a special park to make the ingredients at home.",
+    "prompt": "A later season of rule, the stakes now openly existential. Your Excellency! Your medicine makers buy all their magic ingredients from other countries. You can build a special park to make the ingredients at home.",
     "left": {
       "id": "a",
       "label": "Build the special park to make the magic ingredients.",
@@ -10714,7 +10714,7 @@
       "internet",
       "access"
     ],
-    "prompt": "It comes around again, and the margin for error is gone. Sir, we have a problem. Phones and internet are taxed heavily to get the government money. But this makes it too expensive for poor people to use the internet.",
+    "prompt": "It comes around again, and the margin for error is gone. Dear Sir — Phones and internet are taxed heavily to get the government money. But this makes it too expensive for poor people to use the internet.",
     "left": {
       "id": "a",
       "label": "Keep the high taxes to make the government rich.",
@@ -10749,7 +10749,7 @@
       "heritage",
       "artisans"
     ],
-    "prompt": "The same demand, but the reign is older and the knives sharper. Sir! People who make beautiful clothes by hand are going out of business because machines are faster. You can step in to save their art.",
+    "prompt": "The same demand, but the reign is older and the knives sharper. Honourable leader! People who make beautiful clothes by hand are going out of business because machines are faster. You can step in to save their art.",
     "left": {
       "id": "a",
       "label": "Give them money and help so they can keep making clothes by hand.",
@@ -10784,7 +10784,7 @@
       "wages",
       "investment"
     ],
-    "prompt": "Years deep, the unresolved returns to be resolved for good. Mr. Prime Minister, sir! Special factory zones ban workers from grouping up to ask for better pay. If you let them group up, the foreign owners might get scared and leave.",
+    "prompt": "Years deep, the unresolved returns to be resolved for good. Export Zone Authority Chief reports: Special factory zones ban workers from grouping up to ask for better pay. If you let them group up, the foreign owners might get scared and leave.",
     "left": {
       "id": "a",
       "label": "Let the workers group up and ask for better pay.",
@@ -10822,7 +10822,7 @@
       "compliance",
       "burden"
     ],
-    "prompt": "The conflict reignites, and the world is watching this time. Your Excellency! The government secretly takes a little tax money from almost everything people do. It's easy money, but it is very unfair to poor people.",
+    "prompt": "The conflict reignites, and the world is watching this time. A note from the Finance Ministry reads: The government secretly takes a little tax money from almost everything people do. It's easy money, but it is very unfair to poor people.",
     "left": {
       "id": "a",
       "label": "Fix the taxes so they are fair to everyone.",
@@ -10857,7 +10857,7 @@
       "deficit",
       "populism"
     ],
-    "prompt": "A familiar crisis, escalated by everything you let slide. Prime Minister! Your friends want to promise to give away tons of free stuff right before an election to win votes, even though you don't have the money.",
+    "prompt": "A familiar crisis, escalated by everything you let slide. Word from the Finance Ministry, sir — Your friends want to promise to give away tons of free stuff right before an election to win votes, even though you don't have the money.",
     "left": {
       "id": "a",
       "label": "Promise to give away tons of free stuff to win.",
@@ -10893,7 +10893,7 @@
       "deficit",
       "populism"
     ],
-    "prompt": "The fault line cracks wider; the decision can no longer wait. Sir — You promised to build lots of things, but the money is gone. You can just announce more fake projects to look good, or quietly finish the old ones.",
+    "prompt": "The fault line cracks wider; the decision can no longer wait. Budget Secretary: You promised to build lots of things, but the money is gone. You can just announce more fake projects to look good, or quietly finish the old ones.",
     "left": {
       "id": "a",
       "label": "Announce more fake projects to look good.",

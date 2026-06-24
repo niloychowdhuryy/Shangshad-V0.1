@@ -1,11 +1,11 @@
-// Prepends a direct address to every scenario prompt so each one reads as a
-// person speaking to YOU, the Prime Minister — e.g. "Sir! The treasury is empty."
-// Officials/aides address you deferentially; family speak personally. Openers end
-// in sentence punctuation, so the original prompt keeps its capitalisation.
+// Wraps every scenario prompt so it reads as someone addressing YOU, the Prime
+// Minister — with real variety: deferential openers, ministry-note framings,
+// spoken reports, and question closers. Officials/aides address you formally and
+// by department; family speak personally and by name.
 //
-//   node scripts/addressScenarios.mjs
+//   node scripts/addressScenarios.mjs   (run on un-addressed bodies)
 //
-// Idempotent: a prompt that already opens with an address is skipped.
+// Openers/closers are punctuated so the original sentence stays grammatical.
 
 import { readFileSync, writeFileSync } from 'node:fs';
 import { HOME } from './content/home.mjs';
@@ -26,41 +26,54 @@ const DECKS = [
   ['PARTY', PARTY, 'party.mjs'],
 ];
 
-// Family/personal speakers address you intimately; everyone else, deferentially.
+// Each deck's "ministry" / source, for note-style framings.
+const MINISTRY = {
+  HOME: 'the Residence',
+  UN: 'the Foreign Ministry',
+  FINANCE: 'the Finance Ministry',
+  INTERIOR: 'the Home Ministry',
+  RESOURCES: 'the Energy Ministry',
+  ENVIRONMENT: 'the Welfare Ministry',
+  PARTY: 'the Party Office',
+};
+
 const PERSONAL = new Set(['spouse', 'sibling', 'child', 'inlaw', 'matriarch']);
 
-const DEFERENTIAL = [
-  'Sir! ',
-  'Mr. Prime Minister, sir! ',
-  'Your Excellency! ',
-  'Prime Minister! ',
-  'Sir — ',
-  'Honourable leader! ',
-  'Sir, urgent news. ',
-  'Sir, forgive me — ',
-  'A word, sir! ',
-  'Sir, we have a problem. ',
-];
-const PERSONAL_OPEN = [
-  'Listen to me — ',
-  'We need to talk. ',
-  'Hear me out — ',
-  'A word, in private. ',
-  'Between us — ',
-  'Please, listen to me. ',
+// Template builders. `b` = original prompt body, `s` = speaker, `m` = ministry,
+// `n` = speaker's first name (before any comma).
+const OFFICIAL = [
+  (b) => `Sir! ${b}`,
+  (b) => `Mr. Prime Minister, sir! ${b}`,
+  (b) => `Your Excellency! ${b}`,
+  (b) => `Dear Sir — ${b}`,
+  (b) => `Honourable leader! ${b}`,
+  (b, s) => `${s} reports: ${b}`,
+  (b, s, m) => `A note from ${m} reads: ${b}`,
+  (b, s, m) => `Word from ${m}, sir — ${b}`,
+  (b, s) => `${s}: ${b}`,
+  (b, s, m) => `Sir, a message from ${m}: ${b}`,
+  (b) => `${b} What are your orders, sir?`,
+  (b, s) => `${s} awaits your word. ${b}`,
 ];
 
-// Detects a prompt that already starts with an address, so re-runs are safe.
-const ALREADY = /^(Sir|Mr\. Prime Minister|Your Excellency|Prime Minister|Honourable|A word|Listen to me|We need to talk|Hear me out|Between us|Please, listen)/;
+const FAMILY = [
+  (b) => `Listen to me — ${b}`,
+  (b) => `We need to talk. ${b}`,
+  (b, s, m, n) => `${n} pulls you aside. ${b}`,
+  (b) => `Between us — ${b}`,
+  (b, s, m, n) => `${n} says, quietly: ${b}`,
+  (b) => `Hear me out — ${b}`,
+  (b) => `${b} What will you do?`,
+];
 
-function variants(s) {
+function variants(str) {
   return {
-    '"': '"' + s.replace(/\\/g, '\\\\').replace(/"/g, '\\"') + '"',
-    "'": "'" + s.replace(/\\/g, '\\\\').replace(/'/g, "\\'") + "'",
+    '"': '"' + str.replace(/\\/g, '\\\\').replace(/"/g, '\\"') + '"',
+    "'": "'" + str.replace(/\\/g, '\\\\').replace(/'/g, "\\'") + "'",
   };
 }
-function findLiteral(text, s, from) {
-  const v = variants(s);
+function findLiteral(text, str, from) {
+  const v = variants(str);
   let i = text.indexOf(v['"'], from);
   if (i >= 0) return { idx: i, len: v['"'].length, quote: '"' };
   i = text.indexOf(v["'"], from);
@@ -68,35 +81,33 @@ function findLiteral(text, s, from) {
   return null;
 }
 
-let dCount = 0;
-let pCount = 0;
+let oIdx = 0;
+let fIdx = 0;
 let changed = 0;
-let skipped = 0;
 const problems = [];
 
 for (const [name, arr, file] of DECKS) {
   const path = `scripts/content/${file}`;
   let text = readFileSync(path, 'utf8');
   let cursor = 0;
+  const ministry = MINISTRY[name];
 
   for (const arc of arr) {
     const personal = PERSONAL.has(arc.portrait);
+    const speaker = arc.speaker;
+    const firstName = speaker.split(',')[0].trim();
     for (const st of arc.stages) {
-      const oldP = st.prompt;
-      const f = findLiteral(text, oldP, cursor);
+      const body = st.prompt;
+      const f = findLiteral(text, body, cursor);
       if (!f) {
-        problems.push(`${name}: prompt not found — ${oldP.slice(0, 40)}…`);
+        problems.push(`${name}: prompt not found — ${body.slice(0, 40)}…`);
         continue;
       }
-      if (ALREADY.test(oldP)) {
-        cursor = f.idx + f.len;
-        skipped += 1;
-        continue;
-      }
-      const opener = personal
-        ? PERSONAL_OPEN[pCount++ % PERSONAL_OPEN.length]
-        : DEFERENTIAL[dCount++ % DEFERENTIAL.length];
-      const lit = variants(opener + oldP)[f.quote];
+      const tpl = personal
+        ? FAMILY[fIdx++ % FAMILY.length]
+        : OFFICIAL[oIdx++ % OFFICIAL.length];
+      const next = tpl(body, speaker, ministry, firstName);
+      const lit = variants(next)[f.quote];
       text = text.slice(0, f.idx) + lit + text.slice(f.idx + f.len);
       cursor = f.idx + lit.length;
       changed += 1;
@@ -105,8 +116,8 @@ for (const [name, arr, file] of DECKS) {
   writeFileSync(path, text);
 }
 
-console.log(`Addressed ${changed} prompts · skipped ${skipped} (already addressed).`);
+console.log(`Addressed ${changed} prompts.`);
 if (problems.length) {
-  console.log(`⚠ ${problems.length} prompts not located:`);
+  console.log(`⚠ ${problems.length} not located:`);
   problems.slice(0, 10).forEach((p) => console.log('  ' + p));
 }
